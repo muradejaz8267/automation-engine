@@ -96,7 +96,8 @@ function App() {
   const [signupNegativeResult, setSignupNegativeResult] = useState(initialResult())
   const [askAIResult, setAskAIResult] = useState(initialResult())
   const [askAIPromptCasesResult, setAskAIPromptCasesResult] = useState(initialResult())
-  const [activeTest, setActiveTest] = useState(null) // 'attempt' | 'create' | 'socialSignup' | 'login' | 'loginNegative' | 'signup' | 'signupNegative' | 'askAI' | 'askAIPromptCases'
+  const [elasticSearchResult, setElasticSearchResult] = useState(initialResult())
+  const [activeTest, setActiveTest] = useState(null) // 'attempt' | 'create' | 'socialSignup' | 'login' | 'loginNegative' | 'signup' | 'signupNegative' | 'askAI' | 'askAIPromptCases' | 'elasticSearch'
   const [browserScreenshot, setBrowserScreenshot] = useState(null)
   const abortControllerRef = useRef(null)
   const attemptStepsRef = useRef(null)
@@ -108,6 +109,7 @@ function App() {
   const signupNegativeStepsRef = useRef(null)
   const askAIStepsRef = useRef(null)
   const askAIPromptCasesStepsRef = useRef(null)
+  const elasticSearchStepsRef = useRef(null)
   const screenshotEventSourceRef = useRef(null)
   const loginReportRef = useRef(null)
   const loginNegativeReportRef = useRef(null)
@@ -116,6 +118,7 @@ function App() {
   const socialSignupReportRef = useRef(null)
   const askAIReportRef = useRef(null)
   const askAIPromptCasesReportRef = useRef(null)
+  const elasticSearchReportRef = useRef(null)
   const attemptReportRef = useRef(null)
   const createReportRef = useRef(null)
   const prevActiveTestRef = useRef(null)
@@ -131,6 +134,7 @@ function App() {
   const showSignupNegativeBrowserSection = activeTest === 'signupNegative'
   const showAskAIBrowserSection = activeTest === 'askAI'
   const showAskAIPromptCasesBrowserSection = activeTest === 'askAIPromptCases'
+  const showElasticSearchBrowserSection = activeTest === 'elasticSearch'
 
   const getSetResult = (testName) => {
     if (testName === 'attempt') return setAttemptResult
@@ -141,6 +145,7 @@ function App() {
     if (testName === 'signupNegative') return setSignupNegativeResult
     if (testName === 'askAI') return setAskAIResult
     if (testName === 'askAIPromptCases') return setAskAIPromptCasesResult
+    if (testName === 'elasticSearch') return setElasticSearchResult
     return setCreateResult
   }
 
@@ -180,6 +185,10 @@ function App() {
     askAIPromptCasesStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
   }, [askAIPromptCasesResult.steps])
 
+  useEffect(() => {
+    elasticSearchStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [elasticSearchResult.steps])
+
   const reportRefsMap = {
     login: loginReportRef,
     loginNegative: loginNegativeReportRef,
@@ -188,6 +197,7 @@ function App() {
     socialSignup: socialSignupReportRef,
     askAI: askAIReportRef,
     askAIPromptCases: askAIPromptCasesReportRef,
+    elasticSearch: elasticSearchReportRef,
     attempt: attemptReportRef,
     create: createReportRef
   }
@@ -203,7 +213,7 @@ function App() {
     const setResult = getSetResult(testName)
     setActiveTest(testName)
     setResult({ status: 'running', message: 'Test running...', steps: [] })
-    if (testName === 'attempt' || testName === 'create' || testName === 'socialSignup' || testName === 'login' || testName === 'loginNegative' || testName === 'signup' || testName === 'signupNegative' || testName === 'askAI' || testName === 'askAIPromptCases') {
+    if (testName === 'attempt' || testName === 'create' || testName === 'socialSignup' || testName === 'login' || testName === 'loginNegative' || testName === 'signup' || testName === 'signupNegative' || testName === 'askAI' || testName === 'askAIPromptCases' || testName === 'elasticSearch') {
       setBrowserScreenshot(null)
       try {
         screenshotEventSourceRef.current?.close()
@@ -337,6 +347,11 @@ function App() {
     e?.preventDefault?.()
     e?.stopPropagation?.()
     runTest('/api/run-ask-ai-prompt-cases', 'askAIPromptCases')
+  }
+  const runElasticSearchTest = (e) => {
+    e?.preventDefault?.()
+    e?.stopPropagation?.()
+    runTest('/api/run-elastic-search', 'elasticSearch')
   }
 
   const stopTest = async () => {
@@ -524,7 +539,22 @@ function App() {
                 'Ask AI Prompt Cases'
               )}
             </button>
-            {(isRunning && (activeTest === 'askAI' || activeTest === 'askAIPromptCases')) && (
+            <button
+              type="button"
+              className="attempt-btn"
+              onClick={runElasticSearchTest}
+              disabled={isRunning}
+            >
+              {isRunning && activeTest === 'elasticSearch' ? (
+                <>
+                  <span className="spinner" />
+                  Running...
+                </>
+              ) : (
+                'Elastic Search Test'
+              )}
+            </button>
+            {(isRunning && (activeTest === 'askAI' || activeTest === 'askAIPromptCases' || activeTest === 'elasticSearch')) && (
               <button
                 className="stop-btn"
                 onClick={stopTest}
@@ -533,7 +563,7 @@ function App() {
               </button>
             )}
           </div>
-          {(showAskAIBrowserSection || showAskAIPromptCasesBrowserSection) && (
+          {(showAskAIBrowserSection || showAskAIPromptCasesBrowserSection || showElasticSearchBrowserSection) && (
             <section className="browser-section">
               <h3>Browser View</h3>
               <p className="browser-hint">Automation live run hota hua yahan dikhega</p>
@@ -555,8 +585,10 @@ function App() {
           )}
           <LogPanel result={askAIResult} stepsEndRef={askAIStepsRef} />
           <LogPanel result={askAIPromptCasesResult} stepsEndRef={askAIPromptCasesStepsRef} />
+          <LogPanel result={elasticSearchResult} stepsEndRef={elasticSearchStepsRef} />
           <TestReportSection ref={askAIReportRef} result={askAIResult} reportUrl={(askAIResult.status === 'passed' || askAIResult.status === 'failed' || askAIResult.status === 'stopped') ? '/reports/auth-ask-ai/' : null} stepsEndRef={askAIStepsRef} testCaseName="Ask AI Test" />
           <TestReportSection ref={askAIPromptCasesReportRef} result={askAIPromptCasesResult} reportUrl={(askAIPromptCasesResult.status === 'passed' || askAIPromptCasesResult.status === 'failed' || askAIPromptCasesResult.status === 'stopped') ? '/reports/auth-ask-ai-prompt-cases/' : null} stepsEndRef={askAIPromptCasesStepsRef} testCaseName="Ask AI Prompt Cases" />
+          <TestReportSection ref={elasticSearchReportRef} result={elasticSearchResult} reportUrl={(elasticSearchResult.status === 'passed' || elasticSearchResult.status === 'failed' || elasticSearchResult.status === 'stopped') ? '/reports/auth-elastic-search/' : null} stepsEndRef={elasticSearchStepsRef} testCaseName="Elastic Search Test" />
         </section>
 
         <div className="attempt-section-wrapper">
