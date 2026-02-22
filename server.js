@@ -212,6 +212,225 @@ app.post('/api/run-create-course', async (req, res) => {
   });
 });
 
+// Run createCourseNegativeTestCases.spec.js
+app.post('/api/run-create-course-negative', async (req, res) => {
+  req.setTimeout(300000);
+  res.setTimeout(300000);
+
+  if (currentTestProcess) {
+    return res.status(409).json({ status: 'failed', message: 'A test is already running.', output: '' });
+  }
+
+  latestScreenshot = null;
+
+  const specPath = path.join(__dirname, 'tests', 'instructor', 'createCourseNegativeTestCases.spec.js');
+  if (!fs.existsSync(specPath)) {
+    return res.status(500).json({ status: 'failed', message: `Test not found: ${specPath}` });
+  }
+
+  const specArg = 'tests/instructor/createCourseNegativeTestCases.spec.js';
+  const reportDir = path.join(__dirname, 'playwright-report', 'create-course-negative');
+  if (!fs.existsSync(path.dirname(reportDir))) fs.mkdirSync(path.dirname(reportDir), { recursive: true });
+  let playwright;
+  try {
+    playwright = spawn('npx', ['playwright', 'test', specArg, '--project=chromium', '--headed', '--reporter=html'], {
+      cwd: __dirname,
+      shell: true,
+      stdio: ['ignore', 'pipe', 'pipe'],
+      env: { ...process.env, SCREENSHOT_API_URL: 'http://127.0.0.1:3001', PLAYWRIGHT_HTML_OUTPUT_DIR: reportDir, PLAYWRIGHT_HTML_OPEN: 'never' }
+    });
+  } catch (err) {
+    return res.status(500).json({ status: 'failed', message: `Failed to start test: ${err.message}` });
+  }
+
+  currentTestProcess = playwright;
+
+  res.setHeader('Content-Type', 'application/x-ndjson');
+  res.setHeader('Cache-Control', 'no-cache');
+  res.setHeader('Connection', 'keep-alive');
+  if (res.flushHeaders) res.flushHeaders();
+
+  let buffer = '';
+  const stripAnsi = (s) => s.replace(/\x1b\[[0-9;]*m/g, '').replace(/\x1b\[[0-9;]*[a-zA-Z]/g, '');
+  const sendLine = (line) => {
+    const trimmed = stripAnsi(line.trim()).replace(/[\x00-\x1f\x7f]/g, '');
+    if (trimmed.length > 1) res.write(JSON.stringify({ type: 'output', line: trimmed }) + '\n');
+  };
+  const onData = (data) => {
+    buffer += data.toString();
+    const lines = buffer.split('\n');
+    buffer = lines.pop();
+    lines.forEach(sendLine);
+  };
+
+  playwright.stdout.on('data', (d) => { onData(d); console.log(d.toString()); });
+  playwright.stderr.on('data', (d) => { onData(d); console.error(d.toString()); });
+
+  playwright.on('close', (code) => {
+    currentTestProcess = null;
+    if (buffer.trim()) sendLine(buffer);
+    if (!res.writableEnded) {
+      const success = code === 0;
+      res.write(JSON.stringify({ type: 'complete', status: success ? 'passed' : 'failed', message: success ? 'Create Course Negative test completed successfully!' : 'Test failed. Check server logs for details.', exitCode: code }) + '\n');
+      res.end();
+    }
+  });
+
+  playwright.on('error', (err) => {
+    currentTestProcess = null;
+    if (!res.writableEnded) {
+      res.write(JSON.stringify({ type: 'complete', status: 'failed', message: err.message, exitCode: 1 }) + '\n');
+      res.end();
+    }
+  });
+});
+
+// Run createTest.spec.js
+app.post('/api/run-create-test', async (req, res) => {
+  req.setTimeout(300000);
+  res.setTimeout(300000);
+
+  if (currentTestProcess) {
+    return res.status(409).json({ status: 'failed', message: 'A test is already running.', output: '' });
+  }
+
+  latestScreenshot = null;
+
+  const specPath = path.join(__dirname, 'tests', 'instructor', 'createTest.spec.js');
+  if (!fs.existsSync(specPath)) {
+    return res.status(500).json({ status: 'failed', message: `Test not found: ${specPath}` });
+  }
+
+  const specArg = 'tests/instructor/createTest.spec.js';
+  const reportDir = path.join(__dirname, 'playwright-report', 'create-test');
+  if (!fs.existsSync(path.dirname(reportDir))) fs.mkdirSync(path.dirname(reportDir), { recursive: true });
+  let playwright;
+  try {
+    playwright = spawn('npx', ['playwright', 'test', specArg, '--project=chromium', '--headed', '--reporter=html'], {
+      cwd: __dirname,
+      shell: true,
+      stdio: ['ignore', 'pipe', 'pipe'],
+      env: { ...process.env, SCREENSHOT_API_URL: 'http://127.0.0.1:3001', PLAYWRIGHT_HTML_OUTPUT_DIR: reportDir, PLAYWRIGHT_HTML_OPEN: 'never' }
+    });
+  } catch (err) {
+    return res.status(500).json({ status: 'failed', message: `Failed to start test: ${err.message}` });
+  }
+
+  currentTestProcess = playwright;
+
+  res.setHeader('Content-Type', 'application/x-ndjson');
+  res.setHeader('Cache-Control', 'no-cache');
+  res.setHeader('Connection', 'keep-alive');
+  if (res.flushHeaders) res.flushHeaders();
+
+  let buffer = '';
+  const stripAnsi = (s) => s.replace(/\x1b\[[0-9;]*m/g, '').replace(/\x1b\[[0-9;]*[a-zA-Z]/g, '');
+  const sendLine = (line) => {
+    const trimmed = stripAnsi(line.trim()).replace(/[\x00-\x1f\x7f]/g, '');
+    if (trimmed.length > 1) res.write(JSON.stringify({ type: 'output', line: trimmed }) + '\n');
+  };
+  const onData = (data) => {
+    buffer += data.toString();
+    const lines = buffer.split('\n');
+    buffer = lines.pop();
+    lines.forEach(sendLine);
+  };
+
+  playwright.stdout.on('data', (d) => { onData(d); console.log(d.toString()); });
+  playwright.stderr.on('data', (d) => { onData(d); console.error(d.toString()); });
+
+  playwright.on('close', (code) => {
+    currentTestProcess = null;
+    if (buffer.trim()) sendLine(buffer);
+    if (!res.writableEnded) {
+      const success = code === 0;
+      res.write(JSON.stringify({ type: 'complete', status: success ? 'passed' : 'failed', message: success ? 'Create Test completed successfully!' : 'Test failed. Check server logs for details.', exitCode: code }) + '\n');
+      res.end();
+    }
+  });
+
+  playwright.on('error', (err) => {
+    currentTestProcess = null;
+    if (!res.writableEnded) {
+      res.write(JSON.stringify({ type: 'complete', status: 'failed', message: err.message, exitCode: 1 }) + '\n');
+      res.end();
+    }
+  });
+});
+
+// Run createTestNegativeTestCases.spec.js
+app.post('/api/run-create-test-negative', async (req, res) => {
+  req.setTimeout(300000);
+  res.setTimeout(300000);
+
+  if (currentTestProcess) {
+    return res.status(409).json({ status: 'failed', message: 'A test is already running.', output: '' });
+  }
+
+  latestScreenshot = null;
+
+  const specPath = path.join(__dirname, 'tests', 'instructor', 'createTestNegativeTestCases.spec.js');
+  if (!fs.existsSync(specPath)) {
+    return res.status(500).json({ status: 'failed', message: `Test not found: ${specPath}` });
+  }
+
+  const specArg = 'tests/instructor/createTestNegativeTestCases.spec.js';
+  const reportDir = path.join(__dirname, 'playwright-report', 'create-test-negative');
+  if (!fs.existsSync(path.dirname(reportDir))) fs.mkdirSync(path.dirname(reportDir), { recursive: true });
+  let playwright;
+  try {
+    playwright = spawn('npx', ['playwright', 'test', specArg, '--project=chromium', '--headed', '--reporter=html'], {
+      cwd: __dirname,
+      shell: true,
+      stdio: ['ignore', 'pipe', 'pipe'],
+      env: { ...process.env, SCREENSHOT_API_URL: 'http://127.0.0.1:3001', PLAYWRIGHT_HTML_OUTPUT_DIR: reportDir, PLAYWRIGHT_HTML_OPEN: 'never' }
+    });
+  } catch (err) {
+    return res.status(500).json({ status: 'failed', message: `Failed to start test: ${err.message}` });
+  }
+
+  currentTestProcess = playwright;
+
+  res.setHeader('Content-Type', 'application/x-ndjson');
+  res.setHeader('Cache-Control', 'no-cache');
+  res.setHeader('Connection', 'keep-alive');
+  if (res.flushHeaders) res.flushHeaders();
+
+  let buffer = '';
+  const stripAnsi = (s) => s.replace(/\x1b\[[0-9;]*m/g, '').replace(/\x1b\[[0-9;]*[a-zA-Z]/g, '');
+  const sendLine = (line) => {
+    const trimmed = stripAnsi(line.trim()).replace(/[\x00-\x1f\x7f]/g, '');
+    if (trimmed.length > 1) res.write(JSON.stringify({ type: 'output', line: trimmed }) + '\n');
+  };
+  const onData = (data) => {
+    buffer += data.toString();
+    const lines = buffer.split('\n');
+    buffer = lines.pop();
+    lines.forEach(sendLine);
+  };
+
+  playwright.stdout.on('data', (d) => { onData(d); console.log(d.toString()); });
+  playwright.stderr.on('data', (d) => { onData(d); console.error(d.toString()); });
+
+  playwright.on('close', (code) => {
+    currentTestProcess = null;
+    if (buffer.trim()) sendLine(buffer);
+    if (!res.writableEnded) {
+      const success = code === 0;
+      res.write(JSON.stringify({ type: 'complete', status: success ? 'passed' : 'failed', message: success ? 'Create Test Negative test completed successfully!' : 'Test failed. Check server logs for details.', exitCode: code }) + '\n');
+      res.end();
+    }
+  });
+
+  playwright.on('error', (err) => {
+    currentTestProcess = null;
+    if (!res.writableEnded) {
+      res.write(JSON.stringify({ type: 'complete', status: 'failed', message: err.message, exitCode: 1 }) + '\n');
+      res.end();
+    }
+  });
+});
+
 // Run login.spec.js
 app.post('/api/run-login', async (req, res) => {
   req.setTimeout(120000);
@@ -802,6 +1021,9 @@ app.use('/reports/auth-signup-negative', express.static(path.join(reportBase, 'a
 app.use('/reports/auth-ask-ai', express.static(path.join(reportBase, 'auth-ask-ai')));
 app.use('/reports/auth-ask-ai-prompt-cases', express.static(path.join(reportBase, 'auth-ask-ai-prompt-cases')));
 app.use('/reports/elasticsearch', express.static(path.join(reportBase, 'elasticsearch')));
+app.use('/reports/create-course-negative', express.static(path.join(reportBase, 'create-course-negative')));
+app.use('/reports/create-test', express.static(path.join(reportBase, 'create-test')));
+app.use('/reports/create-test-negative', express.static(path.join(reportBase, 'create-test-negative')));
 
 // Health check
 app.get('/api/health', (req, res) => {
