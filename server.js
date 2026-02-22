@@ -650,7 +650,7 @@ app.post('/api/run-ask-ai-prompt-cases', async (req, res) => {
   });
 });
 
-// Run elasticSearchTest.spec.js (5 positive search cases)
+// Run elasticSearchTest.spec.js (5 positive search cases + Enter detail page)
 app.post('/api/run-elasticsearch', async (req, res) => {
   req.setTimeout(180000);
   res.setTimeout(180000);

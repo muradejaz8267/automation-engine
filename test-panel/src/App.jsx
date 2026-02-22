@@ -540,7 +540,22 @@ function App() {
                 'Ask AI Prompt Cases'
               )}
             </button>
-            {(isRunning && (activeTest === 'askAI' || activeTest === 'askAIPromptCases')) && (
+            <button
+              type="button"
+              className="attempt-btn"
+              onClick={runElasticSearchTest}
+              disabled={isRunning}
+            >
+              {isRunning && activeTest === 'elasticSearch' ? (
+                <>
+                  <span className="spinner" />
+                  Running...
+                </>
+              ) : (
+                'Elastic Search Test'
+              )}
+            </button>
+            {(isRunning && (activeTest === 'askAI' || activeTest === 'askAIPromptCases' || activeTest === 'elasticSearch')) && (
               <button
                 className="stop-btn"
                 onClick={stopTest}
@@ -549,7 +564,7 @@ function App() {
               </button>
             )}
           </div>
-          {(showAskAIBrowserSection || showAskAIPromptCasesBrowserSection) && (
+          {(showAskAIBrowserSection || showAskAIPromptCasesBrowserSection || showElasticSearchBrowserSection) && (
             <section className="browser-section">
               <h3>Browser View</h3>
               <p className="browser-hint">Automation live run hota hua yahan dikhega</p>
@@ -571,8 +586,10 @@ function App() {
           )}
           <LogPanel result={askAIResult} stepsEndRef={askAIStepsRef} />
           <LogPanel result={askAIPromptCasesResult} stepsEndRef={askAIPromptCasesStepsRef} />
+          <LogPanel result={elasticSearchResult} stepsEndRef={elasticSearchStepsRef} />
           <TestReportSection ref={askAIReportRef} result={askAIResult} reportUrl={(askAIResult.status === 'passed' || askAIResult.status === 'failed' || askAIResult.status === 'stopped') ? '/reports/auth-ask-ai/' : null} stepsEndRef={askAIStepsRef} testCaseName="Ask AI Test" />
           <TestReportSection ref={askAIPromptCasesReportRef} result={askAIPromptCasesResult} reportUrl={(askAIPromptCasesResult.status === 'passed' || askAIPromptCasesResult.status === 'failed' || askAIPromptCasesResult.status === 'stopped') ? '/reports/auth-ask-ai-prompt-cases/' : null} stepsEndRef={askAIPromptCasesStepsRef} testCaseName="Ask AI Prompt Cases" />
+          <TestReportSection ref={elasticSearchReportRef} result={elasticSearchResult} reportUrl={(elasticSearchResult.status === 'passed' || elasticSearchResult.status === 'failed' || elasticSearchResult.status === 'stopped') ? '/reports/elasticsearch/' : null} stepsEndRef={elasticSearchStepsRef} testCaseName="Elastic Search Test" />
         </section>
 
         <section className="elasticsearch-test-section card card-with-log">
