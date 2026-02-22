@@ -1,5 +1,5 @@
 // signupNegativeTestCases.spec.js - 10 Negative signup test cases with actual and expected results
-const { test, expect } = require('@playwright/test');
+const { test, expect } = require('../fixtures/screenshotFixture');
 
 const SIGN_IN_URL = 'https://staging.fastlearner.ai/auth/sign-in';
 const SIGN_UP_URL = 'https://staging.fastlearner.ai/auth/sign-up';

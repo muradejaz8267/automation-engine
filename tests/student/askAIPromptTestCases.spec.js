@@ -1,6 +1,6 @@
 // askAIPromptTestCases.spec.js - 5 positive + 5 negative prompt test cases for Copilot (Fastlearner-only responses)
 // Login once, then run all test cases in sequence
-const { test, expect } = require('@playwright/test');
+const { test, expect } = require('../fixtures/screenshotFixture');
 
 const CO_PILOT_URL = 'https://staging.fastlearner.ai/student/co-pilot';
 const FASTLEARNER_KEYWORDS = ['fastlearner', 'fast learner', 'learning', 'platform', 'student', 'course', 'education', 'sign up', 'signup', 'co-pilot', 'copilot'];

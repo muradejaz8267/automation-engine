@@ -1,5 +1,5 @@
 // signup.spec.js - Navigate to sign-in, click Sign Up, and create a new user account
-const { test, expect } = require('@playwright/test');
+const { test, expect } = require('../fixtures/screenshotFixture');
 
 const SIGN_IN_URL = 'https://staging.fastlearner.ai/auth/sign-in';
 const DASHBOARD_URL = 'https://staging.fastlearner.ai/student/dashboard';

@@ -1,5 +1,5 @@
 // login.spec.js - Navigate to sign-in and login with cooper@yopmail.com
-const { test, expect } = require('@playwright/test');
+const { test, expect } = require('../fixtures/screenshotFixture');
 
 test.describe('Student Login', () => {
   test('should redirect to sign-in and login with cooper@yopmail.com', async ({ page }) => {

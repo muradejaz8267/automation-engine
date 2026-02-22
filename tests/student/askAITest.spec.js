@@ -1,5 +1,5 @@
 // askAITest.spec.js - Login, click Ask AI, verify redirect to co-pilot, enter prompt and verify AI response
-const { test, expect } = require('@playwright/test');
+const { test, expect } = require('../fixtures/screenshotFixture');
 
 const CO_PILOT_URL = 'https://staging.fastlearner.ai/student/co-pilot';
 const PROMPT = 'What is Fastlearner and how does it help students learn?';

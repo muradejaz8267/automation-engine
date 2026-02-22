@@ -1,5 +1,5 @@
 // loginNegativeTestCase.spec.js - 20 Negative login test cases
-const { test, expect } = require('@playwright/test');
+const { test, expect } = require('../fixtures/screenshotFixture');
 
 const DASHBOARD_URL = 'https://staging.fastlearner.ai/student/dashboard';
 const SIGN_IN_URL = 'https://staging.fastlearner.ai/auth/sign-in';
