@@ -1,0 +1,1112 @@
+﻿Question 1
+A 62-year-old man with chronic atrial fibrillation is started on warfarin. Five days later, he develops painful, necrotic skin lesions on his abdomen. Laboratory studies show prolonged PT and normal platelet count. Which mechanism best explains this adverse effect?
+Answer Choices:
+ (A) Direct inhibition of platelet aggregation
+(B) Autoimmune antibody–mediated destruction of platelets
+(C) Rapid decline in protein C leading to a hypercoagulable state
+(D) Accumulation of vitamin K in the liver
+(E) Increased fibrinolysis due to plasmin activation
+Correct Answer: C
+Explanation:
+ Warfarin inhibits vitamin K–dependent clotting factors II, VII, IX, X and anticoagulants protein C and S. Protein C has a short half-life, so its rapid decline can transiently create a hypercoagulable state, causing skin necrosis.
+(A) Platelet aggregation inhibition is by antiplatelet drugs, not warfarin.
+(B) Heparin-induced thrombocytopenia is immune-mediated with low platelets.
+(D) Vitamin K accumulation would antagonize warfarin.
+(E) Plasmin activation does not occur with warfarin.
+________________
+
+
+Question 2
+A 58-year-old woman with chronic heart failure is prescribed digoxin. On day 7, she develops nausea, vomiting, and visual disturbances with green-yellow halos. ECG shows premature ventricular contractions. Which cellular mechanism accounts for these manifestations?
+Answer Choices:
+ (A) Inhibition of Na⁺/K⁺ ATPase leading to increased intracellular calcium
+(B) Blockade of voltage-gated sodium channels in cardiac myocytes
+(C) Competitive antagonism of β₁-adrenergic receptors
+(D) Inhibition of angiotensin-converting enzyme
+(E) Potentiation of potassium channel opening
+Correct Answer: A
+Explanation:
+ Digoxin inhibits Na⁺/K⁺ ATPase, increasing intracellular Na⁺, which reduces the Na⁺/Ca²⁺ exchanger activity, causing Ca²⁺ accumulation, enhancing contractility but also triggering arrhythmias and GI/visual toxicity.
+(B) Sodium channel blockade is characteristic of Class I antiarrhythmics.
+(C) β₁ antagonists decrease contractility and HR.
+(D) ACE inhibitors reduce afterload and aldosterone.
+(E) Potassium channel openers affect repolarization but not primary digoxin toxicity.
+________________
+
+
+Question 3
+A 42-year-old man with a history of hyperlipidemia is started on atorvastatin. Two weeks later, he develops proximal muscle weakness and elevated creatine kinase. Which pharmacokinetic property increases the risk of this adverse effect?
+Answer Choices:
+ (A) Hepatic CYP3A4 metabolism and drug–drug interactions
+(B) Renal tubular secretion
+(C) High protein binding
+(D) Low volume of distribution
+(E) First-pass metabolism
+Correct Answer: A
+Explanation:
+ Statins metabolized by CYP3A4 (like atorvastatin) have increased risk of myopathy when combined with CYP3A4 inhibitors (e.g., erythromycin, grapefruit juice) due to elevated plasma concentrations.
+(B) Renal excretion is minor for atorvastatin.
+(C) Protein binding reduces free drug but is not the main factor.
+(D) Vd affects tissue penetration but not primary toxicity here.
+(E) First-pass metabolism is relevant for bioavailability, not drug interactions.
+________________
+
+
+Question 4
+A 67-year-old man with chronic kidney disease is prescribed enalapril. He develops hyperkalemia and mild hypotension. Which physiological effect explains the hyperkalemia?
+Answer Choices:
+ (A) Increased renin release leading to aldosterone-mediated potassium retention
+(B) Inhibition of angiotensin II–mediated aldosterone secretion
+(C) Activation of Na⁺/K⁺ ATPase in distal tubules
+(D) Sympathetic nervous system stimulation
+(E) Direct potassium channel blockade in renal collecting ducts
+Correct Answer: B
+Explanation:
+ ACE inhibitors block angiotensin II formation, reducing aldosterone secretion. Aldosterone normally promotes K⁺ excretion, so inhibition leads to hyperkalemia.
+(A) Increased renin would compensate but does not override ACE inhibition.
+(C) Na⁺/K⁺ ATPase is not directly stimulated.
+(D) SNS stimulation is not the main factor here.
+(E) ACE inhibitors do not block potassium channels directly.
+________________
+
+
+Question 5
+A 48-year-old woman with rheumatoid arthritis is prescribed methotrexate. She develops mucositis and elevated liver enzymes. Which cellular mechanism explains these toxicities?
+Answer Choices:
+ (A) Inhibition of dihydrofolate reductase, impairing DNA synthesis
+(B) Blockade of TNF-α signaling
+(C) Inhibition of cyclooxygenase enzymes
+(D) Upregulation of IL-1 and IL-6
+(E) Competitive antagonism of adenosine receptors
+Correct Answer: A
+Explanation:
+ Methotrexate inhibits dihydrofolate reductase, reducing tetrahydrofolate availability, impairing purine and thymidylate synthesis, causing rapidly dividing cells (oral mucosa, hepatocytes) to be affected.
+(B) TNF-α blockade occurs with biologics like etanercept.
+(C) COX inhibition occurs with NSAIDs.
+(D) IL upregulation does not cause cytotoxicity.
+(E) Adenosine receptor antagonism is unrelated.
+________________
+
+
+Question 6
+A 54-year-old man with type 2 diabetes develops hypoglycemia after taking glyburide. Which mechanism underlies its effect on insulin secretion?
+Answer Choices:
+ (A) Closure of ATP-sensitive K⁺ channels on pancreatic β cells
+(B) Activation of GLP-1 receptors
+(C) Inhibition of intestinal glucose absorption
+(D) Sensitization of peripheral tissues to insulin
+(E) Inhibition of hepatic gluconeogenesis
+Correct Answer: A
+Explanation:
+ Sulfonylureas like glyburide close ATP-sensitive K⁺ channels, depolarizing β cells, opening voltage-gated Ca²⁺ channels, and triggering insulin exocytosis, which can cause hypoglycemia.
+(B) GLP-1 agonists stimulate insulin but differently.
+(C) α-Glucosidase inhibitors reduce absorption.
+(D) TZDs improve insulin sensitivity.
+(E) Metformin inhibits hepatic gluconeogenesis.
+________________
+
+
+Question 7
+A 63-year-old man with chronic angina is prescribed nitroglycerin patches. He reports headaches and dizziness. Which cellular mechanism accounts for nitroglycerin’s primary therapeutic effect?
+Answer Choices:
+ (A) Conversion to NO leading to guanylate cyclase activation and smooth muscle relaxation
+(B) Blockade of L-type calcium channels in cardiomyocytes
+(C) β₁-adrenergic receptor antagonism
+(D) Inhibition of phosphodiesterase type 5 in vascular smooth muscle
+(E) Direct inotropic stimulation of cardiac myocytes
+Correct Answer: A
+Explanation:
+ Nitroglycerin is converted to nitric oxide, activating guanylate cyclase, increasing cGMP, and causing smooth muscle relaxation (venodilation), reducing preload and myocardial oxygen demand.
+(B) Calcium channel blockers act differently.
+(C) β-blockers reduce HR and contractility.
+(D) PDE5 inhibitors potentiate cGMP, but NO is the primary source here.
+(E) Nitroglycerin does not increase inotropy.
+________________
+
+
+Question 8
+A 60-year-old man with gout is treated with allopurinol. He develops a maculopapular rash and fever. His HLA-B*5801 is positive. Which mechanism explains his reaction?
+Answer Choices:
+ (A) Drug-induced hypersensitivity mediated by specific HLA genotype
+(B) Direct cytotoxicity on keratinocytes
+(C) IgE-mediated mast cell degranulation
+(D) T-cell–independent immune complex formation
+(E) Complement activation by antibody-antigen complexes
+Correct Answer: A
+Explanation:
+ Allopurinol hypersensitivity syndrome is strongly associated with HLA-B*5801, leading to T-cell–mediated severe cutaneous and systemic reactions.
+(B) Cytotoxicity alone does not explain immune-mediated hypersensitivity.
+(C) IgE reactions cause urticaria, not systemic syndrome.
+(D) T-cell independent mechanisms are not the cause.
+(E) Complement is involved in other immune reactions, not HLA-mediated drug hypersensitivity.
+________________
+
+
+Question 9
+A 58-year-old man with heart failure and reduced ejection fraction is prescribed spironolactone. After 2 weeks, he develops gynecomastia and hyperkalemia. Which molecular mechanism mediates both therapeutic and adverse effects?
+Answer Choices:
+ (A) Competitive antagonism of mineralocorticoid receptors in renal and non-renal tissues
+(B) Inhibition of ACE leading to reduced aldosterone
+(C) Direct blockade of sodium channels in distal tubules
+(D) Activation of β₂-adrenergic receptors
+(E) Increased renin secretion via negative feedback
+Correct Answer: A
+Explanation:
+ Spironolactone blocks mineralocorticoid receptors: in renal distal tubules, it reduces Na⁺ reabsorption and K⁺ excretion (therapeutic); in non-renal tissues (breast), it antagonizes androgen receptors, causing gynecomastia.
+(B) ACE inhibitors reduce aldosterone indirectly.
+(C) Sodium channel blockade occurs with amiloride.
+(D) β₂ activation is unrelated.
+(E) Renin increases secondarily but is not the main effect.
+________________
+
+
+Question 10
+A 65-year-old woman with chronic asthma is prescribed theophylline. She develops nausea, tremors, and sinus tachycardia. Which mechanism underlies both its therapeutic bronchodilatory effect and toxicity?
+Answer Choices:
+ (A) Phosphodiesterase inhibition leading to increased intracellular cAMP
+(B) β₂-adrenergic receptor activation
+(C) Muscarinic receptor antagonism
+(D) Direct calcium channel blockade in bronchial smooth muscle
+(E) Histamine H1 receptor antagonism
+Correct Answer: A
+Explanation:
+ Theophylline inhibits phosphodiesterase, increasing cAMP in smooth muscle (bronchodilation) and other tissues, including the heart and CNS, causing tachycardia and CNS stimulation at toxic levels.
+(B) β₂ agonists act via receptor activation.
+(C) Muscarinic antagonists reduce bronchoconstriction, not via cAMP.
+(D) Calcium channel blockade is not primary.
+(E) H1 antagonism is unrelated.
+
+
+Question 11
+A 71-year-old woman with hypertension, type 2 diabetes mellitus, and osteoarthritis presents with progressive fatigue and lightheadedness. Her medications include hydrochlorothiazide, lisinopril, metformin, and ibuprofen taken daily for knee pain. Laboratory studies show: Na⁺ 128 mEq/L, K⁺ 5.6 mEq/L, BUN 38 mg/dL, creatinine 2.1 mg/dL (baseline 1.1). Which pharmacologic interaction most directly explains her acute kidney injury?
+Answer Choices:
+ (A) Prostaglandin inhibition causing afferent arteriole constriction
+(B) Increased renin release due to ACE inhibition
+(C) Competitive inhibition of organic anion transporters
+(D) Direct tubular epithelial toxicity from thiazides
+(E) Reduced angiotensin II–mediated efferent arteriole dilation
+Correct Answer: A
+Explanation:
+ NSAIDs inhibit prostaglandin synthesis, which normally dilates the afferent arteriole. In a patient on ACE inhibitors (efferent arteriole dilation) and diuretics (volume depletion), NSAID-induced afferent constriction markedly reduces glomerular filtration, precipitating acute kidney injury.
+(B) ACE inhibitors reduce angiotensin II, decreasing efferent constriction, worsening GFR but not via renin increase.
+(C) Organic anion transport affects drug clearance, not acute renal perfusion.
+(D) Thiazides do not cause direct tubular toxicity.
+(E) Efferent arteriole dilation is caused by ACE inhibitors, not NSAIDs.
+________________
+
+
+Question 12
+A 56-year-old man with Parkinson disease develops worsening rigidity and tremor after starting an antiemetic for chemotherapy-induced nausea. Examination shows cogwheel rigidity and bradykinesia. Which pharmacologic property of the antiemetic most likely caused his deterioration?
+Answer Choices:
+ (A) Dopamine D₂ receptor antagonism in the nigrostriatal pathway
+(B) Serotonin 5-HT₃ receptor blockade in the area postrema
+(C) Muscarinic receptor antagonism in the basal ganglia
+(D) GABA-A receptor potentiation in the CNS
+(E) NMDA receptor antagonism in cortical neurons
+Correct Answer: A
+Explanation:
+ D₂ antagonists (e.g., metoclopramide, prochlorperazine) worsen Parkinson symptoms by further reducing dopaminergic signaling in the nigrostriatal pathway.
+(B) 5-HT₃ antagonists (ondansetron) do not affect dopamine.
+(C) Antimuscarinics improve Parkinson symptoms.
+(D) GABA potentiation causes sedation, not parkinsonism.
+(E) NMDA antagonism does not explain extrapyramidal symptoms.
+________________
+
+
+Question 13
+A 45-year-old woman with systemic lupus erythematosus develops seizures and hypertension. She is treated with a medication that inhibits calcineurin. Two weeks later, serum creatinine rises significantly. Which molecular mechanism explains both the immunosuppressive effect and nephrotoxicity?
+Answer Choices:
+ (A) Decreased IL-2 transcription with afferent arteriole vasoconstriction
+(B) Inhibition of DNA synthesis in rapidly dividing lymphocytes
+(C) Blockade of purine synthesis with immune cell apoptosis
+(D) Neutralization of circulating TNF-α
+(E) Downregulation of costimulatory molecule expression on APCs
+Correct Answer: A
+Explanation:
+ Calcineurin inhibitors (cyclosporine, tacrolimus) reduce IL-2 transcription, suppressing T-cell activation. They also cause afferent arteriolar vasoconstriction, leading to decreased renal perfusion and nephrotoxicity.
+(B) Antimetabolites like azathioprine inhibit DNA synthesis.
+(C) Mycophenolate blocks purine synthesis.
+(D) TNF-α neutralization occurs with biologics.
+(E) Costimulatory blockade is seen with abatacept.
+________________
+
+
+Question 14
+A 34-year-old man with epilepsy is started on carbamazepine. Three months later, he presents with fatigue, easy bruising, and recurrent infections. CBC shows pancytopenia. Which pharmacologic property of carbamazepine most likely contributed to this presentation?
+Answer Choices:
+ (A) Induction of hepatic cytochrome P450 enzymes
+(B) Direct suppression of bone marrow progenitor cells
+(C) Inhibition of folate absorption in the intestine
+(D) Autoimmune destruction of hematopoietic stem cells
+(E) Competitive antagonism of vitamin B₁₂ uptake
+Correct Answer: B
+Explanation:
+ Carbamazepine can cause aplastic anemia via direct bone marrow suppression, leading to pancytopenia.
+(A) Enzyme induction affects drug levels, not marrow toxicity.
+(C) Folate inhibition is more typical of methotrexate.
+(D) Autoimmune destruction is not the mechanism here.
+(E) B₁₂ antagonism causes megaloblastic anemia, not pancytopenia.
+________________
+
+
+Question 15
+A 68-year-old man with COPD is treated with a long-acting inhaled medication that improves his symptoms but increases his risk of pneumonia. Which mechanism best explains both effects?
+Answer Choices:
+ (A) Suppression of cytokine-mediated inflammation in airway mucosa
+(B) β₂-receptor–mediated bronchodilation and immune activation
+(C) Phosphodiesterase inhibition with increased macrophage activity
+(D) Antagonism of muscarinic receptors with enhanced mucus clearance
+(E) Direct bactericidal activity in alveolar spaces
+Correct Answer: A
+Explanation:
+ Inhaled corticosteroids suppress airway inflammation, improving airflow, but also impair local immune defenses, increasing pneumonia risk.
+(B) β₂ agonists do not increase pneumonia risk.
+(C) PDE inhibition increases cAMP but is not primary here.
+(D) Antimuscarinics reduce secretions without immunosuppression.
+(E) These agents have no antimicrobial effect.
+________________
+
+
+Question 16
+A 52-year-old man with chronic hepatitis B is treated with a nucleoside analog that causes mitochondrial toxicity. He develops lactic acidosis and hepatic steatosis. Which enzymatic inhibition is responsible?
+Answer Choices:
+ (A) DNA polymerase γ inhibition
+(B) RNA-dependent RNA polymerase inhibition
+(C) Reverse transcriptase inhibition without host enzyme effect
+(D) Thymidylate synthase inhibition
+(E) Topoisomerase II inhibition
+Correct Answer: A
+Explanation:
+ Some nucleoside analogs inhibit mitochondrial DNA polymerase γ, impairing oxidative phosphorylation, leading to lactic acidosis and hepatic steatosis.
+(B) RNA polymerase inhibition is viral-specific.
+(C) Pure RT inhibition would spare mitochondria.
+(D) Thymidylate synthase inhibition occurs with methotrexate.
+(E) Topoisomerase II inhibition is seen with anthracyclines.
+________________
+
+
+Question 17
+A 40-year-old woman with major depressive disorder is switched from fluoxetine to phenelzine. Two weeks later, she develops hyperthermia, agitation, tremor, and diarrhea. Which pharmacologic principle explains this reaction?
+Answer Choices:
+ (A) Additive inhibition of serotonin metabolism and reuptake
+(B) Competitive antagonism at serotonin receptors
+(C) Excess dopamine accumulation in the mesolimbic system
+(D) Enhanced GABAergic transmission in the CNS
+(E) Increased norepinephrine degradation
+Correct Answer: A
+Explanation:
+ Combining SSRIs with MAO inhibitors causes serotonin syndrome due to excessive serotonin from blocked reuptake and metabolism.
+(B) Antagonism would reduce serotonin effects.
+(C) Dopamine excess causes psychosis, not autonomic instability.
+(D) GABA enhancement causes sedation.
+(E) Norepinephrine degradation does not cause this syndrome.
+________________
+
+
+Question 18
+A 59-year-old man with heart failure is given a drug that increases survival but initially worsens symptoms if titrated too rapidly. Which mechanism explains this paradoxical early effect?
+Answer Choices:
+ (A) Acute negative inotropy due to β-adrenergic receptor blockade
+(B) Increased preload from venodilation
+(C) Enhanced sodium retention in the kidney
+(D) Reflex tachycardia from vasodilation
+(E) Increased myocardial oxygen consumption
+Correct Answer: A
+Explanation:
+ β-blockers improve long-term survival in heart failure but initially reduce contractility, which can transiently worsen symptoms if started aggressively.
+(B) Venodilation reduces preload.
+(C) Sodium retention is not caused by β-blockers.
+(D) Reflex tachycardia occurs with vasodilators.
+(E) β-blockers reduce oxygen demand.
+________________
+
+
+Question 19
+A 47-year-old woman receiving chemotherapy develops severe nausea. She is treated with a drug that blocks ligand-gated ion channels in the CNS. Which receptor is being targeted?
+Answer Choices:
+ (A) 5-HT₃ receptor
+(B) D₂ receptor
+(C) NK₁ receptor
+(D) H₁ receptor
+(E) Muscarinic M₁ receptor
+Correct Answer: A
+Explanation:
+ 5-HT₃ receptors are ligand-gated ion channels; antagonists (e.g., ondansetron) are highly effective antiemetics in chemotherapy.
+(B) D₂ receptors are GPCRs.
+(C) NK₁ receptors are GPCRs.
+(D) H₁ receptors are GPCRs.
+(E) Muscarinic receptors are GPCRs.
+________________
+
+
+Question 20
+A 61-year-old man with chronic pain is started on a transdermal fentanyl patch. After application of a heating pad over the patch, he becomes somnolent with respiratory depression. Which pharmacokinetic principle explains this event?
+Answer Choices:
+ (A) Increased transdermal absorption due to enhanced skin perfusion
+(B) Reduced first-pass metabolism in the liver
+(C) Competitive displacement from plasma proteins
+(D) Decreased renal clearance of active metabolites
+(E) Enzyme induction leading to toxic metabolites
+Correct Answer: A
+Explanation:
+ Heat increases skin blood flow, enhancing transdermal fentanyl absorption, leading to overdose and respiratory depression.
+(B) Transdermal drugs bypass first-pass metabolism regardless of heat.
+(C) Protein displacement does not explain rapid toxicity.
+(D) Renal clearance is not acutely affected by heat.
+(E) Enzyme induction reduces drug levels, not increases them.
+
+
+Question 21
+A 64-year-old man with a history of hypertension, benign prostatic hyperplasia, and stable coronary artery disease presents with episodic dizziness and syncope shortly after starting a new antihypertensive medication. Blood pressure is 88/56 mm Hg with a heart rate of 102/min. Which pharmacologic mechanism most likely explains this patient’s symptoms?
+Answer Choices:
+ (A) Nonselective β-adrenergic receptor blockade reducing cardiac output
+(B) α₁-adrenergic receptor antagonism causing venous pooling
+(C) Central α₂-adrenergic receptor stimulation reducing sympathetic outflow
+(D) Inhibition of angiotensin II–mediated vasoconstriction
+(E) Direct calcium channel blockade in vascular smooth muscle
+Correct Answer: B
+Explanation:
+ α₁ blockers (e.g., prazosin, doxazosin) cause vasodilation of both arteries and veins, leading to orthostatic hypotension and reflex tachycardia, particularly after initial dosing (“first-dose effect”).
+(A) β-blockers typically cause bradycardia, not reflex tachycardia.
+(C) Central α₂ agonists cause sedation and bradycardia rather than acute syncope.
+(D) ACE inhibitors cause hypotension but less venous pooling.
+(E) Calcium channel blockers usually do not cause profound first-dose syncope.
+________________
+
+
+Question 22
+A 58-year-old woman with breast cancer is treated with a monoclonal antibody that binds HER2 receptors. Several weeks later, she develops dyspnea and reduced ejection fraction. Which cellular mechanism explains this adverse effect?
+Answer Choices:
+ (A) Inhibition of tyrosine kinase–mediated cardiomyocyte survival signaling
+(B) Antibody-dependent cell-mediated cytotoxicity of myocardial cells
+(C) Mitochondrial DNA damage due to free radical generation
+(D) Downregulation of β₁-adrenergic receptors
+(E) Direct blockade of calcium channels in cardiac muscle
+Correct Answer: A
+Explanation:
+ HER2 signaling is involved in cardiomyocyte survival. Trastuzumab blocks this pathway, leading to reversible cardiomyopathy, particularly when combined with anthracyclines.
+(B) ADCC targets tumor cells, not cardiomyocytes.
+(C) Free radical damage is characteristic of anthracyclines.
+(D) β₁ downregulation is not the mechanism.
+(E) Calcium channel blockade does not explain cardiomyopathy.
+________________
+
+
+Question 23
+A 36-year-old man with HIV is started on a protease inhibitor. Several months later, he develops central obesity, dorsocervical fat pad enlargement, and insulin resistance. Which molecular mechanism most directly explains these metabolic effects?
+Answer Choices:
+ (A) Interference with GLUT4 translocation in adipocytes
+(B) Inhibition of pancreatic β-cell insulin secretion
+(C) Activation of PPAR-γ receptors
+(D) Direct stimulation of hepatic gluconeogenesis
+(E) Increased cortisol production from the adrenal cortex
+Correct Answer: A
+Explanation:
+ Protease inhibitors impair GLUT4-mediated glucose uptake, causing insulin resistance and lipodystrophy with characteristic fat redistribution.
+(B) β-cell suppression is not primary.
+(C) PPAR-γ activation improves insulin sensitivity.
+(D) Hepatic gluconeogenesis is not directly stimulated.
+(E) Cortisol excess would cause Cushingoid features via a different mechanism.
+________________
+
+
+Question 24
+A 70-year-old man with chronic atrial fibrillation is started on amiodarone. Several months later, he develops fatigue, weight gain, and cold intolerance. Which pharmacologic property explains this adverse effect?
+Answer Choices:
+ (A) Structural similarity to thyroid hormone with iodine content
+(B) Competitive inhibition of thyroid peroxidase
+(C) Immune-mediated destruction of thyroid follicular cells
+(D) Increased peripheral conversion of T₄ to T₃
+(E) Antagonism of thyroid hormone receptors
+Correct Answer: A
+Explanation:
+ Amiodarone contains iodine and resembles thyroid hormone, disrupting thyroid function and causing hypo- or hyperthyroidism.
+(B) Thioamides inhibit thyroid peroxidase.
+(C) Autoimmune thyroiditis has a different mechanism.
+(D) Amiodarone decreases T₄ to T₃ conversion.
+(E) Receptor antagonism is not the mechanism.
+________________
+
+
+Question 25
+A 55-year-old man with tuberculosis is treated with isoniazid. He develops numbness and tingling in his hands. Which mechanism explains this adverse effect?
+Answer Choices:
+ (A) Depletion of pyridoxine leading to impaired neurotransmitter synthesis
+(B) Inhibition of myelin basic protein synthesis
+(C) Direct axonal degeneration via oxidative stress
+(D) Competitive antagonism of folate receptors
+(E) Impaired acetylcholine release at neuromuscular junctions
+Correct Answer: A
+Explanation:
+ Isoniazid causes pyridoxine (vitamin B₆) deficiency, impairing synthesis of GABA and other neurotransmitters, leading to peripheral neuropathy.
+(B) Myelin protein inhibition is not the cause.
+(C) Oxidative axonal damage is not typical.
+(D) Folate antagonism occurs with methotrexate.
+(E) Neuromuscular transmission is unaffected.
+________________
+
+
+Question 26
+A 62-year-old man with hypertension is started on a thiazide diuretic. Two weeks later, laboratory studies reveal hyponatremia and hypercalcemia. Which renal tubular mechanism explains the hypercalcemia?
+Answer Choices:
+ (A) Increased calcium reabsorption in the distal convoluted tubule
+(B) Enhanced parathyroid hormone secretion
+(C) Reduced glomerular filtration of calcium
+(D) Increased calcium absorption in the intestine
+(E) Decreased vitamin D metabolism in the kidney
+Correct Answer: A
+Explanation:
+ Thiazides increase calcium reabsorption in the distal convoluted tubule by enhancing Na⁺/Ca²⁺ exchange, leading to hypercalcemia.
+(B) PTH may be unchanged.
+(C) GFR reduction is not primary.
+(D) Intestinal absorption is unaffected.
+(E) Vitamin D metabolism is not altered.
+________________
+
+
+Question 27
+A 49-year-old woman with chronic migraines is prescribed a drug that constricts intracranial blood vessels via serotonin receptor activation. Which adverse effect is most concerning in a patient with coronary artery disease?
+Answer Choices:
+ (A) Coronary vasospasm leading to myocardial ischemia
+(B) QT interval prolongation
+(C) Immune-mediated thrombocytopenia
+(D) Increased intracranial pressure
+(E) Severe hypotension due to vasodilation
+Correct Answer: A
+Explanation:
+ Triptans activate 5-HT₁B/₁D receptors, causing vasoconstriction, which can precipitate coronary vasospasm and ischemia in patients with CAD.
+(B) QT prolongation is not typical.
+(C) Thrombocytopenia is not associated.
+(D) ICP is not increased.
+(E) These drugs cause vasoconstriction, not hypotension.
+________________
+
+
+Question 28
+A 60-year-old man with chronic pain is treated with morphine. He develops urinary retention and constipation. Which receptor-mediated effect explains both adverse effects?
+Answer Choices:
+ (A) μ-opioid receptor–mediated inhibition of parasympathetic outflow
+(B) κ-opioid receptor activation in the spinal cord
+(C) δ-opioid receptor–mediated analgesia
+(D) Dopamine receptor antagonism in the CNS
+(E) Serotonin receptor activation in the GI tract
+Correct Answer: A
+Explanation:
+ μ-opioid receptor activation inhibits parasympathetic tone, reducing GI motility and bladder contraction, causing constipation and urinary retention.
+(B) κ receptors cause dysphoria.
+(C) δ receptors are less clinically relevant.
+(D) Dopamine antagonism is unrelated.
+(E) Serotonin activation increases GI motility.
+________________
+
+
+Question 29
+A 57-year-old man with heart failure is prescribed a loop diuretic. Shortly after initiation, he develops hearing loss. Which mechanism explains this toxicity?
+Answer Choices:
+ (A) Inhibition of Na⁺-K⁺-2Cl⁻ cotransporters in the inner ear
+(B) Reduced cochlear blood flow due to vasoconstriction
+(C) Accumulation of endolymph secondary to aldosterone inhibition
+(D) Immune-mediated destruction of cochlear hair cells
+(E) Direct blockade of calcium channels in auditory neurons
+Correct Answer: A
+Explanation:
+ Loop diuretics inhibit the Na⁺-K⁺-2Cl⁻ cotransporter in the thick ascending limb and inner ear, disrupting endolymph electrolyte balance and causing ototoxicity.
+(B) Vasoconstriction is not primary.
+(C) Aldosterone inhibition does not affect endolymph.
+(D) Immune destruction is not involved.
+(E) Calcium channel blockade is not the mechanism.
+________________
+
+
+Question 30
+A 46-year-old woman with chronic hepatitis C is treated with interferon-α. She develops depressive symptoms and flu-like illness. Which mechanism best explains the neuropsychiatric adverse effect?
+Answer Choices:
+ (A) Cytokine-mediated alteration of central monoamine signaling
+(B) Direct neurotoxic accumulation in cortical neurons
+(C) Inhibition of serotonin reuptake
+(D) Dopamine receptor antagonism
+(E) Excess cortisol production via HPA axis stimulation
+Correct Answer: A
+Explanation:
+ Interferon-α induces cytokine signaling that alters monoamine neurotransmission, leading to depression and flu-like symptoms.
+(B) Direct neurotoxicity is not the cause.
+(C) Serotonin reuptake inhibition would improve mood.
+(D) Dopamine antagonism causes extrapyramidal symptoms.
+(E) Cortisol excess does not explain interferon-induced depression.
+Question 31
+A 69-year-old man with ischemic cardiomyopathy and chronic kidney disease is admitted for decompensated heart failure. He is started on an intravenous inotrope that increases cardiac output but is associated with increased long-term mortality. Which molecular mechanism best explains both its acute benefit and long-term risk?
+Answer Choices:
+ (A) Increased intracellular cAMP via β₁-adrenergic receptor activation
+(B) Direct sensitization of troponin C to calcium
+(C) Inhibition of Na⁺/K⁺ ATPase with secondary calcium influx
+(D) Blockade of phosphodiesterase III increasing myocardial cGMP
+(E) Reduction of afterload through nitric oxide release
+Correct Answer: A
+Explanation:
+ β₁ agonists (e.g., dobutamine) increase cAMP, enhancing calcium influx and contractility, improving cardiac output acutely. Chronic stimulation increases arrhythmias and myocardial oxygen demand, worsening long-term mortality.
+(B) Calcium sensitizers are not standard inotropes.
+(C) Na⁺/K⁺ ATPase inhibition describes digoxin.
+(D) PDE III inhibition increases cAMP, not cGMP.
+(E) NO donors reduce preload/afterload but are not primary inotropes.
+________________
+
+
+Question 32
+A 44-year-old woman with epilepsy becomes pregnant while taking valproic acid. Prenatal ultrasound reveals a neural tube defect. Which pharmacologic mechanism most directly contributed to this outcome?
+Answer Choices:
+ (A) Inhibition of histone deacetylase altering gene expression
+(B) Folate antagonism impairing DNA synthesis
+(C) Induction of hepatic cytochrome P450 enzymes
+(D) Competitive antagonism of GABA receptors
+(E) Increased glutamate release in the developing CNS
+Correct Answer: A
+Explanation:
+ Valproic acid inhibits histone deacetylase, altering gene expression during embryogenesis and increasing the risk of neural tube defects.
+(B) Folate antagonism is typical of methotrexate.
+(C) Valproate inhibits rather than induces CYP enzymes.
+(D) Valproate increases GABA levels.
+(E) Increased glutamate would cause excitotoxicity, not NTDs.
+________________
+
+
+Question 33
+A 61-year-old man with peripheral vascular disease is started on cilostazol. Which additional pharmacologic effect contributes to its benefit in claudication?
+Answer Choices:
+ (A) Increased platelet cAMP leading to inhibition of aggregation
+(B) Direct antagonism of thromboxane A₂ receptors
+(C) Inhibition of vitamin K–dependent clotting factors
+(D) Blockade of P2Y12 receptors on platelets
+(E) Enhanced fibrin degradation via plasmin activation
+Correct Answer: A
+Explanation:
+ Cilostazol inhibits phosphodiesterase III, increasing cAMP in platelets and vascular smooth muscle, leading to antiplatelet effects and vasodilation.
+(B) TXA₂ receptor antagonism is not its mechanism.
+(C) Vitamin K antagonism describes warfarin.
+(D) P2Y12 blockade occurs with clopidogrel.
+(E) Plasmin activation is seen with thrombolytics.
+________________
+
+
+Question 34
+A 53-year-old man with schizophrenia develops muscle rigidity, hyperthermia, autonomic instability, and elevated creatine kinase after starting a new antipsychotic. Which receptor blockade is primarily responsible?
+Answer Choices:
+ (A) Dopamine D₂ receptors in the hypothalamus and nigrostriatal pathway
+(B) Serotonin 5-HT₂A receptors in the cortex
+(C) Muscarinic receptors in the basal ganglia
+(D) α₁-adrenergic receptors in peripheral vasculature
+(E) Histamine H₁ receptors in the CNS
+Correct Answer: A
+Explanation:
+ Neuroleptic malignant syndrome results from profound D₂ blockade, impairing thermoregulation and motor control.
+(B) 5-HT₂A blockade improves negative symptoms.
+(C) Muscarinic blockade causes anticholinergic effects.
+(D) α₁ blockade causes hypotension.
+(E) H₁ blockade causes sedation.
+________________
+
+
+Question 35
+A 58-year-old man with chronic hepatitis C is treated with ribavirin and develops hemolytic anemia. Which mechanism explains this toxicity?
+Answer Choices:
+ (A) Accumulation of phosphorylated drug within erythrocytes causing oxidative damage
+(B) Immune complex–mediated red blood cell destruction
+(C) Inhibition of heme synthesis in bone marrow
+(D) Direct suppression of erythropoietin production
+(E) Antibody-mediated complement activation
+Correct Answer: A
+Explanation:
+ Ribavirin accumulates in erythrocytes, causing oxidative membrane damage and hemolysis.
+(B) Immune complexes are not involved.
+(C) Heme synthesis inhibition occurs with lead.
+(D) EPO suppression is not primary.
+(E) Complement activation is not the mechanism.
+________________
+
+
+Question 36
+A 66-year-old woman with hypertension is prescribed verapamil. She later develops constipation and bradycardia. Which tissue-specific action explains both effects?
+Answer Choices:
+ (A) L-type calcium channel blockade in cardiac and smooth muscle
+(B) β₁-adrenergic receptor antagonism
+(C) Increased nitric oxide production
+(D) Sodium channel blockade in enteric neurons
+(E) Central α₂ receptor stimulation
+Correct Answer: A
+Explanation:
+ Non-dihydropyridine calcium channel blockers reduce cardiac conduction and contractility and decrease GI smooth muscle motility, causing bradycardia and constipation.
+(B) β-blockers do not cause constipation.
+(C) NO causes vasodilation.
+(D) Sodium channel blockade affects nerve conduction.
+(E) α₂ stimulation causes sedation and bradycardia but not constipation.
+________________
+
+
+Question 37
+A 39-year-old woman with Graves disease is treated with propylthiouracil. Which additional pharmacologic action distinguishes it from methimazole?
+Answer Choices:
+ (A) Inhibition of peripheral conversion of T₄ to T₃
+(B) Competitive antagonism of TSH receptors
+(C) Destruction of thyroid follicular cells
+(D) Increased iodine uptake by the thyroid gland
+(E) Direct antagonism of thyroid hormone receptors
+Correct Answer: A
+Explanation:
+ Propylthiouracil inhibits thyroid peroxidase and peripheral conversion of T₄ to T₃, unlike methimazole.
+(B) TSH receptor antagonists are not used clinically.
+(C) Radioiodine destroys follicular cells.
+(D) Thioamides reduce iodine organification.
+(E) Receptor antagonism is not the mechanism.
+________________
+
+
+Question 38
+A 47-year-old man with anxiety disorder is started on a benzodiazepine. He later consumes alcohol and becomes unresponsive. Which pharmacodynamic interaction explains this effect?
+Answer Choices:
+ (A) Additive enhancement of GABA-A receptor–mediated chloride influx
+(B) Competitive inhibition at ethanol binding sites
+(C) Induction of hepatic enzymes increasing ethanol levels
+(D) Antagonism of NMDA receptors
+(E) Increased serotonin release in the brainstem
+Correct Answer: A
+Explanation:
+ Benzodiazepines and alcohol both potentiate GABA-A receptor activity, producing additive CNS and respiratory depression.
+(B) They do not compete at binding sites.
+(C) Enzyme induction would reduce ethanol levels.
+(D) NMDA antagonism is not primary.
+(E) Serotonin release does not explain coma.
+________________
+
+
+Question 39
+A 59-year-old man with type 2 diabetes is started on pioglitazone. Months later, he develops weight gain and edema. Which mechanism underlies both therapeutic and adverse effects?
+Answer Choices:
+ (A) Activation of PPAR-γ increasing adipocyte differentiation and insulin sensitivity
+(B) Increased insulin secretion from pancreatic β cells
+(C) Inhibition of hepatic gluconeogenesis
+(D) Reduced intestinal glucose absorption
+(E) Increased renal glucose excretion
+Correct Answer: A
+Explanation:
+ TZDs activate PPAR-γ, improving insulin sensitivity but promoting adipogenesis and fluid retention.
+(B) Sulfonylureas increase insulin secretion.
+(C) Metformin inhibits gluconeogenesis.
+(D) α-glucosidase inhibitors reduce absorption.
+(E) SGLT2 inhibitors increase glucose excretion.
+________________
+
+
+Question 40
+A 63-year-old man receiving cisplatin develops tinnitus and renal dysfunction. Which shared cellular mechanism explains these toxicities?
+Answer Choices:
+ (A) Generation of reactive oxygen species causing cellular apoptosis
+(B) Immune-mediated destruction of renal tubular cells
+(C) Inhibition of DNA topoisomerase II
+(D) Mitochondrial DNA polymerase inhibition
+(E) Disruption of microtubule assembly
+Correct Answer: A
+Explanation:
+ Cisplatin generates reactive oxygen species that damage renal tubular cells and cochlear hair cells, causing nephrotoxicity and ototoxicity.
+(B) Immune mechanisms are not primary.
+(C) Topoisomerase II inhibition occurs with anthracyclines.
+(D) Polymerase γ inhibition is seen with nucleoside analogs.
+(E) Microtubule disruption occurs with taxanes.
+Question 41
+A 72-year-old man with atrial fibrillation, chronic systolic heart failure (EF 25%), and stage 3 chronic kidney disease is admitted for acute decompensated heart failure. He is started on an intravenous medication that improves cardiac output without increasing myocardial oxygen demand but later develops thrombocytopenia. Which pharmacologic property best explains both the therapeutic benefit and adverse effect?
+Answer Choices:
+ (A) Phosphodiesterase III inhibition increasing cAMP in platelets and myocardium
+(B) β₁-adrenergic receptor stimulation increasing calcium influx
+(C) Na⁺/K⁺ ATPase inhibition increasing intracellular calcium
+(D) Sensitization of cardiac troponin C to calcium
+(E) Nitric oxide–mediated vasodilation with reflex sympathetic activation
+Correct Answer: A
+Explanation:
+ PDE III inhibitors (e.g., milrinone) increase cAMP in cardiomyocytes, enhancing inotropy without major increases in oxygen demand. Increased platelet cAMP impairs aggregation, leading to thrombocytopenia.
+(B) β₁ agonists increase oxygen consumption.
+(C) Digoxin increases arrhythmia risk and does not cause thrombocytopenia.
+(D) Calcium sensitizers are not associated with thrombocytopenia.
+(E) NO donors do not produce this adverse effect.
+________________
+
+
+Question 42
+A 29-year-old woman with bipolar disorder is switched from lithium to carbamazepine. Two weeks later, she develops fever, facial edema, a diffuse maculopapular rash, eosinophilia, and elevated liver enzymes. Which pharmacologic mechanism most directly underlies this reaction?
+Answer Choices:
+ (A) Formation of arene oxide metabolites triggering T-cell–mediated hypersensitivity
+(B) Direct mitochondrial toxicity due to polymerase inhibition
+(C) Competitive antagonism of voltage-gated sodium channels
+(D) Inhibition of aldehyde dehydrogenase
+(E) Non–IgE-mediated mast cell degranulation
+Correct Answer: A
+Explanation:
+ Carbamazepine is metabolized to reactive arene oxide intermediates that can provoke a severe T-cell–mediated hypersensitivity reaction (DRESS syndrome).
+(B) Polymerase inhibition causes lactic acidosis.
+(C) Sodium channel blockade explains antiseizure action, not hypersensitivity.
+(D) Aldehyde dehydrogenase inhibition is seen with disulfiram.
+(E) Mast cell degranulation causes immediate reactions, not DRESS.
+________________
+
+
+Question 43
+A 64-year-old woman with long-standing rheumatoid arthritis develops secondary amyloidosis affecting the kidneys. She is started on colchicine for recurrent inflammatory flares. Which molecular interaction explains both the therapeutic anti-inflammatory effect and a dose-limiting toxicity?
+Answer Choices:
+ (A) Tubulin binding with inhibition of microtubule polymerization
+(B) NF-κB transcriptional repression
+(C) Cyclooxygenase inhibition
+(D) Reduced IL-6 receptor signaling
+(E) Increased intracellular cAMP in neutrophils
+Correct Answer: A
+Explanation:
+ Colchicine binds tubulin, preventing microtubule formation, which inhibits neutrophil chemotaxis but also disrupts rapidly dividing GI epithelial cells, causing diarrhea.
+(B) NF-κB inhibition is seen with glucocorticoids.
+(C) COX inhibition describes NSAIDs.
+(D) IL-6 blockade occurs with tocilizumab.
+(E) cAMP elevation is not colchicine’s mechanism.
+________________
+
+
+Question 44
+A 55-year-old man with treatment-resistant depression is started on a monoamine oxidase inhibitor. Two weeks later, he consumes cured meats and presents with severe headache, hypertension, and palpitations. Which pharmacokinetic principle explains the pathogenesis of this reaction?
+Answer Choices:
+ (A) Loss of first-pass metabolism of dietary sympathomimetics
+(B) Increased volume of distribution of tyramine
+(C) Reduced renal clearance of catecholamines
+(D) Competitive inhibition of catecholamine transporters
+(E) Induction of hepatic CYP450 enzymes
+Correct Answer: A
+Explanation:
+ MAOIs inhibit intestinal and hepatic MAO, preventing first-pass metabolism of tyramine, leading to excess norepinephrine release and hypertensive crisis.
+(B) Volume of distribution is not the issue.
+(C) Renal clearance is irrelevant.
+(D) Transporter inhibition is not primary.
+(E) MAOIs inhibit rather than induce enzymes.
+________________
+
+
+Question 45
+A 67-year-old man with chronic obstructive pulmonary disease is started on theophylline. Several days later, he develops nausea, tremor, and atrial tachyarrhythmia. Which concurrent medication would most significantly exacerbate these effects?
+Answer Choices:
+ (A) Ciprofloxacin
+(B) Rifampin
+(C) Phenobarbital
+(D) Carbamazepine
+(E) St. John’s wort
+Correct Answer: A
+Explanation:
+ Ciprofloxacin inhibits CYP1A2, reducing theophylline clearance and increasing toxicity.
+(B–E) These induce hepatic enzymes and would lower theophylline levels.
+________________
+
+
+Question 46
+A 48-year-old woman with HIV is treated with zidovudine. Months later, she develops macrocytic anemia and myopathy. Which shared intracellular target explains these toxicities?
+Answer Choices:
+ (A) Mitochondrial DNA polymerase γ inhibition
+(B) RNA-dependent RNA polymerase inhibition
+(C) Reverse transcriptase inhibition in host cells
+(D) Ribosomal protein synthesis inhibition
+(E) Impaired folate absorption
+Correct Answer: A
+Explanation:
+ NRTIs inhibit mitochondrial DNA polymerase γ, impairing oxidative phosphorylation and leading to anemia and myopathy.
+(B) RNA polymerase inhibition is not involved.
+(C) Host reverse transcriptase does not exist.
+(D) Ribosomal inhibition causes aplastic anemia.
+(E) Folate malabsorption is unrelated.
+________________
+
+
+Question 47
+A 70-year-old woman with osteoporosis is treated with a medication that increases bone mineral density but also increases the risk of venous thromboembolism. Which receptor-mediated action explains both effects?
+Answer Choices:
+ (A) Estrogen receptor modulation with tissue-selective agonism
+(B) RANKL inhibition reducing osteoclast activity
+(C) Parathyroid hormone receptor stimulation
+(D) Vitamin D receptor activation
+(E) Calcitonin receptor activation
+Correct Answer: A
+Explanation:
+ Selective estrogen receptor modulators (e.g., raloxifene) act as estrogen agonists in bone and antagonists in breast tissue but increase thromboembolic risk.
+(B) RANKL inhibition does not increase VTE risk.
+(C) PTH analogs increase bone turnover.
+(D) Vitamin D does not increase VTE risk.
+(E) Calcitonin has minimal efficacy.
+________________
+
+
+Question 48
+A 59-year-old man with hypertension and chronic kidney disease is started on an ACE inhibitor. Shortly after initiation, serum creatinine increases by 30%. Which intrarenal hemodynamic change best explains this finding?
+Answer Choices:
+ (A) Efferent arteriole dilation reducing glomerular filtration pressure
+(B) Afferent arteriole constriction due to prostaglandin inhibition
+(C) Reduced mesangial cell contraction
+(D) Increased renal sympathetic tone
+(E) Enhanced sodium reabsorption in the proximal tubule
+Correct Answer: A
+Explanation:
+ ACE inhibitors dilate the efferent arteriole, lowering intraglomerular pressure and transiently increasing creatinine.
+(B) NSAIDs constrict the afferent arteriole.
+(C) Mesangial relaxation increases GFR.
+(D) Sympathetic tone increases GFR initially.
+(E) Proximal reabsorption does not explain creatinine rise.
+________________
+
+
+Question 49
+A 34-year-old man with ulcerative colitis is treated with azathioprine. Genetic testing reveals low thiopurine methyltransferase (TPMT) activity. Which complication is he most at risk for?
+Answer Choices:
+ (A) Severe bone marrow suppression
+(B) Acute interstitial nephritis
+(C) Drug-induced lupus
+(D) Cholestatic hepatitis
+(E) Peripheral neuropathy
+Correct Answer: A
+Explanation:
+ Low TPMT activity leads to accumulation of active thioguanine nucleotides, causing profound myelosuppression.
+(B) Nephritis is not typical.
+(C) Lupus is associated with hydralazine.
+(D) Cholestasis is uncommon.
+(E) Neuropathy is not characteristic.
+________________
+
+
+Question 50
+A 62-year-old man with metastatic prostate cancer is treated with a drug that suppresses testosterone production but initially causes a transient increase in testosterone levels. Which pharmacologic strategy would best prevent this initial effect?
+Answer Choices:
+ (A) Concomitant androgen receptor antagonist administration
+(B) Increasing the dose of the suppressive agent
+(C) Using a partial agonist instead
+(D) Delaying therapy initiation
+(E) Adding a 5α-reductase inhibitor only
+Correct Answer: A
+Explanation:
+ GnRH agonists initially stimulate LH and testosterone release (flare). Concurrent androgen receptor antagonists prevent clinical worsening.
+(B) Higher doses worsen the flare.
+(C) Partial agonists still cause stimulation.
+(D) Delay provides no benefit.
+(E) 5α-reductase inhibitors do not prevent flare.
+Question 51
+A 67-year-old man with ischemic cardiomyopathy (left ventricular ejection fraction 28%) is admitted for worsening dyspnea and orthopnea. His medications include furosemide, lisinopril, carvedilol, spironolactone, and digoxin. On hospital day 3, he develops nausea, anorexia, and yellow-tinged vision. ECG shows frequent premature ventricular contractions and bidirectional ventricular tachycardia. Laboratory testing reveals potassium 3.1 mEq/L and creatinine 2.1 mg/dL (baseline 1.4).
+Which mechanism best explains the increased toxicity of this patient’s medication?
+Answer Choices:
+ (A) Reduced renal clearance leading to accumulation of unchanged drug
+(B) Competitive inhibition of P-glycoprotein in the intestine
+(C) Increased binding to plasma proteins due to uremia
+(D) Enhanced Na⁺/K⁺-ATPase inhibition in hypokalemic states
+(E) Upregulation of myocardial β₁-adrenergic receptors
+Correct Answer: D
+Explanation:
+ Digoxin inhibits the Na⁺/K⁺-ATPase. Hypokalemia increases digoxin binding to this enzyme because potassium normally competes with digoxin at the ATPase binding site. Thus, low potassium enhances digoxin’s effect and toxicity, manifesting as arrhythmias and visual disturbances.
+* (A) Reduced clearance contributes but does not explain the specific potentiation mechanism
+
+* (B) P-glycoprotein inhibition affects absorption, not the observed electrolyte-related toxicity
+
+* (C) Digoxin is minimally protein-bound
+
+* (E) β₁ receptor changes are unrelated to digoxin’s mechanism
+
+________________
+
+
+Question 52
+A 58-year-old woman with rheumatoid arthritis is started on a new disease-modifying antirheumatic drug. Three months later, she develops progressive dyspnea, dry cough, and low-grade fever. High-resolution CT shows diffuse interstitial infiltrates. Pulmonary function testing reveals a restrictive pattern with reduced DLCO. Bronchoalveolar lavage shows lymphocytic predominance without eosinophilia.
+Which drug most likely caused this adverse effect?
+Answer Choices:
+ (A) Etanercept
+(B) Methotrexate
+(C) Hydroxychloroquine
+(D) Leflunomide
+(E) Sulfasalazine
+Correct Answer: B
+Explanation:
+ Methotrexate can cause dose-independent hypersensitivity pneumonitis characterized by lymphocytic alveolitis, interstitial infiltrates, and restrictive lung disease.
+   * (A) TNF-α inhibitors predispose to infections, especially TB
+
+   * (C) Hydroxychloroquine causes retinal toxicity
+
+   * (D) Leflunomide causes hepatotoxicity and hypertension
+
+   * (E) Sulfasalazine causes GI upset and hemolysis in G6PD deficiency
+
+________________
+
+
+Question 53
+A 46-year-old man with epilepsy controlled on carbamazepine develops active pulmonary tuberculosis and is started on rifampin. Two weeks later, he experiences breakthrough generalized tonic-clonic seizures. Serum carbamazepine level is markedly reduced.
+Which pharmacokinetic principle best explains this interaction?
+Answer Choices:
+ (A) Decreased bioavailability due to intestinal chelation
+(B) Competitive inhibition of CYP3A4
+(C) Enzyme induction increasing hepatic clearance
+(D) Reduced enterohepatic circulation
+(E) Increased renal tubular secretion
+Correct Answer: C
+Explanation:
+ Rifampin is a potent inducer of CYP450 enzymes, including CYP3A4, increasing hepatic metabolism of carbamazepine and lowering serum levels.
+      * (A) Chelation applies to tetracyclines and divalent cations
+
+      * (B) Rifampin induces, not inhibits, CYP enzymes
+
+      * (D) Carbamazepine is not dependent on enterohepatic circulation
+
+      * (E) Renal secretion is not the primary elimination route
+
+________________
+
+
+Question 54
+A 62-year-old man with benign prostatic hyperplasia and narrow-angle glaucoma is prescribed a medication for urinary symptoms. Shortly after starting therapy, he develops acute eye pain, blurred vision, and nausea. Intraocular pressure is markedly elevated.
+Which receptor interaction is most directly responsible for this adverse effect?
+Answer Choices:
+ (A) α₁-adrenergic antagonism in the iris dilator muscle
+(B) β₂-adrenergic antagonism in the ciliary body
+(C) Muscarinic receptor antagonism in the sphincter pupillae
+(D) Dopamine D₂ receptor antagonism in the retina
+(E) Histamine H₁ receptor antagonism in the trabecular meshwork
+Correct Answer: C
+Explanation:
+ Antimuscarinic drugs (e.g., oxybutynin) cause mydriasis by blocking the sphincter pupillae, precipitating acute angle-closure glaucoma.
+         * (A) α₁ blockade causes miosis
+
+         * (B) β₂ blockade reduces aqueous humor production
+
+         * (D) Dopamine receptors are not involved in pupil dynamics
+
+         * (E) H₁ blockade causes sedation, not glaucoma
+
+________________
+
+
+Question 55
+A 29-year-old woman with systemic lupus erythematosus is treated with cyclophosphamide. Several months later, she develops dysuria and hematuria. Cystoscopy reveals hemorrhagic cystitis.
+Which additional medication would most effectively prevent this complication?
+Answer Choices:
+ (A) Allopurinol
+(B) Mesna
+(C) Leucovorin
+(D) Acetazolamide
+(E) N-acetylcysteine
+Correct Answer: B
+Explanation:
+ Cyclophosphamide is metabolized to acrolein, which causes hemorrhagic cystitis. Mesna binds acrolein in the urine, preventing urothelial toxicity.
+            * (A) Allopurinol prevents tumor lysis–associated hyperuricemia
+
+            * (C) Leucovorin rescues methotrexate toxicity
+
+            * (D) Acetazolamide alkalinizes urine but does not bind acrolein
+
+            * (E) NAC treats acetaminophen toxicity
+
+________________
+
+
+Question 56
+A 70-year-old woman with chronic atrial fibrillation on warfarin presents with an INR of 6.2 and no active bleeding. She recently completed a course of antibiotics for pneumonia.
+Which antibiotic most likely contributed to this finding?
+Answer Choices:
+ (A) Rifampin
+(B) Ciprofloxacin
+(C) Azithromycin
+(D) Doxycycline
+(E) Gentamicin
+Correct Answer: B
+Explanation:
+ Ciprofloxacin inhibits CYP450 enzymes, reducing warfarin metabolism and increasing INR.
+               * (A) Rifampin induces CYP enzymes, lowering INR
+
+               * (C) Azithromycin has minimal CYP interaction
+
+               * (D) Doxycycline has weak interaction
+
+               * (E) Gentamicin is renally cleared and does not affect warfarin
+
+________________
+
+
+Question 57
+A 55-year-old man with Parkinson disease develops hallucinations and confusion after initiation of a new medication. The drug improves motor symptoms without worsening tremor but blocks peripheral dopamine receptors.
+Which drug was most likely prescribed?
+Answer Choices:
+ (A) Bromocriptine
+(B) Selegiline
+(C) Entacapone
+(D) Carbidopa
+(E) Amantadine
+Correct Answer: D
+Explanation:
+ Carbidopa inhibits peripheral DOPA decarboxylase, increasing central dopamine while reducing peripheral side effects. Hallucinations result from increased central dopamine.
+                  * (A) Bromocriptine is a dopamine agonist
+
+                  * (B) Selegiline inhibits MAO-B
+
+                  * (C) Entacapone inhibits COMT
+
+                  * (E) Amantadine increases dopamine release
+
+________________
+
+
+Question 58
+A 34-year-old man with asthma experiences worsening wheezing after taking an over-the-counter analgesic. He has nasal polyps and chronic sinusitis.
+Which mechanism explains this reaction?
+Answer Choices:
+ (A) IgE-mediated mast cell degranulation
+(B) Shunting of arachidonic acid toward leukotriene synthesis
+(C) Direct bronchial smooth muscle toxicity
+(D) Upregulation of COX-2 expression
+(E) Inhibition of phospholipase A₂
+Correct Answer: B
+Explanation:
+ Aspirin inhibits COX, increasing leukotriene production, causing bronchoconstriction in aspirin-exacerbated respiratory disease.
+                     * (A) Not IgE-mediated
+
+                     * (C) No direct toxicity
+
+                     * (D) COX is inhibited, not upregulated
+
+                     * (E) PLA₂ inhibition would reduce leukotrienes
+
+________________
+
+
+Question 59
+A patient treated for schizophrenia develops severe muscle rigidity, hyperthermia, autonomic instability, and elevated creatine kinase.
+Which pharmacologic intervention is most appropriate?
+Answer Choices:
+ (A) Bromocriptine
+(B) Physostigmine
+(C) Propranolol
+(D) Flumazenil
+(E) Naloxone
+Correct Answer: A
+Explanation:
+ Neuroleptic malignant syndrome is treated with dopamine agonists (bromocriptine) or dantrolene.
+                        * (B) Physostigmine treats anticholinergic toxicity
+
+                        * (C) Propranolol treats akathisia
+
+                        * (D) Flumazenil reverses benzodiazepines
+
+                        * (E) Naloxone reverses opioids
+
+________________
+
+
+Question 60
+A 41-year-old woman is treated for severe malaria with an IV medication that causes QT prolongation and cinchonism (tinnitus, headache).
+Which mechanism contributes to this drug’s antimalarial effect?
+Answer Choices:
+ (A) Inhibition of dihydrofolate reductase
+(B) Generation of free radicals within parasitic food vacuoles
+(C) Inhibition of heme polymerization
+(D) Disruption of parasite microtubules
+(E) Blockade of parasite sodium channels
+Correct Answer: C
+Explanation:
+ Quinine inhibits heme polymerization in Plasmodium, leading to toxic heme accumulation.
+                           * (A) Applies to pyrimethamine
+
+                           * (B) Artemisinin mechanism
+
+                           * (D) Albendazole mechanism
+
+                           * (E) Sodium channel blockade is not antimalarial

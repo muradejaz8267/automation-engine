@@ -1,0 +1,893 @@
+﻿Question 1
+A 67-year-old man with a history of hypertension, diabetes, and prior myocardial infarction presents with progressive dyspnea on exertion and orthopnea. Physical exam reveals bibasilar crackles, elevated JVP, and an S3 gallop. Echocardiography shows an ejection fraction of 30% with global hypokinesis.
+Which medication has been shown to provide the greatest mortality benefit in this patient?
+Answer Choices:
+(A) Loop diuretic
+(B) Digoxin
+(C) ACE inhibitor
+(D) Nitrate therapy
+(E) Calcium channel blocker
+Correct Answer: C
+Explanation:
+In HFrEF, ACE inhibitors (or ARBs/ARNIs) provide a clear mortality benefit by reducing afterload and neurohormonal activation. Diuretics improve symptoms only.
+________________
+
+
+Question 2
+A 58-year-old woman presents with acute chest pain radiating to her back. Blood pressure is 190/110 mmHg in the right arm and 160/90 mmHg in the left arm. Chest X‑ray shows a widened mediastinum.
+What is the most appropriate next step?
+Answer Choices:
+(A) Administer IV nitroglycerin
+(B) Obtain CT angiography of the chest
+(C) Give IV beta‑blocker
+(D) Start heparin infusion
+(E) Perform emergent cardiac catheterization
+Correct Answer: C
+Explanation:
+Suspected aortic dissection requires immediate beta‑blockade to reduce shear stress before imaging or vasodilators.
+________________
+
+
+Question 3
+A 72-year-old man presents with syncope. ECG shows alternating left and right bundle branch block with dropped beats.
+What is the most appropriate management?
+Answer Choices:
+(A) Observation
+(B) Atropine
+(C) Temporary transcutaneous pacing
+(D) Permanent pacemaker implantation
+(E) IV amiodarone
+Correct Answer: D
+Explanation:
+This is high‑grade AV block with syncope. Permanent pacemaker placement is indicated.
+________________
+
+
+Question 4
+A 55-year-old woman presents with palpitations and lightheadedness. ECG shows an irregularly irregular rhythm with no discernible P waves. She has hypertension and diabetes.
+Which therapy is indicated to reduce her risk of stroke?
+Answer Choices:
+(A) Aspirin
+(B) No therapy needed
+(C) Warfarin or DOAC
+(D) Beta‑blocker only
+(E) Electrical cardioversion
+Correct Answer: C
+Explanation:
+She has atrial fibrillation with a CHA₂DS₂‑VASc ≥2, requiring anticoagulation.
+________________
+
+
+Question 5
+A 60-year-old smoker presents with sudden onset dyspnea and pleuritic chest pain. He is tachycardic and hypoxic. D‑dimer is elevated.
+What is the most appropriate next diagnostic test?
+Answer Choices:
+(A) Chest X‑ray
+(B) V/Q scan
+(C) CT pulmonary angiography
+(D) Lower extremity Doppler
+(E) Echocardiography
+Correct Answer: C
+Explanation:
+In hemodynamically stable patients with suspected PE, CT pulmonary angiography is the diagnostic test of choice.
+________________
+
+
+Question 6
+A 65-year-old man with COPD presents with worsening dyspnea and increased sputum production. ABG shows pH 7.31, PaCO₂ 60 mmHg, PaO₂ 55 mmHg.
+What is the most appropriate immediate management?
+Answer Choices:
+(A) Intubation and mechanical ventilation
+(B) Noninvasive positive pressure ventilation
+(C) High‑flow oxygen via non‑rebreather
+(D) IV diuretics
+(E) Chest tube placement
+Correct Answer: B
+Explanation:
+In COPD exacerbation with respiratory acidosis, NIPPV improves gas exchange and reduces mortality.
+________________
+
+
+Question 7
+A 45-year-old woman presents with progressive dyspnea. Echocardiogram shows pulmonary artery systolic pressure of 60 mmHg with normal left ventricular function. Right heart catheterization confirms pulmonary arterial hypertension.
+Which therapy targets the underlying pathophysiology?
+Answer Choices:
+(A) Loop diuretics
+(B) ACE inhibitors
+(C) Endothelin receptor antagonists
+(D) Beta‑blockers
+(E) Calcium channel blockers for all patients
+Correct Answer: C
+Explanation:
+Pulmonary arterial hypertension is treated with agents such as endothelin receptor antagonists, PDE‑5 inhibitors, or prostacyclin analogs.
+________________
+
+
+Question 8
+A 70-year-old man presents with crushing chest pain for 90 minutes. ECG shows ST elevations in leads II, III, and aVF. The nearest PCI center is 3 hours away.
+What is the most appropriate management?
+Answer Choices:
+(A) Aspirin only
+(B) Immediate thrombolytic therapy
+(C) Transfer without treatment
+(D) Beta‑blocker and observe
+(E) Emergent CABG
+Correct Answer: B
+Explanation:
+For STEMI, if PCI cannot be performed within 120 minutes, fibrinolysis is indicated (if no contraindications).
+________________
+
+
+Question 9
+A 62-year-old woman presents with dyspnea and pleuritic chest pain. Chest X‑ray shows a large pleural effusion. Thoracentesis reveals protein ratio >0.5 and LDH ratio >0.6.
+What is the most likely cause?
+Answer Choices:
+(A) Heart failure
+(B) Cirrhosis
+(C) Nephrotic syndrome
+(D) Malignancy
+(E) Hypoalbuminemia
+Correct Answer: D
+Explanation:
+This is an exudative pleural effusion, commonly caused by malignancy, infection, or inflammatory conditions.
+________________
+
+
+Question 10
+A 59-year-old man presents with fever, cough, and rusty sputum. Chest X‑ray shows lobar consolidation. Blood cultures are pending.
+What is the most appropriate initial antibiotic therapy?
+Answer Choices:
+(A) Vancomycin only
+(B) Azithromycin only
+(C) Ceftriaxone plus azithromycin
+(D) TMP‑SMX
+(E) Amoxicillin alone
+Correct Answer: C
+Explanation:
+Community‑acquired pneumonia requiring hospitalization is treated empirically with a beta‑lactam plus macrolide.
+Question 11
+A 72-year-old man with a history of hypertension and coronary artery disease presents with acute onset dyspnea. He is tachycardic, hypotensive, and hypoxic. Lung exam reveals diffuse crackles. Chest X‑ray shows bilateral alveolar infiltrates. BNP is markedly elevated. Pulmonary capillary wedge pressure is increased.
+Which diagnosis best explains his presentation?
+Answer Choices:
+(A) ARDS
+(B) Pulmonary embolism
+(C) Cardiogenic pulmonary edema
+(D) Acute asthma exacerbation
+(E) Pneumonia
+Correct Answer: C
+Explanation:
+Elevated PCWP, high BNP, and acute heart failure point to cardiogenic pulmonary edema, not ARDS.
+________________
+
+
+Question 12
+A 65-year-old woman presents with syncope. Physical exam reveals a harsh crescendo‑decrescendo systolic murmur radiating to the carotids. Echocardiography shows severe aortic stenosis.
+Which additional finding is most likely?
+Answer Choices:
+(A) Wide pulse pressure
+(B) Bounding peripheral pulses
+(C) Pulsus parvus et tardus
+(D) Fixed split S2
+(E) Diastolic rumble
+Correct Answer: C
+Explanation:
+Severe aortic stenosis causes delayed, diminished carotid upstroke (pulsus parvus et tardus).
+________________
+
+
+Question 13
+A 58-year-old man presents with palpitations and hypotension. ECG shows a wide‑complex tachycardia at 180 bpm. He is diaphoretic and confused.
+What is the most appropriate immediate management?
+Answer Choices:
+(A) IV amiodarone
+(B) Adenosine
+(C) Synchronized cardioversion
+(D) Unsynchronized defibrillation
+(E) Observation
+Correct Answer: C
+Explanation:
+This is unstable ventricular tachycardia. Synchronized cardioversion is required immediately.
+________________
+
+
+Question 14
+A 46-year-old woman develops acute hypoxemia 24 hours after severe pancreatitis. Chest X‑ray shows bilateral infiltrates. Cardiac function is normal.
+Which finding supports the diagnosis of ARDS?
+Answer Choices:
+(A) Elevated BNP
+(B) Pulmonary capillary wedge pressure >18 mmHg
+(C) PaO₂/FiO₂ ratio <300
+(D) Cardiomegaly on X‑ray
+(E) Improvement with diuretics
+Correct Answer: C
+Explanation:
+ARDS is defined by acute hypoxemia with PaO₂/FiO₂ <300, non‑cardiogenic pulmonary edema.
+________________
+
+
+Question 15
+A 70-year-old man with atrial fibrillation on warfarin presents with sudden right‑sided weakness. INR is 1.4.
+What is the most likely cause of his stroke?
+Answer Choices:
+(A) Lacunar infarct
+(B) Carotid artery stenosis
+(C) Cardioembolic stroke
+(D) Intracerebral hemorrhage
+(E) Small vessel vasculitis
+Correct Answer: C
+Explanation:
+Subtherapeutic anticoagulation in atrial fibrillation predisposes to cardioembolic stroke.
+________________
+
+
+Question 16
+A 62-year-old woman presents with progressive dyspnea and lower‑extremity edema. Echocardiography shows preserved ejection fraction with concentric LV hypertrophy.
+Which condition most likely underlies her heart failure?
+Answer Choices:
+(A) Dilated cardiomyopathy
+(B) Chronic hypertension
+(C) Viral myocarditis
+(D) Alcoholic cardiomyopathy
+(E) Acute MI
+Correct Answer: B
+Explanation:
+HFpEF is commonly caused by long‑standing hypertension leading to diastolic dysfunction.
+________________
+
+
+Question 17
+A 55-year-old man presents with fever, night sweats, and a new holosystolic murmur. Blood cultures grow Streptococcus gallolyticus.
+Which additional finding is most likely?
+Answer Choices:
+(A) Lung cavitations
+(B) Colon cancer
+(C) IV drug use history
+(D) Prosthetic valve
+(E) Rheumatic heart disease
+Correct Answer: B
+Explanation:
+Strep gallolyticus (bovis) endocarditis is strongly associated with colorectal malignancy.
+________________
+
+
+Question 18
+A 68-year-old man with COPD presents with worsening dyspnea. He is using accessory muscles and has paradoxical abdominal movement. ABG shows pH 7.25, PaCO₂ 70 mmHg.
+What is the strongest indication for intubation?
+Answer Choices:
+(A) Hypercapnia alone
+(B) Hypoxemia
+(C) Respiratory muscle fatigue
+(D) Tachypnea
+(E) Wheezing
+Correct Answer: C
+Explanation:
+Signs of respiratory muscle fatigue (paradoxical breathing, altered mental status) mandate intubation, regardless of ABG values.
+________________
+
+
+Question 19
+A 60-year-old woman presents with exertional dyspnea. Echocardiography shows severe mitral regurgitation with left atrial enlargement.
+Which complication is she at greatest risk of developing?
+Answer Choices:
+(A) Ventricular septal rupture
+(B) Atrial fibrillation
+(C) Pulmonary embolism
+(D) Ventricular tachycardia
+(E) Aortic dissection
+Correct Answer: B
+Explanation:
+Chronic mitral regurgitation leads to left atrial dilation, predisposing to atrial fibrillation.
+________________
+
+
+Question 20
+A 54-year-old man presents with acute chest pain. ECG shows diffuse ST elevations and PR depressions. Pain improves when leaning forward.
+What is the most appropriate treatment?
+Answer Choices:
+(A) IV heparin
+(B) Emergent PCI
+(C) High‑dose NSAIDs
+(D) Thrombolytics
+(E) Beta‑blockers only
+Correct Answer: C
+Explanation:
+This is acute pericarditis. First‑line therapy is high‑dose NSAIDs (± colchicine).
+Question 21
+A 69-year-old man presents with sudden onset severe dyspnea and pink frothy sputum. He has a history of myocardial infarction 5 days ago. On exam, he is hypotensive with diffuse crackles and a new loud holosystolic murmur at the apex radiating to the axilla.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Ventricular septal rupture
+(B) Papillary muscle rupture
+(C) Acute pericarditis
+(D) Free wall rupture
+(E) Acute aortic regurgitation
+Correct Answer: B
+Explanation:
+Papillary muscle rupture occurs 2–7 days post‑MI, causing acute severe mitral regurgitation, flash pulmonary edema, and cardiogenic shock.
+________________
+
+
+Question 22
+A 58-year-old woman presents with hypotension, tachycardia, warm extremities, and bounding pulses. Lactate is elevated. CVP is low, and systemic vascular resistance is decreased.
+Which type of shock is most consistent with these findings?
+Answer Choices:
+(A) Cardiogenic
+(B) Hypovolemic
+(C) Obstructive
+(D) Septic
+(E) Neurogenic
+Correct Answer: D
+Explanation:
+Septic shock causes low SVR, warm extremities (early), elevated lactate, and hypotension.
+________________
+
+
+Question 23
+A mechanically ventilated patient develops sudden hypotension and hypoxemia. Peak inspiratory pressures increase abruptly. Trachea is deviated to the right.
+What is the most appropriate immediate action?
+Answer Choices:
+(A) Obtain chest X‑ray
+(B) Increase FiO₂
+(C) Needle decompression
+(D) Administer IV fluids
+(E) Reduce tidal volume
+Correct Answer: C
+Explanation:
+This is tension pneumothorax. Immediate needle decompression is required—do not wait for imaging.
+________________
+
+
+Question 24
+A 64-year-old man with long-standing hypertension presents with tearing chest pain radiating to the back. CT confirms Stanford type A aortic dissection.
+What is the definitive management?
+Answer Choices:
+(A) Beta‑blocker only
+(B) Endovascular stenting
+(C) Thrombolytic therapy
+(D) Emergent surgical repair
+(E) Observation
+Correct Answer: D
+Explanation:
+Stanford type A dissections require emergent surgical repair due to high mortality.
+________________
+
+
+Question 25
+A 71-year-old woman with fever and hypotension is intubated for respiratory failure. Despite fluids, MAP remains <65 mmHg.
+What is the next best step?
+Answer Choices:
+(A) Dopamine infusion
+(B) Norepinephrine infusion
+(C) Phenylephrine infusion
+(D) Dobutamine infusion
+(E) Vasopressin alone
+Correct Answer: B
+Explanation:
+Norepinephrine is first‑line vasopressor in septic shock after adequate fluid resuscitation.
+________________
+
+
+Question 26
+A patient with ARDS is on mechanical ventilation. Which ventilator strategy improves mortality?
+Answer Choices:
+(A) High tidal volume ventilation
+(B) Zero PEEP
+(C) Low tidal volume ventilation
+(D) High FiO₂ without PEEP
+(E) Hyperventilation
+Correct Answer: C
+Explanation:
+Low tidal volume ventilation (6 mL/kg) reduces ventilator‑induced lung injury and improves survival in ARDS.
+________________
+
+
+Question 27
+A 60-year-old man presents with syncope. ECG shows Brugada pattern with coved ST elevations in V1–V3.
+What is the most appropriate long-term management?
+Answer Choices:
+(A) Beta‑blocker
+(B) Calcium channel blocker
+(C) Implantable cardioverter‑defibrillator
+(D) Amiodarone
+(E) Observation only
+Correct Answer: C
+Explanation:
+Brugada syndrome carries a high risk of sudden cardiac death → ICD placement.
+________________
+
+
+Question 28
+A patient develops acute dyspnea after receiving a blood transfusion. Chest X‑ray shows bilateral pulmonary infiltrates. BNP is normal, and JVP is not elevated.
+What is the most likely diagnosis?
+Answer Choices:
+(A) TACO
+(B) TRALI
+(C) Cardiogenic pulmonary edema
+(D) Pulmonary embolism
+(E) Anaphylaxis
+Correct Answer: B
+Explanation:
+TRALI presents with non‑cardiogenic pulmonary edema within 6 hours of transfusion; BNP is normal.
+________________
+
+
+Question 29
+A 65-year-old man presents with exertional dyspnea. Echocardiogram shows asymmetric septal hypertrophy and systolic anterior motion of the mitral valve.
+Which medication improves symptoms?
+Answer Choices:
+(A) Nitrates
+(B) ACE inhibitors
+(C) Beta‑blockers
+(D) Digoxin
+(E) Diuretics
+Correct Answer: C
+Explanation:
+In hypertrophic obstructive cardiomyopathy, beta‑blockers reduce contractility and LV outflow obstruction.
+________________
+
+
+Question 30
+A patient with massive pulmonary embolism is hypotensive and in shock. CT angiography confirms diagnosis.
+What is the most appropriate treatment?
+Answer Choices:
+(A) Heparin only
+(B) IVC filter
+(C) Thrombolytic therapy
+(D) Surgical embolectomy only
+(E) Observation
+Correct Answer: C
+Explanation:
+Massive PE with hemodynamic instability requires systemic thrombolysis unless contraindicated.
+Question 31
+A 67-year-old man with a history of ischemic cardiomyopathy is admitted to the ICU with hypotension, oliguria, and altered mental status. Swan–Ganz catheter data reveal:
+* Cardiac output: ↓
+* Systemic vascular resistance: ↑
+* Pulmonary capillary wedge pressure: ↑
+Which type of shock is most consistent with these findings?
+Answer Choices:
+(A) Septic shock
+(B) Hypovolemic shock
+(C) Cardiogenic shock
+(D) Obstructive shock
+(E) Neurogenic shock
+Correct Answer: C
+Explanation:
+Low CO, high SVR, and elevated PCWP are classic for cardiogenic shock.
+________________
+
+
+Question 32
+A 59-year-old woman with sepsis is hypotensive despite aggressive fluid resuscitation. She is started on norepinephrine. Repeat hemodynamics show improved MAP but persistent low cardiac output.
+Which additional medication would most directly improve her cardiac output?
+Answer Choices:
+(A) Phenylephrine
+(B) Vasopressin
+(C) Dobutamine
+(D) Epinephrine bolus
+(E) Esmolol
+Correct Answer: C
+Explanation:
+Dobutamine is an inotrope that increases cardiac output, especially useful in septic shock with myocardial dysfunction.
+________________
+
+
+Question 33
+A 72-year-old man presents with acute pulmonary edema and hypotension. Echocardiography shows acute severe aortic regurgitation due to infective endocarditis.
+What is the most appropriate definitive management?
+Answer Choices:
+(A) High-dose diuretics
+(B) Vasodilator therapy only
+(C) Emergent valve replacement
+(D) Beta-blockers
+(E) Observation with antibiotics
+Correct Answer: C
+Explanation:
+Acute severe aortic regurgitation is a surgical emergency; medical therapy alone is insufficient.
+________________
+
+
+Question 34
+A patient with ARDS remains severely hypoxemic despite low tidal volume ventilation, high PEEP, and prone positioning. PaO₂/FiO₂ ratio remains <80.
+What is the next best management option?
+Answer Choices:
+(A) Increase tidal volume
+(B) Decrease PEEP
+(C) ECMO
+(D) Diuretics
+(E) Bronchodilators
+Correct Answer: C
+Explanation:
+ECMO is indicated in refractory severe ARDS when conventional strategies fail.
+________________
+
+
+Question 35
+A 65-year-old woman presents with syncope and hypotension. JVP is elevated, lungs are clear, and heart sounds are muffled. ECG shows low-voltage QRS complexes.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Acute MI
+(B) Tension pneumothorax
+(C) Cardiac tamponade
+(D) Massive pulmonary embolism
+(E) Cardiogenic shock
+Correct Answer: C
+Explanation:
+This is Beck’s triad: hypotension, JVD, muffled heart sounds → cardiac tamponade.
+________________
+
+
+Question 36
+A patient with acute inferior MI develops hypotension and clear lungs. ECG shows ST elevations in leads II, III, and aVF.
+Which intervention is most likely to improve his blood pressure?
+Answer Choices:
+(A) IV nitrates
+(B) Diuretics
+(C) IV fluids
+(D) Morphine
+(E) Beta-blockers
+Correct Answer: C
+Explanation:
+Inferior MI can involve the right ventricle, which is preload dependent → give IV fluids.
+________________
+
+
+Question 37
+A 61-year-old man presents with dyspnea and fatigue. Echocardiography shows severe mitral stenosis. He is in atrial fibrillation with rapid ventricular response.
+Which complication is he at highest risk of developing?
+Answer Choices:
+(A) Ventricular tachycardia
+(B) Infective endocarditis
+(C) Systemic embolization
+(D) Acute pulmonary embolism
+(E) Aortic dissection
+Correct Answer: C
+Explanation:
+Mitral stenosis → left atrial dilation → atrial fibrillation → thromboembolism.
+________________
+
+
+Question 38
+A mechanically ventilated patient suddenly becomes hypotensive. Breath sounds are equal. CVP is elevated. Cardiac ultrasound shows right ventricular dilation and septal flattening.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Tension pneumothorax
+(B) Cardiac tamponade
+(C) Massive pulmonary embolism
+(D) Cardiogenic shock
+(E) Septic shock
+Correct Answer: C
+Explanation:
+Acute RV strain, elevated CVP, hypotension → massive pulmonary embolism.
+________________
+
+
+Question 39
+A patient with severe COPD exacerbation is placed on mechanical ventilation. Shortly after intubation, he becomes hypotensive.
+What is the most likely mechanism?
+Answer Choices:
+(A) Myocardial infarction
+(B) Sepsis
+(C) Decreased venous return due to increased intrathoracic pressure
+(D) Acute blood loss
+(E) Arrhythmia
+Correct Answer: C
+Explanation:
+Positive pressure ventilation increases intrathoracic pressure → reduced venous return → hypotension, especially in COPD.
+________________
+
+
+Question 40
+A 70-year-old man with chronic heart failure presents with worsening dyspnea. BNP is elevated. Echocardiogram shows EF 25%. Despite optimal medical therapy, he remains symptomatic.
+Which intervention improves survival?
+Answer Choices:
+(A) Digoxin
+(B) Loop diuretics
+(C) Implantable cardioverter-defibrillator
+(D) Nitrates
+(E) Calcium channel blockers
+Correct Answer: C
+Explanation:
+In HFrEF with EF ≤35%, ICD placement reduces sudden cardiac death and improves survival.
+
+
+Question 41
+A 56-year-old woman with long-standing rheumatic heart disease presents with progressive dyspnea and hemoptysis. Exam reveals a loud S1 and an opening snap. Echocardiography shows severe mitral stenosis with a valve area of 0.9 cm². She is in sinus rhythm and has no left atrial thrombus.
+What is the most appropriate next step in management?
+Answer Choices:
+(A) Beta-blocker therapy
+(B) Diuretics only
+(C) Percutaneous balloon mitral valvotomy
+(D) Mitral valve replacement immediately
+(E) Anticoagulation only
+Correct Answer: C
+Explanation:
+Symptomatic severe mitral stenosis with favorable anatomy → balloon valvotomy is first-line.
+________________
+
+
+Question 42
+A 62-year-old man with COPD presents with worsening dyspnea and lower extremity edema. Echocardiogram shows right ventricular hypertrophy and elevated pulmonary artery pressures with normal left-sided function.
+What is the most likely underlying mechanism?
+Answer Choices:
+(A) Left ventricular systolic dysfunction
+(B) Chronic hypoxic vasoconstriction
+(C) Acute pulmonary embolism
+(D) Mitral valve disease
+(E) Congenital heart disease
+Correct Answer: B
+Explanation:
+COPD leads to chronic hypoxia, causing pulmonary vasoconstriction and cor pulmonale.
+________________
+
+
+Question 43
+A mechanically ventilated patient has the following arterial blood gas:
+* pH 7.28
+* PaCO₂ 55 mmHg
+* PaO₂ 70 mmHg
+Which ventilator adjustment would best correct the primary abnormality?
+Answer Choices:
+(A) Increase FiO₂
+(B) Increase tidal volume
+(C) Increase PEEP
+(D) Decrease respiratory rate
+(E) Switch to pressure support
+Correct Answer: B
+Explanation:
+Primary issue is respiratory acidosis → increase minute ventilation (tidal volume or rate).
+________________
+
+
+Question 44
+A 68-year-old man with known aortic stenosis is scheduled for elective hip surgery. He reports exertional chest pain and syncope. Echocardiography shows severe aortic stenosis.
+What is the best perioperative management?
+Answer Choices:
+(A) Proceed with surgery with invasive monitoring
+(B) Delay surgery and perform aortic valve replacement
+(C) Treat with nitrates preoperatively
+(D) Start beta-blockers and proceed
+(E) Balloon valvuloplasty only
+Correct Answer: B
+Explanation:
+Symptomatic severe aortic stenosis → valve replacement before noncardiac surgery.
+________________
+
+
+Question 45
+A patient with pulmonary arterial hypertension is started on therapy that increases nitric oxide signaling.
+Which medication was most likely initiated?
+Answer Choices:
+(A) Bosentan
+(B) Sildenafil
+(C) Epoprostenol
+(D) Furosemide
+(E) Digoxin
+Correct Answer: B
+Explanation:
+Sildenafil (PDE‑5 inhibitor) increases nitric oxide–mediated vasodilation in pulmonary vasculature.
+________________
+
+
+Question 46
+A 70-year-old man presents with acute dyspnea. ECG shows S1Q3T3 pattern. CT angiography confirms pulmonary embolism. He is normotensive but has RV dilation on echocardiogram.
+What is the best initial treatment?
+Answer Choices:
+(A) Thrombolytic therapy
+(B) Surgical embolectomy
+(C) Anticoagulation with heparin
+(D) IVC filter placement
+(E) Observation
+Correct Answer: C
+Explanation:
+This is submassive PE (RV strain without hypotension) → anticoagulation, not thrombolysis.
+________________
+
+
+Question 47
+A ventilated patient has rising PaCO₂ despite unchanged ventilator settings. Plateau pressure is elevated.
+What is the most likely cause?
+Answer Choices:
+(A) Decreased lung compliance
+(B) Endotracheal tube obstruction
+(C) Decreased respiratory drive
+(D) Hypovolemia
+(E) Increased FiO₂
+Correct Answer: A
+Explanation:
+Elevated plateau pressure indicates reduced lung compliance, common in ARDS or pulmonary edema.
+________________
+
+
+Question 48
+A 65-year-old woman with heart failure has recurrent hospitalizations despite optimal medical therapy. QRS duration is 160 ms with left bundle branch block.
+Which intervention is most appropriate?
+Answer Choices:
+(A) ICD only
+(B) Cardiac resynchronization therapy
+(C) Digoxin therapy
+(D) Increased diuretics
+(E) Calcium channel blocker
+Correct Answer: B
+Explanation:
+Wide QRS + HFrEF → cardiac resynchronization therapy (CRT) improves symptoms and survival.
+________________
+
+
+Question 49
+A patient with severe asthma is intubated. Shortly after, peak inspiratory pressures rise while plateau pressures remain normal.
+What is the most likely cause?
+Answer Choices:
+(A) Pulmonary edema
+(B) Decreased lung compliance
+(C) Bronchospasm
+(D) Pneumothorax
+(E) ARDS
+Correct Answer: C
+Explanation:
+High peak but normal plateau pressure indicates airway resistance, e.g., bronchospasm.
+________________
+
+
+Question 50
+A 73-year-old man with end-stage heart failure is evaluated for advanced therapies. He has severe pulmonary hypertension that does not respond to vasodilator testing.
+Which option is contraindicated?
+Answer Choices:
+(A) LVAD placement
+(B) Heart transplantation
+(C) Palliative care referral
+(D) Inotropic support
+(E) Diuretic optimization
+Correct Answer: B
+Explanation:
+Fixed pulmonary hypertension is a contraindication to heart transplantation due to risk of RV failure.
+Question 51
+A 58-year-old man with ischemic cardiomyopathy (EF 15%) presents with cardiogenic shock. Despite maximal medical therapy, he remains hypotensive with end‑organ hypoperfusion. He has no irreversible neurologic injury and no active infection.
+Which intervention is the most appropriate next step as a bridge to definitive therapy?
+Answer Choices:
+(A) High‑dose loop diuretics
+(B) Intra‑aortic balloon pump (IABP)
+(C) Permanent pacemaker placement
+(D) Pulmonary artery catheter only
+(E) Oral inotropic therapy
+Correct Answer: B
+Explanation:
+In refractory cardiogenic shock, temporary mechanical circulatory support (e.g., IABP, Impella) is used as a bridge to transplant or LVAD.
+________________
+
+
+Question 52
+A 64-year-old woman with end-stage COPD is intubated for respiratory failure. Despite optimal ventilator management, PaO₂/FiO₂ remains <70. She has no significant cardiac disease or contraindications.
+Which intervention offers the best chance of survival?
+Answer Choices:
+(A) Increase tidal volume
+(B) Long-term steroids
+(C) ECMO
+(D) Tracheostomy
+(E) High-dose antibiotics
+Correct Answer: C
+Explanation:
+VV‑ECMO is indicated for refractory hypoxemic respiratory failure when conventional ventilation fails.
+________________
+
+
+Question 53
+A 70-year-old man with severe pulmonary hypertension and right heart failure is evaluated for lung transplantation. He has significant coronary artery disease and chronic kidney disease (eGFR 25).
+Which factor most strongly contraindicates transplantation?
+Answer Choices:
+(A) Age >65
+(B) Pulmonary hypertension severity
+(C) Coronary artery disease
+(D) Chronic kidney disease
+(E) Oxygen dependence
+Correct Answer: D
+Explanation:
+Severe irreversible end‑organ dysfunction (advanced CKD) is a major contraindication to lung transplantation.
+________________
+
+
+Question 54
+A patient on VA‑ECMO for cardiogenic shock develops hemolysis, thrombocytopenia, and rising LDH levels.
+What is the most likely cause?
+Answer Choices:
+(A) Sepsis
+(B) Heparin overdose
+(C) Mechanical shear stress
+(D) Acute liver failure
+(E) Immune thrombocytopenia
+Correct Answer: C
+Explanation:
+ECMO circuits cause mechanical hemolysis and platelet destruction due to high shear forces.
+________________
+
+
+Question 55
+A 66-year-old man with end-stage heart failure is not a transplant candidate due to active malignancy. He asks about long-term mechanical support.
+Which option is most appropriate?
+Answer Choices:
+(A) ECMO as destination therapy
+(B) Total artificial heart
+(C) LVAD as destination therapy
+(D) Chronic inotropes only
+(E) Hospice referral immediately
+Correct Answer: C
+Explanation:
+LVADs can be used as destination therapy in patients who are not transplant candidates.
+________________
+
+
+Question 56
+A critically ill patient with ARDS is on mechanical ventilation. ABG shows:
+* pH 7.22
+* PaCO₂ 65 mmHg
+* PaO₂ 58 mmHg
+Low tidal volume ventilation is already optimized.
+What is the most appropriate next step?
+Answer Choices:
+(A) Increase tidal volume
+(B) Accept permissive hypercapnia
+(C) Increase respiratory rate significantly
+(D) Stop sedation
+(E) Add diuretics
+Correct Answer: B
+Explanation:
+In ARDS, permissive hypercapnia is accepted to prevent ventilator‑induced lung injury.
+________________
+
+
+Question 57
+A 72-year-old man with severe aortic stenosis and multivessel coronary disease is deemed too high risk for surgical valve replacement.
+Which intervention is most appropriate?
+Answer Choices:
+(A) Balloon valvuloplasty only
+(B) Medical therapy alone
+(C) Transcatheter aortic valve replacement (TAVR)
+(D) Heart transplantation
+(E) ECMO
+Correct Answer: C
+Explanation:
+TAVR is indicated for severe symptomatic aortic stenosis in patients at high or prohibitive surgical risk.
+________________
+
+
+Question 58
+A patient with terminal pulmonary fibrosis requests withdrawal of mechanical ventilation. Family agrees, and the patient has decision‑making capacity.
+Which action is ethically and legally appropriate?
+Answer Choices:
+(A) Refuse due to physician duty to preserve life
+(B) Continue ventilation indefinitely
+(C) Withdraw ventilatory support with comfort measures
+(D) Administer lethal medication
+(E) Transfer care to another hospital
+Correct Answer: C
+Explanation:
+Withdrawal of life‑sustaining treatment at the patient’s request is ethical and legal, with focus on palliative care.
+________________
+
+
+Question 59
+A 60-year-old man with idiopathic pulmonary arterial hypertension is on maximal medical therapy but continues to deteriorate.
+Which parameter most strongly supports referral for lung transplantation?
+Answer Choices:
+(A) Elevated BNP
+(B) WHO functional class IV symptoms
+(C) Mild hypoxemia
+(D) Right atrial enlargement
+(E) Reduced DLCO
+Correct Answer: B
+Explanation:
+Functional status (WHO class IV) is a key criterion for transplant referral in pulmonary hypertension.
+________________
+
+
+Question 60
+A patient with end-stage heart and lung disease asks whether ECMO can be used indefinitely as life support.
+What is the most accurate response?
+Answer Choices:
+(A) ECMO can replace transplant permanently
+(B) ECMO is appropriate for all terminal patients
+(C) ECMO is a short-term bridge, not definitive therapy
+(D) ECMO is equivalent to LVAD therapy
+(E) ECMO is contraindicated in heart failure
+Correct Answer: C
+Explanation:
+ECMO is a temporary supportive measure, used as a bridge to recovery, transplant, or decision, not as permanent life support.

@@ -1,0 +1,876 @@
+﻿Question 1
+A male neonate is born at 39 weeks via vaginal delivery. At 2 hours of life, he develops tachypnea, grunting, and central cyanosis unresponsive to supplemental oxygen. Physical exam reveals a single loud S2. Chest X‑ray shows a narrow mediastinum (“egg on a string”). ABG reveals severe hypoxemia with normal PaCO₂.
+What is the most appropriate immediate management?
+Answer Choices:
+(A) Endotracheal intubation and mechanical ventilation
+(B) Administer inhaled nitric oxide
+(C) Start prostaglandin E1 infusion
+(D) Urgent balloon atrial septostomy
+(E) Broad‑spectrum antibiotics
+Correct Answer: C
+Explanation:
+Findings suggest transposition of the great arteries. Survival depends on mixing via PDA → prostaglandin E1 to maintain ductal patency is the first step.
+________________
+
+
+Question 2
+A 6‑day‑old infant presents with poor feeding, vomiting, lethargy, and jaundice. Labs show hypoglycemia, hyperammonemia, and elevated liver enzymes. Newborn screen was abnormal.
+Which dietary intervention is most appropriate?
+Answer Choices:
+(A) Lactose‑free formula
+(B) Low‑phenylalanine diet
+(C) Elimination of galactose and lactose
+(D) High‑protein diet
+(E) Medium‑chain triglyceride supplementation
+Correct Answer: C
+Explanation:
+This is classic galactosemia → inability to metabolize galactose → remove lactose/galactose immediately.
+________________
+
+
+Question 3
+A 4‑year‑old child presents with fever, drooling, muffled voice, and tripod positioning. Oxygen saturation is 92%. Parents report no vaccination history.
+What is the next best step?
+Answer Choices:
+(A) Throat culture
+(B) CT scan of the neck
+(C) Immediate endotracheal intubation
+(D) Oral antibiotics and discharge
+(E) Nebulized epinephrine
+Correct Answer: C
+Explanation:
+Unvaccinated child with drooling and tripod posture → epiglottitis. Secure airway first before any diagnostics.
+________________
+
+
+Question 4
+A 2‑month‑old infant presents with poor weight gain, sweating during feeds, and tachypnea. Exam shows hepatomegaly and a harsh holosystolic murmur at the left lower sternal border.
+What is the most likely underlying pathology?
+Answer Choices:
+(A) Decreased pulmonary blood flow
+(B) Increased pulmonary vascular resistance
+(C) Left‑to‑right intracardiac shunt
+(D) Obstructed systemic outflow
+(E) Primary myocardial dysfunction
+Correct Answer: C
+Explanation:
+Large VSD → left‑to‑right shunt → heart failure symptoms at 1–3 months.
+________________
+
+
+Question 5
+A previously healthy 7‑year‑old develops sudden onset petechiae and purpura 2 weeks after a viral illness. Platelet count is 18,000/µL. Hemoglobin and WBC count are normal.
+What is the most appropriate management?
+Answer Choices:
+(A) Bone marrow biopsy
+(B) Platelet transfusion
+(C) IV immunoglobulin
+(D) Broad‑spectrum antibiotics
+(E) Observation only
+Correct Answer: C
+Explanation:
+Immune thrombocytopenic purpura (ITP) with platelets <20,000 → treat with IVIG.
+________________
+
+
+Question 6
+A 3‑day‑old neonate presents with bilious vomiting and abdominal distension. Abdominal X‑ray shows a “double‑bubble” sign.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Pyloric stenosis
+(B) Duodenal atresia
+(C) Necrotizing enterocolitis
+(D) Hirschsprung disease
+(E) Meconium ileus
+Correct Answer: B
+Explanation:
+Duodenal atresia → bilious vomiting + double‑bubble sign; associated with Down syndrome.
+________________
+
+
+Question 7
+A 10‑year‑old boy presents with fatigue, bone pain, and recurrent infections. CBC shows anemia, thrombocytopenia, and leukocytosis with blasts. Bone marrow biopsy confirms acute lymphoblastic leukemia (ALL).
+Which factor is associated with a better prognosis?
+Answer Choices:
+(A) Age <1 year
+(B) T‑cell lineage
+(C) CNS involvement
+(D) Hyperdiploidy
+(E) t(9;22) translocation
+Correct Answer: D
+Explanation:
+Hyperdiploidy in ALL is associated with excellent prognosis.
+________________
+
+
+Question 8
+A 5‑year‑old child presents with colicky abdominal pain, vomiting, and “currant jelly” stools. Ultrasound shows a target sign.
+What is the next best step?
+Answer Choices:
+(A) Immediate laparotomy
+(B) Barium or air enema
+(C) IV antibiotics only
+(D) Colonoscopy
+(E) Observation
+Correct Answer: B
+Explanation:
+Classic intussusception → air or contrast enema is both diagnostic and therapeutic.
+________________
+
+
+Question 9
+A 13‑year‑old girl presents with delayed puberty and primary amenorrhea. She is short with webbed neck and widely spaced nipples. Karyotype is 45,XO.
+Which associated condition should be screened for?
+Answer Choices:
+(A) Renal anomalies
+(B) Sickle cell disease
+(C) Cystic fibrosis
+(D) Neural tube defects
+(E) Congenital adrenal hyperplasia
+Correct Answer: A
+Explanation:
+Turner syndrome → renal abnormalities (eg, horseshoe kidney), cardiac defects.
+________________
+
+
+Question 10
+A 15‑year‑old boy with cystic fibrosis presents with worsening cough and weight loss. Sputum culture grows Pseudomonas aeruginosa.
+Which antibiotic is most appropriate?
+Answer Choices:
+(A) Amoxicillin
+(B) Azithromycin
+(C) Tobramycin
+(D) Vancomycin
+(E) Trimethoprim‑sulfamethoxazole
+Correct Answer: C
+Explanation:
+Inhaled or IV aminoglycosides (tobramycin) are key for Pseudomonas in CF.
+Question 11
+A term neonate develops respiratory distress, poor feeding, and hypotonia at 36 hours of life. Pregnancy and delivery were uncomplicated. Physical exam shows hepatomegaly. Labs reveal metabolic acidosis with an elevated anion gap, hyperammonemia, and hypoglycemia. Urine organic acid analysis shows elevated methylmalonic acid.
+What is the most appropriate acute management?
+Answer Choices:
+(A) High‑protein feeding
+(B) Sodium benzoate only
+(C) Immediate cessation of protein intake and IV glucose
+(D) Lactose‑free formula
+(E) Exchange transfusion
+Correct Answer: C
+Explanation:
+This is an inborn error of metabolism (methylmalonic acidemia). Acute management requires stop protein intake and provide IV glucose to reverse catabolism.
+________________
+
+
+Question 12
+A 2‑week‑old infant presents with vomiting, dehydration, weight loss, and shock. Labs show hyponatremia, hyperkalemia, and hypoglycemia. Genital exam reveals ambiguous genitalia.
+What is the underlying pathophysiology?
+Answer Choices:
+(A) Deficiency of 11β‑hydroxylase
+(B) Deficiency of 21‑hydroxylase
+(C) Defect in aldosterone receptor
+(D) Excess cortisol production
+(E) Deficiency of 17α‑hydroxylase
+Correct Answer: B
+Explanation:
+Congenital adrenal hyperplasia (21‑hydroxylase deficiency) → salt‑wasting crisis, hypotension, ambiguous genitalia.
+________________
+
+
+Question 13
+A 3‑month‑old infant presents with poor feeding, vomiting, and failure to thrive. Physical exam shows hepatosplenomegaly and cherry‑red spot on fundoscopic exam.
+Which enzyme deficiency is responsible?
+Answer Choices:
+(A) Hexosaminidase A
+(B) Glucocerebrosidase
+(C) Sphingomyelinase
+(D) α‑galactosidase A
+(E) Iduronidase
+Correct Answer: C
+Explanation:
+Niemann‑Pick disease → sphingomyelinase deficiency → hepatosplenomegaly + cherry‑red spot.
+________________
+
+
+Question 14
+A 6‑year‑old child presents with fever, limp, and refusal to bear weight. ESR and CRP are elevated. MRI shows joint effusion of the hip.
+What is the most appropriate next step?
+Answer Choices:
+(A) Oral NSAIDs and discharge
+(B) Blood cultures only
+(C) Joint aspiration and IV antibiotics
+(D) Observation for 24 hours
+(E) Physical therapy
+Correct Answer: C
+Explanation:
+Suspected septic arthritis → urgent joint aspiration and IV antibiotics to prevent joint destruction.
+________________
+
+
+Question 15
+A 9‑month‑old infant presents with bulging fontanelle, fever, and seizures. CSF shows low glucose, high protein, and neutrophilic predominance. Gram stain reveals gram‑positive diplococci.
+What is the most likely organism?
+Answer Choices:
+(A) Neisseria meningitidis
+(B) Listeria monocytogenes
+(C) Streptococcus pneumoniae
+(D) Haemophilus influenzae type b
+(E) Group B Streptococcus
+Correct Answer: C
+Explanation:
+In infants >3 months, S. pneumoniae is the most common cause of bacterial meningitis.
+________________
+
+
+Question 16
+A 4‑year‑old child is brought in with multiple bruises in different stages of healing. The caregiver gives an inconsistent history. X‑ray reveals posterior rib fractures.
+What is the most appropriate next step?
+Answer Choices:
+(A) Discharge with close follow‑up
+(B) Counsel caregiver
+(C) Report to child protective services
+(D) Order coagulation studies only
+(E) Obtain parental consent for discharge
+Correct Answer: C
+Explanation:
+Findings are classic for non‑accidental trauma. Mandatory reporting is required.
+________________
+
+
+Question 17
+A 12‑year‑old boy presents with chest pain and syncope during exercise. Family history reveals sudden cardiac death in a first‑degree relative. ECG shows left ventricular hypertrophy with deep Q waves.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Aortic stenosis
+(B) Dilated cardiomyopathy
+(C) Hypertrophic cardiomyopathy
+(D) Long QT syndrome
+(E) Myocarditis
+Correct Answer: C
+Explanation:
+Exertional syncope + family history + LVH → hypertrophic cardiomyopathy, a major cause of sudden death in youth.
+________________
+
+
+Question 18
+A 5‑year‑old unvaccinated child presents with fever, sore throat, and a gray pseudomembrane over the tonsils that bleeds on removal.
+What is the most important immediate intervention?
+Answer Choices:
+(A) Oral antibiotics
+(B) DTaP vaccination
+(C) Diphtheria antitoxin
+(D) Throat culture
+(E) Corticosteroids
+Correct Answer: C
+Explanation:
+Suspected diphtheria → treat immediately with antitoxin; do not wait for cultures.
+________________
+
+
+Question 19
+A 14‑year‑old girl with type 1 diabetes presents with abdominal pain, vomiting, and deep rapid breathing. Labs show glucose 520 mg/dL, pH 7.08, and positive serum ketones.
+Which complication must be monitored most closely during treatment?
+Answer Choices:
+(A) Hypokalemia
+(B) Pulmonary edema
+(C) Cerebral edema
+(D) Acute renal failure
+(E) Hypoglycemia only
+Correct Answer: C
+Explanation:
+Cerebral edema is the most feared complication of pediatric DKA, especially during insulin therapy.
+________________
+
+
+Question 20
+A 15‑year‑old adolescent refuses life‑saving chemotherapy for leukemia. She demonstrates understanding of risks and benefits. Parents want treatment.
+What is the most appropriate action?
+Answer Choices:
+(A) Respect patient refusal
+(B) Obtain court order
+(C) Side with parents automatically
+(D) Delay treatment
+(E) Transfer care
+Correct Answer: B
+Explanation:
+Minors generally cannot refuse life‑saving treatment. Court intervention is appropriate when refusal risks death.
+
+
+Question 21
+A premature neonate born at 28 weeks gestation develops apnea, bradycardia, and desaturation episodes on day 3 of life. Cranial ultrasound reveals germinal matrix hemorrhage extending into the ventricles with ventricular dilation.
+What is the most likely long‑term complication?
+Answer Choices:
+(A) Sensorineural hearing loss
+(B) Cerebral palsy
+(C) Retinopathy of prematurity
+(D) Necrotizing enterocolitis
+(E) Bronchopulmonary dysplasia
+Correct Answer: B
+Explanation:
+Intraventricular hemorrhage in premature infants is strongly associated with cerebral palsy due to white‑matter injury.
+________________
+
+
+Question 22
+A 6‑year‑old child presents with prolonged fever, bilateral conjunctival injection, strawberry tongue, cracked lips, and unilateral cervical lymphadenopathy. On day 9 of illness, fever persists despite IVIG.
+What is the most concerning complication to monitor for?
+Answer Choices:
+(A) Myocarditis
+(B) Aortic coarctation
+(C) Coronary artery aneurysms
+(D) Rheumatic fever
+(E) Subacute bacterial endocarditis
+Correct Answer: C
+Explanation:
+This is Kawasaki disease. The most serious complication is coronary artery aneurysm, requiring echocardiographic monitoring.
+________________
+
+
+Question 23
+A 2‑day‑old neonate develops vomiting, lethargy, and seizures. Labs show severe hypoglycemia without ketosis. Ammonia level is normal.
+Which enzyme deficiency is most likely?
+Answer Choices:
+(A) Medium‑chain acyl‑CoA dehydrogenase
+(B) Phenylalanine hydroxylase
+(C) Galactose‑1‑phosphate uridyltransferase
+(D) Carbamoyl phosphate synthetase
+(E) Pyruvate dehydrogenase
+Correct Answer: A
+Explanation:
+MCAD deficiency causes hypoketotic hypoglycemia, often triggered by fasting or illness.
+________________
+
+
+Question 24
+A 10‑year‑old boy presents with migratory arthritis, fever, and a new holosystolic murmur 3 weeks after untreated streptococcal pharyngitis.
+Which additional finding is most likely present?
+Answer Choices:
+(A) Anti‑double‑stranded DNA antibodies
+(B) Subcutaneous nodules
+(C) Coronary artery dilation
+(D) Thrombocytopenia
+(E) Renal failure
+Correct Answer: B
+Explanation:
+This is acute rheumatic fever. Jones criteria include subcutaneous nodules, carditis, migratory arthritis, chorea, erythema marginatum.
+________________
+
+
+Question 25
+A 4‑year‑old child presents with progressive muscle weakness, difficulty climbing stairs, and frequent falls. CK is markedly elevated. Genetic testing confirms a frameshift mutation.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Becker muscular dystrophy
+(B) Duchenne muscular dystrophy
+(C) Spinal muscular atrophy
+(D) Myasthenia gravis
+(E) Limb‑girdle dystrophy
+Correct Answer: B
+Explanation:
+Duchenne muscular dystrophy results from a frameshift mutation in dystrophin, leading to severe early‑onset disease.
+________________
+
+
+Question 26
+A 7‑year‑old child presents with hematuria, periorbital edema, and hypertension 2 weeks after a skin infection. Labs show low complement levels.
+Which finding supports the diagnosis?
+Answer Choices:
+(A) Anti‑GBM antibodies
+(B) Subepithelial humps on EM
+(C) Full‑house immunofluorescence
+(D) Linear IgG deposition
+(E) Crescent formation
+Correct Answer: B
+Explanation:
+This is post‑streptococcal glomerulonephritis, characterized by subepithelial immune complex “humps.”
+________________
+
+
+Question 27
+A 12‑year‑old girl presents with photosensitive rash, arthritis, oral ulcers, and renal involvement. Labs show low complement levels and positive anti‑dsDNA antibodies.
+Which additional lab abnormality is most likely?
+Answer Choices:
+(A) Elevated IgE
+(B) Thrombocytosis
+(C) Pancytopenia
+(D) Hypercalcemia
+(E) Elevated CRP only
+Correct Answer: C
+Explanation:
+Systemic lupus erythematosus commonly causes cytopenias due to immune‑mediated destruction.
+________________
+
+
+Question 28
+A 3‑year‑old child presents with sudden onset wheezing, coughing, and asymmetric breath sounds after playing with older siblings.
+What is the best next step?
+Answer Choices:
+(A) Chest X‑ray
+(B) Bronchodilators
+(C) Oral corticosteroids
+(D) Rigid bronchoscopy
+(E) Observation
+Correct Answer: D
+Explanation:
+Suspected foreign body aspiration → rigid bronchoscopy is both diagnostic and therapeutic.
+________________
+
+
+Question 29
+A 9‑month‑old infant presents with poor head control, macrocephaly, seizures, and progressive developmental delay. MRI shows white‑matter demyelination.
+Which diagnosis is most likely?
+Answer Choices:
+(A) Tay‑Sachs disease
+(B) Krabbe disease
+(C) Metachromatic leukodystrophy
+(D) Spinal muscular atrophy
+(E) Niemann‑Pick disease
+Correct Answer: B
+Explanation:
+Krabbe disease causes early demyelination, macrocephaly, seizures, and neurodegeneration.
+________________
+
+
+Question 30
+Parents of a 2‑month‑old infant refuse routine immunizations due to personal beliefs. The infant is otherwise healthy.
+What is the physician’s most appropriate response?
+Answer Choices:
+(A) Dismiss the family from care
+(B) Administer vaccines without consent
+(C) Respect refusal and document counseling
+(D) Report to child protective services
+(E) Seek court order
+Correct Answer: C
+Explanation:
+Parental refusal of routine vaccines requires thorough counseling and documentation, not coercion, unless immediate danger exists.
+Question 31
+A 5‑year‑old child is admitted to the PICU with septic shock due to meningococcemia. Despite aggressive fluid resuscitation, broad‑spectrum antibiotics, and vasopressors, the child develops purpura fulminans, bleeding from IV sites, and hypotension. Labs show prolonged PT/PTT, low fibrinogen, and thrombocytopenia.
+What is the most appropriate next step in management?
+Answer Choices:
+(A) Platelet transfusion only
+(B) High‑dose corticosteroids
+(C) Fresh frozen plasma and cryoprecipitate
+(D) Immediate splenectomy
+(E) Observation and supportive care
+Correct Answer: C
+Explanation:
+This is DIC secondary to severe sepsis. Management requires replacement of consumed clotting factors with FFP and cryoprecipitate in addition to treating the underlying cause.
+________________
+
+
+Question 32
+A 3‑year‑old child presents with abdominal distension, vomiting, and weight loss. Imaging shows a large abdominal mass crossing the midline with calcifications. Urinary catecholamine metabolites are elevated.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Wilms tumor
+(B) Hepatoblastoma
+(C) Neuroblastoma
+(D) Rhabdomyosarcoma
+(E) Lymphoma
+Correct Answer: C
+Explanation:
+Neuroblastoma arises from neural crest cells, often crosses the midline, shows calcifications, and is associated with elevated VMA/HVA.
+________________
+
+
+Question 33
+A 12‑year‑old boy collapses during basketball practice. CPR is initiated. He is resuscitated and found to have ventricular arrhythmias. Echo shows asymmetric septal hypertrophy.
+Which intervention most reduces the risk of sudden death?
+Answer Choices:
+(A) Beta‑blocker therapy alone
+(B) Surgical septal myectomy
+(C) Implantable cardioverter‑defibrillator (ICD)
+(D) Calcium channel blockers
+(E) Activity restriction only
+Correct Answer: C
+Explanation:
+In hypertrophic cardiomyopathy with prior cardiac arrest, an ICD is the most effective life‑saving intervention.
+________________
+
+
+Question 34
+A 2‑year‑old child presents after ingesting an unknown quantity of iron tablets. He has vomiting, diarrhea, and lethargy. Labs show metabolic acidosis and elevated serum iron levels.
+What is the most appropriate treatment?
+Answer Choices:
+(A) Activated charcoal
+(B) Whole bowel irrigation only
+(C) Deferoxamine
+(D) N‑acetylcysteine
+(E) Sodium bicarbonate only
+Correct Answer: C
+Explanation:
+Iron toxicity causes GI distress and metabolic acidosis. Deferoxamine chelates free iron and is indicated with systemic toxicity.
+________________
+
+
+Question 35
+A neonate with hypoplastic left heart syndrome is stable on prostaglandin E1 infusion. Parents ask about definitive management.
+Which surgical strategy is most appropriate?
+Answer Choices:
+(A) Immediate heart transplantation
+(B) Single‑stage corrective surgery
+(C) Staged palliation (Norwood → Glenn → Fontan)
+(D) Balloon valvuloplasty
+(E) Medical management only
+Correct Answer: C
+Explanation:
+HLHS requires staged surgical palliation, ultimately creating single‑ventricle circulation via the Fontan pathway.
+________________
+
+
+Question 36
+A 6‑year‑old child presents with fever, bone pain, pallor, and bruising. CBC shows pancytopenia. Bone marrow biopsy reveals >25% blasts expressing CD10 and TdT.
+What is the most appropriate initial treatment?
+Answer Choices:
+(A) Radiation therapy
+(B) Surgical resection
+(C) Combination chemotherapy
+(D) Bone marrow transplant immediately
+(E) High‑dose steroids alone
+Correct Answer: C
+Explanation:
+This is acute lymphoblastic leukemia. Initial treatment is multi‑agent chemotherapy; transplant is reserved for refractory disease.
+________________
+
+
+Question 37
+A 9‑year‑old child presents with confusion, tachypnea, and vomiting after several days of influenza treated with aspirin. Labs show elevated AST/ALT, ammonia, and prolonged PT.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Viral hepatitis
+(B) Acute liver failure from acetaminophen
+(C) Reye syndrome
+(D) Wilson disease
+(E) Urea cycle disorder
+Correct Answer: C
+Explanation:
+Reye syndrome occurs after viral illness treated with aspirin → acute liver failure + encephalopathy.
+________________
+
+
+Question 38
+A 4‑year‑old child is admitted with status asthmaticus. Despite continuous albuterol, steroids, and magnesium, he develops rising CO₂ and altered mental status.
+What is the next best step?
+Answer Choices:
+(A) Increase albuterol dose
+(B) Add leukotriene receptor antagonist
+(C) Endotracheal intubation
+(D) Antibiotics
+(E) Heliox therapy only
+Correct Answer: C
+Explanation:
+Worsening hypercapnia and mental status changes indicate impending respiratory failure → intubation is required.
+________________
+
+
+Question 39
+A 14‑year‑old girl with cystic fibrosis develops progressive hypoxemia and digital clubbing. Echo shows elevated pulmonary artery pressures.
+What is the underlying mechanism?
+Answer Choices:
+(A) Left‑to‑right shunt
+(B) Pulmonary vasodilation
+(C) Chronic hypoxic vasoconstriction
+(D) Acute pulmonary embolism
+(E) Primary cardiac dysfunction
+Correct Answer: C
+Explanation:
+Chronic lung disease leads to hypoxic pulmonary vasoconstriction, causing pulmonary hypertension and cor pulmonale.
+________________
+
+
+Question 40
+Parents of a critically ill 10‑year‑old child request withdrawal of life‑sustaining treatment after prognosis is deemed futile by the care team. The child is unconscious.
+What is the most appropriate ethical approach?
+Answer Choices:
+(A) Continue treatment indefinitely
+(B) Withdraw care without discussion
+(C) Honor parental decision after ethics consultation
+(D) Seek court order immediately
+(E) Transfer care without explanation
+Correct Answer: C
+Explanation:
+When treatment is medically futile, shared decision‑making with family and ethics consultation supports withdrawal of life‑sustaining measures.
+Question 41
+A 25‑week premature neonate develops worsening respiratory failure despite optimal mechanical ventilation, surfactant therapy, and inhaled nitric oxide. Head ultrasound shows grade IV intraventricular hemorrhage. The neonatology team determines prognosis is extremely poor. Parents request continuation of “everything possible.”
+What is the most appropriate next step?
+Answer Choices:
+(A) Continue all life‑sustaining therapy indefinitely
+(B) Withdraw care without family involvement
+(C) Seek immediate court intervention
+(D) Initiate shared decision‑making with ethics consultation
+(E) Transfer the infant to another facility
+Correct Answer: D
+Explanation:
+In cases of medical futility, physicians should engage in shared decision‑making, involve ethics committees, and guide families compassionately toward appropriate goals of care.
+________________
+
+
+Question 42
+A 6‑year‑old child presents with recurrent respiratory infections, chronic diarrhea, and failure to thrive. Labs show markedly decreased IgG, IgA, and IgM. Flow cytometry shows absence of mature B cells.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Selective IgA deficiency
+(B) Hyper‑IgM syndrome
+(C) X‑linked agammaglobulinemia
+(D) Common variable immunodeficiency
+(E) Severe combined immunodeficiency
+Correct Answer: C
+Explanation:
+X‑linked agammaglobulinemia (Bruton disease) → absent B cells and all immunoglobulins → recurrent bacterial infections after 6 months of age.
+________________
+
+
+Question 43
+A 4‑year‑old child presents with periorbital edema, frothy urine, and normal blood pressure. Labs show proteinuria >4 g/day, normal complement levels, and no hematuria.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Post‑streptococcal glomerulonephritis
+(B) IgA nephropathy
+(C) Minimal change disease
+(D) Membranoproliferative glomerulonephritis
+(E) Alport syndrome
+Correct Answer: C
+Explanation:
+Minimal change disease is the most common cause of nephrotic syndrome in children; complements are normal and it responds to steroids.
+________________
+
+
+Question 44
+A neonate presents with hepatosplenomegaly, jaundice, thrombocytopenia, and “blueberry muffin” rash. Head ultrasound shows intracranial calcifications. Mother reports mild flu‑like illness during pregnancy.
+What is the most likely etiology?
+Answer Choices:
+(A) Toxoplasmosis
+(B) Rubella
+(C) Cytomegalovirus
+(D) Herpes simplex virus
+(E) Syphilis
+Correct Answer: C
+Explanation:
+Congenital CMV → periventricular calcifications, thrombocytopenia, hepatosplenomegaly, blueberry muffin rash.
+________________
+
+
+Question 45
+A 15‑year‑old boy presents with progressive behavioral changes, declining school performance, tremor, and jaundice. Labs show low ceruloplasmin and elevated liver enzymes.
+Which additional finding is most likely?
+Answer Choices:
+(A) Anti‑mitochondrial antibodies
+(B) Kayser‑Fleischer rings
+(C) Elevated alpha‑1 antitrypsin
+(D) Increased serum ferritin
+(E) Anti‑smooth muscle antibodies
+Correct Answer: B
+Explanation:
+This is Wilson disease → copper accumulation → neurologic symptoms + Kayser‑Fleischer rings.
+________________
+
+
+Question 46
+A toddler is found with an open bottle of ethylene glycol. Several hours later, he develops tachypnea and metabolic acidosis with calcium oxalate crystals in urine.
+What is the most appropriate treatment?
+Answer Choices:
+(A) Activated charcoal
+(B) Sodium bicarbonate only
+(C) Fomepizole
+(D) Naloxone
+(E) Hemodialysis only
+Correct Answer: C
+Explanation:
+Ethylene glycol poisoning → toxic metabolites. Fomepizole inhibits alcohol dehydrogenase and prevents metabolite formation.
+________________
+
+
+Question 47
+A newborn has ambiguous genitalia. Karyotype is 46,XY. Testosterone levels are normal, but external genitalia are female‑appearing.
+What is the most likely diagnosis?
+Answer Choices:
+(A) 21‑hydroxylase deficiency
+(B) Androgen insensitivity syndrome
+(C) 5‑alpha reductase deficiency
+(D) Turner syndrome
+(E) Congenital adrenal hypoplasia
+Correct Answer: B
+Explanation:
+Androgen insensitivity syndrome → normal testosterone but defective androgen receptors → female external genitalia in 46,XY individuals.
+________________
+
+
+Question 48
+A 7‑year‑old child presents with progressive weakness, areflexia, and ascending paralysis following a viral illness. CSF shows elevated protein with normal cell count.
+What is the most appropriate treatment?
+Answer Choices:
+(A) High‑dose steroids
+(B) Plasmapheresis or IVIG
+(C) Antibiotics
+(D) Antivirals
+(E) Supportive care only
+Correct Answer: B
+Explanation:
+This is Guillain‑Barré syndrome. Treatment is IVIG or plasmapheresis; steroids are ineffective.
+________________
+
+
+Question 49
+A 10‑year‑old child with sickle cell disease presents with acute chest pain, fever, hypoxia, and a new pulmonary infiltrate.
+What is the most appropriate management?
+Answer Choices:
+(A) NSAIDs and discharge
+(B) Simple transfusion
+(C) Exchange transfusion
+(D) Hydroxyurea only
+(E) Observation
+Correct Answer: C
+Explanation:
+Acute chest syndrome with hypoxia → exchange transfusion reduces sickled cells and improves oxygenation.
+________________
+
+
+Question 50
+A 17‑year‑old adolescent with terminal cancer asks directly, “Am I dying?” Parents previously requested the team not discuss prognosis.
+What is the most appropriate response?
+Answer Choices:
+(A) Defer to parental wishes
+(B) Provide false reassurance
+(C) Avoid the question
+(D) Answer honestly using developmentally appropriate language
+(E) Refer to psychiatry
+Correct Answer: D
+Explanation:
+Adolescents have the right to truthful, compassionate communication about their condition, even if parents prefer otherwise.
+
+
+Question 51
+A premature infant on day 8 of life develops abdominal distension, bloody stools, lethargy, and temperature instability. X‑ray shows pneumatosis intestinalis.
+What is the most appropriate initial management?
+Answer Choices:
+(A) Immediate surgery
+(B) Start oral feeding
+(C) Bowel rest + IV antibiotics
+(D) Contrast enema
+(E) Observation only
+Correct Answer: C
+Explanation: Classic necrotizing enterocolitis → treat first with NPO, NG decompression, antibiotics.
+________________
+
+
+Question 52
+A 4‑year‑old presents with palpable purpura on legs, abdominal pain, and hematuria after a URI. Platelets are normal.
+What is the underlying mechanism?
+Answer Choices:
+(A) IgE hypersensitivity
+(B) IgA immune complex deposition
+(C) Anti‑platelet antibodies
+(D) Complement deficiency
+(E) Factor VIII deficiency
+Correct Answer: B
+Explanation: Henoch‑Schönlein purpura = IgA‑mediated small‑vessel vasculitis.
+________________
+
+
+Question 53
+A 6‑year‑old boy develops fever for 6 days, conjunctivitis, cracked lips, strawberry tongue, and cervical lymphadenopathy.
+Which complication is most feared?
+Answer Choices:
+(A) Renal failure
+(B) Coronary artery aneurysm
+(C) Stroke
+(D) Pulmonary embolism
+(E) Liver failure
+Correct Answer: B
+Explanation: Kawasaki disease → risk of coronary aneurysm → treat with IVIG + aspirin.
+________________
+
+
+Question 54
+A neonate has cyanosis that improves when crying. Exam reveals a harsh systolic murmur. CXR shows a boot‑shaped heart.
+What is the primary pathophysiology?
+Answer Choices:
+(A) Left‑to‑right shunt
+(B) RV outflow obstruction
+(C) Pulmonary vein stenosis
+(D) Atrial septal defect
+(E) Patent ductus arteriosus
+Correct Answer: B
+Explanation: Tetralogy of Fallot → pulmonary stenosis causes right‑to‑left shunting.
+________________
+
+
+Question 55
+A 3‑year‑old presents with drooling, high fever, muffled voice, and tripod positioning.
+What is the next best step?
+Answer Choices:
+(A) Throat culture
+(B) Immediate intubation
+(C) Steroids only
+(D) CT neck
+(E) Oral antibiotics
+Correct Answer: B
+Explanation: Suspected epiglottitis → airway first.
+________________
+
+
+Question 56
+A 12‑year‑old obese child presents with polyuria, polydipsia, and acanthosis nigricans. Labs show elevated insulin and glucose.
+What is the primary mechanism?
+Answer Choices:
+(A) Autoimmune β‑cell destruction
+(B) Insulin receptor resistance
+(C) Glucagon excess
+(D) Insulin deficiency
+(E) Increased renal glucose reabsorption
+Correct Answer: B
+Explanation: Type 2 diabetes in children = insulin resistance.
+________________
+
+
+Question 57
+A child with sickle cell disease presents with sudden severe anemia, fatigue, and low reticulocyte count following viral illness.
+What is the diagnosis?
+Answer Choices:
+(A) Splenic sequestration
+(B) Hemolytic crisis
+(C) Aplastic crisis
+(D) Acute chest syndrome
+(E) Iron deficiency
+Correct Answer: C
+Explanation: Parvovirus B19 → transient marrow suppression.
+________________
+
+
+Question 58
+A newborn has hydrocephalus, intracranial calcifications, and chorioretinitis. Mother had exposure to cat litter during pregnancy.
+What is the cause?
+Answer Choices:
+(A) CMV
+(B) Toxoplasmosis
+(C) Rubella
+(D) HSV
+(E) Syphilis
+Correct Answer: B
+Explanation: Classic congenital toxoplasmosis triad.
+________________
+
+
+Question 59
+A 5‑year‑old boy presents with progressive muscle weakness, calf pseudohypertrophy, and positive Gowers sign.
+What is the underlying defect?
+Answer Choices:
+(A) Myelin destruction
+(B) Dystrophin gene mutation
+(C) NMJ antibody
+(D) Mitochondrial defect
+(E) Glycogen storage deficiency
+Correct Answer: B
+Explanation: Duchenne muscular dystrophy = X‑linked dystrophin deficiency.
+________________
+
+
+Question 60
+A teenage athlete collapses during basketball practice. Family history reveals sudden cardiac death. Echo shows asymmetric septal hypertrophy.
+What is the best prevention of mortality?
+Answer Choices:
+(A) Beta blockers only
+(B) Surgical myectomy
+(C) ICD placement
+(D) Anticoagulation
+(E) Exercise restriction alone
+Correct Answer: C
+Explanation: Hypertrophic cardiomyopathy → ICD prevents sudden death.

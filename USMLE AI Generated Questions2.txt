@@ -1,0 +1,1065 @@
+﻿Question 1
+A 62-year-old man with long-standing type 2 diabetes mellitus presents with progressive dyspnea and lower-extremity edema. Blood pressure is 158/96 mm Hg. Laboratory studies show serum creatinine of 2.4 mg/dL. Urinalysis demonstrates proteinuria without hematuria. Renal biopsy shows nodular mesangial expansion with periodic acid–Schiff–positive acellular nodules and thickened glomerular basement membranes. Which mechanism most directly contributes to the development of these nodular lesions?
+Answer Choices:
+ (A) Immune complex deposition with complement activation
+(B) Increased nonenzymatic glycosylation of matrix proteins
+(C) Podocyte foot process effacement due to T-cell cytokines
+(D) Endothelial injury from anti–glomerular basement membrane antibodies
+(E) Reduced nephrin expression from congenital mutation
+Correct Answer: B
+Explanation:
+ The biopsy findings describe Kimmelstiel–Wilson nodules of diabetic nephropathy. Chronic hyperglycemia leads to nonenzymatic glycosylation of basement membrane and mesangial matrix proteins, increasing matrix production and cross-linking, which causes nodular mesangial sclerosis.
+(A) Immune complex deposition characterizes diseases such as membranous nephropathy or lupus nephritis.
+(C) Podocyte cytokine-mediated injury is typical of minimal change disease.
+(D) Anti-GBM antibodies cause linear IgG deposition, not nodular sclerosis.
+(E) Nephrin mutations cause congenital nephrotic syndrome, not diabetic nodular lesions.
+________________
+
+
+Question 2
+A 45-year-old woman presents with painful swelling of the right calf 5 days after elective abdominal surgery. Doppler ultrasound confirms a deep venous thrombosis. Laboratory evaluation later reveals resistance to activated protein C. Which molecular abnormality most likely explains this patient’s hypercoagulable state?
+Answer Choices:
+ (A) Decreased antithrombin III synthesis
+(B) Increased tissue factor expression on endothelial cells
+(C) Point mutation preventing inactivation of factor Va
+(D) Autoantibodies against phospholipid-binding proteins
+(E) Reduced fibrinolysis due to plasminogen deficiency
+Correct Answer: C
+Explanation:
+ Activated protein C resistance is most commonly caused by a factor V Leiden mutation, which prevents cleavage and inactivation of factor Va, leading to excessive thrombin generation.
+(A) Antithrombin III deficiency causes heparin resistance but not APC resistance.
+(B) Tissue factor overexpression is associated with malignancy-related thrombosis.
+(D) Antiphospholipid syndrome involves antibodies, not APC resistance.
+(E) Plasminogen deficiency affects fibrinolysis rather than clot formation regulation.
+________________
+
+
+Question 3
+A 70-year-old man with a history of smoking presents with hemoptysis and weight loss. CT scan reveals a centrally located lung mass. Biopsy shows sheets of malignant cells with scant cytoplasm and finely granular chromatin. The tumor secretes ectopic hormone causing hyponatremia. Which genetic alteration is most directly involved in the pathogenesis of this tumor?
+Answer Choices:
+ (A) KRAS activating mutation
+(B) EGFR tyrosine kinase amplification
+(C) RB tumor suppressor gene inactivation
+(D) ALK gene translocation
+(E) APC gene loss
+Correct Answer: C
+Explanation:
+ The description is consistent with small cell lung carcinoma, a neuroendocrine tumor associated with ectopic ADH secretion. Pathogenesis commonly involves inactivation of tumor suppressor genes, particularly RB (and p53), leading to loss of cell cycle control.
+(A) KRAS mutations are typical of adenocarcinoma.
+(B) EGFR alterations are seen in non–small cell lung cancers.
+(D) ALK translocations occur in a subset of adenocarcinomas.
+(E) APC loss is associated with colorectal carcinoma.
+________________
+
+
+Question 4
+A 28-year-old woman presents with fatigue, arthralgias, and a malar rash. Laboratory studies show anemia, thrombocytopenia, low complement levels, and anti–double-stranded DNA antibodies. Renal biopsy reveals “wire loop” glomerular capillary lesions. Which immunopathologic mechanism best explains the renal findings?
+Answer Choices:
+ (A) Type II hypersensitivity with antibody-dependent cytotoxicity
+(B) Type III hypersensitivity with immune complex deposition
+(C) T-cell–mediated cytotoxicity against podocytes
+(D) Direct antibody binding to basement membrane antigens
+(E) Delayed-type hypersensitivity with macrophage activation
+Correct Answer: B
+Explanation:
+ Systemic lupus erythematosus causes type III hypersensitivity reactions due to deposition of circulating immune complexes in glomeruli, leading to complement activation and “wire loop” lesions.
+(A) Type II reactions involve antibodies against cell surface antigens.
+(C) T-cell cytotoxicity is more typical of transplant rejection.
+(D) Direct binding occurs in anti-GBM disease.
+(E) Delayed hypersensitivity involves granulomatous inflammation, not immune complexes.
+________________
+
+
+Question 5
+A 56-year-old man with long-standing hypertension develops sudden onset of tearing chest pain radiating to the back. Imaging reveals an aortic dissection involving the ascending aorta. Histologic examination of the aortic wall shows cystic medial degeneration. Which structural change most directly predisposed this patient to dissection?
+Answer Choices:
+ (A) Lipid-laden macrophage accumulation in the intima
+(B) Fragmentation and loss of elastic fibers in the media
+(C) Immune-mediated destruction of smooth muscle cells
+(D) Deposition of amyloid in the vessel wall
+(E) Thrombotic occlusion of the vasa vasorum
+Correct Answer: B
+Explanation:
+ Hypertension leads to cystic medial degeneration characterized by fragmentation and loss of elastic fibers, weakening the aortic media and predisposing to dissection.
+(A) Foam cells describe atherosclerosis, not dissection.
+(C) Immune-mediated injury is not typical in dissections.
+(D) Amyloid deposition affects compliance but does not cause dissection.
+(E) Vasa vasorum occlusion is more associated with syphilitic aortitis.
+________________
+
+
+Question 6
+A 34-year-old man presents with chronic diarrhea and weight loss. Endoscopic biopsy of the small intestine shows villous blunting, crypt hyperplasia, and increased intraepithelial lymphocytes. Symptoms improve on a gluten-free diet. Which pathophysiologic process is primarily responsible for the mucosal injury?
+Answer Choices:
+ (A) IgE-mediated mast cell degranulation
+(B) Immune complex deposition in the lamina propria
+(C) T-cell–mediated epithelial cell destruction
+(D) Autoantibody-mediated complement activation
+(E) Direct toxic effect of dietary peptides
+Correct Answer: C
+Explanation:
+ Celiac disease involves a T-cell–mediated immune response to deamidated gliadin peptides presented by HLA-DQ2/DQ8, leading to epithelial injury and villous atrophy.
+(A) IgE reactions cause immediate hypersensitivity.
+(B) Immune complexes are not central to celiac disease.
+(D) Autoantibodies are markers, not mediators, of injury.
+(E) Gluten peptides trigger immune responses rather than direct toxicity.
+________________
+
+
+Question 7
+A 60-year-old man with a history of myocardial infarction develops progressive heart failure. Autopsy reveals a thinned ventricular wall composed largely of dense collagen. Which process most directly accounts for this structural change?
+Answer Choices:
+ (A) Coagulative necrosis with preserved cellular outlines
+(B) Liquefactive necrosis due to enzymatic digestion
+(C) Replacement fibrosis following myocyte loss
+(D) Fatty change from chronic hypoxia
+(E) Caseous necrosis due to granulomatous inflammation
+Correct Answer: C
+Explanation:
+ Following myocardial infarction, necrotic cardiomyocytes are removed and replaced with collagenous scar tissue, resulting in replacement fibrosis and wall thinning.
+(A) Coagulative necrosis is an acute phase, not the chronic outcome.
+(B) Liquefactive necrosis occurs in brain infarcts.
+(D) Fatty change affects hepatocytes, not myocardium.
+(E) Caseous necrosis is seen in tuberculosis.
+________________
+
+
+Question 8
+A 48-year-old woman presents with painless jaundice and weight loss. Imaging shows a mass in the head of the pancreas causing biliary obstruction. Histology demonstrates malignant glands embedded in dense fibrotic stroma. Which molecular feature is most characteristic of this malignancy?
+Answer Choices:
+ (A) BCR-ABL fusion gene
+(B) KRAS oncogene activation
+(C) RET proto-oncogene mutation
+(D) MYC gene amplification
+(E) EWS-FLI1 translocation
+Correct Answer: B
+Explanation:
+ Pancreatic ductal adenocarcinoma is strongly associated with KRAS activating mutations and a prominent desmoplastic (fibrotic) stroma.
+(A) BCR-ABL is seen in chronic myelogenous leukemia.
+(C) RET mutations occur in medullary thyroid carcinoma.
+(D) MYC amplification is common in Burkitt lymphoma.
+(E) EWS-FLI1 is characteristic of Ewing sarcoma.
+________________
+
+
+Question 9
+A 26-year-old man develops fever and productive cough. Chest radiograph shows lobar consolidation. Sputum culture grows Streptococcus pneumoniae. Which histologic finding is most likely present in the affected lung during the red hepatization stage?
+Answer Choices:
+ (A) Alveoli filled with protein-poor transudate
+(B) Predominance of macrophages clearing debris
+(C) Fibrin, neutrophils, and extravasated red blood cells
+(D) Granuloma formation with multinucleated giant cells
+(E) Type II pneumocyte hyperplasia
+Correct Answer: C
+Explanation:
+ Red hepatization of lobar pneumonia is characterized by alveoli packed with fibrin, neutrophils, and red blood cells, giving the lung a liver-like appearance.
+(A) Transudate is seen in pulmonary edema.
+(B) Macrophage predominance occurs during resolution.
+(D) Granulomas suggest chronic infections like tuberculosis.
+(E) Type II pneumocyte hyperplasia is seen after diffuse alveolar damage.
+________________
+
+
+Question 10
+A 52-year-old man with chronic alcoholism presents with confusion and ascites. Liver biopsy shows bridging fibrosis and regenerative nodules. Which hemodynamic change most directly explains the development of ascites in this patient?
+Answer Choices:
+ (A) Increased oncotic pressure from elevated albumin synthesis
+(B) Portal hypertension leading to increased hydrostatic pressure
+(C) Decreased lymphatic drainage from thoracic duct obstruction
+(D) Systemic arterial vasoconstriction increasing preload
+(E) Reduced nitric oxide production in splanchnic circulation
+Correct Answer: B
+Explanation:
+ Cirrhosis causes portal hypertension, increasing hydrostatic pressure in the portal venous system, which drives fluid into the peritoneal cavity, resulting in ascites.
+(A) Albumin synthesis is reduced, not increased.
+(C) Lymphatic obstruction is not the primary mechanism.
+(D) Systemic vasoconstriction does not explain ascites formation.
+(E) Nitric oxide is increased, causing splanchnic vasodilation.
+________________
+
+
+Question 11
+A 59-year-old man with a history of poorly controlled hypertension presents with progressive exertional dyspnea and orthopnea. Echocardiography demonstrates concentric left ventricular hypertrophy with preserved ejection fraction. Endomyocardial biopsy reveals enlarged cardiomyocytes with increased nuclear size and hyperchromasia but no increase in cell number. Which intracellular signaling pathway most directly mediates this structural adaptation?
+Answer Choices:
+ (A) Activation of p53 leading to cell cycle arrest
+(B) Calcineurin-mediated transcriptional activation of hypertrophic genes
+(C) β-catenin signaling promoting cardiomyocyte proliferation
+(D) Fas receptor–mediated apoptosis
+(E) PI3K-AKT signaling causing physiologic hyperplasia
+Correct Answer: B
+Explanation:
+ Pathologic cardiac hypertrophy from chronic pressure overload is mediated by calcium-dependent activation of calcineurin, which dephosphorylates NFAT, allowing transcription of hypertrophic genes and sarcomere addition.
+(A) p53 activation promotes apoptosis or arrest, not hypertrophy.
+(C) β-catenin drives proliferation, not cell enlargement.
+(D) Fas signaling induces apoptosis.
+(E) PI3K-AKT is associated with physiologic hypertrophy (e.g., exercise), not pathologic pressure overload.
+________________
+
+
+Question 12
+A 41-year-old woman presents with episodic abdominal pain and dark urine. Laboratory studies show anemia with elevated lactate dehydrogenase, low haptoglobin, and thrombocytopenia. Flow cytometry of peripheral blood cells demonstrates absence of CD55 and CD59 on erythrocytes. Which pathologic process most directly explains her increased risk of thrombosis?
+Answer Choices:
+ (A) Immune complex–mediated platelet activation
+(B) Unopposed complement-mediated endothelial injury
+(C) Reduced nitric oxide synthesis by macrophages
+(D) Increased tissue plasminogen activator degradation
+(E) Defective von Willebrand factor cleavage
+Correct Answer: B
+Explanation:
+ Paroxysmal nocturnal hemoglobinuria results from loss of GPI-anchored complement regulatory proteins (CD55, CD59), leading to uncontrolled complement activation, endothelial injury, and a marked thrombotic risk.
+(A) Immune complexes are not central in PNH.
+(C) Nitric oxide deficiency contributes to smooth muscle symptoms, not thrombosis mechanism.
+(D) tPA degradation is unrelated.
+(E) vWF cleavage defects cause TTP.
+________________
+
+
+Question 13
+A 67-year-old man presents with progressive dysphagia for solids and liquids. Esophageal biopsy reveals nests of malignant squamous cells with keratin pearl formation. Adjacent mucosa shows dysplasia. Which molecular alteration most likely occurred earliest in the development of this malignancy?
+Answer Choices:
+ (A) Telomerase reactivation
+(B) Loss of heterozygosity at the TP53 locus
+(C) KRAS oncogene mutation
+(D) Angiogenic switch via VEGF upregulation
+(E) E-cadherin gene deletion
+Correct Answer: B
+Explanation:
+ Squamous cell carcinoma development follows a stepwise progression from dysplasia to carcinoma, with early loss of tumor suppressors such as TP53, impairing DNA damage response.
+(A) Telomerase activation occurs later for immortalization.
+(C) KRAS is more typical of adenocarcinomas.
+(D) Angiogenesis is a later event.
+(E) E-cadherin loss is associated with diffuse gastric cancer.
+________________
+
+
+Question 14
+A 33-year-old man develops rapidly progressive renal failure following a respiratory infection. Serologic testing reveals high titers of anti–glomerular basement membrane antibodies. Immunofluorescence microscopy of renal biopsy would most likely show which pattern?
+Answer Choices:
+ (A) Granular IgG deposition along capillary loops
+(B) Linear IgG deposition along the basement membrane
+(C) Mesangial IgA deposition
+(D) Subepithelial “spike and dome” deposits
+(E) Full-house immune complex deposition
+Correct Answer: B
+Explanation:
+ Anti-GBM disease (Goodpasture syndrome) is characterized by antibodies directly targeting basement membrane antigens, producing linear IgG deposition on immunofluorescence.
+(A) Granular deposition reflects immune complexes.
+(C) Mesangial IgA is seen in IgA nephropathy.
+(D) Spike and dome is membranous nephropathy.
+(E) Full-house deposition is typical of lupus nephritis.
+________________
+
+
+Question 15
+A 72-year-old woman with long-standing rheumatoid arthritis develops splenomegaly and neutropenia. Bone marrow biopsy reveals normal cellularity. Which mechanism best explains her neutropenia?
+Answer Choices:
+ (A) Autoimmune destruction of circulating neutrophils
+(B) Bone marrow failure due to chronic inflammation
+(C) Decreased granulocyte colony-stimulating factor production
+(D) Myelophthisis from splenic infiltration
+(E) Increased neutrophil apoptosis due to p53 activation
+Correct Answer: A
+Explanation:
+ Felty syndrome (RA, splenomegaly, neutropenia) involves immune-mediated destruction and splenic sequestration of neutrophils despite normal marrow production.
+(B) Marrow failure would reduce cellularity.
+(C) G-CSF deficiency is not central.
+(D) Myelophthisis affects marrow architecture.
+(E) p53-mediated apoptosis is not implicated.
+________________
+
+
+Question 16
+A 55-year-old man with chronic hepatitis B develops hepatocellular carcinoma. Which histologic feature most strongly supports malignant transformation rather than regenerative nodules?
+Answer Choices:
+ (A) Thickened hepatic plates greater than three cells wide
+(B) Portal tract inflammation
+(C) Accumulation of bile pigment within hepatocytes
+(D) Presence of fibrous septa
+(E) Kupffer cell hyperplasia
+Correct Answer: A
+Explanation:
+ Hepatocellular carcinoma is characterized by trabecular thickening (>3 cells wide), reflecting loss of normal hepatic architecture and malignant growth.
+(B) Portal inflammation is common in chronic hepatitis.
+(C) Bile accumulation occurs in cholestasis.
+(D) Fibrous septa are seen in cirrhosis.
+(E) Kupffer cell hyperplasia is reactive.
+________________
+
+
+Question 17
+A 48-year-old man presents with fever and night sweats. Lymph node biopsy reveals effacement of architecture by sheets of large atypical lymphoid cells expressing CD20. Genetic analysis shows a translocation involving chromosome 14. Which mechanism best explains how this translocation contributes to malignancy?
+Answer Choices:
+ (A) Formation of a constitutively active tyrosine kinase
+(B) Juxtaposition of an oncogene with an immunoglobulin promoter
+(C) Loss of a DNA repair enzyme
+(D) Increased resistance to apoptosis via BCL-2 overexpression
+(E) Inactivation of a cell cycle checkpoint protein
+Correct Answer: B
+Explanation:
+ Chromosome 14 contains the immunoglobulin heavy chain locus. Translocations place oncogenes under its strong promoter, driving uncontrolled lymphocyte proliferation.
+(A) Constitutive kinases are seen in BCR-ABL.
+(C) DNA repair loss is not the main mechanism here.
+(D) BCL-2 overexpression is classic for follicular lymphoma.
+(E) Checkpoint loss is not specific to IgH translocations.
+________________
+
+
+Question 18
+A 36-year-old woman develops progressive muscle weakness. Biopsy reveals perifascicular atrophy and capillary dropout. Which immunologic mechanism is primarily responsible for this disease?
+Answer Choices:
+ (A) Autoantibodies against acetylcholine receptors
+(B) CD8⁺ T-cell–mediated myocyte destruction
+(C) Immune complex–mediated vascular injury
+(D) IgE-mediated mast cell activation
+(E) Granulomatous inflammation of muscle fibers
+Correct Answer: C
+Explanation:
+ Dermatomyositis involves immune complex deposition in muscle capillaries, leading to ischemic injury and perifascicular atrophy.
+(A) Acetylcholine receptor antibodies cause myasthenia gravis.
+(B) CD8⁺ cytotoxicity is typical of polymyositis.
+(D) IgE reactions cause immediate hypersensitivity.
+(E) Granulomas are seen in sarcoidosis.
+________________
+
+
+Question 19
+A 64-year-old man with long-standing smoking history presents with hematuria. Cystoscopy reveals a bladder mass. Histology shows malignant cells forming papillary fronds. Which exposure most likely contributed to this malignancy?
+Answer Choices:
+ (A) Aflatoxin B1
+(B) Aromatic amines
+(C) Vinyl chloride
+(D) Asbestos fibers
+(E) Ultraviolet radiation
+Correct Answer: B
+Explanation:
+ Transitional cell carcinoma of the bladder is strongly associated with aromatic amine exposure (e.g., aniline dyes, smoking metabolites).
+(A) Aflatoxin causes hepatocellular carcinoma.
+(C) Vinyl chloride causes angiosarcoma of the liver.
+(D) Asbestos is linked to mesothelioma.
+(E) UV radiation causes skin cancers.
+________________
+
+
+Question 20
+A 58-year-old man presents with sudden severe abdominal pain and bloody diarrhea. Imaging reveals segmental thickening of the colon. Histology shows mucosal necrosis with preservation of deeper layers. Which mechanism best explains this pattern of injury?
+Answer Choices:
+ (A) Autoimmune destruction of enterocytes
+(B) Venous thrombosis causing transmural infarction
+(C) Nonocclusive hypoperfusion of watershed areas
+(D) Direct bacterial toxin–mediated epithelial necrosis
+(E) Chronic inflammatory bowel disease
+Correct Answer: C
+Explanation:
+ Ischemic colitis often affects watershed regions of the colon and causes mucosal necrosis due to transient hypoperfusion, sparing deeper layers.
+(A) Autoimmune processes cause chronic inflammation.
+(B) Venous thrombosis causes transmural infarction.
+(D) Toxins cause diffuse epithelial injury.
+(E) IBD produces chronic architectural distortion.
+Question 21
+A 64-year-old man with long-standing hypertension and type 2 diabetes mellitus presents with progressive renal insufficiency. Urinalysis shows mild proteinuria without hematuria. Renal biopsy demonstrates hyaline arteriolosclerosis affecting both afferent and efferent arterioles with downstream glomerulosclerosis. Which pathophysiologic consequence most directly results from this vascular change?
+Answer Choices:
+ (A) Increased intraglomerular pressure due to efferent arteriole constriction
+(B) Reduced renal perfusion leading to ischemic glomerular collapse
+(C) Immune complex deposition in the mesangium
+(D) Podocyte injury mediated by cytokine release
+(E) Linear immunoglobulin deposition along the basement membrane
+Correct Answer: B
+Explanation:
+ Hyaline arteriolosclerosis in diabetes and hypertension narrows arteriolar lumens, reducing renal perfusion and causing chronic ischemia with glomerulosclerosis.
+(A) Efferent arteriole constriction increases pressure, but hyaline change reduces flow overall.
+(C) Immune complex deposition is not involved.
+(D) Cytokine-mediated podocyte injury characterizes minimal change disease.
+(E) Linear immunoglobulin deposition occurs in anti-GBM disease.
+________________
+
+
+Question 22
+A 52-year-old woman presents with progressive proximal muscle weakness and difficulty climbing stairs. Serum creatine kinase is elevated. Muscle biopsy reveals endomysial inflammation with CD8⁺ lymphocytes invading non-necrotic muscle fibers expressing MHC class I molecules. Which mechanism most directly underlies this disease?
+Answer Choices:
+ (A) Immune complex–mediated vascular injury
+(B) Antibody-mediated blockade of neuromuscular transmission
+(C) Cytotoxic T-cell–mediated myocyte injury
+(D) Complement-mediated membrane attack complex formation
+(E) Granulomatous inflammation with macrophage activation
+Correct Answer: C
+Explanation:
+ Polymyositis is characterized by CD8⁺ T-cell–mediated cytotoxicity against muscle fibers abnormally expressing MHC class I antigens.
+(A) Immune complex injury is seen in dermatomyositis.
+(B) Antibody blockade causes myasthenia gravis.
+(D) Complement injury is secondary in dermatomyositis.
+(E) Granulomatous inflammation is not typical.
+________________
+
+
+Question 23
+A 70-year-old man presents with painless jaundice and weight loss. Imaging reveals dilation of intrahepatic bile ducts and a mass at the head of the pancreas. Histology shows malignant glands with marked desmoplastic response. Which stromal component most directly contributes to tumor progression in this malignancy?
+Answer Choices:
+ (A) Neutrophil extracellular traps
+(B) Activated fibroblasts secreting extracellular matrix
+(C) Eosinophils releasing major basic protein
+(D) Mast cells releasing histamine
+(E) Endothelial progenitor cells forming normal capillaries
+Correct Answer: B
+Explanation:
+ Pancreatic ductal adenocarcinoma is characterized by a dense desmoplastic stroma driven by activated fibroblasts, which promote tumor growth, invasion, and chemoresistance.
+(A) Neutrophil traps are not central here.
+(C) Eosinophils are not characteristic.
+(D) Mast cells are not primary drivers.
+(E) Tumor angiogenesis forms abnormal, not normal, vessels.
+________________
+
+
+Question 24
+A 46-year-old man presents with progressive dyspnea. Imaging reveals bilateral hilar lymphadenopathy and interstitial lung disease. Lung biopsy shows noncaseating granulomas composed of epithelioid histiocytes and multinucleated giant cells. Which cytokine is most critical for granuloma maintenance in this condition?
+Answer Choices:
+ (A) Interleukin-4
+(B) Interleukin-10
+(C) Interferon-gamma
+(D) Tumor necrosis factor–beta
+(E) Transforming growth factor–beta
+Correct Answer: C
+Explanation:
+ Sarcoidosis involves Th1-mediated immune responses, with interferon-gamma activating macrophages and sustaining granuloma formation.
+(A) IL-4 promotes Th2 responses.
+(B) IL-10 is anti-inflammatory.
+(D) TNF-beta is less central than TNF-alpha and IFN-gamma.
+(E) TGF-beta promotes fibrosis rather than granuloma maintenance.
+________________
+
+
+Question 25
+A 61-year-old man with a history of smoking presents with hoarseness and weight loss. Laryngoscopy reveals a mass on the vocal cord. Biopsy shows dysplastic epithelium progressing to invasive carcinoma. Which cellular adaptation most likely preceded malignant transformation?
+Answer Choices:
+ (A) Hyperplasia due to increased growth factor signaling
+(B) Metaplasia with replacement by columnar epithelium
+(C) Dysplasia with loss of cellular polarity
+(D) Atrophy due to reduced blood supply
+(E) Hypertrophy with increased cell size
+Correct Answer: C
+Explanation:
+ Squamous cell carcinoma typically arises from dysplastic epithelium, characterized by disordered growth, pleomorphism, and loss of polarity.
+(A) Hyperplasia alone is reversible and organized.
+(B) Metaplasia precedes dysplasia but is not itself premalignant.
+(D) Atrophy does not predispose to carcinoma.
+(E) Hypertrophy does not increase cancer risk.
+________________
+
+
+Question 26
+A 34-year-old woman presents with fatigue and menorrhagia. Laboratory studies reveal pancytopenia. Bone marrow biopsy shows hypocellular marrow replaced with fat. Which mechanism most likely contributed to this condition?
+Answer Choices:
+ (A) Clonal expansion of malignant hematopoietic stem cells
+(B) Autoimmune destruction of hematopoietic progenitors
+(C) Ineffective hematopoiesis due to vitamin deficiency
+(D) Marrow infiltration by metastatic carcinoma
+(E) Excessive splenic sequestration of blood cells
+Correct Answer: B
+Explanation:
+ Aplastic anemia is often due to immune-mediated destruction of hematopoietic stem cells, resulting in hypocellular marrow with fatty replacement.
+(A) Clonal expansion would increase cellularity.
+(C) Vitamin deficiencies cause hypercellular marrow.
+(D) Metastatic infiltration replaces marrow with tumor, not fat.
+(E) Splenic sequestration does not cause marrow hypocellularity.
+________________
+
+
+Question 27
+A 58-year-old man with chronic osteomyelitis develops worsening pain and swelling at the site years later. Biopsy reveals malignant spindle-shaped cells producing osteoid. Which factor most strongly predisposed this patient to malignancy?
+Answer Choices:
+ (A) Chronic inflammation causing persistent cell turnover
+(B) Acute bacterial toxin–mediated DNA damage
+(C) Congenital defect in DNA mismatch repair
+(D) Viral oncogene integration
+(E) Ionizing radiation exposure
+Correct Answer: A
+Explanation:
+ Chronic inflammation increases cell turnover and oxidative stress, promoting mutations and malignant transformation, as seen in secondary osteosarcoma.
+(B) Acute toxins are not sufficient.
+(C) Mismatch repair defects cause different cancers.
+(D) Viral oncogenes are not implicated here.
+(E) Radiation is a risk factor but not present in this scenario.
+________________
+
+
+Question 28
+A 49-year-old man with long-standing ulcerative colitis undergoes surveillance colonoscopy. Biopsy reveals areas of high-grade dysplasia. Which molecular change most likely occurred early in the neoplastic sequence?
+Answer Choices:
+ (A) KRAS mutation
+(B) TP53 mutation
+(C) Telomerase activation
+(D) VEGF overexpression
+(E) Loss of E-cadherin
+Correct Answer: B
+Explanation:
+ In colitis-associated colorectal cancer, TP53 mutations occur early, unlike sporadic cases where APC mutations initiate tumorigenesis.
+(A) KRAS mutations occur later.
+(C) Telomerase activation is a late event.
+(D) Angiogenesis occurs after dysplasia.
+(E) E-cadherin loss is associated with gastric cancer.
+________________
+
+
+Question 29
+A 55-year-old man presents with acute chest pain. Cardiac biomarkers confirm myocardial infarction. Which ultrastructural change would be evident in cardiomyocytes within the first few hours after ischemic injury?
+Answer Choices:
+ (A) Nuclear pyknosis
+(B) Mitochondrial swelling
+(C) Plasma membrane rupture
+(D) Collagen deposition
+(E) Neutrophil infiltration
+Correct Answer: B
+Explanation:
+ Early reversible ischemic injury causes mitochondrial swelling due to loss of oxidative phosphorylation and ionic imbalance.
+(A) Nuclear pyknosis occurs later.
+(C) Membrane rupture indicates irreversible injury.
+(D) Collagen deposition is part of healing.
+(E) Neutrophils infiltrate after several hours.
+________________
+
+
+Question 30
+A 62-year-old woman presents with progressive dyspnea. Lung biopsy shows thickened alveolar septa with fibroblast proliferation and collagen deposition, but minimal inflammation. Which pathologic process best explains this pattern?
+Answer Choices:
+ (A) Acute respiratory distress syndrome
+(B) Hypersensitivity pneumonitis
+(C) Idiopathic pulmonary fibrosis
+(D) Lobar pneumonia
+(E) Sarcoidosis
+Correct Answer: C
+Explanation:
+ Idiopathic pulmonary fibrosis is characterized by progressive interstitial fibrosis with minimal inflammation, leading to restrictive lung disease.
+(A) ARDS shows diffuse alveolar damage.
+(B) Hypersensitivity pneumonitis shows inflammation and granulomas.
+(D) Pneumonia affects alveolar spaces.
+(E) Sarcoidosis shows granulomas.
+Question 31
+A 47-year-old man presents with fatigue and easy bruising. Laboratory studies show leukocytosis with 80% blasts and thrombocytopenia. Bone marrow biopsy reveals hypercellular marrow with myeloblasts containing Auer rods. Cytogenetic analysis demonstrates t(15;17). Which mechanism is primarily responsible for the accumulation of immature myeloid cells in this patient?
+Answer Choices:
+ (A) Constitutive activation of tyrosine kinase signaling
+(B) Block in differentiation due to PML-RARA fusion
+(C) Loss of tumor suppressor p53
+(D) BCL-2 overexpression inhibiting apoptosis
+(E) Telomerase reactivation prolonging cell survival
+Correct Answer: B
+Explanation:
+ Acute promyelocytic leukemia (APL) is caused by a PML-RARA fusion protein that blocks promyelocyte differentiation. Accumulation of immature myeloid cells leads to cytopenias.
+(A) Tyrosine kinase activation is characteristic of CML (BCR-ABL).
+(C) p53 loss is more common in solid tumors and other leukemias.
+(D) BCL-2 overexpression occurs in follicular lymphoma.
+(E) Telomerase reactivation is a late event in malignancy.
+________________
+
+
+Question 32
+A 61-year-old woman presents with dysphagia and retrosternal pain. Endoscopy reveals a circumferential esophageal mass. Biopsy shows glandular formation within squamous epithelium. Which precursor lesion is most likely responsible for this cancer?
+Answer Choices:
+ (A) Squamous dysplasia
+(B) Barrett esophagus
+(C) Esophageal varices
+(D) Achalasia-induced hyperplasia
+(E) Candida esophagitis
+Correct Answer: B
+Explanation:
+ Adenocarcinoma of the distal esophagus often arises from Barrett esophagus, in which chronic acid exposure leads to intestinal metaplasia and dysplasia.
+(A) Squamous dysplasia predisposes to squamous cell carcinoma.
+(C) Varices are unrelated to malignancy.
+(D) Achalasia can predispose to squamous carcinoma.
+(E) Candida infection does not induce malignancy.
+________________
+
+
+Question 33
+A 54-year-old man presents with hematuria. Ultrasound reveals a renal mass. Histology shows nests of clear cells with abundant cytoplasm and delicate vasculature. Which molecular abnormality is most characteristic of this tumor?
+Answer Choices:
+ (A) VHL gene inactivation
+(B) RET proto-oncogene mutation
+(C) BCR-ABL fusion
+(D) TP53 mutation
+(E) APC gene loss
+Correct Answer: A
+Explanation:
+ Clear cell renal carcinoma is frequently associated with VHL gene inactivation, leading to HIF stabilization and increased VEGF-mediated angiogenesis.
+(B) RET mutations are in medullary thyroid carcinoma.
+(C) BCR-ABL occurs in CML.
+(D) TP53 loss is common in various tumors but not characteristic here.
+(E) APC loss is associated with colorectal cancer.
+________________
+
+
+Question 34
+A 39-year-old woman presents with progressive shortness of breath and dry cough. Lung biopsy reveals fibroblastic foci and honeycomb changes with minimal inflammatory infiltrate. Which cellular process predominantly drives this disease?
+Answer Choices:
+ (A) Neutrophil-mediated alveolar injury
+(B) T-cell–mediated cytotoxicity
+(C) Dysregulated fibroblast proliferation and extracellular matrix deposition
+(D) Immune complex deposition in alveolar walls
+(E) Macrophage-driven granuloma formation
+Correct Answer: C
+Explanation:
+ Idiopathic pulmonary fibrosis is driven by repetitive epithelial injury, aberrant fibroblast activation, and excessive extracellular matrix deposition leading to honeycombing.
+(A) Neutrophils are not central.
+(B) Cytotoxic T cells are involved in polymyositis, not IPF.
+(D) Immune complexes cause vasculitis or lupus nephritis.
+(E) Granulomas occur in sarcoidosis.
+________________
+
+
+Question 35
+A 67-year-old man presents with chest pain and shortness of breath. Echocardiography shows asymmetric septal hypertrophy. Histology reveals myocyte disarray with interstitial fibrosis. Which molecular mechanism is most responsible for this structural abnormality?
+Answer Choices:
+ (A) β-myosin heavy chain mutations affecting sarcomere function
+(B) Mutations in lamin A/C disrupting nuclear envelope
+(C) Loss of dystrophin in cardiomyocytes
+(D) P53-mediated apoptosis of myocytes
+(E) Accumulation of lipofuscin in myocytes
+Correct Answer: A
+Explanation:
+ Hypertrophic cardiomyopathy is caused by sarcomeric protein mutations, most commonly β-myosin heavy chain, leading to myocyte hypertrophy, disarray, and fibrosis.
+(B) Lamin mutations cause dilated cardiomyopathy.
+(C) Dystrophin deficiency is seen in Duchenne cardiomyopathy.
+(D) Apoptosis alone does not explain hypertrophy and disarray.
+(E) Lipofuscin accumulation is a nonspecific aging change.
+________________
+
+
+Question 36
+A 58-year-old woman with chronic GERD develops dysphagia. Endoscopy shows a mass in the distal esophagus. Biopsy demonstrates poorly differentiated adenocarcinoma. Immunohistochemistry shows strong nuclear p53 and loss of p16 expression. Which step in the adenocarcinoma sequence does this represent?
+Answer Choices:
+ (A) Metaplasia
+(B) Low-grade dysplasia
+(C) High-grade dysplasia / early carcinoma
+(D) Invasive carcinoma
+(E) Regenerative hyperplasia
+Correct Answer: D
+Explanation:
+ Loss of tumor suppressors (p16) and p53 overexpression marks progression to invasive carcinoma from Barrett esophagus.
+(A) Metaplasia precedes dysplasia.
+(B) Low-grade dysplasia shows minimal architectural distortion.
+(C) High-grade dysplasia is pre-invasive.
+(E) Regenerative hyperplasia is benign.
+________________
+
+
+Question 37
+A 46-year-old man presents with hemoptysis. Imaging reveals a cavitary lesion in the right upper lobe. Sputum culture grows Mycobacterium tuberculosis. Histology shows caseating granulomas with central necrosis surrounded by epithelioid histiocytes and multinucleated giant cells. Which cell type is critical for the maintenance of the granulomatous response?
+Answer Choices:
+ (A) CD4⁺ Th1 lymphocytes secreting IFN-γ
+(B) CD8⁺ cytotoxic T cells secreting perforin
+(C) B lymphocytes producing IgG
+(D) Mast cells releasing histamine
+(E) Neutrophils releasing elastase
+Correct Answer: A
+Explanation:
+ Th1 CD4⁺ lymphocytes secrete interferon-gamma, activating macrophages to form and maintain granulomas in tuberculosis.
+(B) CD8⁺ T cells mediate cytotoxicity, not granuloma maintenance.
+(C) B cells produce antibodies, which are insufficient for granuloma formation.
+(D) Mast cells mediate allergic reactions.
+(E) Neutrophils mediate acute inflammation, not chronic granulomatous response.
+________________
+
+
+Question 38
+A 36-year-old woman presents with a painless, firm breast mass. Biopsy reveals irregular nests of pleomorphic cells with prominent mitoses and central necrosis. Immunohistochemistry is negative for estrogen receptor, progesterone receptor, and HER2. Which molecular mechanism is most likely driving this malignancy?
+Answer Choices:
+ (A) TP53 mutation and genomic instability
+(B) BRCA1 inactivation leading to homologous recombination defect
+(C) BCR-ABL fusion
+(D) HER2 amplification
+(E) KRAS mutation
+Correct Answer: B
+Explanation:
+ Triple-negative breast cancer, often associated with BRCA1 inactivation, leads to defective DNA repair, genomic instability, and aggressive histology.
+(A) TP53 mutations contribute but BRCA1 deficiency explains DNA repair defect.
+(C) BCR-ABL is in leukemia.
+(D) HER2 amplification is absent.
+(E) KRAS mutation is typical of pancreatic/colorectal cancers.
+________________
+
+
+Question 39
+A 49-year-old man presents with chronic back pain. MRI shows lytic lesions in the vertebrae. Serum protein electrophoresis demonstrates a monoclonal spike. Bone marrow biopsy shows sheets of plasma cells. Which cytokine is most responsible for the lytic bone lesions in this disease?
+Answer Choices:
+ (A) Interleukin-1
+(B) RANKL overexpression by osteoblasts and stromal cells
+(C) Interferon-gamma
+(D) TNF-beta
+(E) Vascular endothelial growth factor
+Correct Answer: B
+Explanation:
+ Multiple myeloma induces osteoclast activation via RANKL overexpression, leading to lytic bone lesions.
+(A) IL-1 contributes to inflammation but not primarily bone resorption.
+(C) IFN-γ is immunomodulatory.
+(D) TNF-beta is not central here.
+(E) VEGF mediates angiogenesis, not bone resorption.
+________________
+
+
+Question 40
+A 56-year-old man with cirrhosis develops sudden onset right upper quadrant pain and hypotension. Imaging reveals hemoperitoneum. Histology of the liver shows regenerative nodules surrounded by fibrous septa without significant inflammation. Which structural abnormality most directly predisposed this patient to this complication?
+Answer Choices:
+ (A) Hepatic adenoma with fragile vessels
+(B) Vascular fragility due to cirrhotic nodules
+(C) Portal vein thrombosis
+(D) Hepatocellular carcinoma invading vessels
+(E) Fatty change weakening hepatocytes
+Correct Answer: B
+Explanation:
+ Cirrhotic regenerative nodules distort normal architecture, leading to fragile vasculature and risk of spontaneous hemorrhage.
+(A) Adenomas are rare and usually benign.
+(C) Portal vein thrombosis causes ischemia, not rupture.
+(D) HCC invasion can bleed, but scenario specifies regenerative nodules.
+(E) Fatty change does not cause vessel rupture.
+Question 41
+A 62-year-old man presents with jaundice, pruritus, and pale stools. Liver biopsy shows destruction of intrahepatic bile ducts with portal inflammation composed mainly of lymphocytes and plasma cells. Serology reveals anti-mitochondrial antibodies. Which pathophysiologic mechanism best explains the cholestasis in this patient?
+Answer Choices:
+ (A) Autoimmune destruction of hepatocytes
+(B) Obstruction of the common bile duct by gallstones
+(C) Immune-mediated destruction of small intrahepatic bile ducts
+(D) Viral-mediated cytopathic injury
+(E) Deposition of bile pigment in hepatocytes
+Correct Answer: C
+Explanation:
+ Primary biliary cholangitis involves T-cell–mediated autoimmune destruction of small intrahepatic bile ducts, leading to cholestasis and progressive fibrosis.
+(A) Hepatocyte destruction is not primary here.
+(B) Gallstones cause extrahepatic obstruction, not autoimmune cholestasis.
+(D) Viral hepatitis affects hepatocytes directly.
+(E) Bile deposition is a consequence, not the cause.
+________________
+
+
+Question 42
+A 48-year-old man presents with sudden onset of severe chest pain radiating to the back. Imaging reveals a Stanford type A aortic dissection. Histology of the aortic wall shows cystic medial degeneration with fragmentation of elastic fibers. Which underlying condition most likely predisposed this patient?
+Answer Choices:
+ (A) Long-standing hypertension
+(B) Marfan syndrome
+(C) Takayasu arteritis
+(D) Atherosclerosis
+(E) Syphilitic aortitis
+Correct Answer: B
+Explanation:
+ Marfan syndrome, due to fibrillin-1 mutation, causes cystic medial degeneration, predisposing to ascending aortic dissections.
+(A) Hypertension predisposes to type B dissection more commonly.
+(C) Takayasu causes inflammatory occlusion.
+(D) Atherosclerosis weakens the wall but less associated with ascending dissection.
+(E) Syphilitic aortitis affects the ascending aorta but is rare.
+________________
+
+
+Question 43
+A 59-year-old man with chronic alcohol use presents with fatigue and easy bruising. Laboratory studies reveal elevated AST>ALT, prolonged PT, and thrombocytopenia. Liver biopsy shows nodular regeneration with bridging fibrosis and Mallory-Denk bodies. Which cellular process is primarily responsible for the cytoplasmic inclusions?
+Answer Choices:
+ (A) Accumulation of denatured cytokeratin intermediate filaments
+(B) Lipid accumulation within hepatocytes
+(C) Glycogen deposition due to insulin resistance
+(D) Iron accumulation in hepatocytes
+(E) Apoptotic nuclear fragmentation
+Correct Answer: A
+Explanation:
+ Mallory-Denk bodies consist of aggregated, denatured cytokeratin intermediate filaments in hepatocytes due to alcoholic liver injury.
+(B) Fatty change is separate from Mallory-Denk bodies.
+(C) Glycogen deposition occurs in glycogen storage disorders or diabetes.
+(D) Iron accumulation is seen in hemochromatosis.
+(E) Nuclear fragmentation represents apoptosis, not Mallory bodies.
+________________
+
+
+Question 44
+A 57-year-old woman presents with hematuria and flank pain. Imaging shows a mass in the renal cortex. Histology reveals malignant epithelial cells arranged in nests with prominent clear cytoplasm and delicate vasculature. Which growth factor is most upregulated due to the underlying molecular defect?
+Answer Choices:
+ (A) Epidermal growth factor (EGF)
+(B) Vascular endothelial growth factor (VEGF)
+(C) Platelet-derived growth factor (PDGF)
+(D) Transforming growth factor-beta (TGF-β)
+(E) Fibroblast growth factor (FGF)
+Correct Answer: B
+Explanation:
+ Clear cell renal carcinoma with VHL inactivation stabilizes HIF, upregulating VEGF and promoting angiogenesis.
+(A) EGF contributes to proliferation but less directly.
+(C) PDGF is involved in stromal responses.
+(D) TGF-β promotes fibrosis.
+(E) FGF contributes to angiogenesis but VEGF is primary.
+________________
+
+
+Question 45
+A 46-year-old man presents with painless jaundice and dark urine. Laboratory studies show elevated conjugated bilirubin. Imaging reveals a pancreatic head mass compressing the distal common bile duct. Histology confirms adenocarcinoma. Which of the following best explains the pathophysiology of his jaundice?
+Answer Choices:
+ (A) Hemolysis leading to unconjugated hyperbilirubinemia
+(B) Biliary obstruction causing conjugated hyperbilirubinemia
+(C) Impaired hepatocyte conjugation due to enzyme deficiency
+(D) Gilbert syndrome causing intermittent jaundice
+(E) Cirrhosis leading to decreased bilirubin clearance
+Correct Answer: B
+Explanation:
+ Obstruction of the distal common bile duct by pancreatic adenocarcinoma leads to impaired excretion of conjugated bilirubin, resulting in cholestatic jaundice.
+(A) Hemolysis produces unconjugated bilirubin.
+(C) Enzyme defects cause indirect hyperbilirubinemia.
+(D) Gilbert syndrome causes mild, intermittent unconjugated hyperbilirubinemia.
+(E) Cirrhosis leads to mixed but typically chronic cholestasis.
+________________
+
+
+Question 46
+A 55-year-old man presents with severe right upper quadrant pain and fever. Ultrasound shows gallstones with gallbladder wall thickening. Histology reveals neutrophilic infiltration of the gallbladder wall. Which pathophysiologic mechanism best explains the mucosal injury?
+Answer Choices:
+ (A) Autoimmune-mediated apoptosis
+(B) Ischemia due to cystic artery thrombosis
+(C) Mechanical obstruction and subsequent inflammation
+(D) Viral cytopathic effect
+(E) Chronic cholesterol deposition
+Correct Answer: C
+Explanation:
+ Acute calculous cholecystitis is caused by obstruction of the cystic duct by gallstones, leading to increased intraluminal pressure, ischemia, and neutrophil-mediated inflammation.
+(A) Autoimmune apoptosis is not involved.
+(B) Thrombosis is not typical.
+(D) Viral cytopathic effect is rare.
+(E) Chronic cholesterol deposition contributes to stone formation, not acute injury.
+________________
+
+
+Question 47
+A 68-year-old man presents with fatigue and abdominal distension. Laboratory studies reveal pancytopenia. Bone marrow biopsy shows hypocellular marrow with replacement by fibrous tissue and abnormal megakaryocytes. Which cytokine is most implicated in the pathogenesis of this disorder?
+Answer Choices:
+ (A) Interleukin-6 (IL-6)
+(B) Platelet-derived growth factor (PDGF)
+(C) Tumor necrosis factor-alpha (TNF-α)
+(D) Interleukin-1 (IL-1)
+(E) Transforming growth factor-beta (TGF-β)
+Correct Answer: E
+Explanation:
+ Primary myelofibrosis involves abnormal megakaryocytes releasing TGF-β, stimulating fibroblasts and leading to marrow fibrosis and extramedullary hematopoiesis.
+(A) IL-6 promotes inflammation but not fibrosis.
+(B) PDGF contributes to proliferation but TGF-β is key.
+(C) TNF-α mediates inflammation.
+(D) IL-1 promotes inflammation but not fibrosis directly.
+________________
+
+
+Question 48
+A 52-year-old woman presents with fatigue, weight loss, and generalized lymphadenopathy. Lymph node biopsy reveals diffuse large B-cell lymphoma with sheets of large lymphoid cells. Immunohistochemistry shows CD20 positivity. Which genetic mechanism is most likely involved in tumorigenesis?
+Answer Choices:
+ (A) t(14;18) leading to BCL-2 overexpression
+(B) t(9;22) producing BCR-ABL fusion
+(C) p53 inactivation
+(D) KRAS mutation
+(E) APC gene loss
+Correct Answer: A
+Explanation:
+ t(14;18) translocation in diffuse large B-cell lymphoma places BCL-2 under the immunoglobulin heavy chain promoter, preventing apoptosis and promoting lymphoid accumulation.
+(B) BCR-ABL occurs in CML.
+(C) p53 inactivation occurs in multiple cancers but not primary here.
+(D) KRAS mutation is typical of colon/pancreatic cancers.
+(E) APC loss is colorectal-specific.
+________________
+
+
+Question 49
+A 61-year-old man with long-standing hypertension presents with sudden severe headache. Imaging reveals intracerebral hemorrhage in the basal ganglia. Histology shows small vessel hyaline deposition without inflammation. Which vascular pathology most likely contributed to this event?
+Answer Choices:
+ (A) Hypertensive arteriolosclerosis
+(B) Amyloid angiopathy
+(C) Vasculitis
+(D) Arteriovenous malformation
+(E) Moyamoya disease
+Correct Answer: A
+Explanation:
+ Chronic hypertension causes hyaline arteriolosclerosis of small penetrating vessels, increasing the risk of basal ganglia hemorrhage.
+(B) Amyloid angiopathy typically affects elderly cortex.
+(C) Vasculitis shows inflammation.
+(D) AVMs are structural malformations.
+(E) Moyamoya involves stenotic vessels, not hemorrhage.
+________________
+
+
+Question 50
+A 56-year-old man presents with fatigue and pruritus. Laboratory studies show elevated alkaline phosphatase and positive anti-smooth muscle antibodies. Liver biopsy demonstrates periportal inflammation and bridging necrosis. Which pathophysiologic mechanism is most responsible for hepatocyte injury?
+Answer Choices:
+ (A) Direct viral cytopathic effect
+(B) Autoimmune T-cell–mediated destruction of hepatocytes
+(C) Cholestasis due to bile duct obstruction
+(D) Ischemia from portal vein thrombosis
+(E) Iron overload in hepatocytes
+Correct Answer: B
+Explanation:
+ Autoimmune hepatitis is mediated by cytotoxic T cells that target hepatocytes, causing periportal inflammation and necrosis.
+(A) Viral hepatitis has viral inclusions.
+(C) Obstruction affects bile ducts.
+(D) Ischemia causes centrilobular necrosis.
+(E) Iron overload causes hepatocyte injury via oxidative stress, not autoimmune cytotoxicity.
+Question 51
+A 59-year-old man presents with progressive exertional dyspnea and orthopnea. Echocardiography shows concentric left ventricular hypertrophy with diastolic dysfunction. Histology reveals myocyte hypertrophy with nuclear enlargement and interstitial fibrosis. Which molecular mechanism most directly drives these structural changes?
+Answer Choices:
+ (A) Activation of renin-angiotensin-aldosterone system leading to fibroblast proliferation
+(B) Sarcomeric protein mutations causing myocyte disarray
+(C) Autoantibody-mediated myocyte injury
+(D) Oxidative stress-induced apoptosis
+(E) Chronic hypoxia causing angiogenesis
+Correct Answer: A
+Explanation:
+ Hypertensive heart disease results from chronic pressure overload. Angiotensin II stimulates fibroblasts, promoting interstitial fibrosis, and contributes to myocyte hypertrophy.
+(B) Sarcomeric mutations are specific to hypertrophic cardiomyopathy.
+(C) Autoantibodies are seen in autoimmune myocarditis.
+(D) Oxidative stress alone does not cause concentric hypertrophy.
+(E) Chronic hypoxia induces capillary growth, not primary hypertrophy.
+________________
+
+
+Question 52
+A 48-year-old woman presents with generalized lymphadenopathy and B symptoms. Lymph node biopsy shows Reed-Sternberg cells with CD15⁺/CD30⁺ immunophenotype in an inflammatory background. Which pathogenic mechanism best explains the disease’s hallmark cellular features?
+Answer Choices:
+ (A) Epstein-Barr virus–driven B-cell transformation
+(B) t(14;18) translocation causing BCL-2 overexpression
+(C) TP53 mutation in germinal center B cells
+(D) Chronic antigenic stimulation from autoimmune disease
+(E) KRAS mutation activating proliferation
+Correct Answer: A
+Explanation:
+ Classical Hodgkin lymphoma is often associated with EBV infection, which promotes B-cell transformation into multinucleated Reed-Sternberg cells.
+(B) t(14;18) occurs in follicular lymphoma.
+(C) TP53 mutations are not specific for Hodgkin lymphoma.
+(D) Chronic antigen stimulation is more relevant to marginal zone lymphoma.
+(E) KRAS mutations are common in epithelial malignancies.
+________________
+
+
+Question 53
+A 54-year-old man presents with weight loss and painless hematuria. Imaging shows a renal cortical mass. Histology reveals polygonal cells with clear cytoplasm and abundant vasculature. Which chromosomal abnormality is most characteristic of this tumor?
+Answer Choices:
+ (A) 3p deletion leading to VHL inactivation
+(B) t(9;22) BCR-ABL fusion
+(C) 17p deletion affecting TP53
+(D) t(14;18) BCL-2 translocation
+(E) APC gene mutation
+Correct Answer: A
+Explanation:
+ Clear cell renal carcinoma is associated with 3p deletion, leading to VHL inactivation, HIF stabilization, and VEGF-mediated angiogenesis.
+(B) BCR-ABL is in CML.
+(C) TP53 deletion occurs in many cancers but not specifically here.
+(D) t(14;18) occurs in lymphomas.
+(E) APC mutation is characteristic of colorectal cancer.
+________________
+
+
+Question 54
+A 66-year-old man presents with confusion and hypercalcemia. Chest imaging shows a central lung mass. Histology reveals large polygonal cells with abundant cytoplasm and central nuclei. Laboratory studies show elevated PTH-related protein. Which mechanism explains his hypercalcemia?
+Answer Choices:
+ (A) Osteolytic metastases causing calcium release
+(B) Tumor secretion of PTHrP stimulating bone resorption
+(C) Excess vitamin D production by tumor
+(D) Increased dietary calcium absorption
+(E) Reduced renal excretion due to tubular necrosis
+Correct Answer: B
+Explanation:
+ Squamous cell carcinoma of the lung commonly produces PTHrP, which increases osteoclastic bone resorption, leading to hypercalcemia.
+(A) Osteolytic metastases cause hypercalcemia but not in early PTHrP-mediated cases.
+(C) Vitamin D–mediated hypercalcemia occurs in lymphomas.
+(D) Dietary calcium is not pathologic.
+(E) Tubular necrosis impairs excretion but is not the primary mechanism here.
+________________
+
+
+Question 55
+A 60-year-old man with chronic alcohol use presents with abdominal distension and ascites. Liver biopsy shows nodular regeneration surrounded by fibrous septa and bridging fibrosis. Which complication is most likely due to the architectural changes in this patient’s liver?
+Answer Choices:
+ (A) Hepatocellular carcinoma
+(B) Portal hypertension
+(C) Acute viral hepatitis
+(D) Autoimmune hepatitis
+(E) Hemochromatosis
+Correct Answer: B
+Explanation:
+ Cirrhosis causes distortion of hepatic vasculature, increasing portal venous resistance and leading to portal hypertension.
+(A) HCC is a long-term risk but not an immediate consequence.
+(C) Viral hepatitis is an inflammatory condition.
+(D) Autoimmune hepatitis is separate.
+(E) Hemochromatosis is a metabolic iron disorder.
+________________
+
+
+Question 56
+A 62-year-old woman presents with painless jaundice and weight loss. Imaging reveals a mass at the pancreatic head causing bile duct obstruction. Histology demonstrates desmoplastic stroma surrounding irregular glandular structures. Which component of the tumor microenvironment most promotes chemotherapy resistance?
+Answer Choices:
+ (A) CD8⁺ T cells
+(B) Cancer-associated fibroblasts
+(C) Neutrophil infiltration
+(D) Endothelial cells forming normal vasculature
+(E) B lymphocytes
+Correct Answer: B
+Explanation:
+ Pancreatic adenocarcinoma has a dense desmoplastic stroma driven by activated fibroblasts, which create a barrier to drug delivery and promote chemoresistance.
+(A) CD8⁺ T cells mediate cytotoxicity.
+(C) Neutrophils contribute to inflammation.
+(D) Tumor vessels are abnormal.
+(E) B cells are not central to chemoresistance.
+________________
+
+
+Question 57
+A 50-year-old man with hypertension presents with sudden-onset severe headache. CT scan reveals intracerebral hemorrhage in the basal ganglia. Histology shows hyaline arteriolosclerosis without inflammation. Which process primarily caused vessel rupture?
+Answer Choices:
+ (A) Chronic pressure-induced endothelial injury
+(B) Amyloid deposition in vessel walls
+(C) Autoimmune vasculitis
+(D) Congenital vessel malformation
+(E) Thrombotic occlusion
+Correct Answer: A
+Explanation:
+ Long-standing hypertension causes hyaline arteriolosclerosis, weakening vessel walls and predisposing to rupture in deep brain structures.
+(B) Amyloid angiopathy affects cortical vessels.
+(C) Vasculitis involves inflammation.
+(D) AVMs are structural, not hypertensive.
+(E) Thrombosis does not directly cause hemorrhage.
+________________
+
+
+Question 58
+A 55-year-old woman presents with fatigue and jaundice. Laboratory studies reveal elevated AST and ALT with positive anti-smooth muscle antibodies. Liver biopsy shows periportal lymphocytic infiltration and interface hepatitis. Which immune mechanism is most responsible for her liver injury?
+Answer Choices:
+ (A) Cytotoxic T-cell–mediated hepatocyte destruction
+(B) Antibody-mediated complement activation
+(C) Immune complex deposition in portal tracts
+(D) Autoantibody-induced apoptosis
+(E) Neutrophil-mediated oxidative injury
+Correct Answer: A
+Explanation:
+ Autoimmune hepatitis is mediated by T-cell cytotoxicity targeting hepatocytes, causing periportal inflammation and necrosis.
+(B) Complement activation is secondary.
+(C) Immune complexes are not central.
+(D) Antibodies alone do not cause hepatocyte death.
+(E) Neutrophils mediate acute inflammation, not chronic autoimmune hepatitis.
+________________
+
+
+Question 59
+A 61-year-old man presents with fatigue, bone pain, and recurrent infections. Labs reveal hypercalcemia and anemia. Serum protein electrophoresis shows a monoclonal IgG spike. Bone marrow biopsy demonstrates sheets of plasma cells. Which cytokine is primarily responsible for his lytic bone lesions?
+Answer Choices:
+ (A) Interleukin-1
+(B) Receptor activator of nuclear factor kappa-B ligand (RANKL)
+(C) Tumor necrosis factor-alpha
+(D) Vascular endothelial growth factor
+(E) Transforming growth factor-beta
+Correct Answer: B
+Explanation:
+ Multiple myeloma plasma cells induce osteoclast activation via RANKL, leading to osteolytic bone lesions and hypercalcemia.
+(A) IL-1 contributes to inflammation but not primary bone resorption.
+(C) TNF-alpha promotes systemic symptoms.
+(D) VEGF mediates angiogenesis.
+(E) TGF-beta promotes fibrosis, not osteolysis.
+________________
+
+
+Question 60
+A 66-year-old man presents with sudden-onset abdominal pain and hypotension. Imaging shows hemoperitoneum. Liver histology reveals regenerative nodules surrounded by fibrous septa. Which structural abnormality most directly predisposed this patient to hemorrhage?
+Answer Choices:
+ (A) Hepatic adenoma
+(B) Fragile vasculature within cirrhotic nodules
+(C) Portal vein thrombosis
+(D) Hepatocellular carcinoma invasion
+(E) Fatty change weakening parenchyma
+Correct Answer: B
+Explanation:
+ Cirrhotic regenerative nodules distort hepatic architecture, resulting in fragile intrahepatic vessels prone to spontaneous rupture and hemoperitoneum.
+(A) Adenomas are rare and benign.
+(C) Thrombosis causes ischemia, not rupture.
+(D) HCC invasion is a separate cause of bleeding.
+(E) Fatty change does not significantly weaken vasculature.

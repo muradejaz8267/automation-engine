@@ -1,0 +1,891 @@
+﻿Question 1
+A 28-year-old man is brought to the ED after a high‑speed motor vehicle collision. He is confused and hypotensive. BP is 82/48 mm Hg, HR 128/min. FAST exam shows free fluid in the abdomen. He remains unstable despite 2 liters of crystalloid.
+What is the most appropriate next step?
+Answer Choices:
+(A) CT scan of the abdomen with contrast
+(B) Diagnostic peritoneal lavage
+(C) Exploratory laparotomy
+(D) Packed RBC transfusion only
+(E) Pelvic X‑ray
+Correct Answer: C
+Explanation:
+Hemodynamically unstable trauma patient + positive FAST → immediate exploratory laparotomy. CT is for stable patients only.
+________________
+
+
+Question 2
+A 65-year-old man undergoes elective colectomy. On postoperative day 3, he develops fever, tachycardia, abdominal pain, and leukocytosis. The surgical wound is clean. Abdomen is rigid with rebound tenderness.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Postoperative ileus
+(B) Anastomotic leak
+(C) Atelectasis
+(D) Clostridioides difficile colitis
+(E) Urinary tract infection
+Correct Answer: B
+Explanation:
+Anastomotic leak typically presents 3–7 days post‑op with peritonitis and sepsis.
+________________
+
+
+Question 3
+A 40-year-old woman presents with right upper quadrant pain, fever, and jaundice. Labs show elevated ALP and bilirubin. Ultrasound shows gallstones but no bile duct dilation.
+What is the most appropriate next step?
+Answer Choices:
+(A) Oral antibiotics and discharge
+(B) ERCP
+(C) HIDA scan
+(D) Laparoscopic cholecystectomy during admission
+(E) MRCP
+Correct Answer: B
+Explanation:
+Charcot triad → ascending cholangitis → requires urgent ERCP for biliary decompression.
+________________
+
+
+Question 4
+A 32-year-old man presents after a stab wound to the neck (zone II). He is hemodynamically stable but has hoarseness and subcutaneous emphysema.
+What is the most appropriate management?
+Answer Choices:
+(A) Immediate surgical exploration
+(B) CT angiography of the neck
+(C) Observation only
+(D) Plain neck X‑ray
+(E) Endotracheal intubation and discharge
+Correct Answer: A
+Explanation:
+Hard signs of vascular/aerodigestive injury (hoarseness, emphysema) → immediate exploration, regardless of stability.
+________________
+
+
+Question 5
+A 58-year-old man with long‑standing smoking history presents with progressive dysphagia to solids then liquids. Endoscopy shows a mid‑esophageal mass.
+What is the most likely histologic type?
+Answer Choices:
+(A) Adenocarcinoma
+(B) Squamous cell carcinoma
+(C) Leiomyosarcoma
+(D) Lymphoma
+(E) Neuroendocrine tumor
+Correct Answer: B
+Explanation:
+Mid‑esophageal cancer + smoking → squamous cell carcinoma.
+________________
+
+
+Question 6
+A trauma patient develops hypotension, JVD, and muffled heart sounds. BP is 70/40 mm Hg.
+What is the most appropriate immediate intervention?
+Answer Choices:
+(A) CT scan of the chest
+(B) Needle thoracostomy
+(C) Pericardiocentesis
+(D) Endotracheal intubation
+(E) IV diuretics
+Correct Answer: C
+Explanation:
+Beck triad → acute cardiac tamponade → emergent pericardiocentesis.
+________________
+
+
+Question 7
+A 72-year-old woman undergoes hip fracture repair. On postoperative day 2, she becomes acutely dyspneic and confused. ABG shows hypoxemia. CXR is normal.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Atelectasis
+(B) Fat embolism syndrome
+(C) Pulmonary embolism
+(D) Pneumonia
+(E) ARDS
+Correct Answer: B
+Explanation:
+Fat embolism syndrome → hypoxemia, neurologic symptoms, petechiae 24–72 hours after long bone fracture.
+________________
+
+
+Question 8
+A 55-year-old man presents with painless gross hematuria. CT shows a renal mass.
+What is the most appropriate definitive management?
+Answer Choices:
+(A) Chemotherapy
+(B) Radiation therapy
+(C) Partial or radical nephrectomy
+(D) Observation
+(E) Antibiotics
+Correct Answer: C
+Explanation:
+Renal cell carcinoma → treated primarily with surgical resection.
+________________
+
+
+Question 9
+A postoperative patient develops abdominal distension, nausea, and absent bowel sounds. X‑ray shows diffuse bowel dilation with air in colon and rectum.
+What is the best management?
+Answer Choices:
+(A) Immediate surgery
+(B) NG tube and bowel rest
+(C) Colonoscopy
+(D) Broad‑spectrum antibiotics
+(E) Laxatives
+Correct Answer: B
+Explanation:
+This is postoperative ileus → managed conservatively with bowel rest and NG decompression.
+________________
+
+
+Question 10
+A 30-year-old man presents after a motorcycle crash. He has hypotension, pelvic instability, and blood at the urethral meatus.
+What is the next best step?
+Answer Choices:
+(A) Insert Foley catheter
+(B) CT scan of abdomen and pelvis
+(C) Retrograde urethrogram
+(D) IV pyelogram
+(E) Cystoscopy
+Correct Answer: C
+Explanation:
+Blood at urethral meatus → suspected urethral injury → retrograde urethrogram before Foley.
+
+
+Question 11
+A 34-year-old man is brought to the ED after being rescued from a house fire. He has deep partial- and full-thickness burns involving the anterior torso and both upper extremities. He weighs 80 kg. On arrival, he is tachycardic and hypotensive. Singed nasal hairs and carbonaceous sputum are noted.
+Which of the following is the most appropriate initial fluid resuscitation over the first 24 hours?
+Answer Choices:
+(A) 2 L normal saline total
+(B) 2 mL/kg × %TBSA burn of lactated Ringer
+(C) 4 mL/kg × %TBSA burn of lactated Ringer
+(D) 6 mL/kg × %TBSA burn of normal saline
+(E) Colloid solution only
+Correct Answer: C
+Explanation:
+This patient has major burns. Parkland formula = 4 mL × kg × %TBSA burn using lactated Ringer, with half given in the first 8 hours.
+________________
+
+
+Question 12
+A 67-year-old man with peripheral arterial disease presents with sudden onset severe pain, pallor, and paresthesia of the right leg. The limb is cold and pulseless below the femoral artery. Symptoms began 3 hours ago.
+What is the most appropriate immediate management?
+Answer Choices:
+(A) CT angiography
+(B) Emergent fasciotomy
+(C) IV heparin administration
+(D) Surgical embolectomy without anticoagulation
+(E) Observation and analgesia
+Correct Answer: C
+Explanation:
+Acute limb ischemia → first step is immediate systemic anticoagulation with IV heparin to prevent clot propagation before definitive intervention.
+________________
+
+
+Question 13
+A 55-year-old woman presents with severe epigastric pain radiating to the back. Lipase is markedly elevated. CT shows pancreatic necrosis involving >40% of the gland. On day 4, she develops fever, leukocytosis, and hypotension.
+What is the most appropriate next step?
+Answer Choices:
+(A) Immediate surgical debridement
+(B) Broad-spectrum IV antibiotics
+(C) Repeat CT-guided aspiration
+(D) Total parenteral nutrition only
+(E) Observation and supportive care
+Correct Answer: B
+Explanation:
+Infected pancreatic necrosis → fever, leukocytosis, shock → requires broad-spectrum antibiotics. Surgery is delayed until walled-off necrosis forms.
+________________
+
+
+Question 14
+A 72-year-old man undergoes open repair of an abdominal aortic aneurysm. On postoperative day 1, he develops severe abdominal pain and bloody diarrhea. Lactate is elevated.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Small bowel obstruction
+(B) Anastomotic leak
+(C) Ischemic colitis
+(D) Acute mesenteric ischemia
+(E) Clostridioides difficile colitis
+Correct Answer: C
+Explanation:
+After AAA repair, ischemic colitis can occur due to compromised inferior mesenteric artery perfusion → abdominal pain + hematochezia.
+________________
+
+
+Question 15
+A 46-year-old man presents with acute abdominal pain, distension, and vomiting. He has a history of prior abdominal surgery. X‑ray shows dilated loops of small bowel with air‑fluid levels.
+After NG tube placement and IV fluids, symptoms worsen and he develops fever and leukocytosis.
+What is the most appropriate next step?
+Answer Choices:
+(A) Continue conservative management
+(B) Colonoscopy
+(C) CT scan with oral contrast only
+(D) Exploratory laparotomy
+(E) Prokinetic therapy
+Correct Answer: D
+Explanation:
+Small bowel obstruction with clinical deterioration → concern for strangulation or ischemia → urgent surgery.
+________________
+
+
+Question 16
+A 60-year-old liver transplant recipient presents 10 days postoperatively with fever, jaundice, and rising liver enzymes. Doppler ultrasound shows absent hepatic artery flow.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Acute cellular rejection
+(B) Chronic rejection
+(C) Hepatic artery thrombosis
+(D) Biliary stricture
+(E) CMV hepatitis
+Correct Answer: C
+Explanation:
+Early post‑transplant graft failure + absent arterial flow → hepatic artery thrombosis, a surgical emergency.
+________________
+
+
+Question 17
+A trauma patient with massive transfusion develops oozing from IV sites and surgical wounds. Labs show prolonged PT, PTT, low fibrinogen, and thrombocytopenia.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Heparin-induced thrombocytopenia
+(B) Dilutional coagulopathy
+(C) Disseminated intravascular coagulation
+(D) Vitamin K deficiency
+(E) Antiphospholipid syndrome
+Correct Answer: C
+Explanation:
+DIC → consumptive coagulopathy with bleeding, prolonged PT/PTT, low fibrinogen after severe trauma or shock.
+________________
+
+
+Question 18
+A 59-year-old man undergoes carotid endarterectomy. Six hours later, he develops severe headache, seizures, and focal neurologic deficits. BP is 210/110 mm Hg.
+What is the most likely cause?
+Answer Choices:
+(A) Ischemic stroke from embolization
+(B) Carotid artery thrombosis
+(C) Hyperperfusion syndrome
+(D) Intracerebral hemorrhage from anticoagulation
+(E) Air embolism
+Correct Answer: C
+Explanation:
+Cerebral hyperperfusion syndrome occurs after carotid revascularization due to loss of autoregulation → headache, seizures, hemorrhage risk.
+________________
+
+
+Question 19
+A 70-year-old woman in the surgical ICU has been intubated for 8 days. She develops fever, purulent secretions, and worsening oxygenation. CXR shows new infiltrates.
+What is the most appropriate initial management?
+Answer Choices:
+(A) Remove endotracheal tube immediately
+(B) Start empiric broad-spectrum antibiotics
+(C) Bronchoscopy before antibiotics
+(D) Observation only
+(E) Corticosteroid therapy
+Correct Answer: B
+Explanation:
+Suspected ventilator‑associated pneumonia → empiric broad‑spectrum antibiotics should be started promptly.
+________________
+
+
+Question 20
+A 65-year-old man with metastatic cancer develops bowel obstruction. Imaging confirms diffuse peritoneal carcinomatosis. He is cachectic and hypotensive.
+What is the most appropriate management?
+Answer Choices:
+(A) Emergent laparotomy
+(B) Aggressive chemotherapy
+(C) Endoscopic stent placement
+(D) Palliative care with symptom control
+(E) Total colectomy
+Correct Answer: D
+Explanation:
+In advanced malignancy with poor functional status, surgery offers no benefit → focus on palliation and comfort.
+
+
+Question 21
+A 56-year-old man presents after a high-speed motor vehicle collision. He is intubated for airway protection. BP is 90/55 mm Hg despite fluids. CXR shows a widened mediastinum and deviation of the trachea to the right. Left radial pulse is diminished compared to the right.
+What is the most appropriate next step?
+Answer Choices:
+(A) CT angiography of the chest
+(B) Transesophageal echocardiography
+(C) Immediate thoracotomy
+(D) Aortography in interventional radiology
+(E) Repeat chest X‑ray after fluids
+Correct Answer: A
+Explanation:
+Findings suggest traumatic aortic injury. In a hemodynamically stable or transiently responsive patient, CT angiography of the chest is the diagnostic test of choice.
+________________
+
+
+Question 22
+A 30-year-old man falls from a roof and presents with severe back pain. CT spine shows an L1 burst fracture with retropulsion into the spinal canal. Neurologic exam shows intact motor function but decreased pinprick sensation below the umbilicus.
+What is the most appropriate management?
+Answer Choices:
+(A) Immediate surgical decompression
+(B) High-dose corticosteroids
+(C) External immobilization and observation
+(D) Emergent laminectomy
+(E) No intervention required
+Correct Answer: C
+Explanation:
+Burst fracture with intact motor function → nonoperative management with immobilization unless progressive neurologic deficit or instability develops.
+________________
+
+
+Question 23
+A 68-year-old woman undergoes lobectomy for lung cancer. On postoperative day 1, she develops acute respiratory distress, hypotension, and tracheal deviation to the contralateral side. Breath sounds are absent on the operative side.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Pulmonary embolism
+(B) Acute respiratory distress syndrome
+(C) Tension pneumothorax
+(D) Hemothorax
+(E) Bronchopleural fistula
+Correct Answer: C
+Explanation:
+Sudden instability + tracheal deviation + absent breath sounds → tension pneumothorax, a surgical emergency.
+________________
+
+
+Question 24
+A 22-year-old man presents after being struck in the head with a baseball bat. He is briefly unconscious, then awakens and is oriented. Two hours later, he becomes somnolent with unequal pupils. CT head shows a biconvex hyperdense lesion.
+Which vessel is most likely injured?
+Answer Choices:
+(A) Bridging veins
+(B) Superior sagittal sinus
+(C) Middle meningeal artery
+(D) Anterior cerebral artery
+(E) Posterior communicating artery
+Correct Answer: C
+Explanation:
+Classic epidural hematoma → lucid interval → due to rupture of the middle meningeal artery.
+________________
+
+
+Question 25
+A 64-year-old man undergoes total thyroidectomy. Six hours postoperatively, he develops perioral numbness and carpopedal spasm. ECG shows prolonged QT interval.
+What is the most appropriate treatment?
+Answer Choices:
+(A) Oral vitamin D
+(B) IV magnesium sulfate
+(C) IV calcium gluconate
+(D) IV phosphate
+(E) Observation only
+Correct Answer: C
+Explanation:
+Post‑thyroidectomy hypocalcemia from parathyroid injury → IV calcium gluconate for symptomatic patients.
+________________
+
+
+Question 26
+A 70-year-old man presents with acute abdominal pain and hypotension. He has a history of atrial fibrillation. CT angiography shows occlusion of the superior mesenteric artery.
+Which finding is most characteristic of this condition?
+Answer Choices:
+(A) Early bloody diarrhea
+(B) Severe pain out of proportion to exam
+(C) Progressive abdominal distension over days
+(D) Hyperactive bowel sounds
+(E) RLQ tenderness with rebound
+Correct Answer: B
+Explanation:
+Acute mesenteric ischemia (embolus) → severe pain out of proportion to physical findings early in disease.
+________________
+
+
+Question 27
+A 58-year-old woman undergoes gastric bypass surgery. On postoperative day 5, she develops tachycardia, fever, and left shoulder pain. CT scan shows free air under the diaphragm.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Marginal ulcer
+(B) Internal hernia
+(C) Anastomotic leak
+(D) Postoperative ileus
+(E) Acute pancreatitis
+Correct Answer: C
+Explanation:
+Anastomotic leak typically presents 3–7 days post‑op with sepsis, tachycardia, and referred shoulder pain from diaphragmatic irritation.
+________________
+
+
+Question 28
+A 35-year-old man presents with a painful, swollen right leg after prolonged immobilization. Duplex ultrasound confirms extensive femoral DVT. He suddenly develops dyspnea and hypotension.
+What is the most appropriate immediate treatment?
+Answer Choices:
+(A) IV heparin
+(B) Oral warfarin
+(C) Thrombolytic therapy
+(D) Inferior vena cava filter
+(E) Compression stockings
+Correct Answer: C
+Explanation:
+Massive PE with hemodynamic instability → systemic thrombolysis unless contraindicated.
+________________
+
+
+Question 29
+A 76-year-old woman with dementia presents with a perforated sigmoid colon. She lacks decision‑making capacity. No advance directive is available. Her family insists on comfort‑only care.
+What is the most appropriate course of action?
+Answer Choices:
+(A) Proceed with surgery regardless
+(B) Obtain court order
+(C) Follow family wishes
+(D) Delay care until ethics consult
+(E) Treat under implied consent
+Correct Answer: C
+Explanation:
+When patient lacks capacity and no advance directive exists, surrogate decision‑makers (family) guide care based on patient’s best interests.
+________________
+
+
+Question 30
+A 62-year-old man with severe pancreatitis develops abdominal compartment syndrome. Bladder pressure is markedly elevated, and he has worsening renal failure and ventilatory difficulty.
+What is the definitive management?
+Answer Choices:
+(A) Aggressive diuresis
+(B) Continued bowel rest
+(C) Percutaneous drainage only
+(D) Decompressive laparotomy
+(E) Vasopressor support
+Correct Answer: D
+Explanation:
+Abdominal compartment syndrome with organ dysfunction → emergent decompressive laparotomy.
+Question 31
+A 69-year-old man with a history of hypertension and smoking presents with sudden onset severe back and abdominal pain followed by syncope. On arrival, BP is 78/40 mm Hg, HR 122/min. Abdomen is distended and tender. Bedside ultrasound reveals a large abdominal aortic aneurysm with surrounding free fluid.
+What is the most appropriate next step in management?
+Answer Choices:
+(A) CT angiography of the abdomen
+(B) Aggressive crystalloid resuscitation
+(C) Immediate endovascular aneurysm repair
+(D) Immediate open surgical repair
+(E) Transfusion and observation
+Correct Answer: D
+Explanation:
+This is a ruptured abdominal aortic aneurysm with hemodynamic instability. Immediate operative repair is required; imaging should not delay surgery.
+________________
+
+
+Question 32
+A 28-year-old man presents after a motorcycle crash. He has an open tibial fracture with gross contamination and active bleeding. Distal pulses are intact. He received tetanus prophylaxis in the ED.
+What is the most appropriate next step?
+Answer Choices:
+(A) Immediate internal fixation
+(B) Primary wound closure
+(C) IV broad‑spectrum antibiotics
+(D) CT angiography of the leg
+(E) Observation
+Correct Answer: C
+Explanation:
+Open fractures → priority is early IV antibiotics to prevent osteomyelitis, followed by irrigation, debridement, and fixation.
+________________
+
+
+Question 33
+A 74-year-old woman undergoes emergency bowel resection for perforated diverticulitis. On postoperative day 2, she develops hypotension, tachycardia, fever, and decreased urine output. CVP is low, lactate is elevated, and hemoglobin is unchanged.
+What is the most appropriate immediate management?
+Answer Choices:
+(A) IV vasopressors
+(B) IV broad‑spectrum antibiotics only
+(C) Aggressive IV fluid resuscitation
+(D) Exploratory laparotomy
+(E) Stress‑dose steroids
+Correct Answer: C
+Explanation:
+This patient has septic shock with hypovolemia. Volume resuscitation is the first step before vasopressors.
+________________
+
+
+Question 34
+A 42-year-old man presents with 45% total body surface area burns from a chemical explosion. On day 5, he develops progressive hypoxemia, bilateral pulmonary infiltrates, and normal cardiac filling pressures.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Pulmonary edema
+(B) Fat embolism syndrome
+(C) Ventilator‑associated pneumonia
+(D) Acute respiratory distress syndrome
+(E) Pulmonary embolism
+Correct Answer: D
+Explanation:
+Severe burns → systemic inflammation → ARDS, characterized by hypoxemia, bilateral infiltrates, and noncardiogenic pulmonary edema.
+________________
+
+
+Question 35
+A 61-year-old man undergoes femoral‑popliteal bypass surgery. Six hours later, he reports severe pain in the operative leg. The leg is tense, swollen, and pain is worsened with passive stretch.
+What is the most appropriate next step?
+Answer Choices:
+(A) Doppler ultrasound
+(B) Increase analgesics
+(C) Remove surgical dressing
+(D) Emergent fasciotomy
+(E) CT angiography
+Correct Answer: D
+Explanation:
+This is acute compartment syndrome. Emergent fasciotomy is required to prevent permanent muscle and nerve damage.
+________________
+
+
+Question 36
+A 55-year-old woman undergoes elective laparoscopic cholecystectomy. Two days later, she develops abdominal pain, fever, jaundice, and bilious drainage from the surgical drain.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Retained common bile duct stone
+(B) Bile leak from cystic duct stump
+(C) Acute pancreatitis
+(D) Postoperative ileus
+(E) Hepatic abscess
+Correct Answer: B
+Explanation:
+Post‑cholecystectomy bile leak presents with bilious drainage, pain, fever, and jaundice. ERCP is often diagnostic and therapeutic.
+________________
+
+
+Question 37
+A 67-year-old man with severe peripheral vascular disease presents with rest pain and nonhealing ulcers of the foot. Angiography shows multilevel arterial occlusion. He is not a candidate for revascularization.
+What is the most appropriate management?
+Answer Choices:
+(A) High‑dose anticoagulation
+(B) Hyperbaric oxygen therapy
+(C) Major limb amputation
+(D) Continued wound care only
+(E) Sympathectomy
+Correct Answer: C
+Explanation:
+Critical limb ischemia not amenable to revascularization → amputation to control pain, infection, and improve quality of life.
+________________
+
+
+Question 38
+A 59-year-old man develops massive upper GI bleeding after prolonged ICU stay with mechanical ventilation. Endoscopy shows diffuse superficial gastric erosions.
+What is the most likely underlying cause?
+Answer Choices:
+(A) Peptic ulcer disease
+(B) Mallory–Weiss tear
+(C) Stress‑related mucosal disease
+(D) Gastric carcinoma
+(E) Esophageal varices
+Correct Answer: C
+Explanation:
+Critically ill patients develop stress ulcers due to mucosal ischemia → prevented with acid suppression.
+________________
+
+
+Question 39
+A 71-year-old woman with severe dementia is admitted with bowel ischemia requiring emergent surgery. She lacks capacity. There is no advance directive. Her family is divided about proceeding with surgery.
+What is the most appropriate next step?
+Answer Choices:
+(A) Proceed with surgery under implied consent
+(B) Withhold surgery
+(C) Seek ethics committee consultation
+(D) Obtain court order
+(E) Follow physician judgment alone
+Correct Answer: C
+Explanation:
+When surrogates disagree and stakes are high, ethics consultation helps guide decisions based on patient’s best interests.
+________________
+
+
+Question 40
+A 63-year-old man with severe trauma receives massive transfusion. He develops hypothermia, metabolic acidosis, and coagulopathy.
+This triad is best described as:
+Answer Choices:
+(A) Systemic inflammatory response syndrome
+(B) Acute respiratory distress syndrome
+(C) Trauma triad of death
+(D) Disseminated intravascular coagulation
+(E) Multiple organ dysfunction syndrome
+Correct Answer: C
+Explanation:
+The trauma triad of death = hypothermia + acidosis + coagulopathy, each worsening the others.
+
+
+Question 41
+A 27-year-old man is brought to the ED after a building collapse. He has bilateral femur fractures and was trapped under debris for several hours. On arrival, he is tachycardic and oliguric. Labs show K⁺ 6.8 mEq/L, CK 45,000 U/L, creatinine 2.4 mg/dL, and dark brown urine positive for blood but with no RBCs on microscopy.
+What is the most appropriate immediate management to prevent further renal injury?
+Answer Choices:
+(A) Loop diuretics
+(B) Emergent hemodialysis
+(C) Aggressive IV isotonic fluids
+(D) IV sodium bicarbonate only
+(E) Mannitol infusion
+Correct Answer: C
+Explanation:
+This is rhabdomyolysis causing myoglobin‑induced ATN. The most important early intervention is aggressive IV fluid resuscitation to maintain urine output and flush myoglobin.
+________________
+
+
+Question 42
+A 6-year-old boy presents with intermittent abdominal pain, vomiting, and “currant jelly” stools. On exam, a sausage‑shaped mass is palpated in the right abdomen. He is hemodynamically stable with no signs of peritonitis.
+What is the most appropriate next step?
+Answer Choices:
+(A) Immediate exploratory laparotomy
+(B) CT scan of the abdomen
+(C) Abdominal ultrasound
+(D) Air contrast enema
+(E) IV antibiotics and observation
+Correct Answer: D
+Explanation:
+This is intussusception. In stable children without perforation, air (or contrast) enema is both diagnostic and therapeutic.
+________________
+
+
+Question 43
+A 72-year-old man presents with acute onset flank pain radiating to the groin, nausea, and hematuria. CT scan shows a 9‑mm obstructing ureteral stone with hydronephrosis. He is febrile and hypotensive.
+What is the most appropriate management?
+Answer Choices:
+(A) Oral analgesics and tamsulosin
+(B) Extracorporeal shock wave lithotripsy
+(C) Immediate ureteroscopy
+(D) Percutaneous nephrostomy tube placement
+(E) Observation
+Correct Answer: D
+Explanation:
+An obstructing stone with infection (urosepsis) is a urologic emergency. Immediate urinary decompression (nephrostomy or stent) + antibiotics is required.
+________________
+
+
+Question 44
+A 59-year-old woman undergoes kidney transplantation. On postoperative day 6, she develops fever, graft tenderness, rising creatinine, and hypertension. Doppler ultrasound shows normal renal blood flow.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Hyperacute rejection
+(B) Acute cellular rejection
+(C) Chronic rejection
+(D) Calcineurin inhibitor toxicity
+(E) Renal artery thrombosis
+Correct Answer: B
+Explanation:
+Acute cellular rejection typically occurs days to weeks post‑transplant and presents with graft tenderness, fever, hypertension, and rising creatinine.
+________________
+
+
+Question 45
+A 35-year-old woman presents after polytrauma. She has pelvic fractures and hypotension despite fluids. FAST exam is negative for intra‑abdominal bleeding.
+What is the most appropriate next step?
+Answer Choices:
+(A) CT scan of the abdomen
+(B) Diagnostic peritoneal lavage
+(C) Pelvic binder placement
+(D) Exploratory laparotomy
+(E) IV vasopressors
+Correct Answer: C
+Explanation:
+In unstable trauma with pelvic fractures, hemorrhage is often retroperitoneal. Pelvic binder reduces pelvic volume and bleeding and should be applied immediately.
+________________
+
+
+Question 46
+A 4-year-old child presents with acute scrotal pain and swelling for 4 hours. The testis is high‑riding and tender. Cremasteric reflex is absent.
+What is the most appropriate management?
+Answer Choices:
+(A) Doppler ultrasound
+(B) Manual detorsion and discharge
+(C) IV antibiotics
+(D) Immediate surgical exploration
+(E) Observation
+Correct Answer: D
+Explanation:
+This is testicular torsion, a surgical emergency. Do not delay surgery for imaging when classic signs are present.
+________________
+
+
+Question 47
+A 66-year-old man undergoes esophagectomy for cancer. On postoperative day 4, he develops tachycardia, fever, chest pain, and subcutaneous emphysema in the neck. Chest X‑ray shows mediastinal air.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Pulmonary embolism
+(B) Anastomotic leak
+(C) Pneumonia
+(D) Tension pneumothorax
+(E) Acute mediastinitis from intubation
+Correct Answer: B
+Explanation:
+After esophageal surgery, anastomotic leak presents with sepsis, mediastinal air, chest pain, and subcutaneous emphysema.
+________________
+
+
+Question 48
+A 58-year-old man with severe COPD undergoes emergency abdominal surgery. Postoperatively, he has difficulty weaning from the ventilator due to dynamic hyperinflation and hypotension.
+What ventilator adjustment is most appropriate?
+Answer Choices:
+(A) Increase respiratory rate
+(B) Increase tidal volume
+(C) Decrease inspiratory time
+(D) Increase PEEP
+(E) Switch to pressure support
+Correct Answer: C
+Explanation:
+COPD patients develop auto‑PEEP. Management includes prolonging expiratory time (↓ inspiratory time, ↓ RR) to allow full exhalation.
+________________
+
+
+Question 49
+An 80-year-old man with metastatic pancreatic cancer presents with bowel perforation. He is hypotensive, cachectic, and has a poor prognosis. He lacks capacity. His advance directive states he does not want life‑prolonging surgery.
+What is the most appropriate action?
+Answer Choices:
+(A) Proceed with emergent surgery
+(B) Seek court order
+(C) Follow advance directive and provide comfort care
+(D) Ask family to override directive
+(E) Delay decision until patient stabilizes
+Correct Answer: C
+Explanation:
+A valid advance directive must be honored, even in emergencies. Focus should be on comfort‑directed care.
+________________
+
+
+Question 50
+A trauma patient develops sudden hypoxia, hypotension, and cardiovascular collapse shortly after placement of a central venous catheter.
+What is the most likely cause?
+Answer Choices:
+(A) Pulmonary embolism
+(B) Air embolism
+(C) Cardiac tamponade
+(D) Tension pneumothorax
+(E) Anaphylaxis
+Correct Answer: B
+Explanation:
+Air embolism can occur during central line placement → acute hypoxia, hypotension, and cardiovascular collapse.
+
+
+Question 51
+A 45-year-old man with 60% total body surface area burns has been in the burn ICU for 7 days. He suddenly develops fever, hypotension, tachycardia, and increasing ventilator requirements. Exam reveals erythema and purulent discharge around central venous catheter sites. Lactate is elevated.
+What is the most appropriate next step in management?
+Answer Choices:
+(A) Remove catheters and start broad-spectrum antibiotics
+(B) Administer IV fluids only
+(C) Add antifungal therapy only
+(D) Observe pending blood culture results
+(E) Replace catheters over guidewire
+Correct Answer: A
+Explanation:
+This is septic shock, likely catheter‑associated. Immediate source control (remove catheters) and empiric broad‑spectrum antibiotics are required. Do not delay for cultures.
+________________
+
+
+Question 52
+A 68-year-old man undergoes femoral–popliteal bypass using a synthetic graft. Three weeks later, he presents with fever, groin pain, and a pulsatile mass at the surgical site. CT shows perigraft fluid collection.
+What is the most appropriate management?
+Answer Choices:
+(A) IV antibiotics alone
+(B) Percutaneous drainage
+(C) Surgical graft excision
+(D) Observation
+(E) Endovascular stent placement
+Correct Answer: C
+Explanation:
+This is a vascular graft infection, a life‑threatening condition. Definitive management requires complete graft excision plus antibiotics.
+________________
+
+
+Question 53
+A 3-year-old child presents with bilious vomiting, abdominal distension, and irritability. X‑ray shows a “double bubble” sign. He is hypotensive and acidotic.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Pyloric stenosis
+(B) Intussusception
+(C) Midgut volvulus
+(D) Necrotizing enterocolitis
+(E) Hirschsprung disease
+Correct Answer: C
+Explanation:
+Bilious vomiting + shock in a child → midgut volvulus, a surgical emergency causing bowel ischemia.
+________________
+
+
+Question 54
+A pregnant woman at 34 weeks gestation presents after a motor vehicle collision. She is hypotensive and tachycardic. Fetal heart tracing shows late decelerations. FAST exam is positive.
+What is the most appropriate next step?
+Answer Choices:
+(A) Emergency cesarean section
+(B) CT scan of abdomen
+(C) Exploratory laparotomy
+(D) Tocolytics and observation
+(E) Vaginal delivery
+Correct Answer: C
+Explanation:
+In maternal instability, maternal resuscitation and surgery take priority. Exploratory laparotomy is indicated for intra‑abdominal bleeding.
+________________
+
+
+Question 55
+A 71-year-old man with diabetes presents with severe perineal pain, fever, and crepitus. Exam shows necrotic skin of the perineum.
+What is the most appropriate management?
+Answer Choices:
+(A) IV antibiotics alone
+(B) Hyperbaric oxygen therapy only
+(C) Urgent surgical debridement
+(D) Incision and drainage
+(E) Observation
+Correct Answer: C
+Explanation:
+This is Fournier gangrene, a necrotizing soft tissue infection → requires immediate aggressive surgical debridement plus antibiotics.
+________________
+
+
+Question 56
+A trauma patient receives massive transfusion. Several hours later, he develops tingling, muscle cramps, hypotension, and prolonged QT on ECG.
+Which abnormality is most likely present?
+Answer Choices:
+(A) Hyperkalemia
+(B) Hypocalcemia
+(C) Hypernatremia
+(D) Hypomagnesemia
+(E) Metabolic alkalosis
+Correct Answer: B
+Explanation:
+Massive transfusion → citrate toxicity, which chelates calcium → hypocalcemia causing tetany and QT prolongation.
+________________
+
+
+Question 57
+A 62-year-old woman undergoes total colectomy. On postoperative day 4, she develops confusion, oliguria, hypotension, and abdominal distension. Bladder pressure is elevated.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Septic shock
+(B) Acute tubular necrosis
+(C) Paralytic ileus
+(D) Abdominal compartment syndrome
+(E) Anastomotic leak
+Correct Answer: D
+Explanation:
+Elevated intra‑abdominal pressure + organ dysfunction → abdominal compartment syndrome, requiring urgent decompression.
+________________
+
+
+Question 58
+A 5-year-old boy presents with acute abdominal pain and fever. Ultrasound shows an inflamed appendix with free fluid. During surgery, diffuse purulent peritonitis is found.
+What postoperative antibiotic strategy is most appropriate?
+Answer Choices:
+(A) Single-dose prophylaxis
+(B) Oral antibiotics for 24 hours
+(C) IV broad-spectrum antibiotics for several days
+(D) No antibiotics after surgery
+(E) Antifungal therapy
+Correct Answer: C
+Explanation:
+Perforated appendicitis with peritonitis requires postoperative IV broad‑spectrum antibiotics.
+________________
+
+
+Question 59
+An 82-year-old woman with severe heart failure and dementia presents with bowel ischemia requiring emergent surgery. She lacks capacity. No advance directive exists. Family members disagree on management.
+What is the most appropriate next step?
+Answer Choices:
+(A) Proceed with surgery
+(B) Withhold surgery
+(C) Seek ethics committee consultation
+(D) Obtain court order
+(E) Treat conservatively only
+Correct Answer: C
+Explanation:
+When no directive exists and surrogates disagree, an ethics consultation is appropriate to guide best‑interest decisions.
+________________
+
+
+Question 60
+A 29-year-old man suffers polytrauma with severe traumatic brain injury. Despite maximal therapy, he has no brainstem reflexes and fails apnea testing.
+What is the most appropriate next step?
+Answer Choices:
+(A) Continue life support indefinitely
+(B) Declare brain death
+(C) Withdraw care only after cardiac arrest
+(D) Obtain EEG only
+(E) Sedate and reassess later
+Correct Answer: B
+Explanation:
+Absence of brainstem reflexes + failed apnea test = brain death, which is legal death.

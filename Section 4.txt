@@ -1,0 +1,1354 @@
+﻿Question 1
+A 63-year-old man with long-standing hypertension and type 2 diabetes mellitus presents for evaluation of worsening fatigue and exertional dyspnea. Physical examination reveals bilateral basal crackles and an S3 gallop. Echocardiography demonstrates concentric left ventricular hypertrophy with preserved ejection fraction. Cardiac catheterization shows elevated left ventricular end-diastolic pressure with normal end-systolic volume.
+Which physiologic abnormality most directly accounts for this patient’s symptoms?
+Answer Choices:
+ (A) Decreased ventricular compliance due to impaired active relaxation
+(B) Reduced stroke volume secondary to diminished preload
+(C) Increased afterload causing systolic pump failure
+(D) Reduced myocardial contractility from altered calcium handling
+(E) Impaired Frank–Starling mechanism due to sarcomere overstretching
+Correct Answer: A
+Explanation:
+ This patient has heart failure with preserved ejection fraction (HFpEF), characterized by diastolic dysfunction. Chronic hypertension leads to concentric hypertrophy and impaired active relaxation, reducing ventricular compliance and increasing filling pressures despite normal systolic function.
+* (B) Preload is often elevated, not reduced
+
+* (C) Afterload contributes chronically but systolic function is preserved
+
+* (D) Contractility is relatively intact
+
+* (E) Sarcomeres are stiff, not overstretched
+
+________________
+
+
+Question 2
+A 28-year-old woman at 32 weeks of gestation presents with lightheadedness when standing. Blood pressure is 110/70 mmHg supine and 90/60 mmHg standing. Heart rate increases appropriately. Laboratory testing shows mild respiratory alkalosis.
+Which physiologic change of pregnancy most directly explains her acid–base status?
+Answer Choices:
+ (A) Increased tidal volume mediated by progesterone
+(B) Decreased functional residual capacity from uterine compression
+(C) Increased renal bicarbonate reabsorption
+(D) Increased metabolic acid production by the placenta
+(E) Reduced sensitivity of central chemoreceptors
+Correct Answer: A
+Explanation:
+ Progesterone increases respiratory drive, increasing tidal volume and minute ventilation, leading to chronic respiratory alkalosis in pregnancy. Renal compensation lowers serum bicarbonate.
+   * (B) FRC decreases but does not cause alkalosis
+
+   * (C) Bicarbonate is excreted, not reabsorbed
+
+   * (D) Placental metabolism does not dominate acid-base balance
+
+   * (E) Chemoreceptor sensitivity is increased, not reduced
+
+________________
+
+
+Question 3
+A 45-year-old man with chronic obstructive pulmonary disease presents with worsening dyspnea. Arterial blood gas shows: pH 7.32, PaCO₂ 60 mmHg, PaO₂ 55 mmHg, HCO₃⁻ 30 mEq/L.
+Which compensatory mechanism accounts for the elevated bicarbonate concentration?
+Answer Choices:
+ (A) Increased bicarbonate reabsorption in the proximal tubule
+(B) Decreased ammonium production in the collecting duct
+(C) Increased hydrogen ion secretion by α-intercalated cells
+(D) Reduced carbonic anhydrase activity in renal tubules
+(E) Increased chloride excretion by β-intercalated cells
+Correct Answer: C
+Explanation:
+ Chronic respiratory acidosis leads to renal compensation via increased hydrogen ion secretion by α-intercalated cells, generating new bicarbonate.
+      * (A) Proximal reabsorption alone does not generate new bicarbonate
+
+      * (B) Ammonium production increases, not decreases
+
+      * (D) Carbonic anhydrase activity increases
+
+      * (E) β-intercalated cells secrete bicarbonate, worsening acidosis
+
+________________
+
+
+Question 4
+A 52-year-old man undergoes right pneumonectomy for lung cancer. Two weeks later, he has mild hypoxemia despite normal ventilation.
+Which physiologic mechanism most limits the severity of his hypoxemia?
+Answer Choices:
+ (A) Increased hemoglobin affinity for oxygen
+(B) Hypoxic pulmonary vasoconstriction
+(C) Recruitment of alveolar macrophages
+(D) Increased diffusion capacity of the remaining lung
+(E) Upregulation of erythropoietin secretion
+Correct Answer: B
+Explanation:
+ Hypoxic pulmonary vasoconstriction diverts blood away from poorly ventilated regions toward well-ventilated alveoli, optimizing V/Q matching.
+         * (A) Would impair oxygen unloading
+
+         * (C) Immune response does not affect oxygenation
+
+         * (D) Diffusion capacity is reduced overall
+
+         * (E) EPO acts over weeks to months
+
+________________
+
+
+Question 5
+A healthy volunteer receives an infusion of a selective afferent arteriolar vasoconstrictor. Which immediate renal effect is most likely?
+Answer Choices:
+ (A) Increased glomerular filtration rate
+(B) Increased renal plasma flow
+(C) Decreased filtration fraction
+(D) Decreased glomerular capillary hydrostatic pressure
+(E) Increased peritubular capillary oncotic pressure
+Correct Answer: D
+Explanation:
+ Afferent arteriolar constriction reduces blood flow into the glomerulus, lowering glomerular capillary hydrostatic pressure and decreasing GFR.
+            * (A) GFR decreases
+
+            * (B) RPF decreases
+
+            * (C) Filtration fraction may remain unchanged or decrease
+
+            * (E) Oncotic pressure decreases with reduced filtration
+
+________________
+
+
+Question 6
+A 19-year-old athlete collapses during intense exercise. He is found to have hypertrophic cardiomyopathy due to a β-myosin heavy chain mutation.
+Which physiologic change most contributes to his risk of sudden cardiac death?
+Answer Choices:
+ (A) Reduced preload during exertion
+(B) Dynamic left ventricular outflow tract obstruction
+(C) Increased myocardial oxygen extraction
+(D) Impaired ventricular repolarization due to ischemia
+(E) Reduced stroke volume from systolic dysfunction
+Correct Answer: B
+Explanation:
+ Hypertrophic cardiomyopathy causes asymmetric septal hypertrophy, leading to dynamic LVOT obstruction, especially during exercise, predisposing to syncope and sudden death.
+               * (A) Preload reduction exacerbates obstruction but is not primary
+
+               * (C) Oxygen extraction is already near maximal
+
+               * (D) Ischemia may occur but is secondary
+
+               * (E) Systolic function is often preserved
+
+________________
+
+
+Question 7
+A 36-year-old woman undergoes thyroidectomy and develops perioral tingling and carpopedal spasm. Serum calcium is low with normal albumin.
+Which physiologic mechanism explains her symptoms?
+Answer Choices:
+ (A) Reduced calcium-sensing receptor activity
+(B) Decreased parathyroid hormone–mediated renal calcium reabsorption
+(C) Increased binding of calcium to albumin
+(D) Reduced intestinal calcium absorption due to vitamin D resistance
+(E) Increased urinary phosphate excretion
+Correct Answer: B
+Explanation:
+ Post-thyroidectomy hypocalcemia is due to hypoparathyroidism, reducing renal calcium reabsorption and lowering serum calcium, causing neuromuscular excitability.
+                  * (A) CaSR activation lowers PTH
+
+                  * (C) Albumin is normal
+
+                  * (D) Vitamin D resistance is not acute
+
+                  * (E) Phosphate excretion decreases without PTH
+
+________________
+
+
+Question 8
+A patient with uncontrolled diabetes mellitus develops metabolic acidosis. Despite a PaCO₂ of 22 mmHg, arterial pH remains low.
+Which physiologic principle explains the incomplete normalization of pH?
+Answer Choices:
+ (A) Limits of alveolar ventilation
+(B) Decreased buffering capacity of hemoglobin
+(C) Delayed renal compensation
+(D) Fixed acid load exceeding respiratory compensation
+(E) Reduced central chemoreceptor sensitivity
+Correct Answer: D
+Explanation:
+ In metabolic acidosis, respiratory compensation via hyperventilation lowers PaCO₂ but cannot fully correct pH because the primary disturbance is excess fixed acid.
+                     * (A) Ventilation can increase further
+
+                     * (B) Hemoglobin buffering remains intact
+
+                     * (C) Kidneys compensate over days
+
+                     * (E) Chemoreceptor sensitivity is increased
+
+________________
+
+
+Question 9
+A 60-year-old man with chronic kidney disease has anemia despite normal iron stores.
+Which physiologic deficit is primarily responsible?
+Answer Choices:
+ (A) Reduced bone marrow responsiveness to erythropoietin
+(B) Decreased erythropoietin synthesis by peritubular cells
+(C) Increased red blood cell destruction in uremia
+(D) Impaired folate absorption
+(E) Suppressed hepcidin production
+Correct Answer: B
+Explanation:
+ Chronic kidney disease causes anemia due to reduced erythropoietin production by renal peritubular interstitial cells.
+                        * (A) Bone marrow remains responsive
+
+                        * (C) Hemolysis is not primary
+
+                        * (D) Folate deficiency is unrelated
+
+                        * (E) Hepcidin is increased, not suppressed
+
+________________
+
+
+Question 10
+During maximal exercise, a trained athlete demonstrates a large increase in cardiac output with only a modest rise in blood pressure.
+Which physiologic change most accounts for this observation?
+Answer Choices:
+ (A) Decreased systemic vascular resistance due to local metabolites
+(B) Reduced venous return from skeletal muscle pooling
+(C) Increased arterial compliance
+(D) Decreased sympathetic tone to resistance vessels
+(E) Reduced stroke volume with increased heart rate
+Correct Answer: A
+Explanation:
+ During exercise, local metabolites (adenosine, CO₂, H⁺) cause arteriolar vasodilation in skeletal muscle, markedly reducing systemic vascular resistance and limiting blood pressure rise despite increased cardiac output.
+                           * (B) Venous return increases via muscle pump
+
+                           * (C) Compliance changes are minor
+
+                           * (D) Sympathetic tone increases globally
+
+                           * (E) Stroke volume increases, not decreases
+
+Question 11
+A 71-year-old man with long-standing hypertension, hyperlipidemia, and a 40–pack-year smoking history presents with progressive exertional dyspnea and occasional chest tightness. Physical examination reveals a laterally displaced apical impulse and an S4 gallop. Echocardiography demonstrates concentric left ventricular hypertrophy and impaired early diastolic filling with preserved ejection fraction. Cardiac catheterization reveals normal coronary arteries and a markedly elevated left ventricular end-diastolic pressure at rest that increases further during exercise.
+Which change at the level of the sarcomere most directly accounts for this patient’s exercise intolerance?
+Answer Choices:
+ (A) Reduced overlap of actin and myosin filaments during systole
+(B) Delayed dissociation of actin–myosin cross-bridges during diastole
+(C) Decreased calcium sensitivity of troponin C
+(D) Reduced phosphorylation of myosin light chains
+(E) Increased SERCA activity during early relaxation
+Correct Answer: B
+Explanation:
+ Diastolic dysfunction in hypertrophic hearts is driven by impaired relaxation due to delayed cross-bridge detachment, increasing ventricular stiffness and filling pressures, especially during exercise.
+                              * (A) Systolic overlap is preserved
+
+                              * (C) Calcium sensitivity is often increased
+
+                              * (D) Not central to diastolic filling
+
+                              * (E) SERCA activity is reduced, not increased
+
+________________
+
+
+Question 12
+A 26-year-old woman presents with episodic palpitations, tremor, and anxiety. Laboratory testing shows suppressed TSH and elevated free T₄. During evaluation, she is found to have increased resting heart rate, widened pulse pressure, and warm, moist skin.
+Which physiologic mechanism best explains the widened pulse pressure observed in this patient?
+Answer Choices:
+ (A) Decreased systemic vascular resistance due to β₂-mediated vasodilation
+(B) Increased stroke volume from enhanced myocardial contractility
+(C) Increased arterial stiffness from chronic sympathetic activation
+(D) Reduced venous capacitance causing elevated preload
+(E) Decreased diastolic filling time due to tachycardia
+Correct Answer: B
+Explanation:
+ Thyroid hormone increases β₁-adrenergic receptor expression, enhancing contractility and stroke volume, raising systolic pressure and widening pulse pressure.
+                                 * (A) SVR decreases but contributes less
+
+                                 * (C) Arterial stiffness narrows pulse pressure
+
+                                 * (D) Preload changes are secondary
+
+                                 * (E) Shortened filling time lowers stroke volume
+
+________________
+
+
+Question 13
+A 58-year-old man with poorly controlled diabetes mellitus presents with polyuria and polydipsia. Laboratory studies show hyperglycemia and glucosuria. Despite marked hyperglycemia, his serum sodium is low.
+Which physiologic process most directly explains this hyponatremia?
+Answer Choices:
+ (A) Decreased aldosterone-mediated sodium reabsorption
+(B) Osmotic movement of water from intracellular to extracellular space
+(C) Increased antidiuretic hormone secretion due to hypovolemia
+(D) Renal sodium wasting from tubular injury
+(E) Dilutional hyponatremia from excess free water intake
+Correct Answer: B
+Explanation:
+ Hyperglycemia increases extracellular osmolality, pulling water out of cells and diluting serum sodium (translocational hyponatremia).
+                                    * (A) Aldosterone is often increased
+
+                                    * (C) ADH contributes but is secondary
+
+                                    * (D) Tubular injury is not required
+
+                                    * (E) Water intake alone does not explain mechanism
+
+________________
+
+
+Question 14
+A 64-year-old man with long-standing chronic obstructive pulmonary disease is evaluated for progressive lower extremity edema and abdominal distension. Physical examination shows elevated jugular venous pressure and hepatomegaly. Echocardiography demonstrates right ventricular hypertrophy and dilation.
+Which physiologic mechanism most directly initiated this patient’s cardiac pathology?
+Answer Choices:
+ (A) Chronic hypercapnia causing myocardial depression
+(B) Hypoxic pulmonary vasoconstriction increasing pulmonary arterial pressure
+(C) Reduced pulmonary capillary recruitment
+(D) Increased pulmonary venous pressure due to left heart failure
+(E) Decreased nitric oxide synthesis in systemic arteries
+Correct Answer: B
+Explanation:
+ Chronic hypoxia causes sustained pulmonary vasoconstriction, increasing pulmonary vascular resistance and leading to cor pulmonale.
+                                       * (A) Hypercapnia is secondary
+
+                                       * (C) Capillary recruitment is reduced but not primary
+
+                                       * (D) This describes left-sided failure
+
+                                       * (E) Systemic arteries are not primary
+
+________________
+
+
+Question 15
+A 35-year-old woman with primary hyperparathyroidism undergoes surgical removal of a parathyroid adenoma. Within 24 hours, she develops muscle cramps and perioral numbness. ECG shows a prolonged QT interval.
+Which renal tubular change best explains her laboratory abnormalities?
+Answer Choices:
+ (A) Decreased calcium reabsorption in the distal convoluted tubule
+(B) Increased phosphate reabsorption in the proximal tubule
+(C) Decreased magnesium reabsorption in the thick ascending limb
+(D) Reduced sodium reabsorption in the collecting duct
+(E) Increased bicarbonate excretion in the proximal tubule
+Correct Answer: A
+Explanation:
+ Loss of PTH reduces distal tubular calcium reabsorption, leading to hypocalcemia and neuromuscular excitability.
+                                          * (B) Phosphate reabsorption increases but does not explain symptoms
+
+                                          * (C) Magnesium changes are less prominent
+
+                                          * (D) Sodium handling is not primary
+
+                                          * (E) Bicarbonate handling is unrelated
+
+________________
+
+
+Question 16
+A 48-year-old man with advanced liver cirrhosis presents with progressive ascites. Laboratory studies show low serum albumin and activation of the renin–angiotensin–aldosterone system.
+Which change most directly promotes sodium retention in this patient?
+Answer Choices:
+ (A) Increased renal sympathetic nerve activity
+(B) Decreased effective arterial blood volume
+(C) Reduced hepatic clearance of aldosterone
+(D) Increased atrial natriuretic peptide secretion
+(E) Enhanced proximal tubular sodium reabsorption
+Correct Answer: B
+Explanation:
+ Cirrhosis causes splanchnic vasodilation and decreased effective arterial blood volume, activating RAAS and sodium retention.
+                                             * (A) Is a consequence of low EABV
+
+                                             * (C) Occurs but is secondary
+
+                                             * (D) ANP opposes sodium retention
+
+                                             * (E) Occurs downstream of RAAS activation
+
+________________
+
+
+Question 17
+A 22-year-old woman is brought to the emergency department after prolonged vomiting. Arterial blood gas shows pH 7.50, PaCO₂ 48 mmHg, HCO₃⁻ 36 mEq/L.
+Which compensatory mechanism is responsible for the elevated PaCO₂?
+Answer Choices:
+ (A) Increased respiratory drive due to metabolic alkalosis
+(B) Hypoventilation mediated by central chemoreceptors
+(C) Increased bicarbonate reabsorption by the kidney
+(D) Reduced chloride delivery to the distal nephron
+(E) Increased ammonium excretion
+Correct Answer: B
+Explanation:
+ Metabolic alkalosis causes hypoventilation to retain CO₂ as respiratory compensation, limited by hypoxia.
+                                                * (A) Respiratory drive decreases
+
+                                                * (C) Renal changes affect bicarbonate, not CO₂
+
+                                                * (D) Explains persistence, not PaCO₂
+
+                                                * (E) Occurs in acidosis
+
+________________
+
+
+Question 18
+A 60-year-old man with severe aortic stenosis reports syncope during exertion. Echocardiography shows a fixed obstruction to left ventricular outflow.
+Which physiologic limitation most directly explains his exertional syncope?
+Answer Choices:
+ (A) Inability to increase stroke volume during exercise
+(B) Reduced myocardial oxygen extraction
+(C) Excessive vagal tone during exertion
+(D) Increased systemic vascular resistance
+(E) Decreased preload due to venous pooling
+Correct Answer: A
+Explanation:
+ In aortic stenosis, fixed outflow obstruction prevents augmentation of stroke volume during exercise, limiting cardiac output and cerebral perfusion.
+                                                   * (B) Extraction is near maximal
+
+                                                   * (C) Sympathetic tone increases
+
+                                                   * (D) SVR decreases during exercise
+
+                                                   * (E) Preload increases via muscle pump
+
+________________
+
+
+Question 19
+A 40-year-old woman with Sheehan syndrome presents with fatigue and hypotension. She is found to have secondary adrenal insufficiency.
+Which physiologic finding would be expected?
+Answer Choices:
+ (A) Hyperkalemia
+(B) Elevated plasma renin activity
+(C) Reduced cortisol with normal aldosterone
+(D) Increased ACTH levels
+(E) Decreased ADH secretion
+Correct Answer: C
+Explanation:
+ Secondary adrenal insufficiency spares aldosterone (regulated by RAAS), while cortisol is reduced due to low ACTH.
+                                                      * (A) Aldosterone is intact
+
+                                                      * (B) Renin is normal
+
+                                                      * (D) ACTH is low
+
+                                                      * (E) ADH may be increased
+
+________________
+
+
+Question 20
+A 27-year-old man at high altitude for several weeks has increased hematocrit and oxygen-carrying capacity.
+Which change in the oxygen–hemoglobin dissociation curve facilitates oxygen delivery to tissues?
+Answer Choices:
+ (A) Left shift due to respiratory alkalosis
+(B) Decreased 2,3-BPG levels
+(C) Right shift from increased 2,3-BPG synthesis
+(D) Increased hemoglobin affinity from fetal hemoglobin expression
+(E) Reduced tissue oxygen extraction
+Correct Answer: C
+Explanation:
+ Chronic hypoxia increases 2,3-BPG, shifting the curve right and enhancing oxygen unloading.
+                                                         * (A) Alkalosis initially shifts left
+
+                                                         * (B) 2,3-BPG increases
+
+Question 21
+A 59-year-old man with chronic hypertension and a 25–pack-year smoking history presents with progressive fatigue, pedal edema, and dyspnea on exertion. Laboratory studies show serum creatinine 2.4 mg/dL (baseline 1.2), BUN 48 mg/dL, and potassium 5.8 mEq/L. ECG reveals peaked T waves. He has mild orthostatic hypotension and jugular venous distension. Echocardiography demonstrates concentric left ventricular hypertrophy with preserved ejection fraction.
+Which renal physiologic mechanism most directly contributes to his hyperkalemia?
+Answer Choices:
+ (A) Decreased aldosterone secretion due to reduced renal perfusion
+(B) Impaired distal tubular potassium secretion secondary to low flow
+(C) Reduced proximal tubular sodium reabsorption
+(D) Increased distal tubular hydrogen ion secretion
+(E) Enhanced potassium reabsorption in the thick ascending limb
+Correct Answer: B
+Explanation:
+ Hyperkalemia in CKD is often due to reduced distal flow and impaired secretion in the collecting duct. Low tubular flow reduces the electrochemical gradient for potassium secretion, compounding the effect of nephron loss.
+                                                            * (A) Aldosterone may be normal or elevated early
+
+                                                            * (C) Proximal sodium handling does not directly regulate potassium
+
+                                                            * (D) Hydrogen secretion is secondary
+
+                                                            * (E) Thick ascending limb reabsorbs potassium, but distal secretion is more critical
+
+________________
+
+
+Question 22
+A 36-year-old woman at 28 weeks’ gestation presents with fatigue and palpitations. Her heart rate is 110 bpm, and blood pressure is 110/68 mmHg. Laboratory testing shows hemoglobin 9.8 g/dL and hematocrit 30%. Echocardiography reveals increased stroke volume and mildly elevated cardiac output.
+Which physiologic adaptation most directly explains the increase in cardiac output in pregnancy?
+Answer Choices:
+ (A) Increased sympathetic tone increasing heart rate
+(B) Reduced systemic vascular resistance increasing venous return
+(C) Enhanced myocardial contractility via thyroid hormone
+(D) Increased circulating catecholamines from adrenal medulla
+(E) Decreased afterload due to peripheral vasodilation
+Correct Answer: B
+Explanation:
+ Pregnancy decreases systemic vascular resistance due to progesterone-mediated vasodilation, increasing venous return and stroke volume, which raises cardiac output.
+                                                               * (A) Sympathetic tone contributes modestly
+
+                                                               * (C) Thyroid effect is minimal in this context
+
+                                                               * (D) Catecholamines may rise but not the primary driver
+
+                                                               * (E) Afterload reduction contributes, but venous return is more direct
+
+________________
+
+
+Question 23
+A 45-year-old man with chronic liver disease presents with ascites and edema. Laboratory testing reveals low serum albumin (2.2 g/dL) and mild hyponatremia. Measurement of renal hemodynamics shows reduced renal perfusion.
+Which physiologic mechanism most directly leads to his sodium retention?
+Answer Choices:
+ (A) Reduced effective arterial blood volume triggering RAAS activation
+(B) Increased glomerular filtration rate from hyperdynamic circulation
+(C) Enhanced atrial natriuretic peptide secretion
+(D) Increased renal sympathetic inhibition of sodium reabsorption
+(E) Reduced hepatic clearance of aldosterone
+Correct Answer: A
+Explanation:
+ Cirrhosis causes splanchnic vasodilation, decreasing effective arterial blood volume, which activates RAAS and enhances sodium retention, leading to ascites.
+                                                                  * (B) GFR is often reduced
+
+                                                                  * (C) ANP is elevated but insufficient
+
+                                                                  * (D) Sympathetic tone is increased, not inhibited
+
+                                                                  * (E) Clearance plays a minor role
+
+________________
+
+
+Question 24
+A 32-year-old man develops hypokalemia after several days of profuse diarrhea. Arterial blood gas shows pH 7.48, PaCO₂ 40 mmHg, HCO₃⁻ 30 mEq/L. ECG shows U waves and flattened T waves.
+Which physiologic process most directly explains the metabolic alkalosis?
+Answer Choices:
+ (A) Loss of hydrogen ions in stool leading to volume contraction
+(B) Renal retention of bicarbonate due to hypovolemia
+(C) Shift of potassium into cells causing intracellular alkalosis
+(D) Increased respiratory compensation
+(E) Decreased distal tubular sodium reabsorption
+Correct Answer: B
+Explanation:
+ Volume contraction from diarrhea stimulates RAAS, increasing aldosterone-mediated hydrogen and potassium secretion, which enhances bicarbonate retention and causes metabolic alkalosis.
+                                                                     * (A) Stool is acidic; loss typically causes acidosis
+
+                                                                     * (C) Potassium shifts affect cellular pH but not primary serum pH
+
+                                                                     * (D) Respiratory compensation is secondary
+
+                                                                     * (E) Sodium reabsorption increases in distal tubule
+
+________________
+
+
+Question 25
+A 56-year-old woman with severe aortic regurgitation presents with fatigue and exertional dyspnea. Physical examination shows a bounding pulse and wide pulse pressure. Echocardiography demonstrates left ventricular dilation and eccentric hypertrophy with preserved ejection fraction.
+Which physiologic adaptation most directly maintains stroke volume in this patient?
+Answer Choices:
+ (A) Increased end-diastolic volume via preload augmentation
+(B) Enhanced myocardial contractility via sympathetic stimulation
+(C) Decreased afterload from systemic vasodilation
+(D) Reduced heart rate increasing filling time
+(E) Enhanced calcium reuptake in diastole
+Correct Answer: A
+Explanation:
+ In chronic aortic regurgitation, left ventricular dilation increases end-diastolic volume, enhancing stroke volume via the Frank–Starling mechanism.
+                                                                        * (B) Sympathetic stimulation is compensatory
+
+                                                                        * (C) Vasodilation occurs but preload is primary
+
+                                                                        * (D) Heart rate may increase
+
+                                                                        * (E) Calcium handling is secondary
+
+________________
+
+
+Question 26
+A 29-year-old man at high altitude develops headache, dyspnea, and polycythemia. Blood gas shows pH 7.48, PaCO₂ 30 mmHg, PaO₂ 60 mmHg.
+Which physiologic adaptation most directly facilitates oxygen delivery to tissues?
+Answer Choices:
+ (A) Increased 2,3-BPG in red blood cells
+(B) Alkalosis-induced left shift of the oxygen–hemoglobin curve
+(C) Reduced cardiac output to preserve oxygen
+(D) Increased hemoglobin affinity for oxygen
+(E) Decreased tissue oxygen extraction
+Correct Answer: A
+Explanation:
+ Chronic hypoxia stimulates 2,3-BPG synthesis in RBCs, shifting the oxygen–hemoglobin curve to the right, facilitating oxygen unloading to tissues.
+                                                                           * (B) Alkalosis shifts curve left, impeding delivery
+
+                                                                           * (C) CO increases to enhance oxygen delivery
+
+                                                                           * (D) Hb affinity decreases to release oxygen
+
+                                                                           * (E) Tissue extraction increases
+
+________________
+
+
+Question 27
+A 50-year-old man with COPD presents with hypoxemia. Arterial blood gas shows PaO₂ 55 mmHg, PaCO₂ 60 mmHg, pH 7.36, HCO₃⁻ 32 mEq/L.
+Which physiologic mechanism most directly prevents further deterioration of PaO₂?
+Answer Choices:
+ (A) Hypoxic pulmonary vasoconstriction diverting blood to better-ventilated alveoli
+(B) Increased cardiac output to enhance oxygen delivery
+(C) Enhanced pulmonary diffusion capacity
+(D) Increased hemoglobin oxygen affinity
+(E) Increased alveolar ventilation via central chemoreceptors
+Correct Answer: A
+Explanation:
+ Hypoxic pulmonary vasoconstriction redistributes blood away from poorly ventilated alveoli to better-ventilated regions, improving V/Q matching and PaO₂.
+                                                                              * (B) CO increase does not correct PaO₂ directly
+
+                                                                              * (C) Diffusion limited by damaged alveoli
+
+                                                                              * (D) Hb affinity increase impairs tissue delivery
+
+                                                                              * (E) CO₂ drive is blunted in chronic COPD
+
+________________
+
+
+Question 28
+A 40-year-old man with pheochromocytoma undergoes surgical resection. During tumor manipulation, he develops severe hypertension, tachycardia, and headache.
+Which physiologic process most directly mediates the acute hemodynamic changes?
+Answer Choices:
+ (A) Excess catecholamine-induced α₁-adrenergic vasoconstriction
+(B) Parasympathetic withdrawal reducing vascular tone
+(C) Increased renin release from renal juxtaglomerular cells
+(D) Direct myocardial depression from catecholamines
+(E) Baroreceptor resetting preventing reflex bradycardia
+Correct Answer: A
+Explanation:
+ Pheochromocytoma secretes catecholamines, causing α₁-mediated vasoconstriction and acute hypertension.
+                                                                                 * (B) Parasympathetic withdrawal contributes modestly
+
+                                                                                 * (C) Renin changes occur slowly
+
+                                                                                 * (D) Catecholamines increase contractility
+
+                                                                                 * (E) Baroreceptors respond but are overridden
+
+________________
+
+
+Question 29
+A 55-year-old man with chronic heart failure and reduced ejection fraction presents with fatigue and hypotension. He is started on an ACE inhibitor. After 48 hours, his plasma renin activity increases, aldosterone levels initially fall, and his GFR mildly decreases.
+Which physiologic mechanism explains the initial rise in plasma renin activity?
+Answer Choices:
+ (A) Loss of negative feedback from angiotensin II on juxtaglomerular cells
+(B) Direct stimulation of renin secretion by ACE inhibition
+(C) Sympathetic inhibition via baroreceptors
+(D) Reduced renal perfusion pressure from hypotension
+(E) Decreased distal sodium delivery
+Correct Answer: A
+Explanation:
+ ACE inhibition reduces angiotensin II, removing negative feedback on renin secretion from juxtaglomerular cells, resulting in increased plasma renin activity.
+                                                                                    * (B) ACE inhibitors do not directly stimulate renin
+
+                                                                                    * (C) Sympathetic activation increases renin, not inhibition
+
+                                                                                    * (D) GFR change is minor
+
+                                                                                    * (E) Sodium delivery may change but not primary
+
+________________
+
+
+Question 30
+A 62-year-old man presents with worsening dyspnea. Pulmonary function tests show FEV₁ 30% predicted, FVC 60% predicted, FEV₁/FVC 50%, and DLCO 25% predicted. ABG reveals PaO₂ 55 mmHg and PaCO₂ 65 mmHg.
+Which physiologic abnormality primarily accounts for his hypoxemia?
+Answer Choices:
+ (A) V/Q mismatch due to uneven alveolar ventilation
+(B) Reduced alveolar oxygen tension due to hypoventilation
+(C) Diffusion limitation across thickened alveolar membrane
+(D) Right-to-left shunt bypassing ventilated alveoli
+(E) Decreased hemoglobin concentration
+Correct Answer: A
+Explanation:
+ COPD causes heterogeneous airway obstruction, producing V/Q mismatch as the main cause of hypoxemia. Diffusion limitation and hypercapnia are secondary contributors.
+                                                                                       * (B) Hypoventilation alone does not explain severe hypoxemia
+
+                                                                                       * (C) Diffusion limitation is minor at rest
+
+                                                                                       * (D) Shunt is not present
+
+                                                                                       * (E) Hemoglobin is normal
+Question 31
+A 47-year-old woman with a 15-year history of type 1 diabetes presents with worsening fatigue, orthostatic dizziness, and bilateral lower extremity edema. Physical examination reveals jugular venous distension, S3 gallop, and mild hepatomegaly. Echocardiography demonstrates concentric left ventricular hypertrophy with preserved ejection fraction. Laboratory evaluation shows serum creatinine 2.1 mg/dL, BUN 42 mg/dL, Na⁺ 132 mEq/L, K⁺ 5.6 mEq/L. Urinalysis reveals proteinuria 2+.
+Which combination of cardiac and renal physiologic changes most directly accounts for her clinical and laboratory findings?
+Answer Choices:
+ (A) Diastolic dysfunction causing elevated left atrial pressure and reduced renal perfusion
+(B) Systolic dysfunction with decreased cardiac output leading to hyperkalemia
+(C) Reduced glomerular filtration causing volume depletion and hypotension
+(D) Increased renal sodium excretion leading to hypovolemia and edema
+(E) Hyperaldosteronism from primary adrenal pathology
+Correct Answer: A
+Explanation:
+ Chronic hypertension and diabetes can cause diastolic dysfunction (HFpEF). Elevated LV filling pressures increase central venous pressure and reduce renal perfusion, activating RAAS, contributing to hyponatremia, hyperkalemia, and edema.
+                                                                                          * (B) Systolic function is preserved
+
+                                                                                          * (C) GFR is reduced, but edema indicates volume overload
+
+                                                                                          * (D) Sodium excretion is decreased, not increased
+
+                                                                                          * (E) No adrenal pathology is indicated
+
+________________
+
+
+Question 32
+A 34-year-old woman presents with episodic palpitations, diaphoresis, and headache. She reports multiple episodes over the past 2 months, often precipitated by stress. Blood pressure in clinic is 160/100 mmHg. Laboratory studies reveal plasma free metanephrines elevated 3-fold above normal. MRI shows a 3-cm adrenal mass. During tumor manipulation in surgery, she develops severe hypertension (BP 240/130 mmHg) and tachycardia.
+Which physiologic mechanism most directly explains the intraoperative blood pressure surge?
+Answer Choices:
+ (A) Excess catecholamine-induced α₁-adrenergic vasoconstriction
+(B) Baroreceptor-mediated reflex bradycardia
+(C) Parasympathetic withdrawal reducing systemic vascular resistance
+(D) RAAS activation secondary to renal hypoperfusion
+(E) Hypoxic pulmonary vasoconstriction increasing afterload
+Correct Answer: A
+Explanation:
+ Catecholamine secretion by pheochromocytoma causes α₁-mediated systemic vasoconstriction, leading to severe acute hypertension during tumor manipulation.
+                                                                                             * (B) Reflex bradycardia may occur but is overridden
+
+                                                                                             * (C) Parasympathetic withdrawal contributes modestly
+
+                                                                                             * (D) RAAS acts slowly
+
+                                                                                             * (E) Pulmonary vasoconstriction is unrelated
+
+________________
+
+
+Question 33
+A 58-year-old man with long-standing COPD presents with worsening shortness of breath. ABG shows pH 7.36, PaCO₂ 65 mmHg, PaO₂ 58 mmHg, HCO₃⁻ 32 mEq/L. Pulmonary function tests reveal FEV₁ 28% predicted, FVC 58% predicted, FEV₁/FVC 48%, and DLCO 30% predicted. Echocardiography demonstrates right ventricular hypertrophy and dilation.
+Which physiologic adaptation is most directly responsible for maintaining his arterial oxygenation?
+Answer Choices:
+ (A) Hypoxic pulmonary vasoconstriction diverting blood to better-ventilated alveoli
+(B) Increased diffusion capacity of the thickened alveolar membrane
+(C) Increased hemoglobin oxygen affinity
+(D) Increased cardiac output to augment oxygen delivery
+(E) Enhanced alveolar ventilation through central chemoreceptor drive
+Correct Answer: A
+Explanation:
+ Chronic COPD creates V/Q mismatch. Hypoxic pulmonary vasoconstriction improves oxygenation by diverting blood from poorly ventilated alveoli.
+                                                                                                * (B) Diffusion is limited by alveolar damage
+
+                                                                                                * (C) High affinity would reduce tissue delivery
+
+                                                                                                * (D) CO increase improves delivery but not PaO₂
+
+                                                                                                * (E) Ventilatory drive may be blunted by chronic hypercapnia
+
+________________
+
+
+Question 34
+A 61-year-old man with aortic stenosis presents with exertional syncope and angina. Echocardiography demonstrates a peak aortic valve gradient of 80 mmHg, left ventricular hypertrophy, and concentric remodeling. Coronary angiography shows minimal atherosclerotic disease.
+Which physiologic mechanism most directly limits his cardiac output during exertion?
+Answer Choices:
+ (A) Fixed left ventricular outflow obstruction preventing augmentation of stroke volume
+(B) Reduced myocardial oxygen extraction due to high LV pressure
+(C) Reflex bradycardia from baroreceptor activation
+(D) Decreased venous return due to peripheral vasodilation
+(E) Impaired calcium reuptake during diastole
+Correct Answer: A
+Explanation:
+ Severe aortic stenosis prevents stroke volume increase during exertion, limiting cardiac output and causing exertional syncope.
+                                                                                                   * (B) Extraction is near maximal at rest
+
+                                                                                                   * (C) Reflex bradycardia is overridden
+
+                                                                                                   * (D) Peripheral vasodilation occurs but is secondary
+
+                                                                                                   * (E) Calcium handling affects diastolic filling but is not primary here
+
+________________
+
+
+Question 35
+A 28-year-old pregnant woman at 32 weeks’ gestation presents with dizziness upon standing. Blood pressure is 110/70 mmHg supine and 88/60 mmHg standing. Heart rate rises from 78 to 110 bpm. Laboratory testing reveals mild respiratory alkalosis with PaCO₂ 30 mmHg.
+Which physiologic mechanism best explains her acid–base disturbance?
+Answer Choices:
+ (A) Progesterone-mediated increase in tidal volume causing respiratory alkalosis
+(B) Reduced renal bicarbonate reabsorption
+(C) Increased metabolic acid production by placenta
+(D) Reduced central chemoreceptor sensitivity to CO₂
+(E) Increased oxygen affinity of hemoglobin
+Correct Answer: A
+Explanation:
+ Progesterone stimulates central respiratory centers, increasing tidal volume and minute ventilation, producing chronic respiratory alkalosis with renal compensation.
+                                                                                                      * (B) Renal excretion of bicarbonate occurs but is secondary
+
+                                                                                                      * (C) Placental metabolism does not dominate
+
+                                                                                                      * (D) Chemoreceptor sensitivity is increased
+
+                                                                                                      * (E) Hb affinity changes are minor
+
+________________
+
+
+Question 36
+A 46-year-old man with chronic kidney disease (CKD stage 4) presents with fatigue, nausea, and mild confusion. Laboratory evaluation shows BUN 62 mg/dL, creatinine 4.2 mg/dL, K⁺ 6.1 mEq/L, Na⁺ 132 mEq/L, HCO₃⁻ 18 mEq/L. ECG reveals peaked T waves and a prolonged PR interval.
+Which renal physiologic change most directly contributes to his hyperkalemia?
+Answer Choices:
+ (A) Reduced distal tubular flow limiting potassium secretion
+(B) Decreased proximal sodium reabsorption
+(C) Increased distal hydrogen secretion
+(D) Increased urinary phosphate excretion
+(E) Increased aldosterone activity
+Correct Answer: A
+Explanation:
+ CKD reduces nephron number and distal flow, limiting potassium secretion in principal cells, causing hyperkalemia.
+                                                                                                         * (B) Proximal sodium reabsorption is not primary
+
+                                                                                                         * (C) Hydrogen secretion affects acid-base, not potassium directly
+
+                                                                                                         * (D) Phosphate excretion may be altered but does not cause hyperkalemia
+
+                                                                                                         * (E) Aldosterone is often increased to compensate
+
+________________
+
+
+Question 37
+A 52-year-old man with long-standing type 2 diabetes presents with polyuria, polydipsia, and fatigue. Laboratory studies reveal plasma glucose 430 mg/dL, serum sodium 126 mEq/L, and serum osmolality 310 mOsm/kg.
+Which physiologic process primarily explains his hyponatremia?
+Answer Choices:
+ (A) Osmotic water shift from intracellular to extracellular space due to hyperglycemia
+(B) Sodium loss from osmotic diuresis
+(C) Increased ADH secretion from hypovolemia
+(D) Reduced renal sodium reabsorption
+(E) Decreased aldosterone activity
+Correct Answer: A
+Explanation:
+ Severe hyperglycemia increases plasma osmolality, pulling water from cells into the extracellular space, diluting serum sodium (translocational hyponatremia).
+                                                                                                            * (B) Diuresis contributes but osmotic shift is primary
+
+                                                                                                            * (C) ADH may increase
+
+                                                                                                            * (D) Sodium reabsorption is preserved or increased
+
+                                                                                                            * (E) Aldosterone is intact
+
+________________
+
+
+Question 38
+A 35-year-old man with chronic hypoxemia due to high-altitude residence develops polycythemia. Laboratory studies show hemoglobin 21 g/dL and hematocrit 63%. Blood gas shows PaO₂ 58 mmHg and PaCO₂ 28 mmHg.
+Which physiologic adaptation most directly enhances tissue oxygen delivery?
+Answer Choices:
+ (A) Increased 2,3-BPG production shifting the oxygen–hemoglobin curve to the right
+(B) Increased hemoglobin affinity for oxygen
+(C) Decreased cardiac output to conserve oxygen
+(D) Decreased tissue oxygen extraction
+(E) Increased oxygen content via fetal hemoglobin expression
+Correct Answer: A
+Explanation:
+ Chronic hypoxia stimulates 2,3-BPG synthesis, decreasing hemoglobin affinity and facilitating oxygen unloading to tissues.
+                                                                                                               * (B) High affinity impairs tissue delivery
+
+                                                                                                               * (C) CO increases to enhance delivery
+
+                                                                                                               * (D) Extraction increases
+
+                                                                                                               * (E) HbF is not induced in adults
+
+________________
+
+
+Question 39
+A 44-year-old woman with chronic liver disease develops ascites and lower extremity edema. Laboratory studies show serum albumin 2.0 g/dL, Na⁺ 130 mEq/L, and creatinine 1.6 mg/dL. Doppler ultrasound shows portal hypertension.
+Which physiologic mechanism most directly triggers sodium and water retention in this patient?
+Answer Choices:
+ (A) Decreased effective arterial blood volume activating RAAS
+(B) Increased GFR causing compensatory sodium reabsorption
+(C) Reduced hepatic clearance of aldosterone
+(D) Increased atrial natriuretic peptide release
+(E) Increased sympathetic inhibition of renal tubules
+Correct Answer: A
+Explanation:
+ Splanchnic vasodilation reduces effective arterial blood volume, activating RAAS, increasing renal sodium retention and water retention.
+                                                                                                                  * (B) GFR is often reduced
+
+                                                                                                                  * (C) Aldosterone clearance is secondary
+
+                                                                                                                  * (D) ANP opposes sodium retention
+
+                                                                                                                  * (E) Sympathetic activity is increased, not inhibited
+
+________________
+
+
+Question 40
+A 56-year-old man with chronic obstructive pulmonary disease (COPD) presents with progressive dyspnea. Arterial blood gas shows PaO₂ 55 mmHg, PaCO₂ 65 mmHg, pH 7.36, HCO₃⁻ 32 mEq/L. Pulmonary function tests show FEV₁ 25% predicted, FEV₁/FVC 45%, and DLCO 28%. Echocardiography demonstrates right ventricular hypertrophy.
+Which physiologic adaptation most directly prevents further hypoxemia in this patient?
+Answer Choices:
+ (A) Hypoxic pulmonary vasoconstriction diverting blood from poorly ventilated alveoli
+(B) Increased alveolar ventilation via central chemoreceptors
+(C) Increased hemoglobin oxygen affinity
+(D) Enhanced pulmonary diffusion capacity
+(E) Decreased cardiac output to reduce oxygen consumption
+Correct Answer: A
+Explanation:
+ Hypoxic pulmonary vasoconstriction optimizes V/Q matching by diverting blood away from hypoventilated alveoli, improving arterial oxygenation in COPD.
+                                                                                                                     * (B) Ventilatory drive is often blunted by chronic hypercapnia
+
+                                                                                                                     * (C) High affinity reduces tissue oxygen delivery
+
+                                                                                                                     * (D) Diffusion limitation persists
+
+                                                                                                                     * (E) CO increases to enhance oxygen delivery
+
+Question 41
+A 52-year-old man with longstanding hypertension and obesity presents with exertional dyspnea and nocturnal dyspnea. Physical examination reveals bilateral basal crackles, an S4 gallop, and mild peripheral edema. Echocardiography shows concentric left ventricular hypertrophy with preserved ejection fraction and impaired early diastolic filling. Laboratory studies reveal serum creatinine 1.5 mg/dL and BNP 280 pg/mL.
+Which physiologic abnormality most directly accounts for his elevated left atrial pressure?
+Answer Choices:
+ (A) Impaired relaxation of the left ventricle during early diastole
+(B) Reduced myocardial contractility during systole
+(C) Increased afterload due to systemic vasodilation
+(D) Decreased preload from reduced venous return
+(E) Enhanced compliance of the left atrium
+Correct Answer: A
+Explanation:
+ Diastolic dysfunction from concentric LV hypertrophy reduces early filling, increasing left atrial pressure and pulmonary venous congestion.
+                                                                                                                        * (B) Systolic function is preserved
+
+                                                                                                                        * (C) Vasodilation reduces afterload, not increases pressure
+
+                                                                                                                        * (D) Preload is normal or increased
+
+                                                                                                                        * (E) LA compliance is decreased, contributing to pressure elevation
+
+________________
+
+
+Question 42
+A 36-year-old woman presents with palpitations, sweating, and headache. Plasma free metanephrines are elevated. MRI reveals a 2.8-cm left adrenal mass. During preoperative evaluation, her blood pressure fluctuates between 140/90 mmHg and 220/130 mmHg.
+Which physiologic mechanism is primarily responsible for her episodic hypertension?
+Answer Choices:
+ (A) Sudden catecholamine release stimulating α₁-adrenergic vasoconstriction
+(B) Loss of baroreceptor reflex sensitivity
+(C) Increased renal perfusion triggering RAAS suppression
+(D) Hypervolemia-induced cardiac output elevation
+(E) Increased parasympathetic tone reducing vascular compliance
+Correct Answer: A
+Explanation:
+ Pheochromocytoma secretes catecholamines episodically, causing α₁-mediated vasoconstriction and paroxysmal hypertension.
+                                                                                                                           * (B) Baroreceptor reflex is intact
+
+                                                                                                                           * (C) RAAS suppression does not cause spikes
+
+                                                                                                                           * (D) Hypervolemia is not primary
+
+                                                                                                                           * (E) Parasympathetic tone reduces BP, not elevates it
+
+________________
+
+
+Question 43
+A 44-year-old man with COPD presents with worsening dyspnea. Arterial blood gas shows PaO₂ 55 mmHg, PaCO₂ 65 mmHg, pH 7.36, HCO₃⁻ 32 mEq/L. Echocardiography demonstrates right ventricular hypertrophy. Pulmonary function tests reveal FEV₁ 28% predicted, FEV₁/FVC 45%, and DLCO 30%.
+Which physiologic adaptation most directly maintains oxygenation in this patient?
+Answer Choices:
+ (A) Hypoxic pulmonary vasoconstriction diverting blood from poorly ventilated alveoli
+(B) Increased alveolar ventilation through central chemoreceptor activation
+(C) Increased hemoglobin oxygen affinity
+(D) Enhanced pulmonary diffusion capacity
+(E) Decreased cardiac output to reduce oxygen demand
+Correct Answer: A
+Explanation:
+ V/Q mismatch from airway obstruction triggers hypoxic pulmonary vasoconstriction, optimizing oxygenation by redirecting blood to well-ventilated alveoli.
+                                                                                                                              * (B) Ventilatory drive is blunted in chronic hypercapnia
+
+                                                                                                                              * (C) High Hb affinity impairs tissue oxygen delivery
+
+                                                                                                                              * (D) Diffusion is limited due to emphysema
+
+                                                                                                                              * (E) CO increases to support oxygen delivery
+
+________________
+
+
+Question 44
+A 60-year-old woman presents with progressive exertional dyspnea and palpitations. Echocardiography reveals severe mitral regurgitation with left ventricular dilation and eccentric hypertrophy. Laboratory evaluation shows elevated BNP.
+Which physiologic mechanism most directly maintains forward stroke volume in this patient?
+Answer Choices:
+ (A) Increased end-diastolic volume via ventricular dilation
+(B) Enhanced sympathetic contractility via β₁-adrenoceptor upregulation
+(C) Reduced afterload from systemic vasodilation
+(D) Increased heart rate increasing cardiac output
+(E) Enhanced diastolic calcium reuptake
+Correct Answer: A
+Explanation:
+ In chronic MR, eccentric hypertrophy allows increased EDV, maintaining forward stroke volume via the Frank–Starling mechanism.
+                                                                                                                                 * (B) Sympathetic stimulation is secondary
+
+                                                                                                                                 * (C) Vasodilation is minor contributor
+
+                                                                                                                                 * (D) Tachycardia is compensatory
+
+                                                                                                                                 * (E) Calcium handling affects relaxation, not forward SV
+
+________________
+
+
+Question 45
+A 34-year-old woman at 30 weeks’ gestation presents with mild dyspnea and palpitations. Blood pressure is 110/68 mmHg, heart rate 112 bpm. Laboratory studies show hemoglobin 11 g/dL and hematocrit 33%. Echocardiography shows increased stroke volume and cardiac output.
+Which physiologic mechanism most directly accounts for the increase in cardiac output?
+Answer Choices:
+ (A) Reduced systemic vascular resistance increasing venous return
+(B) Increased myocardial contractility from thyroid hormone
+(C) Increased circulating catecholamines from adrenal medulla
+(D) Reduced afterload from peripheral vasodilation
+(E) Increased heart rate from sympathetic activation
+Correct Answer: A
+Explanation:
+ Pregnancy reduces systemic vascular resistance (progesterone-mediated), increasing venous return and stroke volume, elevating cardiac output.
+                                                                                                                                    * (B) Thyroid effect is minor
+
+                                                                                                                                    * (C) Catecholamines contribute less
+
+                                                                                                                                    * (D) Afterload reduction is secondary
+
+                                                                                                                                    * (E) Heart rate increase is compensatory
+
+________________
+
+
+Question 46
+A 55-year-old man with CKD presents with fatigue, nausea, and hyperkalemia (K⁺ 6.5 mEq/L). ECG shows peaked T waves. GFR is 22 mL/min/1.73 m².
+Which renal physiologic change most directly contributes to his hyperkalemia?
+Answer Choices:
+ (A) Reduced distal tubular flow limiting potassium secretion
+(B) Increased proximal tubular sodium reabsorption
+(C) Increased distal hydrogen ion secretion
+(D) Increased renal phosphate excretion
+(E) Enhanced aldosterone activity
+Correct Answer: A
+Explanation:
+ Reduced nephron number decreases distal flow, impairing K⁺ secretion in principal cells, causing hyperkalemia.
+                                                                                                                                       * (B) Sodium reabsorption is secondary
+
+                                                                                                                                       * (C) H⁺ secretion affects acid-base
+
+                                                                                                                                       * (D) Phosphate excretion unrelated
+
+                                                                                                                                       * (E) Aldosterone is often elevated to compensate
+
+________________
+
+
+Question 47
+A 38-year-old man presents with polyuria and polydipsia. Laboratory studies reveal plasma glucose 410 mg/dL, serum sodium 128 mEq/L, serum osmolality 312 mOsm/kg.
+Which physiologic process primarily explains his hyponatremia?
+Answer Choices:
+ (A) Osmotic water shift from intracellular to extracellular space due to hyperglycemia
+(B) Sodium loss from osmotic diuresis
+(C) Increased ADH secretion due to hypovolemia
+(D) Reduced renal sodium reabsorption
+(E) Decreased aldosterone activity
+Correct Answer: A
+Explanation:
+ Hyperglycemia elevates extracellular osmolality, drawing water from cells, diluting serum sodium (translocational hyponatremia).
+                                                                                                                                          * (B) Diuresis contributes less than osmotic shift
+
+                                                                                                                                          * (C) ADH may increase
+
+                                                                                                                                          * (D) Sodium reabsorption is intact
+
+                                                                                                                                          * (E) Aldosterone is normal
+
+________________
+
+
+Question 48
+A 50-year-old man with chronic hypoxemia due to high-altitude exposure has hemoglobin 21 g/dL, hematocrit 62%, PaO₂ 58 mmHg, PaCO₂ 30 mmHg.
+Which physiologic adaptation most directly enhances oxygen delivery to tissues?
+Answer Choices:
+ (A) Increased 2,3-BPG shifting oxygen–hemoglobin curve to the right
+(B) Increased hemoglobin affinity for oxygen
+(C) Decreased cardiac output
+(D) Decreased tissue oxygen extraction
+(E) Fetal hemoglobin induction
+Correct Answer: A
+Explanation:
+ Chronic hypoxia increases 2,3-BPG, decreasing hemoglobin affinity, facilitating oxygen unloading to tissues.
+                                                                                                                                             * (B) High affinity reduces delivery
+
+                                                                                                                                             * (C) CO increases to enhance delivery
+
+                                                                                                                                             * (D) Tissue extraction increases
+
+                                                                                                                                             * (E) HbF not induced in adults
+
+________________
+
+
+Question 49
+A 42-year-old woman with severe aortic stenosis presents with exertional syncope and angina. Echocardiography shows a peak gradient of 90 mmHg, concentric LV hypertrophy, and preserved ejection fraction.
+Which physiologic mechanism most directly limits her cardiac output during exercise?
+Answer Choices:
+ (A) Fixed LV outflow obstruction preventing stroke volume increase
+(B) Reduced myocardial oxygen extraction
+(C) Reflex bradycardia
+(D) Decreased preload
+(E) Impaired calcium reuptake in diastole
+Correct Answer: A
+Explanation:
+ Severe stenosis limits stroke volume augmentation during exertion, causing syncope due to reduced cardiac output.
+                                                                                                                                                * (B) Extraction is maximal at rest
+
+                                                                                                                                                * (C) Baroreflex is overridden
+
+                                                                                                                                                * (D) Preload is preserved
+
+                                                                                                                                                * (E) Calcium handling secondary
+
+________________
+
+
+Question 50
+A 35-year-old woman presents with persistent vomiting for 5 days. Arterial blood gas shows pH 7.50, PaCO₂ 48 mmHg, HCO₃⁻ 36 mEq/L. ECG shows U waves and flattened T waves.
+Which compensatory mechanism explains the elevated PaCO₂?
+Answer Choices:
+ (A) Hypoventilation mediated by central chemoreceptors to retain CO₂
+(B) Increased renal bicarbonate reabsorption
+(C) Loss of hydrogen ions in vomitus
+(D) Increased distal sodium reabsorption
+(E) Shift of potassium into cells
+Correct Answer: A
+Explanation:
+ Metabolic alkalosis triggers hypoventilation to retain CO₂ as respiratory compensation, limited by hypoxia.
+                                                                                                                                                   * (B) Renal response is slower
+
+                                                                                                                                                   * (C) Contributes to alkalosis, not PaCO₂
+
+                                                                                                                                                   * (D) Sodium reabsorption affects volume
+
+                                                                                                                                                   * (E) Potassium shifts influence cellular pH
+
+
+olume overload?
+Answer Choices:
+ (A) Increased left atrial pressure secondary to impaired LV relaxation
+(B) Reduced cardiac output from systolic dysfunction
+(C) Reduced renal sodium reabsorption
+(D) Systemic vasodilation decreasing afterload
+(E) Decreased sympathetic tone
+Correct Answer: A
+Explanation:
+ Diastolic dysfunction elevates left atrial pressure, increasing pulmonary venous pressure and stimulating renal sodium and water retention via RAAS activation, producing edema and congestion.
+                                                                                                                                                      * (B) Systolic function is preserved
+
+                                                                                                                                                      * (C) Sodium reabsorption is increased, not reduced
+
+                                                                                                                                                      * (D) Vasodilation is minimal
+
+                                                                                                                                                      * (E) Sympathetic tone is elevated
+
+________________
+
+
+Question 52
+A 62-year-old man with COPD presents with worsening dyspnea. ABG reveals PaO₂ 55 mmHg, PaCO₂ 68 mmHg, pH 7.35, HCO₃⁻ 34 mEq/L. Pulmonary function testing shows FEV₁ 22% predicted, FEV₁/FVC 40%, DLCO 25% predicted. Echocardiography reveals right ventricular hypertrophy.
+Which physiologic adaptation most directly maintains arterial oxygenation in this patient?
+Answer Choices:
+ (A) Hypoxic pulmonary vasoconstriction diverting blood from poorly ventilated alveoli
+(B) Increased alveolar ventilation through central chemoreceptor drive
+(C) Increased hemoglobin oxygen affinity
+(D) Enhanced pulmonary diffusion capacity
+(E) Reduced cardiac output to lower oxygen consumption
+Correct Answer: A
+Explanation:
+ V/Q mismatch in COPD is compensated by hypoxic pulmonary vasoconstriction, which redirects blood to better-ventilated alveoli, improving PaO₂.
+                                                                                                                                                         * (B) Central drive is blunted by chronic hypercapnia
+
+                                                                                                                                                         * (C) High Hb affinity impairs tissue delivery
+
+                                                                                                                                                         * (D) Diffusion is limited due to emphysematous alveoli
+
+                                                                                                                                                         * (E) Cardiac output increases, not decreases
+
+________________
+
+
+Question 53
+A 35-year-old woman at 34 weeks’ gestation presents with palpitations and mild dyspnea. Blood pressure is 110/70 mmHg, heart rate 115 bpm. Labs reveal hemoglobin 10.8 g/dL, hematocrit 32%. Echocardiography shows increased stroke volume and cardiac output.
+Which physiologic mechanism most directly accounts for her elevated cardiac output?
+Answer Choices:
+ (A) Progesterone-mediated vasodilation decreasing systemic vascular resistance and increasing venous return
+(B) Increased myocardial contractility due to thyroid hormone
+(C) Sympathetic stimulation increasing heart rate
+(D) Increased plasma catecholamines from adrenal medulla
+(E) Increased afterload reduction from aortic compliance
+Correct Answer: A
+Explanation:
+ Progesterone-induced vasodilation reduces SVR, augmenting venous return and stroke volume, thereby increasing cardiac output during pregnancy.
+                                                                                                                                                            * (B) Thyroid effects are minor
+
+                                                                                                                                                            * (C) Heart rate increase is compensatory
+
+                                                                                                                                                            * (D) Catecholamines contribute less
+
+                                                                                                                                                            * (E) Afterload reduction is secondary
+
+________________
+
+
+Question 54
+A 55-year-old man with chronic kidney disease stage 4 presents with fatigue, nausea, and hyperkalemia (K⁺ 6.4 mEq/L). Serum creatinine is 4.5 mg/dL, BUN 65 mg/dL. Urine output is 600 mL/day.
+Which renal physiologic change most directly contributes to his hyperkalemia?
+Answer Choices:
+ (A) Reduced distal tubular flow limiting potassium secretion in principal cells
+(B) Increased proximal sodium reabsorption
+(C) Increased distal tubular hydrogen secretion
+(D) Enhanced phosphate excretion
+(E) Hyperaldosteronism from RAAS activation
+Correct Answer: A
+Explanation:
+ CKD reduces nephron number and distal tubular flow, impairing K⁺ secretion in principal cells, causing hyperkalemia.
+                                                                                                                                                               * (B) Sodium reabsorption does not directly cause hyperkalemia
+
+                                                                                                                                                               * (C) Hydrogen secretion affects acid-base
+
+                                                                                                                                                               * (D) Phosphate excretion unrelated
+
+                                                                                                                                                               * (E) Aldosterone is often elevated but cannot compensate
+
+________________
+
+
+Question 55
+A 48-year-old man presents with polyuria, polydipsia, and hyperglycemia (plasma glucose 420 mg/dL). Serum sodium is 127 mEq/L, serum osmolality 312 mOsm/kg.
+Which physiologic mechanism primarily explains his hyponatremia?
+Answer Choices:
+ (A) Osmotic water shift from intracellular to extracellular space due to hyperglycemia
+(B) Sodium loss from osmotic diuresis
+(C) Increased ADH due to hypovolemia
+(D) Reduced renal sodium reabsorption
+(E) Decreased aldosterone secretion
+Correct Answer: A
+Explanation:
+ Hyperglycemia increases plasma osmolality, drawing water from cells into the extracellular space, diluting serum sodium (translocational hyponatremia).
+                                                                                                                                                                  * (B) Diuresis contributes less
+
+                                                                                                                                                                  * (C) ADH may increase
+
+                                                                                                                                                                  * (D) Sodium reabsorption is intact
+
+                                                                                                                                                                  * (E) Aldosterone is normal
+
+________________
+
+
+Question 56
+A 52-year-old man living at high altitude develops polycythemia. Laboratory studies reveal hemoglobin 21 g/dL, hematocrit 62%, PaO₂ 58 mmHg, PaCO₂ 30 mmHg.
+Which physiologic adaptation most directly enhances tissue oxygen delivery?
+Answer Choices:
+ (A) Increased 2,3-BPG production decreasing hemoglobin affinity for oxygen
+(B) Increased hemoglobin affinity for oxygen
+(C) Decreased cardiac output
+(D) Decreased tissue oxygen extraction
+(E) Fetal hemoglobin expression
+Correct Answer: A
+Explanation:
+ Chronic hypoxia induces 2,3-BPG synthesis, shifting the oxygen–hemoglobin dissociation curve to the right, improving oxygen unloading to tissues.
+                                                                                                                                                                     * (B) High affinity impairs tissue delivery
+
+                                                                                                                                                                     * (C) Cardiac output increases to deliver oxygen
+
+                                                                                                                                                                     * (D) Tissue extraction increases
+
+                                                                                                                                                                     * (E) HbF not induced in adults
+
+________________
+
+
+Question 57
+A 58-year-old woman with severe aortic stenosis presents with exertional angina and syncope. Echocardiography shows a peak aortic valve gradient of 85 mmHg and concentric LV hypertrophy.
+Which physiologic mechanism most directly limits her cardiac output during exertion?
+Answer Choices:
+ (A) Fixed left ventricular outflow obstruction preventing stroke volume augmentation
+(B) Reduced myocardial oxygen extraction
+(C) Reflex bradycardia
+(D) Reduced preload
+(E) Impaired calcium reuptake in diastole
+Correct Answer: A
+Explanation:
+ Severe AS prevents increased stroke volume during exertion, limiting cardiac output and causing syncope.
+                                                                                                                                                                        * (B) Extraction is near-maximal at rest
+
+                                                                                                                                                                        * (C) Baroreflex is overridden
+
+                                                                                                                                                                        * (D) Preload is preserved
+
+                                                                                                                                                                        * (E) Calcium handling affects diastole, not primary
+
+________________
+
+
+Question 58
+A 36-year-old woman presents with persistent vomiting for 5 days. ABG shows pH 7.50, PaCO₂ 48 mmHg, HCO₃⁻ 36 mEq/L. ECG shows U waves and flattened T waves.
+Which compensatory mechanism explains the elevated PaCO₂?
+Answer Choices:
+ (A) Hypoventilation mediated by central chemoreceptors to retain CO₂
+(B) Renal retention of bicarbonate
+(C) Loss of hydrogen ions in vomitus
+(D) Increased distal sodium reabsorption
+(E) Shift of potassium into cells
+Correct Answer: A
+Explanation:
+ Metabolic alkalosis from vomiting triggers hypoventilation to retain CO₂ as respiratory compensation, limited by hypoxemia.
+                                                                                                                                                                           * (B) Renal compensation is slower
+
+                                                                                                                                                                           * (C) Causes alkalosis, not PaCO₂
+
+                                                                                                                                                                           * (D) Sodium reabsorption affects volume
+
+                                                                                                                                                                           * (E) Potassium shifts are secondary
+
+________________
+
+
+Question 59
+A 46-year-old man with chronic kidney disease and volume overload presents with serum K⁺ 6.2 mEq/L, creatinine 4.0 mg/dL, BUN 60 mg/dL. Urine output is low. ECG shows peaked T waves.
+Which physiologic mechanism is primarily responsible for his hyperkalemia?
+Answer Choices:
+ (A) Reduced distal tubular flow limiting potassium secretion in principal cells
+(B) Increased proximal sodium reabsorption
+(C) Increased distal hydrogen ion secretion
+(D) Enhanced phosphate excretion
+(E) Hyperaldosteronism
+Correct Answer: A
+Explanation:
+ CKD reduces distal flow and nephron mass, limiting potassium secretion via principal cells, leading to hyperkalemia.
+                                                                                                                                                                              * (B) Sodium reabsorption affects volume
+
+                                                                                                                                                                              * (C) H⁺ secretion is not primary
+
+                                                                                                                                                                              * (D) Phosphate is unrelated
+
+                                                                                                                                                                              * (E) Aldosterone is elevated but ineffective
+
+________________
+
+
+Question 60
+A 48-year-old man presents with COPD exacerbation. ABG shows PaO₂ 56 mmHg, PaCO₂ 64 mmHg, pH 7.36, HCO₃⁻ 33 mEq/L. PFTs show FEV₁ 25% predicted, FEV₁/FVC 42%, DLCO 28%. Echocardiography shows right ventricular hypertrophy.
+Which physiologic adaptation most directly maintains arterial oxygenation?
+Answer Choices:
+ (A) Hypoxic pulmonary vasoconstriction diverting blood to better-ventilated alveoli
+(B) Increased alveolar ventilation via central chemoreceptor activation
+(C) Increased hemoglobin oxygen affinity
+(D) Enhanced pulmonary diffusion capacity
+(E) Decreased cardiac output
+Correct Answer: A
+Explanation:
+ V/Q mismatch from airway obstruction triggers hypoxic pulmonary vasoconstriction, optimizing oxygenation by directing blood toward well-ventilated alveoli.
+                                                                                                                                                                                 * (B) Central drive is blunted by chronic hypercapnia
+
+                                                                                                                                                                                 * (C) High Hb affinity impairs tissue delivery
+
+                                                                                                                                                                                 * (D) Diffusion is limited due to emphysema
+
+                                                                                                                                                                                 * (E) Cardiac output is increased to maintain delivery

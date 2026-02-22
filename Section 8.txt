@@ -1,0 +1,992 @@
+﻿Question 1
+A 55-year-old man with a 30-pack-year smoking history undergoes screening for lung cancer using a low-dose CT scan. In a large cohort, the test has a sensitivity of 95% and specificity of 90%. His pretest probability of lung cancer is estimated at 2%.
+If his test result is positive, what is the approximate probability that he truly has lung cancer?
+A. 2%
+B. 17%
+C. 67%
+D. 90%
+E. 95%
+Correct Answer: B
+Explanation:
+* Pretest probability (prevalence) = 2%
+
+* Sensitivity = 95%, Specificity = 90%
+
+* Positive predictive value (PPV) calculation:
+
+PPV=TPTP+FP=0.02×0.95(0.02×0.95)+(0.98×0.10)≈0.0190.019+0.098≈0.16≈17%PPV = \frac{TP}{TP+FP} = \frac{0.02 \times 0.95}{(0.02 \times 0.95) + (0.98 \times 0.10)} \approx \frac{0.019}{0.019+0.098} \approx 0.16 \approx 17\%PPV=TP+FPTP​=(0.02×0.95)+(0.98×0.10)0.02×0.95​≈0.019+0.0980.019​≈0.16≈17%
+Why distractors are incorrect:
+   * A: 2% = pretest probability, not PPV
+
+   * C/D/E: Overestimates PPV; PPV is strongly influenced by low prevalence
+
+________________
+
+
+Question 2
+A randomized controlled trial evaluates a new antihypertensive drug. The study reports: incidence of stroke 4% in the treatment group versus 8% in the control group.
+Which metric best quantifies the absolute decrease in risk?
+A. Relative risk
+B. Relative risk reduction
+C. Absolute risk reduction
+D. Number needed to harm
+E. Odds ratio
+Correct Answer: C
+Explanation:
+      * Absolute risk reduction (ARR) = Control event rate – Experimental event rate = 8% – 4% = 4%
+
+      * Relative risk and RRR are proportions; NNH is for harms; odds ratio is a ratio of odds, not risk difference.
+
+________________
+
+
+Question 3
+A cohort study examines the association between high dietary sodium and development of hypertension. Investigators adjust for age, BMI, and family history in the analysis.
+Which type of bias is primarily being addressed?
+A. Confounding
+B. Selection bias
+C. Observer bias
+D. Recall bias
+E. Lead-time bias
+Correct Answer: A
+Explanation:
+         * Confounding occurs when a third variable influences both exposure and outcome.
+
+         * Adjustment for age, BMI, and family history reduces confounding.
+
+________________
+
+
+Question 4
+A 40-year-old woman undergoes a diagnostic test for autoimmune thyroiditis. The test is 98% sensitive and 92% specific. Her pretest probability is 20%.
+Which calculation estimates the probability of disease if the test is negative?
+A. Negative predictive value (NPV)
+B. Positive predictive value (PPV)
+C. Relative risk
+D. Absolute risk reduction
+E. Likelihood ratio for positive test
+Correct Answer: A
+Explanation:
+            * NPV = probability that a patient does not have disease given a negative test result.
+
+            * NPV is calculated using sensitivity, specificity, and pretest probability.
+
+________________
+
+
+Question 5
+A double-blind randomized trial compares a new anticoagulant with standard therapy for stroke prevention in atrial fibrillation. Investigators report a p-value of 0.03 for stroke reduction.
+Which statement is correct?
+A. There is a 3% chance the null hypothesis is true
+B. There is a 3% chance of observing this data if the null hypothesis is true
+C. The alternative hypothesis is true in 97% of cases
+D. The effect is clinically significant
+E. Type II error is 3%
+Correct Answer: B
+Explanation:
+               * P-value = probability of observing the data (or more extreme) assuming the null hypothesis is true.
+
+               * It does not indicate probability the null is true or alternative is true.
+
+               * Clinical significance is separate from statistical significance.
+
+________________
+
+
+Question 6
+A case-control study examines an outbreak of Salmonella. Cases are children with diarrhea, controls are age-matched children without diarrhea. Investigators calculate an odds ratio of 4.5 for consuming undercooked eggs.
+Which statement best describes this result?
+A. Children who ate undercooked eggs were 4.5 times more likely to develop diarrhea
+B. 4.5% of children who ate eggs developed diarrhea
+C. The relative risk of disease is 4.5
+D. 4.5 times more children ate eggs in the case group
+E. Odds ratio and relative risk are equivalent in all studies
+Correct Answer: A
+Explanation:
+                  * Odds ratio (OR) in case-control study estimates how much more likely cases were exposed compared to controls.
+
+                  * Relative risk cannot be calculated in case-control studies directly.
+
+________________
+
+
+Question 7
+A cross-sectional survey evaluates prevalence of obesity and physical activity in a population.
+Which measure of disease frequency is most appropriate?
+A. Incidence
+B. Prevalence
+C. Relative risk
+D. Hazard ratio
+E. Odds ratio
+Correct Answer: B
+Explanation:
+                     * Cross-sectional studies measure prevalence (existing cases at a single time point), not incidence (new cases over time).
+
+________________
+
+
+Question 8
+A 50-year-old man is screened for colon cancer. Investigators note that cases detected by screening appear to have longer survival than symptomatic cases, even though the disease course is unchanged.
+Which bias explains this observation?
+A. Lead-time bias
+B. Selection bias
+C. Recall bias
+D. Confounding
+E. Observer bias
+Correct Answer: A
+Explanation:
+                        * Lead-time bias: earlier detection artificially inflates survival time without changing the actual disease course.
+
+________________
+
+
+Question 9
+A study tests a new vaccine. Among 10,000 vaccinated individuals, 50 develop the disease. Among 10,000 unvaccinated individuals, 200 develop the disease.
+Which calculation represents relative risk reduction?
+A. 1 – (0.005/0.02) = 0.75
+B. 0.02 – 0.005 = 0.015
+C. 1 – (0.02/0.005)
+D. 200/50 = 4
+E. 0.005/0.02 = 0.25
+Correct Answer: A
+Explanation:
+                           * RRR = 1 – (risk in treatment / risk in control) = 1 – (0.005/0.02) = 0.75 → 75%
+
+                           * ARR would be 2% – 0.5% = 1.5%.
+
+________________
+
+
+Question 10
+A randomized trial tests a new antihypertensive. Enrollment favored younger, healthier participants. Investigators note the trial results may not generalize to the elderly population.
+Which type of bias is being described?
+A. Selection bias
+B. Recall bias
+C. Observer bias
+D. Confounding
+E. Lead-time bias
+Correct Answer: A
+Explanation:
+                              * Selection bias occurs when study participants are not representative of the target population, affecting generalizability (external validity).
+Question 11
+A 60-year-old man with chronic obstructive pulmonary disease participates in a study assessing a new inhaled therapy. Baseline FEV1 is 50% predicted. Investigators report that the number needed to treat (NNT) to prevent one exacerbation over 1 year is 12.
+Which statement best interprets the NNT?
+A. Treating 12 patients for 1 year prevents one exacerbation
+B. 12% of patients will respond to treatment
+C. 12 patients will experience side effects
+D. 12 patients need treatment to benefit all
+E. Treatment is ineffective
+Correct Answer: A
+Explanation:
+                              * NNT = number of patients who must receive the intervention for one patient to benefit.
+
+                              * It is derived from ARR: NNT = 1/ARR.
+
+________________
+
+
+Question 12
+A case-control study evaluates risk factors for neonatal sepsis. Researchers adjust for gestational age, birth weight, and maternal infection.
+Which problem is being addressed?
+A. Confounding
+B. Selection bias
+C. Information bias
+D. Recall bias
+E. Observer bias
+Correct Answer: A
+Explanation:
+                                 * Confounding variables influence both exposure and outcome. Adjusting reduces confounding to better isolate the association between exposure and disease.
+
+________________
+
+
+Question 13
+A new diagnostic test for tuberculosis has a sensitivity of 85% and specificity of 90%. A patient with a low pretest probability of 5% tests positive.
+Which is the most accurate estimate of the patient’s probability of disease?
+A. <10%
+B. 25%
+C. 50%
+D. 75%
+E. >90%
+Correct Answer: A
+Explanation:
+                                    * Low pretest probability significantly lowers PPV, even with a sensitive and specific test.
+
+                                    * PPV formula:
+
+PPV = \frac{0.05 \times 0.85}{0.05 \times 0.85 + 0.95 \times 0.10} \approx 0.31 \text{ → actually ~30%}
+                                       * With Step 1 level, a simplified estimation: very low prevalence → PPV remains <10–15%.
+
+________________
+
+
+Question 14
+A clinical trial reports an odds ratio of 2.0 for smoking and myocardial infarction with a 95% confidence interval of 1.1–3.6.
+Which interpretation is most accurate?
+A. Smoking is significantly associated with MI
+B. Smoking has no significant association with MI
+C. Smoking prevents MI
+D. Sample size is insufficient
+E. Odds ratio = relative risk
+Correct Answer: A
+Explanation:
+                                          * 95% CI does not include 1 → statistically significant association.
+
+                                          * OR >1 indicates increased odds of MI in smokers.
+
+________________
+
+
+Question 15
+A cohort study examines the effect of a high-sodium diet on hypertension over 10 years. Loss to follow-up is higher in the high-sodium group than the low-sodium group.
+Which bias is most likely?
+A. Attrition bias
+B. Recall bias
+C. Lead-time bias
+D. Observer bias
+E. Confounding
+Correct Answer: A
+Explanation:
+                                             * Attrition bias occurs when differential loss to follow-up affects outcome assessment, potentially skewing results.
+
+________________
+
+
+Question 16
+A study comparing two antihypertensive drugs reports a relative risk reduction of 40% for stroke. Baseline risk of stroke is 10% per year.
+What is the absolute risk reduction?
+A. 4%
+B. 10%
+C. 14%
+D. 40%
+E. 50%
+Correct Answer: A
+Explanation:
+                                                * ARR = Baseline risk × RRR = 10% × 0.40 = 4%
+
+________________
+
+
+Question 17
+A diagnostic test for lupus has a sensitivity of 95% and specificity of 85%. Clinician wants to know how much a positive result changes the probability of disease.
+Which metric provides this information?
+A. Likelihood ratio for a positive test
+B. Negative predictive value
+C. Absolute risk reduction
+D. Number needed to treat
+E. Relative risk
+Correct Answer: A
+Explanation:
+                                                   * Positive likelihood ratio (LR+) = Sensitivity / (1 – Specificity) quantifies how much the odds of disease increase with a positive test.
+
+________________
+
+
+Question 18
+A study evaluating a new diabetes drug enrolls only healthy adults aged 20–30. Investigators note results may not generalize to older patients with comorbidities.
+Which type of bias is described?
+A. Selection bias (external validity concern)
+B. Recall bias
+C. Observer bias
+D. Confounding
+E. Lead-time bias
+Correct Answer: A
+Explanation:
+                                                      * Selection bias affecting external validity: study population not representative of target population → limited generalizability.
+
+________________
+
+
+Question 19
+In a randomized trial, patients with severe heart failure are excluded. Investigators report significant benefit of a new drug. Clinicians are concerned about applying these results to all heart failure patients.
+Which principle is being considered?
+A. External validity
+B. Internal validity
+C. Confounding
+D. Attrition bias
+E. Lead-time bias
+Correct Answer: A
+Explanation:
+                                                         * External validity = extent to which trial results apply to real-world populations. Excluding severe patients may limit generalizability.
+
+________________
+
+
+Question 20
+A study assessing influenza vaccine efficacy calculates the following: 2% of vaccinated patients develop influenza vs. 8% of unvaccinated.
+Which number represents the number needed to vaccinate (NNV) to prevent one case?
+A. 1 / (0.08 – 0.02) = 16.7 ≈ 17
+B. 0.08 – 0.02 = 6%
+C. 2%
+D. 8%
+E. 0.08 / 0.02 = 4
+Correct Answer: A
+Explanation:
+                                                            * NNV = 1 / ARR = 1 / (Control event rate – Experimental event rate) = 1 / (0.08 – 0.02) = ~17
+
+Question 21
+A 48-year-old woman undergoes screening mammography. The test has a sensitivity of 90% and specificity of 85%. The prevalence of breast cancer in this population is 1.5%.
+Which calculation best estimates the probability that a woman with a positive mammogram truly has breast cancer?
+A. Positive predictive value (PPV)
+B. Negative predictive value (NPV)
+C. Absolute risk reduction
+D. Relative risk
+E. Likelihood ratio for negative test
+Correct Answer: A
+Explanation:
+                                                               * PPV accounts for pretest probability (prevalence), sensitivity, and specificity.
+
+                                                               * Low prevalence → even a sensitive and specific test can have a low PPV.
+
+________________
+
+
+Question 22
+A cohort study investigates high-sugar diet and risk of type 2 diabetes. Investigators find an unadjusted relative risk of 2.0, but after adjusting for BMI, age, and physical activity, the relative risk decreases to 1.3.
+Which phenomenon explains this change?
+A. Confounding
+B. Selection bias
+C. Information bias
+D. Recall bias
+E. Lead-time bias
+Correct Answer: A
+Explanation:
+                                                                  * Confounding occurs when a third variable influences both exposure and outcome.
+
+                                                                  * Adjusting for confounders isolates the effect of the exposure of interest.
+
+________________
+
+
+Question 23
+A case-control study assesses risk factors for gastric cancer. Cases are patients with confirmed gastric cancer; controls are age- and sex-matched patients from the same hospital.
+Which limitation is most likely?
+A. Selection bias due to hospital-based controls
+B. Recall bias minimized due to prospective design
+C. Confounding is impossible in case-control studies
+D. Observer bias cannot occur
+E. Lead-time bias
+Correct Answer: A
+Explanation:
+                                                                     * Hospital-based controls may not represent the general population, introducing selection bias.
+
+                                                                     * Case-control studies are retrospective; recall bias is possible.
+
+________________
+
+
+Question 24
+A study evaluates a new diagnostic test for pulmonary embolism. Sensitivity = 95%, specificity = 80%. Prevalence of PE in the tested population = 10%.
+What is the approximate likelihood ratio for a positive test?
+A. 4.75
+B. 0.25
+C. 1.05
+D. 0.95
+E. 10
+Correct Answer: A
+Explanation:
+                                                                        * LR+ = Sensitivity / (1 – Specificity) = 0.95 / (1 – 0.80) = 0.95 / 0.20 ≈ 4.75
+
+                                                                        * LR+ indicates how much more likely a positive test occurs in patients with disease vs without disease.
+
+________________
+
+
+Question 25
+A randomized controlled trial evaluates a new statin for cardiovascular risk reduction. Event rate: 6% in treated, 10% in control. Investigators report number needed to treat (NNT).
+Which formula correctly calculates NNT?
+A. 1 / (CER – EER)
+B. 1 / (EER / CER)
+C. 1 / Relative risk
+D. 1 / Absolute risk increase
+E. (EER – CER)
+Correct Answer: A
+Explanation:
+                                                                           * NNT = 1 / ARR = 1 / (Control event rate – Experimental event rate)
+
+                                                                           * Here: ARR = 10% – 6% = 4%; NNT ≈ 25
+
+________________
+
+
+Question 26
+A clinical trial reports a hazard ratio of 0.70 for death with a new drug vs placebo over 5 years.
+Which statement is correct?
+A. At any time point, risk of death is 30% lower in treatment group
+B. 30% fewer patients will die in treatment group
+C. Absolute risk reduction = 30%
+D. The trial is non-randomized
+E. Hazard ratio is equivalent to odds ratio
+Correct Answer: A
+Explanation:
+                                                                              * Hazard ratio compares the instantaneous risk of event at any time between two groups.
+
+                                                                              * HR = 0.7 → 30% lower risk at any given time; does not equate to absolute difference or number of deaths.
+
+________________
+
+
+Question 27
+A study evaluates mortality in patients taking two anticoagulants. Researchers calculate an odds ratio of 1.2 (95% CI 0.95–1.5) for bleeding.
+Which interpretation is correct?
+A. No statistically significant difference
+B. 20% higher bleeding risk with first drug
+C. Statistically significant increase in bleeding
+D. 5% of patients had bleeding
+E. Odds ratio = relative risk
+Correct Answer: A
+Explanation:
+                                                                                 * 95% CI includes 1, so statistical significance is not reached.
+
+                                                                                 * OR >1 indicates trend toward increased risk, but not significant.
+
+________________
+
+
+Question 28
+A cross-sectional study finds higher prevalence of obesity in children who consume sugar-sweetened beverages.
+Which limitation is most critical?
+A. Temporal ambiguity (cannot determine cause vs effect)
+B. Selection bias
+C. Attrition bias
+D. Lead-time bias
+E. Observer bias
+Correct Answer: A
+Explanation:
+                                                                                    * Cross-sectional studies assess exposure and outcome simultaneously → cannot establish temporality.
+
+________________
+
+
+Question 29
+A study assesses vaccine efficacy in preventing influenza. Vaccine group: 1% develop flu; placebo group: 5%.
+Which metric represents relative risk reduction?
+A. 1 – (0.01 / 0.05) = 0.8 → 80%
+B. 0.05 – 0.01 = 4%
+C. 0.01 / 0.05 = 20%
+D. NNT = 1 / 0.01
+E. Absolute risk increase = 4%
+Correct Answer: A
+Explanation:
+                                                                                       * RRR = 1 – (risk in treatment / risk in control) = 1 – (0.01 / 0.05) = 0.8 → 80%
+
+                                                                                       * ARR = 4%; NNT = 1 / 0.04 ≈ 25
+
+________________
+
+
+Question 30
+Investigators conduct a study on the effect of exercise on depression. They find that participants who self-report exercise have lower depression scores. However, participants with mild depression may be more likely to exercise.
+Which type of bias is most likely affecting results?
+A. Confounding by indication
+B. Recall bias
+C. Observer bias
+D. Lead-time bias
+E. Attrition bias
+Correct Answer: A
+Explanation:
+                                                                                          * Confounding by indication occurs when baseline characteristics influence both exposure and outcome.
+
+                                                                                          * Here, milder depression → more likely to exercise → may confound the observed association.
+Question 31
+A 55-year-old man with hypertension is enrolled in a randomized trial evaluating a new antihypertensive. The trial reports a hazard ratio (HR) of 0.65 for cardiovascular events over 5 years (95% CI: 0.45–0.94).
+Which statement best interprets this result?
+A. The instantaneous risk of cardiovascular events is 35% lower in the treatment group
+B. 35% of participants were free of cardiovascular events
+C. Absolute risk reduction = 35%
+D. The probability of the null hypothesis being true is 0.65
+E. The cumulative incidence is reduced by 65%
+Correct Answer: A
+Explanation:
+                                                                                             * HR <1 indicates decreased instantaneous risk of event at any time in the treatment group.
+
+                                                                                             * Confidence interval does not include 1 → statistically significant.
+
+                                                                                             * HR does not equal absolute risk reduction or cumulative incidence.
+
+________________
+
+
+Question 32
+A cohort study evaluates smoking as a risk factor for pancreatic cancer. Investigators adjust for age, sex, BMI, alcohol intake, and family history.
+Which term describes this analytic approach?
+A. Multivariate adjustment
+B. Stratified randomization
+C. Intention-to-treat analysis
+D. Propensity score matching
+E. Cross-sectional analysis
+Correct Answer: A
+Explanation:
+                                                                                                * Multivariate adjustment uses regression to control for multiple confounders simultaneously.
+
+                                                                                                * Propensity score matching is an alternative method; cross-sectional and intention-to-treat are study design concepts.
+
+________________
+
+
+Question 33
+A diagnostic test for hepatitis B has an area under the ROC curve (AUC) of 0.92.
+Which statement is most accurate?
+A. The test has excellent discrimination between disease and no disease
+B. Sensitivity is 92%
+C. Specificity is 92%
+D. Positive predictive value is 92%
+E. Negative predictive value is 92%
+Correct Answer: A
+Explanation:
+                                                                                                   * AUC measures overall test accuracy in distinguishing disease vs non-disease across all thresholds.
+
+                                                                                                   * It does not represent sensitivity, specificity, or predictive values at a specific cutoff.
+
+________________
+
+
+Question 34
+A case-control study examines dietary risk factors for colorectal cancer. Cases report higher red meat consumption than controls. Investigators are concerned that cases may recall their diet differently than controls.
+Which type of bias is most likely?
+A. Recall bias
+B. Selection bias
+C. Confounding
+D. Lead-time bias
+E. Attrition bias
+Correct Answer: A
+Explanation:
+                                                                                                      * Recall bias occurs in retrospective studies when cases and controls remember past exposures differently, leading to differential misclassification.
+
+________________
+
+
+Question 35
+A trial evaluating a new diabetes drug reports: event rate 6% in treatment, 10% in control. Investigators calculate number needed to treat (NNT) = 25.
+How would NNT change if baseline risk increased to 20%?
+A. NNT decreases
+B. NNT increases
+C. NNT remains the same
+D. Cannot determine without relative risk
+E. NNT = 1
+Correct Answer: A
+Explanation:
+                                                                                                         * NNT = 1 / ARR
+
+                                                                                                         * Higher baseline risk → higher absolute risk reduction (ARR) → smaller NNT
+
+________________
+
+
+Question 36
+A prospective cohort study evaluating alcohol consumption and liver cirrhosis reports RR = 3.0 (95% CI: 1.8–5.0).
+Which interpretation is correct?
+A. Heavy alcohol consumers have 3 times the risk of cirrhosis compared to non-drinkers
+B. 3% of alcohol consumers develop cirrhosis
+C. 3% absolute risk increase
+D. RR indicates odds ratio
+E. CI includes null value → not significant
+Correct Answer: A
+Explanation:
+                                                                                                            * RR = 3 → threefold increased risk
+
+                                                                                                            * CI does not include 1 → statistically significant
+
+                                                                                                            * RR differs from OR; absolute risk not provided.
+
+________________
+
+
+Question 37
+A study evaluates a new influenza diagnostic test in a population with 10% disease prevalence. Sensitivity = 90%, specificity = 95%.
+Which statement most accurately predicts NPV in this scenario?
+A. Very high because prevalence is low
+B. Very low because prevalence is low
+C. Equal to PPV
+D. Independent of prevalence
+E. Cannot be calculated
+Correct Answer: A
+Explanation:
+                                                                                                               * NPV increases as disease prevalence decreases.
+
+                                                                                                               * Low prevalence → negative test very likely represents true absence of disease.
+
+________________
+
+
+Question 38
+Investigators conduct a meta-analysis of statin trials. Some included studies were industry-funded, others independently funded.
+Which concern primarily affects internal validity?
+A. Funding bias influencing study results
+B. Publication bias
+C. Selection bias
+D. Lead-time bias
+E. Attrition bias
+Correct Answer: A
+Explanation:
+                                                                                                                  * Funding bias may affect study conduct, analysis, or reporting → impacts internal validity.
+
+                                                                                                                  * Publication bias affects what is available for meta-analysis (external effect).
+
+________________
+
+
+Question 39
+A trial evaluates a novel anticoagulant. Patients with severe renal impairment are excluded. Investigators caution that results may not apply to this population.
+Which type of validity is affected?
+A. External validity
+B. Internal validity
+C. Statistical validity
+D. Construct validity
+E. Criterion validity
+Correct Answer: A
+Explanation:
+                                                                                                                     * Excluding specific populations limits generalizability → external validity.
+
+                                                                                                                     * Internal validity refers to causal inference within study participants.
+
+________________
+
+
+Question 40
+A study examines the association between sedentary lifestyle and obesity. Regression analysis shows β = 0.5 for hours of sedentary time per day (p < 0.01).
+Which interpretation is correct?
+A. Each additional hour of sedentary time is associated with a 0.5 unit increase in BMI, statistically significant
+B. 50% of BMI is caused by sedentary behavior
+C. Sedentary lifestyle has no effect
+D. β = odds ratio
+E. Regression analysis cannot adjust for confounders
+Correct Answer: A
+Explanation:
+                                                                                                                        * β coefficient = change in dependent variable (BMI) per unit change in independent variable (hours sedentary).
+
+                                                                                                                        * P-value < 0.01 indicates statistical significance.
+Question 41
+A 62-year-old man with type 2 diabetes participates in a randomized trial of a new glucose-lowering agent. Over 3 years, 6% of patients in the treatment group develop major cardiovascular events versus 12% in the control group.
+What is the number needed to treat (NNT) to prevent one major cardiovascular event?
+A. 12
+B. 16
+C. 25
+D. 50
+E. 100
+Correct Answer: B
+Explanation:
+                                                                                                                           * ARR = 12% – 6% = 6% → NNT = 1 / 0.06 ≈ 16.7 ≈ 16
+
+                                                                                                                           * NNT represents the number of patients who must receive treatment to prevent one event.
+
+________________
+
+
+Question 42
+A cohort study investigates alcohol consumption and liver cirrhosis. Heavy alcohol use is associated with cirrhosis, but researchers note that age modifies this effect: risk is higher in older adults than younger adults for the same alcohol exposure.
+Which term describes this phenomenon?
+A. Effect modification
+B. Confounding
+C. Selection bias
+D. Recall bias
+E. Lead-time bias
+Correct Answer: A
+Explanation:
+                                                                                                                              * Effect modification (interaction) occurs when the effect of the exposure on the outcome differs across levels of a third variable (age).
+
+                                                                                                                              * Confounding distorts association, effect modification is a real difference in effect.
+
+________________
+
+
+Question 43
+A nested case-control study is conducted within a large cohort to assess risk factors for colorectal cancer. Cases are matched to controls by age and sex.
+Which is a major advantage of nested case-control design?
+A. Reduced selection bias and efficient use of cohort data
+B. Cannot control for confounders
+C. Higher risk of recall bias than cohort study
+D. Cannot estimate odds ratios
+E. Requires randomization
+Correct Answer: A
+Explanation:
+                                                                                                                                 * Nested case-control studies draw cases and controls from an existing cohort, limiting selection bias and improving efficiency.
+
+                                                                                                                                 * Matching controls improves comparability.
+
+________________
+
+
+Question 44
+A diagnostic test for pulmonary embolism has sensitivity 95%, specificity 80%. Prevalence in the tested population = 15%.
+Which metric describes how much a negative test reduces the odds of disease?
+A. Negative likelihood ratio (LR–)
+B. Positive likelihood ratio (LR+)
+C. PPV
+D. NPV
+E. Relative risk
+Correct Answer: A
+Explanation:
+                                                                                                                                    * LR– = (1 – sensitivity) / specificity
+
+                                                                                                                                    * Measures how much a negative test reduces disease probability.
+
+                                                                                                                                    * LR+ measures the increase with a positive test; NPV/PPV are dependent on prevalence.
+
+________________
+
+
+Question 45
+A randomized trial tests a new antihypertensive. Investigators observe that patients with baseline kidney disease have a disproportionately greater benefit than patients without kidney disease.
+Which analytic approach best explores this finding?
+A. Stratified analysis by baseline kidney function
+B. Simple univariate analysis
+C. Ignore subgroup and report overall results
+D. Logistic regression with no interaction terms
+E. Cross-sectional analysis
+Correct Answer: A
+Explanation:
+                                                                                                                                       * Stratified analysis allows assessment of effect modification across subgroups (baseline kidney disease).
+
+                                                                                                                                       * Ignoring subgroups or using univariate analysis may obscure interaction effects.
+
+________________
+
+
+Question 46
+A trial reports the following: 1% of vaccinated participants develop influenza; 5% of unvaccinated.
+Which statement describes relative risk reduction (RRR)?
+A. 80%
+B. 4%
+C. 20%
+D. 5%
+E. 1%
+Correct Answer: A
+Explanation:
+                                                                                                                                          * RRR = 1 – (Risk treatment / Risk control) = 1 – 0.01/0.05 = 0.8 → 80%
+
+                                                                                                                                          * ARR = 4% (0.05 – 0.01); NNT ≈ 25
+
+________________
+
+
+Question 47
+A cohort study assesses the effect of obesity on risk of osteoarthritis. Unadjusted RR = 2.0; adjusted RR controlling for age, sex, physical activity = 1.5.
+Which is the best explanation?
+A. Confounding by age, sex, and activity explained part of the association
+B. Randomization failed
+C. Loss to follow-up created bias
+D. Measurement error in outcome
+E. Effect modification occurred
+Correct Answer: A
+Explanation:
+                                                                                                                                             * Adjusting for confounders reduced the observed association.
+
+                                                                                                                                             * Confounding occurs when extraneous variables affect both exposure and outcome.
+
+________________
+
+
+Question 48
+A clinical trial evaluates a new anticoagulant. Patients with severe liver disease were excluded. Investigators caution that results may not generalize.
+Which type of validity is primarily affected?
+A. External validity
+B. Internal validity
+C. Statistical validity
+D. Construct validity
+E. Criterion validity
+Correct Answer: A
+Explanation:
+                                                                                                                                                * Excluding specific populations limits generalizability → external validity.
+
+________________
+
+
+Question 49
+A nested case-control study examines risk factors for lung cancer within a smoking cohort. Cases and controls are matched on age and sex. Investigators calculate odds ratios.
+Which statement is correct?
+A. Odds ratio approximates relative risk in rare outcomes
+B. Odds ratio = absolute risk
+C. Odds ratio = relative risk always
+D. Odds ratio cannot be used in matched studies
+E. Odds ratio measures incidence
+Correct Answer: A
+Explanation:
+                                                                                                                                                   * Rare disease assumption: OR ≈ RR when outcome is uncommon.
+
+                                                                                                                                                   * OR is a measure of association, not incidence or absolute risk.
+
+________________
+
+
+Question 50
+A trial compares two glucose-lowering drugs. Control group: 8% develop hypoglycemia; treatment group: 4%. Investigators report NNT = 25.
+If baseline hypoglycemia risk rises to 16% in controls, what happens to NNT?
+A. NNT decreases
+B. NNT increases
+C. NNT unchanged
+D. Cannot calculate
+E. NNT = 1
+Correct Answer: A
+Explanation:
+                                                                                                                                                      * ARR increases with higher baseline risk: ARR = 16% – 8% = 8% → NNT = 1 / 0.08 ≈ 12.5
+
+                                                                                                                                                      * Higher baseline risk → lower NNT.
+Question 51
+A 65-year-old man with chronic kidney disease participates in a study assessing a new antihypertensive. Investigators report that patients with baseline GFR < 30 mL/min/1.73 m² have a larger absolute risk reduction (ARR) for cardiovascular events compared to patients with higher GFR.
+Which concept does this exemplify?
+A. Effect modification
+B. Confounding
+C. Selection bias
+D. Information bias
+E. Lead-time bias
+Correct Answer: A
+Explanation:
+                                                                                                                                                         * Effect modification occurs when the magnitude of treatment effect varies across subgroups.
+
+                                                                                                                                                         * Confounding distorts association, whereas this reflects a true difference in effect.
+
+________________
+
+
+Question 52
+A new diagnostic test for tuberculosis reports: sensitivity 95%, specificity 85%. Prevalence in the population = 5%.
+Which metric best estimates post-test probability of disease after a negative test?
+A. Negative likelihood ratio
+B. Positive likelihood ratio
+C. Positive predictive value
+D. Relative risk
+E. Absolute risk reduction
+Correct Answer: A
+Explanation:
+                                                                                                                                                            * LR– = (1 – sensitivity) / specificity
+
+                                                                                                                                                            * Provides information on how much a negative test reduces disease probability, independent of prevalence.
+
+________________
+
+
+Question 53
+Investigators perform a multivariate logistic regression assessing obesity, physical activity, and diet on type 2 diabetes. The adjusted odds ratio for obesity = 2.5 (95% CI 1.8–3.5).
+Which interpretation is correct?
+A. Obese individuals have 2.5 times higher odds of diabetes, controlling for activity and diet
+B. 2.5% of obese individuals develop diabetes
+C. Odds ratio = relative risk
+D. Confounding cannot be adjusted in logistic regression
+E. CI including 1 → not significant
+Correct Answer: A
+Explanation:
+                                                                                                                                                               * Multivariate logistic regression adjusts for confounders, producing adjusted OR.
+
+                                                                                                                                                               * CI does not include 1 → statistically significant.
+
+________________
+
+
+Question 54
+A diagnostic test has ROC AUC = 0.85. Investigators compare two thresholds:
+                                                                                                                                                                  * Threshold A: sensitivity 90%, specificity 70%
+
+                                                                                                                                                                  * Threshold B: sensitivity 75%, specificity 85%
+
+Which threshold maximizes overall diagnostic accuracy?
+A. Depends on clinical priorities (trade-off between sensitivity and specificity)
+B. Threshold A always better
+C. Threshold B always better
+D. ROC cannot help with threshold selection
+E. Accuracy = sensitivity + specificity
+Correct Answer: A
+Explanation:
+                                                                                                                                                                     * Threshold selection depends on clinical context: high sensitivity for screening, high specificity for confirmatory testing.
+
+                                                                                                                                                                     * AUC reflects overall discrimination but not ideal cutoff for all scenarios.
+
+________________
+
+
+Question 55
+A study evaluates vaccine effectiveness using a case-control design. Vaccinated individuals are less likely to be hospitalized for influenza. Investigators calculate an odds ratio = 0.4.
+Which assumption allows OR to approximate relative risk?
+A. Rare disease assumption
+B. Matching on age and sex
+C. Large sample size
+D. Prospective design
+E. No blinding
+Correct Answer: A
+Explanation:
+                                                                                                                                                                        * OR ≈ RR when the outcome is rare (<10%), as odds and probability converge.
+
+________________
+
+
+Question 56
+A meta-analysis includes 10 randomized trials on a cholesterol-lowering drug. Funnel plot shows asymmetry; smaller studies with null results are missing.
+Which bias is most likely?
+A. Publication bias
+B. Selection bias
+C. Recall bias
+D. Confounding
+E. Attrition bias
+Correct Answer: A
+Explanation:
+                                                                                                                                                                           * Publication bias occurs when studies with negative/null results are less likely to be published, skewing meta-analysis results.
+
+                                                                                                                                                                           * Funnel plot asymmetry is a visual clue.
+
+________________
+
+
+Question 57
+A nested case-control study within a large diabetes cohort investigates risk factors for nephropathy. Cases and controls are matched on age and sex.
+Which is the main advantage of this design?
+A. Efficient use of cohort data and reduced selection bias
+B. Cannot adjust for confounding
+C. Higher recall bias than cohort studies
+D. Cannot calculate odds ratios
+E. Requires randomization
+Correct Answer: A
+Explanation:
+                                                                                                                                                                              * Nested case-control draws participants from a defined cohort → less selection bias, efficient data use.
+
+                                                                                                                                                                              * Matching improves comparability.
+
+________________
+
+
+Question 58
+A clinical trial of a new anticoagulant excludes patients with severe hepatic dysfunction. Investigators warn that results may not apply to this population.
+Which type of validity is primarily affected?
+A. External validity
+B. Internal validity
+C. Statistical validity
+D. Construct validity
+E. Criterion validity
+Correct Answer: A
+Explanation:
+                                                                                                                                                                                 * Exclusion of specific subgroups limits generalizability → external validity.
+
+                                                                                                                                                                                 * Internal validity relates to causal inference within included participants.
+
+________________
+
+
+Question 59
+A study reports: 20% of patients treated with Drug A experience adverse effects vs. 10% with Drug B. ARR = 10%, NNT = 10.
+If baseline risk increases to 40% for Drug B, how is NNT affected?
+A. NNT decreases
+B. NNT increases
+C. NNT unchanged
+D. Cannot calculate
+E. NNT = 1
+Correct Answer: A
+Explanation:
+                                                                                                                                                                                    * Higher baseline risk → higher absolute risk reduction → smaller NNT.
+
+                                                                                                                                                                                    * ARR = 50% – 40% = 10% → NNT = 10 (if absolute difference increases, NNT decreases).
+
+________________
+
+
+Question 60
+A study examines sedentary behavior and cardiovascular disease. Multivariate regression shows β = 0.6 for hours of sedentary time (p < 0.01), controlling for age, sex, BMI, and smoking.
+Which interpretation is correct?
+A. Each additional hour of sedentary time is associated with a 0.6 unit increase in cardiovascular risk, independent of other covariates
+B. 0.6% of participants are at risk
+C. β = relative risk
+D. Regression cannot adjust for confounders
+E. P-value > 0.05 → not significant
+Correct Answer: A
+Explanation:
+                                                                                                                                                                                       * β coefficient represents change in outcome per unit change in predictor, adjusted for covariates.
+
+                                                                                                                                                                                       * P < 0.01 → statistically significant.

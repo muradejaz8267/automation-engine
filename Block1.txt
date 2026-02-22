@@ -1,0 +1,953 @@
+﻿Question 1
+A 64-year-old man presents to the emergency department with 45 minutes of crushing substernal chest pain radiating to his left arm. He has a history of hypertension, type 2 diabetes mellitus, and hyperlipidemia. Blood pressure is 88/60 mm Hg, heart rate is 112/min, and respiratory rate is 24/min. Physical examination reveals cool extremities and jugular venous distension. ECG shows ST-segment elevations in leads II, III, and aVF. Initial troponin I is elevated. He is given aspirin and heparin. Shortly afterward, he becomes acutely hypotensive with worsening dyspnea and pulmonary crackles.
+Which of the following is the most appropriate next step in management?
+Answer Choices:
+(A) Intravenous nitroglycerin
+(B) Dobutamine infusion
+(C) Immediate percutaneous coronary intervention
+(D) Intravenous furosemide
+(E) Intra-aortic balloon pump placement
+Correct Answer: E
+Explanation:
+This patient has an inferior STEMI complicated by cardiogenic shock, suggested by hypotension, JVD, pulmonary edema, and cool extremities. Inferior MIs can involve the right ventricle, making preload dependence critical. An intra-aortic balloon pump improves coronary perfusion and decreases afterload as a temporizing measure in cardiogenic shock prior to definitive reperfusion.
+* (A) Nitroglycerin reduces preload and would worsen hypotension.
+* (B) Dobutamine may help later but does not address mechanical support needs.
+* (C) PCI is definitive but immediate hemodynamic stabilization is required first.
+* (D) Furosemide worsens preload-dependent shock.
+________________
+
+
+Question 2
+A 72-year-old woman is hospitalized for community-acquired pneumonia. On hospital day 3, she acutely develops shortness of breath, pleuritic chest pain, and hemoptysis. She has a heart rate of 118/min and oxygen saturation of 88% on room air. CT pulmonary angiography confirms a large pulmonary embolism. Blood pressure is 100/64 mm Hg.
+Which of the following factors would most strongly favor systemic thrombolysis rather than anticoagulation alone?
+Answer Choices:
+(A) Recent orthopedic surgery
+(B) Mild right ventricular dilation on echocardiogram
+(C) Elevated D-dimer level
+(D) Sustained hypotension
+(E) Age over 70 years
+Correct Answer: D
+Explanation:
+Systemic thrombolysis is indicated in massive PE, defined by hemodynamic instability (sustained hypotension or shock).
+* (A) Surgery is a contraindication.
+* (B) RV strain alone suggests submassive PE.
+* (C) D-dimer is diagnostic, not therapeutic.
+* (E) Age increases bleeding risk, not indication.
+________________
+
+
+Question 3
+A 58-year-old man with COPD presents with increasing dyspnea and confusion. ABG on room air shows:
+pH 7.28, PaCO₂ 68 mm Hg, PaO₂ 55 mm Hg, HCO₃⁻ 32 mEq/L.
+Which of the following best explains the renal compensation seen in this patient?
+Answer Choices:
+(A) Increased bicarbonate excretion in the urine
+(B) Increased hydrogen ion secretion by α-intercalated cells
+(C) Decreased ammonium production
+(D) Reduced proximal tubular bicarbonate reabsorption
+(E) Increased distal sodium delivery
+Correct Answer: B
+Explanation:
+This is chronic respiratory acidosis with metabolic compensation. The kidneys compensate by increasing H⁺ secretion and generating new bicarbonate via α-intercalated cells.
+* (A) Would worsen acidosis.
+* (C) Ammonium production increases, not decreases.
+* (D) Proximal bicarbonate reabsorption increases.
+* (E) Not the primary compensatory mechanism.
+________________
+
+
+Question 4
+A 46-year-old woman with no prior lung disease is intubated for severe sepsis. Chest imaging shows bilateral pulmonary infiltrates with normal cardiac size. Pulmonary capillary wedge pressure is normal. Despite increasing FiO₂, her PaO₂ remains low.
+Which mechanism best explains her hypoxemia?
+Answer Choices:
+(A) Decreased alveolar ventilation
+(B) Diffusion limitation
+(C) Right-to-left intrapulmonary shunt
+(D) Reduced hemoglobin concentration
+(E) Increased dead space ventilation
+Correct Answer: C
+Explanation:
+This is ARDS, characterized by noncardiogenic pulmonary edema and right-to-left shunting, which does not correct with oxygen.
+* (A) Would improve with oxygen.
+* (B) Seen in fibrosis.
+* (D) Causes anemia, not refractory hypoxemia.
+* (E) Causes hypercapnia more than hypoxemia.
+________________
+
+
+Question 5
+A 67-year-old man with atrial fibrillation is on warfarin. He presents with melena and dizziness. INR is 6.2. Blood pressure is 92/58 mm Hg.
+Which of the following is the best immediate management?
+Answer Choices:
+(A) Hold warfarin only
+(B) Administer vitamin K orally
+(C) Administer vitamin K intravenously
+(D) Fresh frozen plasma
+(E) Prothrombin complex concentrate
+Correct Answer: E
+Explanation:
+Life-threatening bleeding with supratherapeutic INR requires rapid reversal with prothrombin complex concentrate (PCC) ± IV vitamin K. PCC works immediately.
+* (A–C) Too slow.
+* (D) FFP is slower and volume heavy.
+________________
+
+
+Question 6
+A 55-year-old woman presents with acute dyspnea and hypotension after a central venous catheter placement. Breath sounds are absent on the right. Trachea is deviated to the left.
+What is the most appropriate immediate intervention?
+Answer Choices:
+(A) Chest x-ray
+(B) CT chest
+(C) Needle decompression
+(D) Supplemental oxygen
+(E) Thoracentesis under ultrasound
+Correct Answer: C
+Explanation:
+This is a tension pneumothorax, a clinical diagnosis requiring immediate needle decompression, not imaging.
+* Imaging delays are fatal.
+* Thoracentesis is not definitive.
+________________
+
+
+Question 7
+A patient in septic shock remains hypotensive despite fluids. Norepinephrine is started.
+Which receptor action is most responsible for its beneficial effect?
+Answer Choices:
+(A) β₁-mediated increased contractility
+(B) β₂-mediated bronchodilation
+(C) α₁-mediated vasoconstriction
+(D) Dopamine receptor activation
+(E) Reduced nitric oxide synthesis
+Correct Answer: C
+Explanation:
+Norepinephrine primarily acts via α₁ vasoconstriction, increasing systemic vascular resistance and MAP in septic shock.
+* β₁ effects are secondary.
+* Dopamine receptors are irrelevant here.
+________________
+
+
+Question 8
+A 61-year-old man develops sudden severe dyspnea 2 days after an anterior MI. A new holosystolic murmur is heard at the apex radiating to the axilla.
+Which complication is most likely responsible?
+Answer Choices:
+(A) Ventricular septal rupture
+(B) Papillary muscle rupture
+(C) Free wall rupture
+(D) Dressler syndrome
+(E) Acute pericarditis
+Correct Answer: B
+Explanation:
+Papillary muscle rupture causes acute severe mitral regurgitation, pulmonary edema, and hypotension 2–7 days post-MI.
+* (A) Causes VSD murmur.
+* (C) Causes tamponade.
+* (D) Occurs weeks later.
+________________
+
+
+Question 9
+A 70-year-old man with COPD is started on noninvasive ventilation for hypercapnic respiratory failure.
+Which finding would indicate failure of noninvasive ventilation?
+Answer Choices:
+(A) Improved pH
+(B) Reduced PaCO₂
+(C) Improved mental status
+(D) Persistent hypoxemia
+(E) Worsening acidosis
+Correct Answer: E
+Explanation:
+Worsening acidosis indicates failure and need for intubation.
+Improved gas exchange or mentation suggests success.
+________________
+
+
+Question 10
+A patient with septic shock has lactate levels persistently elevated despite normalized blood pressure.
+This most likely reflects:
+Answer Choices:
+(A) Reduced oxygen content
+(B) Impaired tissue oxygen utilization
+(C) Hemodilution
+(D) Renal failure
+(E) Measurement error
+Correct Answer: B
+Explanation:
+In sepsis, elevated lactate reflects mitochondrial dysfunction and impaired oxygen utilization, not just hypoperfusion.
+* Oxygen delivery may be adequate.
+Question 11
+A 69-year-old man with a history of ischemic cardiomyopathy (EF 25%) presents with progressive dyspnea, orthopnea, and weight gain over 1 week. Blood pressure is 96/62 mm Hg, pulse 104/min. Physical examination shows elevated JVP, bilateral crackles, and pitting edema to the knees. Labs show Na⁺ 128 mEq/L, BUN 42 mg/dL, creatinine 2.1 mg/dL (baseline 1.3). Chest radiograph reveals pulmonary congestion.
+Which intervention is most likely to improve survival in this patient during hospitalization?
+Answer Choices:
+(A) High-dose intravenous furosemide
+(B) Dobutamine infusion
+(C) Norepinephrine infusion
+(D) Initiation of ACE inhibitor
+(E) Ultrafiltration
+Correct Answer: D
+Explanation:
+This patient has acute decompensated heart failure with reduced ejection fraction. While diuretics relieve symptoms, ACE inhibitors improve mortality by reducing afterload and maladaptive remodeling once blood pressure is marginally stable.
+* (A) Improves symptoms, not survival.
+* (B) Inotrope reserved for cardiogenic shock.
+* (C) Vasopressors worsen afterload.
+* (E) Used in refractory volume overload.
+________________
+
+
+Question 12
+A 54-year-old woman presents with sudden onset dyspnea and syncope. She recently returned from a 14-hour flight. BP is 78/40 mm Hg, HR 128/min, O₂ saturation 82% on room air. Bedside echocardiography shows severe right ventricular dilation and septal bowing.
+Which physiologic change is most directly responsible for her hypotension?
+Answer Choices:
+(A) Decreased left ventricular preload
+(B) Reduced myocardial contractility
+(C) Acute mitral regurgitation
+(D) Systemic vasodilation
+(E) Reduced hemoglobin oxygen content
+Correct Answer: A
+Explanation:
+This is massive pulmonary embolism, causing acute RV failure. RV dilation impairs LV filling due to interventricular septal shift, leading to reduced LV preload and hypotension.
+* (B) Contractility is preserved initially.
+* (D) Seen in sepsis.
+* (E) Does not cause shock.
+________________
+
+
+Question 13
+A 60-year-old man in the ICU develops acute hypoxemia 48 hours after aspiration. He is mechanically ventilated with FiO₂ 0.9, but PaO₂ remains 55 mm Hg. Plateau pressure is elevated.
+Which ventilator strategy is most appropriate to reduce mortality?
+Answer Choices:
+(A) Increase tidal volume
+(B) Increase respiratory rate
+(C) Apply low tidal volume ventilation
+(D) Increase FiO₂ further
+(E) Decrease PEEP
+Correct Answer: C
+Explanation:
+This patient has ARDS. Low tidal volume ventilation (6 mL/kg) reduces ventilator‑induced lung injury and improves survival.
+* High volumes worsen barotrauma.
+* Oxygen alone does not fix shunt physiology.
+________________
+
+
+Question 14
+A 72-year-old man with atrial fibrillation presents with sudden left leg pain, pallor, and loss of pulses. The leg is cold and insensate.
+What is the next best step?
+Answer Choices:
+(A) CT angiography
+(B) Immediate heparin infusion
+(C) Doppler ultrasound
+(D) Surgical embolectomy
+(E) Administer thrombolytics
+Correct Answer: B
+Explanation:
+This is acute limb ischemia. Immediate anticoagulation with heparin prevents clot propagation before definitive intervention.
+* Imaging delays therapy.
+* Surgery follows stabilization.
+________________
+
+
+Question 15
+A 63-year-old woman with long-standing hypertension presents with headache and confusion. BP is 230/130 mm Hg. Fundoscopy shows papilledema.
+Which medication is most appropriate for initial BP control?
+Answer Choices:
+(A) Oral clonidine
+(B) Oral nifedipine
+(C) IV labetalol
+(D) IV nitroprusside
+(E) Oral hydralazine
+Correct Answer: C
+Explanation:
+This is hypertensive emergency with end-organ damage. IV labetalol provides controlled BP reduction.
+* Oral agents are inappropriate.
+* Nitroprusside risks cyanide toxicity.
+________________
+
+
+Question 16
+A 58-year-old man with COPD exacerbation is intubated. ABG after ventilation shows pH 7.51, PaCO₂ 28 mm Hg, PaO₂ 92 mm Hg.
+What complication is most likely if this ventilation strategy is continued?
+Answer Choices:
+(A) Acute kidney injury
+(B) Cerebral vasoconstriction
+(C) Pulmonary hypertension
+(D) Hyperkalemia
+(E) Lactic acidosis
+Correct Answer: B
+Explanation:
+Overventilation causes respiratory alkalosis, leading to cerebral vasoconstriction and reduced cerebral blood flow.
+* AKI and lactic acidosis are unrelated.
+________________
+
+
+Question 17
+A patient with septic shock is treated with fluids and vasopressors. Mixed venous oxygen saturation (SvO₂) is elevated.
+This finding most strongly suggests:
+Answer Choices:
+(A) Improved cardiac output
+(B) Anemia
+(C) Impaired tissue oxygen extraction
+(D) Hypovolemia
+(E) Increased hemoglobin affinity for oxygen
+Correct Answer: C
+Explanation:
+In sepsis, elevated SvO₂ reflects inability of tissues to extract oxygen due to mitochondrial dysfunction.
+* High SvO₂ is paradoxical despite hypoxia.
+________________
+
+
+Question 18
+A 66-year-old man presents with tearing chest pain radiating to the back. BP is 190/110 mm Hg. CT shows Stanford type A aortic dissection.
+What is the most appropriate immediate therapy?
+Answer Choices:
+(A) IV nitroprusside alone
+(B) IV labetalol alone
+(C) IV labetalol plus nitroprusside
+(D) Emergent surgical repair
+(E) Thrombolytic therapy
+Correct Answer: C
+Explanation:
+Initial management requires beta-blockade first, then vasodilator to reduce shear stress.
+* Surgery follows stabilization.
+* Vasodilators alone worsen dissection.
+________________
+
+
+Question 19
+A mechanically ventilated patient suddenly develops hypotension and high peak airway pressures. Breath sounds are diminished on the right.
+Which finding is expected?
+Answer Choices:
+(A) Decreased PaCO₂
+(B) Increased cardiac output
+(C) Tracheal deviation
+(D) Increased lung compliance
+(E) Bilateral crackles
+Correct Answer: C
+Explanation:
+This suggests tension pneumothorax, causing mediastinal shift and hypotension.
+* Compliance decreases, not increases.
+________________
+
+
+Question 20
+A 71-year-old woman with NSTEMI is stable on medical therapy. Coronary angiography shows 70% proximal LAD stenosis.
+Which factor most strongly supports early invasive management?
+Answer Choices:
+(A) Female sex
+(B) Normal troponin
+(C) ST-segment depression
+(D) Age >70 years
+(E) History of hypertension
+Correct Answer: C
+Explanation:
+High-risk NSTEMI features (ST depression, positive troponin, hemodynamic instability) warrant early invasive strategy.
+* Age and sex alone do not dictate urgency.
+Question 21
+A 62-year-old man with long-standing hypertension presents with acute shortness of breath and chest discomfort. Blood pressure is 210/120 mm Hg, heart rate 110/min. Lung examination reveals diffuse crackles. Chest x‑ray shows bilateral alveolar infiltrates without cardiomegaly. BNP is mildly elevated. ECG shows left ventricular hypertrophy.
+Which mechanism most directly explains this patient’s pulmonary findings?
+Answer Choices:
+(A) Increased pulmonary capillary permeability
+(B) Reduced oncotic pressure
+(C) Acute increase in left ventricular end-diastolic pressure
+(D) Right ventricular failure
+(E) Lymphatic obstruction
+Correct Answer: C
+Explanation:
+This is hypertensive emergency with flash pulmonary edema, caused by an acute rise in afterload leading to elevated LV end-diastolic pressure, transmitting backward into pulmonary capillaries.
+* (A) Describes ARDS.
+* (B) Seen in hypoalbuminemia.
+* (D) Causes systemic congestion.
+* (E) Causes chronic effusions.
+________________
+
+
+Question 22
+A 70-year-old woman with severe COPD is admitted for pneumonia. On day 2, she becomes progressively somnolent. ABG shows pH 7.19, PaCO₂ 78 mm Hg, PaO₂ 58 mm Hg on 2 L nasal cannula.
+Which intervention is most appropriate at this time?
+Answer Choices:
+(A) Increase supplemental oxygen
+(B) Noninvasive positive-pressure ventilation
+(C) Endotracheal intubation
+(D) Administer IV bicarbonate
+(E) Administer naloxone
+Correct Answer: C
+Explanation:
+This patient has acute on chronic hypercapnic respiratory failure with acidemia and altered mental status, indicating failure of ventilation and need for intubation.
+* (A) Risks worsening CO₂ retention.
+* (B) Contraindicated in altered mental status.
+* (D) Does not correct ventilatory failure.
+________________
+
+
+Question 23
+A 56-year-old man with ischemic cardiomyopathy is started on spironolactone in addition to lisinopril and furosemide. One week later, he reports weakness and palpitations. ECG shows peaked T waves.
+Which physiologic effect most likely caused this finding?
+Answer Choices:
+(A) Increased sodium delivery to the distal tubule
+(B) Reduced aldosterone-mediated potassium secretion
+(C) Increased renin release
+(D) Enhanced proximal bicarbonate reabsorption
+(E) Increased sympathetic tone
+Correct Answer: B
+Explanation:
+Spironolactone blocks aldosterone, reducing potassium secretion in the collecting duct, leading to hyperkalemia.
+* (A) Would increase K⁺ excretion.
+* (C) Renin may increase but is not causal.
+* (D) Unrelated.
+________________
+
+
+Question 24
+A 48-year-old man develops acute respiratory distress after receiving multiple transfusions following trauma. Chest imaging shows bilateral infiltrates. BNP is normal. Symptoms begin within 4 hours of transfusion.
+Which mechanism is most likely responsible?
+Answer Choices:
+(A) Volume overload
+(B) IgA-mediated anaphylaxis
+(C) Donor anti-leukocyte antibodies
+(D) Complement-mediated hemolysis
+(E) Citrate toxicity
+Correct Answer: C
+Explanation:
+This is transfusion-related acute lung injury (TRALI), caused by donor anti-HLA or anti-neutrophil antibodies, leading to noncardiogenic pulmonary edema.
+* (A) Causes TACO with elevated BNP.
+* (B) Causes immediate anaphylaxis.
+________________
+
+
+Question 25
+A patient in septic shock has MAP 62 mm Hg despite aggressive fluid resuscitation. Lactate remains elevated. Norepinephrine is maximized.
+Which additional therapy has been shown to improve outcomes in this setting?
+Answer Choices:
+(A) Dopamine
+(B) Vasopressin
+(C) Phenylephrine
+(D) Epinephrine bolus
+(E) Dobutamine alone
+Correct Answer: B
+Explanation:
+Vasopressin is added in refractory septic shock to counteract relative vasopressin deficiency and reduce norepinephrine requirements.
+* Dopamine increases arrhythmias.
+* Phenylephrine reduces cardiac output.
+________________
+
+
+Question 26
+A 65-year-old man presents with syncope. ECG shows complete heart block with ventricular escape rhythm at 30/min. Blood pressure is 80/40 mm Hg.
+What is the most appropriate immediate management?
+Answer Choices:
+(A) IV atropine
+(B) Transcutaneous pacing
+(C) IV amiodarone
+(D) Observation
+(E) Oral beta-blocker
+Correct Answer: B
+Explanation:
+Unstable complete heart block requires immediate pacing.
+* Atropine is unreliable in high-grade AV block.
+* Antiarrhythmics worsen conduction.
+________________
+
+
+Question 27
+A mechanically ventilated patient has sudden hypotension, distended neck veins, and muffled heart sounds.
+Which ventilator-related change most likely precipitated this condition?
+Answer Choices:
+(A) Increased FiO₂
+(B) Increased respiratory rate
+(C) Increased PEEP
+(D) Decreased tidal volume
+(E) Increased inspiratory flow
+Correct Answer: C
+Explanation:
+High PEEP reduces venous return and can precipitate obstructive shock, mimicking tamponade physiology.
+* FiO₂ does not affect hemodynamics.
+________________
+
+
+Question 28
+A 59-year-old woman presents with progressive dyspnea. Echocardiography shows preserved EF, concentric LV hypertrophy, and impaired relaxation.
+Which condition most likely predisposed her to this pathology?
+Answer Choices:
+(A) Chronic volume overload
+(B) Long-standing hypertension
+(C) Dilated cardiomyopathy
+(D) Alcohol use disorder
+(E) Viral myocarditis
+Correct Answer: B
+Explanation:
+This is HFpEF (diastolic heart failure), most commonly due to chronic hypertension causing concentric hypertrophy and stiff ventricles.
+* Volume overload causes dilation.
+________________
+
+
+Question 29
+A patient with severe asthma develops rising PaCO₂ despite high-dose beta-agonists and steroids.
+What does this change most strongly indicate?
+Answer Choices:
+(A) Improvement in ventilation
+(B) Resolution of bronchospasm
+(C) Respiratory muscle fatigue
+(D) Excess oxygen administration
+(E) Pulmonary embolism
+Correct Answer: C
+Explanation:
+In severe asthma, rising CO₂ signals impending respiratory failure due to muscle fatigue, requiring intubation.
+* CO₂ should fall with improvement.
+________________
+
+
+Question 30
+A 68-year-old man with sepsis has urine output <0.3 mL/kg/hr and rising creatinine despite adequate MAP.
+Which pathophysiologic process best explains this finding?
+Answer Choices:
+(A) Renal artery thrombosis
+(B) Acute tubular necrosis from ischemia
+(C) Postrenal obstruction
+(D) Immune complex deposition
+(E) Renal papillary necrosis
+Correct Answer: B
+Explanation:
+Persistent oliguria in sepsis despite perfusion suggests intrinsic AKI due to ischemic ATN, caused by inflammatory and microvascular injury.
+* Obstruction would cause hydronephrosis.
+Question 31
+A 74-year-old man with long-standing atrial fibrillation presents with acute confusion and hypotension. Heart rate is 148/min and irregular. Blood pressure is 78/46 mm Hg. ECG shows atrial fibrillation with rapid ventricular response.
+What is the most appropriate immediate management?
+Answer Choices:
+(A) IV diltiazem
+(B) IV metoprolol
+(C) IV amiodarone
+(D) Immediate synchronized cardioversion
+(E) IV digoxin
+Correct Answer: D
+Explanation:
+This patient has unstable AF with RVR (hypotension, altered mental status). Immediate synchronized cardioversion is indicated regardless of duration. Rate‑controlling drugs are for stable patients only.
+________________
+
+
+Question 32
+A 58-year-old woman with cirrhosis presents with hematemesis. BP is 92/58 mm Hg, HR 112/min. After airway protection and IV fluids, upper endoscopy confirms actively bleeding esophageal varices.
+Which therapy should be started immediately in addition to endoscopic intervention?
+Answer Choices:
+(A) Proton pump inhibitor
+(B) Octreotide
+(C) Fresh frozen plasma
+(D) Tranexamic acid
+(E) Propranolol
+Correct Answer: B
+Explanation:
+Acute variceal bleeding requires octreotide to reduce portal hypertension plus endoscopic therapy. PPIs are adjuncts for non‑variceal bleeding; beta‑blockers are for secondary prevention.
+________________
+
+
+Question 33
+A 63-year-old man with an anterior MI develops sudden hypotension and electrical alternans on ECG. JVP is elevated and heart sounds are muffled.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Papillary muscle rupture
+(B) Ventricular septal rupture
+(C) Acute mitral regurgitation
+(D) Free wall rupture with tamponade
+(E) Dressler syndrome
+Correct Answer: D
+Explanation:
+Free wall rupture causes hemopericardium → cardiac tamponade, presenting with hypotension, JVD, muffled heart sounds, and electrical alternans.
+________________
+
+
+Question 34
+A patient with septic shock has persistent hypotension despite fluids and norepinephrine. Echocardiography shows low cardiac output.
+Which medication is most appropriate to add?
+Answer Choices:
+(A) Phenylephrine
+(B) Dopamine
+(C) Dobutamine
+(D) Vasopressin
+(E) Nitroprusside
+Correct Answer: C
+Explanation:
+In septic shock with low cardiac output, dobutamine improves contractility. Vasopressin increases SVR but does not address pump failure.
+________________
+
+
+Question 35
+A 45-year-old woman presents with dyspnea and pleuritic chest pain. She is hemodynamically stable. D‑dimer is elevated.
+What is the next best diagnostic step?
+Answer Choices:
+(A) V/Q scan
+(B) CT pulmonary angiography
+(C) Lower extremity Doppler ultrasound
+(D) Pulmonary angiography
+(E) Empiric anticoagulation
+Correct Answer: B
+Explanation:
+In stable patients with suspected PE and positive D‑dimer, CT pulmonary angiography is the diagnostic test of choice.
+________________
+
+
+Question 36
+A mechanically ventilated patient develops metabolic alkalosis after aggressive diuresis.
+Which compensatory response is expected?
+Answer Choices:
+(A) Increased respiratory rate
+(B) Decreased PaCO₂
+(C) Hypoventilation
+(D) Increased renal bicarbonate reabsorption
+(E) Increased hydrogen ion secretion
+Correct Answer: C
+Explanation:
+Metabolic alkalosis is compensated by hypoventilation, increasing PaCO₂ to normalize pH.
+________________
+
+
+Question 37
+A 67-year-old man with heart failure is started on a beta-blocker. Two days later, his symptoms worsen.
+Which explanation best accounts for this?
+Answer Choices:
+(A) Reduced preload
+(B) Reduced afterload
+(C) Acute negative inotropic effect
+(D) Increased sympathetic tone
+(E) Enhanced ventricular remodeling
+Correct Answer: C
+Explanation:
+Beta‑blockers initially worsen HF due to negative inotropy; long‑term use improves survival by reducing remodeling.
+________________
+
+
+Question 38
+A patient with severe pneumonia develops refractory hypoxemia despite 100% oxygen. PaO₂/FiO₂ ratio is 120.
+Which intervention improves survival?
+Answer Choices:
+(A) Increased tidal volume
+(B) Prone positioning
+(C) Decreased PEEP
+(D) Nitric oxide
+(E) High-dose steroids
+Correct Answer: B
+Explanation:
+In moderate–severe ARDS, prone positioning improves oxygenation and survival by improving V/Q matching.
+________________
+
+
+Question 39
+A 52-year-old man presents with sudden tearing chest pain. BP is unequal between arms. Imaging confirms a Stanford type B aortic dissection.
+What is the preferred management?
+Answer Choices:
+(A) Immediate surgery
+(B) Thrombolysis
+(C) IV beta-blocker alone
+(D) IV beta-blocker plus vasodilator
+(E) Observation only
+Correct Answer: D
+Explanation:
+Type B dissections are managed medically with beta‑blockade plus vasodilator to reduce shear stress unless complications develop.
+________________
+
+
+Question 40
+A patient in the ICU develops fever on postoperative day 1 after abdominal surgery.
+What is the most likely cause?
+Answer Choices:
+(A) Surgical site infection
+(B) Atelectasis
+(C) Urinary tract infection
+(D) Pulmonary embolism
+(E) Drug fever
+Correct Answer: B
+Explanation:
+Postoperative day 1 fever is most commonly due to atelectasis (“wind”). Infections typically occur later.
+
+
+Question 41
+A 68-year-old man with ischemic cardiomyopathy (EF 30%) presents with worsening dyspnea and orthopnea. He is hypotensive (BP 86/54 mm Hg) with cool extremities and pulmonary edema. Swan–Ganz catheterization shows:
+* PCWP: elevated
+* Cardiac index: low
+* SVR: elevated
+Which therapy will most effectively improve forward cardiac output?
+Answer Choices:
+(A) Phenylephrine
+(B) Norepinephrine
+(C) Dobutamine
+(D) Nitroprusside
+(E) Furosemide
+Correct Answer: C
+Explanation:
+This is cardiogenic shock. Dobutamine increases contractility and cardiac output. Vasoconstrictors worsen afterload; diuretics treat congestion but not shock.
+________________
+
+
+Question 42
+A 59-year-old woman develops sudden respiratory distress 30 minutes after platelet transfusion. She has fever, hypotension, and bilateral pulmonary infiltrates. BNP is normal.
+Which finding supports the diagnosis?
+Answer Choices:
+(A) Elevated wedge pressure
+(B) Cardiomegaly on chest x‑ray
+(C) Donor anti-HLA antibodies
+(D) Elevated troponin
+(E) Positive direct Coombs test
+Correct Answer: C
+Explanation:
+This is TRALI, mediated by donor anti-leukocyte antibodies, causing noncardiogenic pulmonary edema.
+________________
+
+
+Question 43
+A patient with septic shock is intubated. ABG shows worsening acidosis despite adequate ventilation.
+Which factor most contributes to the metabolic acidosis?
+Answer Choices:
+(A) Renal bicarbonate loss
+(B) Lactic acid accumulation
+(C) Ketone production
+(D) Respiratory muscle fatigue
+(E) Chloride excess
+Correct Answer: B
+Explanation:
+Septic shock causes type A lactic acidosis due to impaired tissue oxygen utilization and mitochondrial dysfunction.
+________________
+
+
+Question 44
+A 72-year-old man presents with syncope. ECG shows sinus bradycardia with PR prolongation. He becomes hypotensive.
+Which medication should be given first?
+Answer Choices:
+(A) Amiodarone
+(B) Adenosine
+(C) Atropine
+(D) Magnesium sulfate
+(E) Digoxin
+Correct Answer: C
+Explanation:
+Symptomatic bradycardia is treated first with atropine. Pacing is next if ineffective.
+________________
+
+
+Question 45
+A mechanically ventilated patient develops sudden hypoxemia and hypotension. End-tidal CO₂ abruptly decreases.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Tension pneumothorax
+(B) Pulmonary embolism
+(C) ARDS progression
+(D) Acute MI
+(E) Ventilator-associated pneumonia
+Correct Answer: B
+Explanation:
+Sudden ↓ ETCO₂ with hypotension suggests acute PE, causing abrupt loss of pulmonary perfusion.
+________________
+
+
+Question 46
+A patient with severe ARDS is ventilated with low tidal volumes. Plateau pressure remains elevated.
+Which adjustment reduces ventilator-induced lung injury?
+Answer Choices:
+(A) Increase tidal volume
+(B) Increase FiO₂
+(C) Reduce plateau pressure
+(D) Decrease respiratory rate
+(E) Reduce inspiratory flow
+Correct Answer: C
+Explanation:
+Maintaining plateau pressure <30 cm H₂O minimizes barotrauma and mortality in ARDS.
+________________
+
+
+Question 47
+A 66-year-old woman with NSTEMI is treated medically. Which finding indicates high short-term mortality risk?
+Answer Choices:
+(A) Normal ECG
+(B) TIMI score 1
+(C) Elevated troponin
+(D) Female sex
+(E) Controlled blood pressure
+Correct Answer: C
+Explanation:
+Positive troponin indicates myocardial necrosis and higher mortality, warranting invasive strategy.
+________________
+
+
+Question 48
+A patient with COPD is placed on high-flow oxygen. Shortly after, PaCO₂ rises significantly.
+What is the primary mechanism?
+Answer Choices:
+(A) Central respiratory depression
+(B) V/Q mismatch worsening
+(C) Reduced hemoglobin affinity
+(D) Increased metabolic rate
+(E) Air trapping
+Correct Answer: B
+Explanation:
+High oxygen worsens V/Q mismatch by reversing hypoxic pulmonary vasoconstriction, increasing dead space ventilation.
+________________
+
+
+Question 49
+A patient with acute pancreatitis develops hypoxemia. Chest x‑ray shows bilateral infiltrates. Cardiac function is normal.
+Which mediator contributes most to this process?
+Answer Choices:
+(A) Histamine
+(B) Bradykinin
+(C) TNF‑α
+(D) Aldosterone
+(E) Angiotensin II
+Correct Answer: C
+Explanation:
+Pancreatitis can trigger ARDS via systemic inflammation, especially TNF‑α and cytokine release.
+________________
+
+
+Question 50
+A patient in septic shock has adequate MAP but remains encephalopathic and oliguric.
+What best explains ongoing organ dysfunction?
+Answer Choices:
+(A) Hypovolemia
+(B) Persistent hypoxemia
+(C) Microcirculatory dysfunction
+(D) Renal artery stenosis
+(E) Drug toxicity
+Correct Answer: C
+Explanation:
+In sepsis, microvascular and mitochondrial dysfunction cause organ failure despite normalized macrocirculation.
+Question 51
+A 71-year-old man with ischemic cardiomyopathy (EF 20%) is admitted with fever, hypotension, and confusion. He is intubated for airway protection. Initial management includes IV fluids and norepinephrine. Despite achieving MAP 70 mm Hg, he remains oliguric with rising lactate. Bedside echo shows severely reduced LV function without RV dilation.
+Which intervention is most appropriate to improve end-organ perfusion?
+Answer Choices:
+(A) Increase norepinephrine dose
+(B) Add phenylephrine
+(C) Add dobutamine
+(D) Administer additional IV fluids
+(E) Switch to dopamine
+Correct Answer: C
+Explanation:
+This patient has mixed septic + cardiogenic shock. Although MAP is adequate, cardiac output is low, leading to poor perfusion. Dobutamine improves inotropy and forward flow. Pure vasoconstrictors worsen afterload and tissue perfusion.
+________________
+
+
+Question 52
+A 64-year-old woman develops sudden hypotension and hypoxemia 24 hours after hip surgery. She is tachycardic and anxious. ABG shows respiratory alkalosis. ECG shows new right heart strain. Troponin is mildly elevated.
+Which finding most strongly predicts poor short-term prognosis?
+Answer Choices:
+(A) Elevated D-dimer
+(B) Hypoxemia
+(C) RV dilation on echocardiography
+(D) Recent surgery
+(E) Sinus tachycardia
+Correct Answer: C
+Explanation:
+In acute pulmonary embolism, right ventricular dysfunction is the strongest predictor of mortality and need for aggressive therapy (e.g., thrombolysis).
+________________
+
+
+Question 53
+A mechanically ventilated patient with ARDS is on lung-protective ventilation. Despite FiO₂ 100% and high PEEP, PaO₂ remains critically low. Hemodynamics are stable.
+Which intervention has been shown to improve survival in this scenario?
+Answer Choices:
+(A) Increasing tidal volume
+(B) Inhaled nitric oxide
+(C) Prone positioning
+(D) High-dose systemic steroids
+(E) Recruitment maneuvers alone
+Correct Answer: C
+Explanation:
+Prone positioning improves survival in severe ARDS by improving ventilation–perfusion matching and reducing ventilator-induced lung injury. Nitric oxide improves oxygenation transiently but not mortality.
+________________
+
+
+Question 54
+A 58-year-old man presents with chest pain radiating to the jaw. ECG shows ST elevations in leads II, III, and aVF. He becomes hypotensive after receiving nitroglycerin.
+Which infarct-related complication best explains his deterioration?
+Answer Choices:
+(A) Acute papillary muscle rupture
+(B) Right ventricular infarction
+(C) Ventricular septal rupture
+(D) Free wall rupture
+(E) Acute pericarditis
+Correct Answer: B
+Explanation:
+Inferior MI can involve the right ventricle, which is preload dependent. Nitroglycerin reduces preload, causing hypotension. Management requires IV fluids, not nitrates.
+________________
+
+
+Question 55
+A 70-year-old ICU patient develops new-onset atrial fibrillation with RVR during septic shock. He is hypotensive and confused.
+What is the most appropriate next step?
+Answer Choices:
+(A) IV diltiazem
+(B) IV amiodarone
+(C) IV metoprolol
+(D) Synchronized cardioversion
+(E) Oral anticoagulation
+Correct Answer: D
+Explanation:
+This is unstable AF with RVR. Immediate synchronized cardioversion is required. Rate control agents are for stable patients only.
+________________
+
+
+Question 56
+A patient with severe COPD is intubated for hypercapnic respiratory failure. Shortly after initiation of mechanical ventilation, blood pressure drops and JVP rises.
+Which ventilator change most likely caused this?
+Answer Choices:
+(A) Increased FiO₂
+(B) Increased tidal volume
+(C) Increased PEEP
+(D) Decreased respiratory rate
+(E) Increased inspiratory flow
+Correct Answer: C
+Explanation:
+High PEEP increases intrathoracic pressure, reducing venous return and causing obstructive shock physiology, especially in COPD.
+________________
+
+
+Question 57
+A 66-year-old man with decompensated cirrhosis develops hypoxemia that worsens when standing and improves when supine. Echocardiography with bubble study shows delayed appearance of bubbles in the left atrium.
+What is the underlying mechanism?
+Answer Choices:
+(A) Pulmonary embolism
+(B) Portopulmonary hypertension
+(C) Hepatopulmonary syndrome
+(D) ARDS
+(E) Pleural effusion
+Correct Answer: C
+Explanation:
+Hepatopulmonary syndrome causes intrapulmonary vascular dilations → platypnea-orthodeoxia (worse upright), with delayed bubble transit.
+________________
+
+
+Question 58
+A patient with septic shock has normal arterial oxygen tension but persistently elevated lactate and high mixed venous oxygen saturation (SvO₂).
+What best explains this paradox?
+Answer Choices:
+(A) Anemia
+(B) Reduced cardiac output
+(C) Impaired cellular oxygen utilization
+(D) Pulmonary shunting
+(E) Measurement error
+Correct Answer: C
+Explanation:
+In sepsis, mitochondrial dysfunction prevents effective oxygen extraction, leading to high SvO₂ despite tissue hypoxia.
+________________
+
+
+Question 59
+A patient with severe asthma is intubated. Peak airway pressures are high, plateau pressures are normal, and expiratory flow does not return to baseline.
+Which complication is most likely?
+Answer Choices:
+(A) ARDS
+(B) Pulmonary edema
+(C) Dynamic hyperinflation
+(D) Pneumonia
+(E) Pulmonary fibrosis
+Correct Answer: C
+Explanation:
+This describes air trapping → dynamic hyperinflation (auto‑PEEP), which increases intrathoracic pressure and risk of hypotension and barotrauma.
+________________
+
+
+Question 60
+A critically ill patient with sepsis is treated appropriately. Blood pressure, oxygenation, and urine output normalize, yet he develops progressive encephalopathy and renal dysfunction.
+Which mechanism best explains ongoing organ injury?
+Answer Choices:
+(A) Hypoperfusion
+(B) Hypoxemia
+(C) Microvascular thrombosis and endothelial dysfunction
+(D) Drug toxicity
+(E) Autoimmune vasculitis
+Correct Answer: C
+Explanation:
+Late sepsis morbidity is driven by endothelial injury, microcirculatory failure, and inflammatory dysregulation, independent of macroscopic hemodynamics.

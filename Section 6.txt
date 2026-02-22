@@ -1,0 +1,992 @@
+﻿Question 1
+A 6-month-old boy presents with persistent vomiting, poor feeding, and lethargy. His urine smells like burnt sugar. Labs reveal elevated leucine, isoleucine, and valine levels. His liver function tests are mildly elevated.
+Which enzyme deficiency is responsible for this patient’s condition?
+Answer Choices:
+ (A) Branched-chain α-ketoacid dehydrogenase
+(B) Phenylalanine hydroxylase
+(C) Homogentisate oxidase
+(D) Tyrosine aminotransferase
+(E) Methylmalonyl-CoA mutase
+Correct Answer: A
+Explanation:
+ This patient has maple syrup urine disease (MSUD), caused by deficiency of branched-chain α-ketoacid dehydrogenase, leading to accumulation of branched-chain amino acids (leucine, isoleucine, valine).
+* (B) Phenylalanine hydroxylase deficiency causes PKU
+
+* (C) Homogentisate oxidase deficiency causes alkaptonuria
+
+* (D) Tyrosine aminotransferase deficiency causes tyrosinemia II
+
+* (E) Methylmalonyl-CoA mutase deficiency causes methylmalonic acidemia
+
+________________
+
+
+Question 2
+A 2-week-old neonate presents with vomiting, lethargy, and hypotonia. Labs show hypoglycemia, metabolic acidosis, and elevated lactate. Genetic testing reveals deficiency of pyruvate dehydrogenase complex.
+Which metabolic consequence is most likely?
+Answer Choices:
+ (A) Accumulation of pyruvate leading to lactic acidosis
+(B) Accumulation of α-ketoglutarate
+(C) Accumulation of succinyl-CoA
+(D) Accumulation of acetoacetate
+(E) Accumulation of alanine only
+Correct Answer: A
+Explanation:
+ Pyruvate dehydrogenase deficiency prevents conversion of pyruvate to acetyl-CoA, causing pyruvate accumulation, which is shunted to lactate via lactate dehydrogenase, producing lactic acidosis.
+   * (B, C, D) Involve TCA downstream metabolites or ketone bodies
+
+   * (E) Alanine increases but lactic acidosis is primary
+
+________________
+
+
+Question 3
+A 3-year-old girl presents with developmental delay, seizures, and musty-smelling urine. Labs reveal elevated phenylalanine and low tyrosine levels.
+Which cofactor is essential for the deficient enzyme in this disorder?
+Answer Choices:
+ (A) Tetrahydrobiopterin (BH₄)
+(B) Vitamin B12
+(C) FAD
+(D) Biotin
+(E) Thiamine
+Correct Answer: A
+Explanation:
+ Classic phenylketonuria (PKU) is caused by phenylalanine hydroxylase deficiency. BH₄ is required as a cofactor for this hydroxylation reaction converting phenylalanine to tyrosine.
+      * (B) B12 involved in methylmalonyl-CoA mutase
+
+      * (C) FAD for succinate dehydrogenase
+
+      * (D) Biotin for carboxylases
+
+      * (E) Thiamine for pyruvate dehydrogenase
+
+________________
+
+
+Question 4
+A 7-month-old boy presents with hypotonia, hepatomegaly, and hypoglycemia during fasting. Labs show elevated lactate, triglycerides, and uric acid. Liver biopsy reveals glycogen accumulation.
+Which enzyme deficiency explains this patient’s presentation?
+Answer Choices:
+ (A) Glucose-6-phosphatase
+(B) Glycogen phosphorylase
+(C) Debranching enzyme
+(D) Lysosomal acid α-glucosidase
+(E) Phosphofructokinase
+Correct Answer: A
+Explanation:
+ Von Gierke disease (type I glycogen storage disease) is caused by glucose-6-phosphatase deficiency, preventing glucose release from glycogenolysis or gluconeogenesis, leading to fasting hypoglycemia, hepatomegaly, and lactic acidosis.
+         * (B) Glycogen phosphorylase deficiency → McArdle disease (muscle)
+
+         * (C) Debranching enzyme → Cori disease
+
+         * (D) Acid α-glucosidase → Pompe disease (lysosomal)
+
+         * (E) PFK deficiency → Tarui disease (muscle)
+
+________________
+
+
+Question 5
+A 6-year-old girl presents with coarse facial features, hepatosplenomegaly, and corneal clouding. She has a history of recurrent respiratory infections. Lysosomal enzyme assays reveal α-L-iduronidase deficiency.
+Which metabolic pathway is affected?
+Answer Choices:
+ (A) Degradation of glycosaminoglycans (heparan sulfate and dermatan sulfate)
+(B) Glycogenolysis
+(C) Galactose metabolism
+(D) Urea cycle
+(E) Purine degradation
+Correct Answer: A
+Explanation:
+ Hurler syndrome (MPS I) results from α-L-iduronidase deficiency, impairing breakdown of GAGs like heparan and dermatan sulfate, causing accumulation in tissues and lysosomes.
+            * (B) Glycogen unrelated
+
+            * (C) Galactose metabolism → galactosemia
+
+            * (D) Urea cycle → hyperammonemia
+
+            * (E) Purine degradation → gout
+
+________________
+
+
+Question 6
+A 2-month-old infant presents with vomiting, hepatomegaly, and cataracts. Labs reveal hypoglycemia, elevated galactose-1-phosphate, and reducing sugars in urine.
+Which enzyme deficiency is most likely?
+Answer Choices:
+ (A) Galactose-1-phosphate uridyltransferase
+(B) Galactokinase
+(C) Fructokinase
+(D) Aldolase B
+(E) Hexokinase
+Correct Answer: A
+Explanation:
+ Classic galactosemia is due to galactose-1-phosphate uridyltransferase deficiency, causing accumulation of galactose-1-phosphate, hepatotoxicity, and cataracts.
+               * (B) Galactokinase deficiency → cataracts only
+
+               * (C) Fructokinase → essential fructosuria (benign)
+
+               * (D) Aldolase B → hereditary fructose intolerance
+
+               * (E) Hexokinase unrelated
+
+________________
+
+
+Question 7
+A 5-year-old boy presents with progressive neurological deterioration, spasticity, and “cherry-red” macula on fundus exam. He is found to have deficiency of hexosaminidase A.
+Which substrate accumulates in this disorder?
+Answer Choices:
+ (A) GM2 ganglioside
+(B) Sphingomyelin
+(C) Galactocerebroside
+(D) Glucocerebroside
+(E) Ceramide
+Correct Answer: A
+Explanation:
+ Tay-Sachs disease is caused by hexosaminidase A deficiency, leading to GM2 ganglioside accumulation in neurons, causing neurodegeneration and cherry-red macula.
+                  * (B) Niemann-Pick → sphingomyelin
+
+                  * (C) Krabbe → galactocerebroside
+
+                  * (D) Gaucher → glucocerebroside
+
+                  * (E) Ceramide alone not primary
+
+________________
+
+
+Question 8
+A 7-year-old boy presents with hepatosplenomegaly, bone pain, and anemia. He has a deficiency of glucocerebrosidase.
+Which lysosomal storage disorder does he have?
+Answer Choices:
+ (A) Gaucher disease
+(B) Tay-Sachs disease
+(C) Niemann-Pick disease
+(D) Fabry disease
+(E) Krabbe disease
+Correct Answer: A
+Explanation:
+ Gaucher disease is caused by glucocerebrosidase deficiency, leading to glucocerebroside accumulation in macrophages, causing hepatosplenomegaly, anemia, thrombocytopenia, and bone disease.
+                     * (B) Tay-Sachs → neuro only
+
+                     * (C) Niemann-Pick → sphingomyelin, cherry-red macula, hepatosplenomegaly
+
+                     * (D) Fabry → angiokeratomas, neuropathy
+
+                     * (E) Krabbe → neurodegeneration
+
+________________
+
+
+Question 9
+A 3-year-old girl presents with failure to thrive, developmental delay, and hypotonia. Labs reveal elevated phenylalanine. She is started on a low-phenylalanine diet. Genetic testing shows a defect in tetrahydrobiopterin (BH₄) synthesis.
+Which additional metabolic problem may occur if BH₄ deficiency is untreated?
+Answer Choices:
+ (A) Neurotransmitter deficiency due to impaired tyrosine and tryptophan hydroxylation
+(B) Accumulation of branched-chain amino acids
+(C) Galactosemia
+(D) Urea cycle defect
+(E) Homocystinuria
+Correct Answer: A
+Explanation:
+ BH₄ is a cofactor for phenylalanine hydroxylase, tyrosine hydroxylase, and tryptophan hydroxylase. Deficiency impairs conversion to tyrosine, dopamine, norepinephrine, and serotonin, leading to neurodevelopmental delay.
+                        * (B) Branched-chain amino acids → MSUD
+
+                        * (C) Galactose → galactosemia
+
+                        * (D) Urea cycle unrelated
+
+                        * (E) Homocystinuria → cystathionine synthase deficiency
+
+________________
+
+
+Question 10
+A 4-year-old boy presents with vomiting, hepatomegaly, and hypoglycemia after ingestion of fruit juice. Labs reveal elevated fructose-1-phosphate and low phosphate.
+Which enzyme deficiency explains his symptoms?
+Answer Choices:
+ (A) Aldolase B
+(B) Fructokinase
+(C) Hexokinase
+(D) Glucose-6-phosphatase
+(E) Pyruvate kinase
+Correct Answer: A
+Explanation:
+ Hereditary fructose intolerance is caused by aldolase B deficiency, leading to accumulation of fructose-1-phosphate, which depletes phosphate and inhibits gluconeogenesis and glycogenolysis, causing hypoglycemia.
+                           * (B) Fructokinase → essential fructosuria (benign)
+
+                           * (C) Hexokinase → glucose metabolism
+
+                           * (D) Glucose-6-phosphatase → von Gierke disease
+
+                           * (E) Pyruvate kinase → hemolytic anemia
+
+Question 11
+A 54-year-old man with chronic alcoholism presents with progressive confusion, ophthalmoplegia, and ataxia. MRI of the brain shows symmetric lesions in the mammillary bodies. Laboratory testing reveals elevated lactate levels and decreased activity of pyruvate dehydrogenase.
+Which biochemical mechanism best explains the metabolic abnormalities in this patient?
+Answer Choices:
+ (A) Impaired conversion of pyruvate to acetyl-CoA due to thiamine deficiency
+(B) Impaired conversion of lactate to pyruvate due to NAD⁺ deficiency
+(C) Impaired conversion of acetyl-CoA to citrate due to biotin deficiency
+(D) Impaired oxidative phosphorylation due to riboflavin deficiency
+(E) Impaired β-oxidation due to carnitine deficiency
+Correct Answer: A
+Explanation:
+ Chronic alcoholism causes thiamine (vitamin B1) deficiency, impairing pyruvate dehydrogenase activity. Pyruvate accumulates and is converted to lactate, causing lactic acidosis and CNS dysfunction (Wernicke encephalopathy).
+                              * (B) NAD⁺ deficiency not primary
+
+                              * (C) Biotin affects carboxylation reactions
+
+                              * (D) Riboflavin affects FAD-dependent enzymes
+
+                              * (E) Carnitine affects fatty acid oxidation
+
+________________
+
+
+Question 12
+A 3-year-old boy presents with failure to thrive, muscle weakness, and recurrent episodes of hypoglycemia during prolonged fasting. Plasma free fatty acids are elevated, but ketone bodies are markedly reduced.
+Which biochemical defect best explains this presentation?
+Answer Choices:
+ (A) Medium-chain acyl-CoA dehydrogenase deficiency
+(B) Carnitine palmitoyltransferase I deficiency
+(C) Glucose-6-phosphatase deficiency
+(D) Hormone-sensitive lipase deficiency
+(E) Pyruvate carboxylase deficiency
+Correct Answer: A
+Explanation:
+ MCAD deficiency impairs β-oxidation of medium-chain fatty acids, preventing ketone body formation during fasting despite elevated free fatty acids, leading to hypoketotic hypoglycemia.
+                                 * (B) CPT I deficiency affects long-chain FA transport
+
+                                 * (C) Von Gierke causes lactic acidosis and hepatomegaly
+
+                                 * (D) HSL deficiency reduces lipolysis
+
+                                 * (E) Pyruvate carboxylase affects gluconeogenesis
+
+________________
+
+
+Question 13
+A 22-year-old woman presents with progressive muscle weakness and cardiomyopathy. She follows a strict vegan diet. Labs show elevated homocysteine and methylmalonic acid levels.
+Which biochemical process is impaired?
+Answer Choices:
+ (A) Conversion of methylmalonyl-CoA to succinyl-CoA
+(B) Conversion of homocysteine to cystathionine
+(C) Conversion of pyruvate to acetyl-CoA
+(D) Conversion of phenylalanine to tyrosine
+(E) Conversion of glutamate to GABA
+Correct Answer: A
+Explanation:
+ Vitamin B12 deficiency impairs methylmalonyl-CoA mutase, causing accumulation of methylmalonic acid and homocysteine, leading to neurologic and cardiac manifestations.
+                                    * (B) Requires vitamin B6
+
+                                    * (C) Requires thiamine
+
+                                    * (D) Requires BH₄
+
+                                    * (E) Requires vitamin B6
+
+________________
+
+
+Question 14
+A 4-year-old boy presents with developmental delay, hypotonia, and episodes of metabolic acidosis. Labs show hyperammonemia with normal liver function tests.
+Which enzyme deficiency most likely explains this finding?
+Answer Choices:
+ (A) Ornithine transcarbamylase
+(B) Carbamoyl phosphate synthetase I
+(C) Arginase
+(D) Phenylalanine hydroxylase
+(E) Citrate synthase
+Correct Answer: A
+Explanation:
+ OTC deficiency is an X-linked urea cycle disorder causing hyperammonemia with normal liver function, leading to neurotoxicity and metabolic acidosis.
+                                       * (B) CPS I deficiency presents similarly but is autosomal recessive
+
+                                       * (C) Arginase causes spasticity later in life
+
+                                       * (D) PKU causes hyperphenylalaninemia
+
+                                       * (E) TCA cycle enzyme unrelated
+
+________________
+
+
+Question 15
+A 19-year-old man presents with exercise-induced muscle cramps and myoglobinuria. Serum CK is elevated. Muscle biopsy shows absence of myophosphorylase activity.
+Which metabolic abnormality is most likely present during exercise?
+Answer Choices:
+ (A) Inability to generate glucose-1-phosphate from glycogen
+(B) Increased lactate production during anaerobic metabolism
+(C) Impaired conversion of glucose-6-phosphate to fructose-6-phosphate
+(D) Impaired fatty acid transport into mitochondria
+(E) Excessive ketone body production
+Correct Answer: A
+Explanation:
+ McArdle disease (glycogen storage disease type V) is caused by myophosphorylase deficiency, preventing glycogen breakdown in muscle and causing exercise intolerance.
+                                          * (B) Lactate production is decreased
+
+                                          * (C) Glycolysis intact
+
+                                          * (D) FA transport intact
+
+                                          * (E) Ketones not primary
+
+________________
+
+
+Question 16
+A 5-year-old girl presents with alopecia, dermatitis, and developmental delay. She has been consuming large amounts of raw egg whites.
+Which biochemical mechanism explains her symptoms?
+Answer Choices:
+ (A) Biotin deficiency due to avidin binding
+(B) Riboflavin deficiency impairing FAD-dependent enzymes
+(C) Niacin deficiency impairing NAD⁺ synthesis
+(D) Vitamin A deficiency impairing epithelial differentiation
+(E) Zinc deficiency impairing transcription factors
+Correct Answer: A
+Explanation:
+ Raw egg whites contain avidin, which binds biotin, leading to biotin deficiency affecting carboxylation reactions and causing alopecia, dermatitis, and neurologic symptoms.
+                                             * (B) Riboflavin causes angular cheilitis
+
+                                             * (C) Niacin causes pellagra
+
+                                             * (D) Vitamin A affects vision
+
+                                             * (E) Zinc causes impaired wound healing
+
+________________
+
+
+Question 17
+A 26-year-old woman presents with fatigue, glossitis, and macrocytic anemia. Labs show elevated homocysteine but normal methylmalonic acid.
+Which nutrient deficiency is most likely?
+Answer Choices:
+ (A) Folate
+(B) Vitamin B12
+(C) Vitamin B6
+(D) Iron
+(E) Vitamin C
+Correct Answer: A
+Explanation:
+ Folate deficiency causes macrocytic anemia and elevated homocysteine without elevated methylmalonic acid (which is specific to B12 deficiency).
+                                                * (B) B12 elevates both homocysteine and methylmalonic acid
+
+                                                * (C) B6 causes sideroblastic anemia
+
+                                                * (D) Iron causes microcytic anemia
+
+                                                * (E) Vitamin C causes scurvy
+
+________________
+
+
+Question 18
+A neonate presents with vomiting, lethargy, and seizures. Labs reveal hyperammonemia, respiratory alkalosis, and low BUN.
+Which metabolic pathway is primarily affected?
+Answer Choices:
+ (A) Urea cycle
+(B) Glycolysis
+(C) TCA cycle
+(D) Pentose phosphate pathway
+(E) β-oxidation
+Correct Answer: A
+Explanation:
+ Urea cycle defects cause hyperammonemia, low BUN, and neurologic symptoms due to ammonia neurotoxicity.
+                                                   * (B–E) Do not cause severe hyperammonemia
+
+________________
+
+
+Question 19
+A 30-year-old woman presents with muscle weakness and bone pain. Labs show low serum calcium and low 25-hydroxyvitamin D levels.
+Which biochemical process is impaired?
+Answer Choices:
+ (A) Intestinal absorption of calcium and phosphate
+(B) Renal reabsorption of phosphate
+(C) Parathyroid hormone secretion
+(D) Conversion of calcidiol to calcitriol in the kidney
+(E) Bone resorption by osteoclasts
+Correct Answer: A
+Explanation:
+ Vitamin D deficiency impairs intestinal absorption of calcium and phosphate, leading to hypocalcemia and bone pain.
+                                                      * (B) PTH increases phosphate excretion
+
+                                                      * (C) PTH secretion increases
+
+                                                      * (D) Occurs in kidney disease
+
+                                                      * (E) Osteoclast activity increases
+
+________________
+
+
+Question 20
+A 7-year-old boy presents with failure to thrive, recurrent infections, and neurologic impairment. Labs reveal elevated very-long-chain fatty acids.
+Which metabolic defect explains this condition?
+Answer Choices:
+ (A) Peroxisomal β-oxidation defect
+(B) Mitochondrial β-oxidation defect
+(C) Glycogen branching enzyme deficiency
+(D) Lysosomal α-galactosidase deficiency
+(E) Phenylalanine hydroxylase deficiency
+Correct Answer: A
+Explanation:
+ X-linked adrenoleukodystrophy results from defective peroxisomal β-oxidation of very-long-chain fatty acids, causing neurologic deterioration and adrenal dysfunction.
+                                                         * (B) Mitochondrial β-oxidation affects medium/long-chain FA
+
+                                                         * (C) Branching enzyme → Andersen disease
+
+                                                         * (D) Fabry disease
+
+                                                         * (E) PKU unrelated
+
+
+
+Question 21
+A 9-year-old boy is brought to the clinic for evaluation of developmental delay and episodic ataxia. His parents report that symptoms worsen during periods of fasting or illness. Physical examination reveals hypotonia and mild hepatomegaly. Laboratory studies show elevated serum lactate, alanine, and pyruvate levels, along with hypoglycemia. Muscle biopsy demonstrates normal glycogen structure but reduced oxidative phosphorylation capacity.
+Which of the following enzymatic deficiencies most directly explains this patient’s metabolic derangements?
+A. Pyruvate carboxylase
+B. Pyruvate dehydrogenase complex
+C. Fructose-1,6-bisphosphatase
+D. Glycogen phosphorylase
+E. Carnitine acyltransferase I
+Correct Answer: B
+Explanation:
+ Pyruvate dehydrogenase complex (PDH) deficiency prevents conversion of pyruvate to acetyl-CoA, shunting pyruvate toward lactate and alanine production. This leads to lactic acidosis, hypoglycemia during fasting, neurologic dysfunction, and worsened symptoms during catabolic stress. Elevated alanine is a classic clue. Pyruvate carboxylase deficiency also causes lactic acidosis but would impair gluconeogenesis more directly and show different biochemical patterns.
+________________
+
+
+Question 22
+A researcher studies an enzyme involved in nucleotide synthesis. Increasing substrate concentration increases reaction velocity until a plateau is reached. When a competitive inhibitor is added, the maximal velocity remains unchanged, but a higher substrate concentration is required to reach half-maximal velocity.
+Which of the following best describes the effect of the inhibitor on enzyme kinetics?
+A. Decreased Vmax with unchanged Km
+B. Increased Vmax with increased Km
+C. Unchanged Vmax with increased Km
+D. Decreased Vmax with decreased Km
+E. Unchanged Vmax with unchanged Km
+Correct Answer: C
+Explanation:
+ Competitive inhibitors compete with substrate at the active site. This increases Km (more substrate needed to reach ½ Vmax) while Vmax remains unchanged, as sufficiently high substrate concentrations can outcompete the inhibitor.
+________________
+
+
+Question 23
+A 24-year-old woman presents with fatigue, pallor, and glossitis. Laboratory evaluation shows macrocytic anemia and elevated homocysteine levels but normal methylmalonic acid levels. She follows a strict vegan diet.
+Deficiency of which nutrient is most likely responsible for her condition?
+A. Vitamin B12
+B. Folate
+C. Vitamin B6
+D. Iron
+E. Riboflavin
+Correct Answer: B
+Explanation:
+ Both folate and B12 deficiency cause macrocytic anemia and elevated homocysteine. However, methylmalonic acid is elevated only in B12 deficiency. A vegan diet predisposes to both, but normal MMA points to folate deficiency, which impairs thymidine synthesis and DNA replication.
+________________
+
+
+Question 24
+A 3-month-old infant presents with vomiting, failure to thrive, and cataracts. Laboratory studies reveal hypoglycemia after milk ingestion. Urinalysis shows a reducing substance despite a negative glucose dipstick.
+Which metabolic pathway is most directly impaired in this condition?
+A. Glycolysis
+B. Pentose phosphate pathway
+C. Galactose metabolism
+D. Gluconeogenesis
+E. Glycogen synthesis
+Correct Answer: C
+Explanation:
+ This presentation is classic for galactosemia, most commonly due to galactose-1-phosphate uridyltransferase deficiency. Accumulation of galactitol causes cataracts. Reducing substances other than glucose (e.g., galactose) are detected in urine.
+________________
+
+
+Question 25
+A patient with chronic alcoholism presents with confusion, ophthalmoplegia, and ataxia. MRI shows symmetric lesions in the mammillary bodies. The deficiency of which enzyme-dependent process is primarily responsible for neuronal injury in this condition?
+A. Conversion of pyruvate to acetyl-CoA
+B. Conversion of homocysteine to methionine
+C. Conversion of methylmalonyl-CoA to succinyl-CoA
+D. Conversion of glutamate to GABA
+E. Conversion of citrate to isocitrate
+Correct Answer: A
+Explanation:
+ Thiamine (vitamin B1) deficiency impairs pyruvate dehydrogenase, leading to reduced ATP production in neurons. This underlies Wernicke encephalopathy, characterized by confusion, ophthalmoplegia, and ataxia.
+________________
+
+
+Question 26
+A newborn is diagnosed with an inborn error of metabolism involving impaired conversion of phenylalanine to tyrosine. Without treatment, the child is at risk for intellectual disability, seizures, eczema, and a musty body odor.
+Which additional biochemical abnormality is most likely present?
+A. Decreased homogentisic acid
+B. Increased dopamine synthesis
+C. Reduced melanin production
+D. Increased urea cycle activity
+E. Elevated methylmalonic acid
+Correct Answer: C
+Explanation:
+ Phenylketonuria (PKU) results from phenylalanine hydroxylase deficiency or BH₄ deficiency. Reduced tyrosine availability leads to decreased melanin synthesis, causing fair skin and hair.
+________________
+
+
+Question 27
+A patient is placed on a prolonged fasting regimen. After several days, his brain shifts its primary energy source from glucose to ketone bodies.
+Which biochemical adaptation enables the brain to utilize ketone bodies?
+A. Increased activity of glucose-6-phosphatase
+B. Upregulation of monocarboxylate transporters
+C. Increased hexokinase activity
+D. Increased insulin secretion
+E. Activation of glycogen synthase
+Correct Answer: B
+Explanation:
+ During prolonged fasting, the brain adapts by increasing monocarboxylate transporters, allowing uptake of ketone bodies (β-hydroxybutyrate and acetoacetate) across the blood–brain barrier for energy production.
+________________
+
+
+Question 28
+A 55-year-old man with type 2 diabetes has elevated triglycerides and low HDL cholesterol. He is started on a drug that activates PPAR-α.
+Which of the following is the primary biochemical effect of this medication?
+A. Increased hepatic cholesterol synthesis
+B. Decreased LDL receptor expression
+C. Increased lipoprotein lipase activity
+D. Inhibition of HMG-CoA reductase
+E. Reduced intestinal cholesterol absorption
+Correct Answer: C
+Explanation:
+ PPAR-α activation (fibrates) increases lipoprotein lipase, enhancing triglyceride clearance and increasing HDL levels. Statins inhibit HMG-CoA reductase; ezetimibe reduces absorption.
+________________
+
+
+Question 29
+A malnourished patient develops scaly dermatitis, alopecia, and diarrhea. Laboratory studies reveal impaired synthesis of NAD⁺.
+Which amino acid deficiency most directly contributes to this condition?
+A. Methionine
+B. Tryptophan
+C. Tyrosine
+D. Cysteine
+E. Lysine
+Correct Answer: B
+Explanation:
+ Tryptophan is a precursor for niacin (vitamin B3) synthesis. Deficiency leads to pellagra (dermatitis, diarrhea, dementia) due to reduced NAD⁺/NADP⁺ availability.
+________________
+
+
+Question 30
+A researcher analyzes mitochondrial metabolism and observes that increasing NADH levels inhibit a key regulatory enzyme of the TCA cycle.
+Which enzyme is most directly inhibited by high NADH concentrations?
+A. Citrate synthase
+B. Isocitrate dehydrogenase
+C. Aconitase
+D. Succinate dehydrogenase
+E. Malate synthase
+Correct Answer: B
+Explanation:
+ Isocitrate dehydrogenase is a major regulatory enzyme of the TCA cycle and is inhibited by NADH and ATP, signaling high-energy status and reducing flux through the cycle.
+Question 31
+A 6-year-old child presents with progressive muscle weakness, ptosis, and exercise intolerance. Serum lactate is persistently elevated at rest and rises markedly with minimal exertion. Muscle biopsy shows ragged red fibers. Genetic testing reveals a mutation in mitochondrial DNA affecting a component of the electron transport chain.
+Which of the following biochemical consequences is most directly responsible for this patient’s elevated lactate levels?
+A. Increased conversion of pyruvate to acetyl-CoA
+B. Impaired regeneration of NAD⁺ from NADH
+C. Increased activity of pyruvate carboxylase
+D. Increased gluconeogenesis in the liver
+E. Increased beta-oxidation of fatty acids
+Correct Answer: B
+Explanation:
+ Defects in the electron transport chain impair oxidative phosphorylation, preventing NADH from being oxidized back to NAD⁺. Decreased NAD⁺ availability inhibits the TCA cycle and PDH, forcing pyruvate to be converted to lactate to regenerate NAD⁺ via lactate dehydrogenase.
+________________
+
+
+Question 32
+A researcher studies a metabolic enzyme that is activated by insulin and inhibited by glucagon. The enzyme catalyzes a rate-limiting step in carbohydrate metabolism and is regulated by phosphorylation.
+Which enzyme best fits this description?
+A. Glycogen phosphorylase
+B. Fructose-1,6-bisphosphatase
+C. Phosphofructokinase-1
+D. Pyruvate kinase
+E. Glucose-6-phosphatase
+Correct Answer: D
+Explanation:
+ Pyruvate kinase (liver isoform) is activated by insulin (dephosphorylated) and inhibited by glucagon (phosphorylated). This regulation prevents glycolysis during fasting and promotes it in the fed state.
+________________
+
+
+Question 33
+A patient with severe malnutrition develops edema, fatty liver, and muscle wasting. Laboratory evaluation shows decreased plasma oncotic pressure and reduced transport of lipids from the liver.
+Deficiency of which molecule most directly explains the accumulation of triglycerides in hepatocytes?
+A. Carnitine
+B. Apolipoprotein B-100
+C. Lipoprotein lipase
+D. Cholesterol ester transfer protein
+E. Hormone-sensitive lipase
+Correct Answer: B
+Explanation:
+ Protein malnutrition (e.g., kwashiorkor) leads to reduced synthesis of apolipoprotein B-100, which is required for VLDL assembly and export of triglycerides from the liver, resulting in fatty liver.
+________________
+
+
+Question 34
+A 45-year-old man with poorly controlled diabetes presents with polyuria and polydipsia. Laboratory studies show increased flux through the polyol pathway in peripheral tissues.
+Which of the following best explains how this pathway contributes to cellular damage?
+A. Increased ATP production
+B. Accumulation of sorbitol causing osmotic stress
+C. Increased NADPH availability
+D. Decreased reactive oxygen species
+E. Enhanced fatty acid oxidation
+Correct Answer: B
+Explanation:
+ In hyperglycemia, excess glucose is converted to sorbitol via aldose reductase. Sorbitol accumulation causes osmotic damage, particularly in nerves, retina, and lenses, contributing to diabetic complications.
+________________
+
+
+Question 35
+A newborn presents with hypotonia, seizures, and failure to thrive. Laboratory studies reveal hyperammonemia with normal anion gap metabolic acidosis. Plasma citrulline levels are markedly decreased.
+Which enzyme deficiency is most likely responsible?
+A. Argininosuccinate lyase
+B. Carbamoyl phosphate synthetase I
+C. Ornithine transcarbamylase
+D. Arginase
+E. N-acetylglutamate synthase
+Correct Answer: B
+Explanation:
+ Carbamoyl phosphate synthetase I (CPS I) deficiency causes severe hyperammonemia with low citrulline, as it catalyzes the first step of the urea cycle. OTC deficiency would show elevated orotic acid.
+________________
+
+
+Question 36
+A patient is treated with a drug that uncouples oxidative phosphorylation. Oxygen consumption increases, but ATP production decreases.
+Which of the following best describes the immediate biochemical effect of this drug?
+A. Inhibition of electron flow through Complex IV
+B. Increased proton permeability of the inner mitochondrial membrane
+C. Decreased NADH production
+D. Inhibition of ATP synthase
+E. Reduced substrate-level phosphorylation
+Correct Answer: B
+Explanation:
+ Uncouplers dissipate the proton gradient by increasing proton permeability across the inner mitochondrial membrane. Electron transport and oxygen consumption increase, but ATP synthesis falls due to loss of the electrochemical gradient.
+________________
+
+
+Question 37
+A patient with chronic alcoholism presents with peripheral neuropathy. Laboratory studies reveal decreased activity of a transketolase-dependent pathway.
+Which metabolic process is most directly impaired?
+A. Glycolysis
+B. Pentose phosphate pathway
+C. TCA cycle
+D. Beta-oxidation
+E. Urea cycle
+Correct Answer: B
+Explanation:
+ Thiamine deficiency impairs transketolase, a key enzyme in the pentose phosphate pathway, reducing NADPH production and ribose-5-phosphate synthesis, contributing to neurologic injury.
+________________
+
+
+Question 38
+A researcher examines enzyme kinetics and notes that an inhibitor decreases Vmax and Km proportionally.
+Which type of inhibition is most consistent with this finding?
+A. Competitive
+B. Noncompetitive
+C. Uncompetitive
+D. Irreversible
+E. Allosteric activation
+Correct Answer: C
+Explanation:
+ Uncompetitive inhibition occurs when the inhibitor binds only to the enzyme–substrate complex, leading to proportional decreases in both Vmax and Km.
+________________
+
+
+Question 39
+A 28-year-old woman presents with fatigue and muscle cramps. She has been taking a weight-loss supplement that inhibits HMG-CoA reductase. Laboratory studies reveal decreased synthesis of ubiquinone (coenzyme Q).
+Which downstream process is most directly affected?
+A. Glycogen synthesis
+B. Fatty acid elongation
+C. Electron transport chain function
+D. Urea cycle activity
+E. Heme synthesis
+Correct Answer: C
+Explanation:
+ Ubiquinone (CoQ) is synthesized via the mevalonate pathway and is essential for electron transfer between complexes I/II and III in the electron transport chain. Reduced CoQ impairs ATP generation.
+________________
+
+
+Question 40
+A patient with severe vitamin C deficiency presents with bleeding gums, petechiae, and poor wound healing. At the molecular level, impaired activity of which enzyme best explains these findings?
+A. Prolyl hydroxylase
+B. Lysyl oxidase
+C. Collagen peptidase
+D. Matrix metalloproteinase
+E. Tyrosinase
+Correct Answer: A
+Explanation:
+ Vitamin C is a cofactor for prolyl hydroxylase, which stabilizes the collagen triple helix by hydroxylating proline residues. Deficiency leads to unstable collagen and the manifestations of scurvy.
+Question 41
+A 54-year-old man with chronic alcohol use disorder presents with confusion, ataxia, and ophthalmoplegia. Laboratory evaluation reveals elevated serum lactate, reduced NAD⁺/NADH ratio, and impaired gluconeogenesis. Despite adequate caloric intake, his brain glucose utilization is decreased.
+The neurologic manifestations in this patient are most directly related to impaired activity of which biochemical process?
+A. Conversion of pyruvate to oxaloacetate
+B. Oxidative decarboxylation of alpha-ketoglutarate
+C. Generation of ribose-5-phosphate
+D. Reduction of glutathione disulfide
+E. Transport of long-chain fatty acids into mitochondria
+Correct Answer: B
+Explanation:
+ Thiamine deficiency impairs alpha-ketoglutarate dehydrogenase and PDH, reducing TCA cycle flux and ATP generation in neurons. This leads to Wernicke encephalopathy, particularly affecting energy-dependent brain regions.
+________________
+
+
+Question 42
+A patient undergoing chemotherapy develops acute kidney injury due to excessive reactive oxygen species (ROS) generation. Renal biopsy reveals lipid peroxidation and protein oxidation. Further analysis shows decreased regeneration of reduced glutathione (GSH).
+Which enzymatic reaction is most directly responsible for restoring the antioxidant capacity in this setting?
+A. Superoxide dismutase converting superoxide to hydrogen peroxide
+B. Catalase converting hydrogen peroxide to water and oxygen
+C. Glutathione peroxidase reducing hydrogen peroxide using GSH
+D. Glutathione reductase regenerating GSH from GSSG
+E. Cytochrome P450 oxidizing xenobiotics
+Correct Answer: D
+Explanation:
+ Glutathione reductase, which requires NADPH, regenerates reduced glutathione (GSH) from oxidized glutathione (GSSG), maintaining cellular antioxidant defenses.
+________________
+
+
+Question 43
+A 32-year-old woman is exposed chronically to an industrial solvent that induces hepatic cytochrome P450 enzymes. Over time, she requires higher doses of several medications to achieve the same therapeutic effect.
+Which biochemical consequence best explains this phenomenon?
+A. Increased first-pass metabolism via phase II conjugation
+B. Decreased drug bioavailability due to impaired absorption
+C. Increased conversion of lipophilic drugs to reactive intermediates
+D. Increased clearance through microsomal oxidation
+E. Competitive inhibition of renal tubular secretion
+Correct Answer: D
+Explanation:
+ Induction of CYP450 enzymes increases phase I oxidation, accelerating drug metabolism and clearance, leading to reduced plasma drug levels and tolerance.
+________________
+
+
+Question 44
+A neonate develops severe hyperbilirubinemia shortly after birth. Genetic testing reveals a mutation resulting in decreased activity of UDP-glucuronosyltransferase.
+Which biochemical process is directly impaired in this patient?
+A. Conversion of heme to biliverdin
+B. Transport of bilirubin into hepatocytes
+C. Conjugation of bilirubin with glucuronic acid
+D. Excretion of conjugated bilirubin into bile
+E. Reduction of biliverdin to bilirubin
+Correct Answer: C
+Explanation:
+ UDP-glucuronosyltransferase conjugates bilirubin with glucuronic acid, making it water-soluble. Deficiency leads to unconjugated hyperbilirubinemia (e.g., Crigler–Najjar).
+________________
+
+
+Question 45
+A malnourished elderly patient presents with macrocytic anemia and peripheral neuropathy. Laboratory studies show elevated homocysteine but normal methylmalonic acid levels.
+Deficiency of which micronutrient best explains these findings?
+A. Folate
+B. Vitamin B₆
+C. Vitamin B₁₂
+D. Iron
+E. Copper
+Correct Answer: A
+Explanation:
+ Folate deficiency causes elevated homocysteine but normal methylmalonic acid, distinguishing it from B₁₂ deficiency. Both impair DNA synthesis, causing macrocytosis.
+________________
+
+
+Question 46
+A patient with chronic kidney disease develops metabolic acidosis. Cellular analysis shows increased degradation of muscle protein and enhanced utilization of glutamine in renal tubular cells.
+Which biochemical adaptation best explains the role of glutamine in this setting?
+A. Generation of bicarbonate and ammonium
+B. Increased NADPH production
+C. Enhanced fatty acid oxidation
+D. Increased urea cycle activity
+E. Increased ketone body synthesis
+Correct Answer: A
+Explanation:
+ In metabolic acidosis, renal metabolism of glutamine generates ammonium (NH₄⁺) for acid excretion and bicarbonate to buffer blood pH.
+________________
+
+
+Question 47
+A patient with G6PD deficiency develops hemolytic anemia after receiving an antibiotic. Erythrocytes show Heinz bodies and membrane damage.
+Which biochemical defect makes erythrocytes particularly vulnerable in this condition?
+A. Inability to generate ATP via glycolysis
+B. Impaired reduction of methemoglobin
+C. Decreased NADPH production
+D. Impaired iron recycling
+E. Reduced heme synthesis
+Correct Answer: C
+Explanation:
+ G6PD deficiency reduces NADPH, preventing regeneration of reduced glutathione. RBCs lack mitochondria and rely solely on PPP-derived NADPH to counter oxidative stress.
+________________
+
+
+Question 48
+A researcher studies a mutation that prevents activation of a transcription factor in response to oxidative stress. As a result, cells exhibit increased susceptibility to apoptosis following ROS exposure.
+Which transcription factor is most likely affected?
+A. NF-κB
+B. p53
+C. HIF-1α
+D. Nrf2
+E. STAT3
+Correct Answer: D
+Explanation:
+ Nrf2 regulates expression of antioxidant response genes, including glutathione synthesis and detoxification enzymes. Loss of Nrf2 increases oxidative injury.
+________________
+
+
+Question 49
+A patient on long-term parenteral nutrition develops alopecia, dermatitis, and impaired wound healing. Laboratory studies show reduced activity of a zinc-dependent enzyme involved in DNA synthesis.
+Which enzyme is most directly affected?
+A. DNA polymerase
+B. Thymidylate synthase
+C. RNA polymerase II
+D. Pyruvate dehydrogenase
+E. Carbamoyl phosphate synthetase II
+Correct Answer: A
+Explanation:
+ Zinc is required for proper function of DNA polymerases and transcription factors. Deficiency leads to impaired cell division and epithelial repair.
+________________
+
+
+Question 50
+A patient exposed to acetaminophen overdose develops acute liver failure. Hepatic glutathione stores are depleted, allowing accumulation of a toxic intermediate.
+Which biochemical step normally prevents hepatocellular injury in this context?
+A. Sulfation of acetaminophen
+B. Glucuronidation of acetaminophen
+C. Reduction of NAPQI by glutathione
+D. Oxidation of acetaminophen by CYP2E1
+E. Conversion of acetaminophen to salicylate
+Correct Answer: C
+Explanation:
+ The toxic metabolite NAPQI is neutralized by glutathione. Depletion of glutathione allows NAPQI to cause hepatic necrosis.
+Question 51
+A 19-year-old woman presents with episodic vomiting, lethargy, and confusion following prolonged fasting. Laboratory studies show hypoketotic hypoglycemia, elevated liver transaminases, and increased plasma medium-chain fatty acids. Genetic testing confirms a defect in fatty acid oxidation.
+Which enzymatic deficiency most directly explains this presentation?
+A. Carnitine palmitoyltransferase I
+B. Medium-chain acyl-CoA dehydrogenase
+C. Long-chain acyl-CoA dehydrogenase
+D. HMG-CoA synthase
+E. Acetyl-CoA carboxylase
+Correct Answer: B
+Explanation:
+ MCAD deficiency prevents beta-oxidation of medium-chain fatty acids, leading to hypoketotic hypoglycemia during fasting due to inability to generate acetyl-CoA for ketogenesis.
+________________
+
+
+Question 52
+A patient with sepsis develops lactic acidosis despite adequate oxygen delivery. Mitochondrial studies show impaired oxidative phosphorylation due to inflammatory mediators.
+Which metabolic shift most directly contributes to lactate accumulation in this setting?
+A. Increased pyruvate dehydrogenase activity
+B. Increased conversion of pyruvate to lactate
+C. Decreased glycolytic flux
+D. Increased beta-oxidation
+E. Increased gluconeogenesis
+Correct Answer: B
+Explanation:
+ Inflammatory cytokines inhibit mitochondrial respiration, forcing aerobic glycolysis and shunting pyruvate to lactate despite normal oxygen levels (type B lactic acidosis).
+________________
+
+
+Question 53
+A neonate develops seizures and hyperammonemia shortly after birth. Laboratory studies show elevated orotic acid in urine and low plasma citrulline.
+Which enzymatic defect best explains these findings?
+A. Carbamoyl phosphate synthetase I
+B. Argininosuccinate synthetase
+C. Ornithine transcarbamylase
+D. Arginase
+E. N-acetylglutamate synthase
+Correct Answer: C
+Explanation:
+ OTC deficiency causes accumulation of carbamoyl phosphate, which is shunted to orotic acid, along with hyperammonemia and low citrulline.
+________________
+
+
+Question 54
+A 42-year-old man undergoes prolonged fasting during illness. Hormonal analysis shows elevated glucagon and cortisol levels. Hepatic metabolism adapts to maintain blood glucose.
+Which regulatory mechanism is most directly responsible for suppressing glycolysis in hepatocytes?
+A. Increased fructose-2,6-bisphosphate
+B. Decreased phosphorylation of PFK-2
+C. Increased phosphorylation of PFK-2
+D. Increased insulin receptor signaling
+E. Increased pyruvate kinase activity
+Correct Answer: C
+Explanation:
+ Glucagon leads to phosphorylation of PFK-2, decreasing fructose-2,6-bisphosphate levels and thereby inhibiting glycolysis while promoting gluconeogenesis.
+________________
+
+
+Question 55
+A patient with chronic alcoholism presents with anemia and neurologic deficits. Bone marrow biopsy reveals megaloblastic changes. Laboratory studies show elevated methylmalonic acid and homocysteine.
+Which biochemical reaction is impaired in this patient?
+A. Conversion of homocysteine to methionine
+B. Conversion of methylmalonyl-CoA to succinyl-CoA
+C. Conversion of pyruvate to acetyl-CoA
+D. Conversion of serine to glycine
+E. Conversion of glutamate to GABA
+Correct Answer: B
+Explanation:
+ Vitamin B₁₂ deficiency impairs methylmalonyl-CoA mutase, leading to elevated methylmalonic acid and neurologic damage.
+________________
+
+
+Question 56
+A researcher investigates a transcriptional regulator that coordinates mitochondrial biogenesis in response to endurance exercise. Activation of this regulator increases oxidative capacity and fatigue resistance.
+Which molecule is most likely being studied?
+A. AMP-activated protein kinase (AMPK)
+B. PGC-1α
+C. mTOR
+D. HIF-1α
+E. SREBP-1c
+Correct Answer: B
+Explanation:
+ PGC-1α is a master regulator of mitochondrial biogenesis, induced by endurance exercise and coordinating nuclear–mitochondrial gene expression.
+________________
+
+
+Question 57
+A patient with liver failure develops confusion and asterixis. Laboratory studies reveal elevated ammonia and altered neurotransmitter balance.
+Which biochemical mechanism most directly contributes to cerebral edema in this condition?
+A. Increased astrocyte uptake of glutamate
+B. Increased conversion of ammonia to glutamine
+C. Decreased GABA synthesis
+D. Increased dopamine turnover
+E. Increased ketone body utilization
+Correct Answer: B
+Explanation:
+ Ammonia is detoxified in astrocytes by conversion to glutamine, which increases intracellular osmolarity, leading to astrocyte swelling and cerebral edema.
+________________
+
+
+Question 58
+A newborn presents with failure to thrive, hypotonia, and cardiomyopathy. Muscle biopsy reveals abnormal mitochondrial morphology. Genetic testing identifies a defect in a nuclear gene required for mitochondrial protein import.
+Which cellular process is most directly impaired?
+A. Mitochondrial DNA replication
+B. Translation of mitochondrial ribosomes
+C. Translocation of proteins across mitochondrial membranes
+D. Assembly of ribosomes in the nucleus
+E. Peroxisomal beta-oxidation
+Correct Answer: C
+Explanation:
+ Most mitochondrial proteins are nuclear-encoded and must be imported into mitochondria. Defects impair oxidative phosphorylation and energy production.
+________________
+
+
+Question 59
+A patient with uncontrolled diabetes presents with dehydration and Kussmaul respirations. Laboratory studies reveal metabolic acidosis with elevated beta-hydroxybutyrate.
+Which metabolic change most directly drives ketone body synthesis?
+A. Increased insulin-mediated lipogenesis
+B. Increased malonyl-CoA levels
+C. Increased hepatic acetyl-CoA concentration
+D. Increased TCA cycle flux
+E. Increased glucose uptake in adipocytes
+Correct Answer: C
+Explanation:
+ Insulin deficiency leads to increased lipolysis, generating acetyl-CoA that exceeds TCA cycle capacity and is diverted to ketone body synthesis.
+________________
+
+
+Question 60
+A researcher studies a metabolic disorder in which patients cannot tolerate fasting and develop hypoglycemia within hours of food deprivation. Liver biopsy reveals inability to release free glucose.
+Which enzyme deficiency best explains this condition?
+A. Glycogen phosphorylase
+B. Glucose-6-phosphatase
+C. Hexokinase
+D. Phosphoglucomutase
+E. Glycogen synthase
+Correct Answer: B
+Explanation:
+ Glucose-6-phosphatase deficiency (von Gierke disease) prevents release of free glucose from hepatocytes, causing severe fasting hypoglycemia and lactic acidosis.

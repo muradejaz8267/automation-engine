@@ -1,0 +1,1348 @@
+﻿Question 1
+A 28-year-old man presents with a 3-day history of fever, productive cough with purulent sputum, and pleuritic chest pain. Chest X-ray shows consolidation in the right lower lobe. Gram stain of sputum reveals Gram-positive diplococci. Blood cultures are positive for the same organism. The patient is allergic to penicillin.
+Which mechanism of bacterial pathogenicity most directly explains the severity of his infection?
+Answer Choices:
+ (A) Polysaccharide capsule preventing phagocytosis
+(B) Exotoxin-mediated tissue necrosis
+(C) Intracellular survival in macrophages
+(D) Biofilm formation on epithelial surfaces
+(E) Antigenic variation to evade antibodies
+Correct Answer: A
+Explanation:
+ Streptococcus pneumoniae’s polysaccharide capsule inhibits opsonization and phagocytosis, facilitating bacteremia and lobar pneumonia.
+* (B) Exotoxin production is minimal in pneumococcus
+
+* (C) It is extracellular
+
+* (D) Biofilm is more relevant in chronic infections
+
+* (E) Antigenic variation is not primary in acute pneumonia
+
+________________
+
+
+Question 2
+A 35-year-old man develops painless genital ulcers. Dark-field microscopy reveals spirochetes. RPR is reactive.
+Which host immune response is primarily responsible for the formation of the chancre?
+Answer Choices:
+ (A) Local Th1-mediated macrophage activation
+(B) IgE-mediated mast cell degranulation
+(C) Cytotoxic T-cell lysis of keratinocytes
+(D) Complement-mediated lysis of epithelial cells
+(E) Eosinophil-mediated tissue damage
+Correct Answer: A
+Explanation:
+ Primary syphilis chancre is caused by localized Treponema pallidum proliferation, with Th1-type cellular immunity activating macrophages to control infection and produce ulcer.
+   * (B) IgE responses are for parasites/allergy
+
+   * (C) CTLs not primary in ulcer formation
+
+   * (D) Complement plays minor role
+
+   * (E) Eosinophils are irrelevant
+
+________________
+
+
+Question 3
+A 40-year-old immunocompromised man develops fever and non-bloody diarrhea. Stool culture grows Campylobacter jejuni. He is dehydrated with mild metabolic acidosis.
+Which virulence factor most directly contributes to his diarrhea?
+Answer Choices:
+ (A) Flagella-mediated motility allowing mucosal invasion
+(B) Exotoxin-mediated sodium absorption inhibition
+(C) Capsule preventing phagocytosis
+(D) Spore formation for survival in GI tract
+(E) Biofilm on intestinal epithelium
+Correct Answer: A
+Explanation:
+ C. jejuni uses flagella to penetrate the mucosal layer, invade epithelial cells, and trigger inflammatory diarrhea.
+      * (B) Diarrhea is inflammatory, not secretory exotoxin-mediated
+
+      * (C) Capsule is not primary
+
+      * (D) Campylobacter does not form spores
+
+      * (E) Biofilm is not central
+
+________________
+
+
+Question 4
+A 25-year-old man presents with fever, malaise, and generalized lymphadenopathy. HIV testing is positive. Flow cytometry shows decreased CD4⁺ T-cells. He develops oral candidiasis.
+Which immune defect is primarily responsible for his susceptibility?
+Answer Choices:
+ (A) Loss of CD4⁺ T-cell-mediated macrophage and neutrophil activation
+(B) B-cell hypogammaglobulinemia
+(C) NK cell deficiency
+(D) Complement C3 deficiency
+(E) Treg overactivity
+Correct Answer: A
+Explanation:
+ HIV selectively depletes CD4⁺ T-cells, impairing cell-mediated immunity against opportunistic infections such as Candida.
+         * (B) Antibody deficiency not primary here
+
+         * (C) NK deficiency affects viral clearance, less Candida
+
+         * (D) Complement deficiencies predispose to encapsulated bacteria
+
+         * (E) Treg overactivity is not primary
+
+________________
+
+
+Question 5
+A 60-year-old woman presents with fever, confusion, and nuchal rigidity. CSF shows 500 WBC/μL (90% neutrophils), glucose 35 mg/dL, protein 220 mg/dL. Gram stain reveals Gram-negative diplococci.
+Which virulence factor most directly facilitates her systemic infection?
+Answer Choices:
+ (A) Polysaccharide capsule resisting phagocytosis
+(B) Exotoxin causing cytotoxicity
+(C) Pili mediating intracellular invasion
+(D) Biofilm formation on meninges
+(E) Antigenic variation preventing complement activation
+Correct Answer: A
+Explanation:
+ Neisseria meningitidis capsule prevents phagocytosis, enabling bacteremia and CNS invasion.
+            * (B) Endotoxin, not exotoxin, causes sepsis
+
+            * (C) Pili aid colonization, not systemic spread
+
+            * (D) Biofilm is not central
+
+            * (E) Antigenic variation contributes to immune evasion but capsule is primary
+
+________________
+
+
+Question 6
+A 32-year-old man presents with fever, chills, and jaundice. Blood cultures are positive for Gram-negative bacilli with pink colonies on MacConkey agar. He recently returned from travel to Southeast Asia.
+Which bacterial structure is most responsible for the host’s fever and hypotension?
+Answer Choices:
+ (A) Lipopolysaccharide (endotoxin)
+(B) Exotoxin A
+(C) Teichoic acid
+(D) Capsule
+(E) Flagella
+Correct Answer: A
+Explanation:
+ Gram-negative bacteremia triggers endotoxin (LPS)-mediated activation of macrophages, releasing TNF-α, IL-1, and IL-6, causing fever and hypotension.
+               * (B) Exotoxin not primary in sepsis
+
+               * (C) Teichoic acid is Gram-positive
+
+               * (D) Capsule aids immune evasion
+
+               * (E) Flagella are motility structures
+
+________________
+
+
+Question 7
+A 24-year-old man develops fever, sore throat, and lymphadenopathy. Monospot test is positive. Peripheral smear shows atypical lymphocytes.
+Which immune cells are primarily responsible for the atypical lymphocytes observed?
+Answer Choices:
+ (A) Activated CD8⁺ T-cells responding to EBV-infected B-cells
+(B) B-cells producing heterophile antibodies
+(C) NK cells lysing epithelial cells
+(D) CD4⁺ T-cells causing cytokine storm
+(E) Neutrophils migrating into lymph nodes
+Correct Answer: A
+Explanation:
+ EBV infects B-cells; cytotoxic CD8⁺ T-cells expand to control infection, appearing as atypical lymphocytes in peripheral blood.
+                  * (B) B-cells produce heterophile antibodies but are not atypical lymphocytes
+
+                  * (C) NK cells contribute but are not predominant
+
+                  * (D) CD4⁺ cells help but do not account for atypical lymphocytes
+
+                  * (E) Neutrophils are not atypical lymphocytes
+
+________________
+
+
+Question 8
+A 30-year-old woman presents with recurrent sinopulmonary infections. She has normal IgG, IgA, IgM, but poor specific antibody response to vaccines. She is diagnosed with selective antibody deficiency.
+Which immune defect most directly explains her recurrent infections?
+Answer Choices:
+ (A) Impaired B-cell class switching despite normal total immunoglobulin levels
+(B) T-cell lymphopenia
+(C) NK cell deficiency
+(D) Complement C5–C9 deficiency
+(E) Neutrophil chemotaxis defect
+Correct Answer: A
+Explanation:
+ Selective antibody deficiency involves impaired class switching, producing inadequate antigen-specific antibodies despite normal total Ig levels, leading to recurrent sinopulmonary infections.
+                     * (B) T-cell counts are normal
+
+                     * (C) NK deficiency affects viral immunity
+
+                     * (D) Complement deficiencies predispose to encapsulated bacteria
+
+                     * (E) Neutrophil defect affects pyogenic infection differently
+
+________________
+
+
+Question 9
+A 45-year-old man presents with fever, hypotension, and purpura fulminans. Blood cultures reveal Gram-positive cocci in clusters. He has protein C deficiency.
+Which bacterial product is primarily responsible for his coagulopathy?
+Answer Choices:
+ (A) Exotoxin-mediated superantigen activation of T-cells
+(B) Endotoxin LPS activating macrophages
+(C) Teichoic acid-mediated neutrophil activation
+(D) Capsule inhibiting phagocytosis
+(E) Flagella-mediated tissue invasion
+Correct Answer: A
+Explanation:
+ Staphylococcus aureus toxic shock syndrome involves superantigen exotoxins activating large numbers of T-cells, releasing cytokines, and triggering DIC and purpura fulminans.
+                        * (B) LPS is Gram-negative
+
+                        * (C) Teichoic acid is minor
+
+                        * (D) Capsule affects immune evasion
+
+                        * (E) Flagella not involved
+
+________________
+
+
+Question 10
+A 26-year-old man presents with recurrent Neisseria infections. Complement testing shows deficiency of C6–C9.
+Which immunologic mechanism is primarily impaired?
+Answer Choices:
+ (A) Formation of membrane attack complex leading to lysis of Gram-negative bacteria
+(B) Opsonization of encapsulated bacteria
+(C) Neutralization of toxins by antibodies
+(D) Phagocyte chemotaxis
+(E) NK cell-mediated cytotoxicity
+Correct Answer: A
+Explanation:
+ Terminal complement component deficiencies impair MAC formation, specifically predisposing to Neisseria infections due to inability to lyse Gram-negative bacteria.
+                           * (B) Opsonization involves C3b
+
+                           * (C) Neutralization is antibody-dependent
+
+                           * (D) Chemotaxis involves C5a
+
+                           * (E) NK cells unrelated
+Question 11
+A 42-year-old man with uncontrolled type 2 diabetes presents with fever, productive cough with green sputum, and pleuritic chest pain. Chest CT shows consolidation with cavitation in the right upper lobe. Sputum Gram stain shows Gram-negative rods; culture grows mucoid colonies producing a fruity odor.
+Which virulence factor most directly contributes to this organism’s ability to evade host defenses and cause severe pulmonary infection?
+Answer Choices:
+ (A) Polysaccharide capsule preventing phagocytosis and complement-mediated killing
+(B) Exotoxin inhibiting protein synthesis
+(C) Flagella enabling systemic dissemination
+(D) Biofilm formation on bronchial epithelium
+(E) Antigenic variation of surface proteins
+Correct Answer: A
+Explanation:
+ Klebsiella pneumoniae produces a thick polysaccharide capsule that resists phagocytosis and complement-mediated lysis, facilitating severe necrotizing pneumonia with cavitation, especially in diabetics.
+                              * (B) Exotoxins are not primary in pulmonary pathology
+
+                              * (C) Flagella aid motility but less critical in immune evasion
+
+                              * (D) Biofilm is relevant in chronic infections, not acute necrotizing pneumonia
+
+                              * (E) Antigenic variation contributes to immune evasion in chronic infections, not acute
+
+________________
+
+
+Question 12
+A 29-year-old woman presents with fever, myalgia, and generalized lymphadenopathy after returning from sub-Saharan Africa. Peripheral smear shows intraerythrocytic ring forms in RBCs. Laboratory findings include hemolytic anemia and elevated indirect bilirubin.
+Which immune response primarily controls her infection?
+Answer Choices:
+ (A) CD4⁺ T-cell-mediated macrophage activation and IFN-γ secretion
+(B) Antibody-mediated complement lysis of infected RBCs
+(C) NK cell-mediated cytotoxicity against hepatocytes
+(D) Eosinophil-mediated degranulation
+(E) Th2 cytokine-mediated mast cell activation
+Correct Answer: A
+Explanation:
+ Malaria parasites infect RBCs and hepatocytes; effective clearance relies on CD4⁺ Th1 cells activating macrophages via IFN-γ to destroy infected cells.
+                                 * (B) Antibody-mediated lysis is limited as RBCs lack MHC
+
+                                 * (C) NK cells kill hepatocytes but are secondary
+
+                                 * (D) Eosinophils target parasites mainly in tissue stages like helminths
+
+                                 * (E) Th2 responses are less critical for intracellular protozoa
+
+________________
+
+
+Question 13
+A 34-year-old man with AIDS (CD4⁺ 40/μL) presents with dyspnea and non-productive cough. Chest CT reveals bilateral ground-glass opacities. Bronchoalveolar lavage shows foamy eosinophilic material; silver stain reveals cysts of an opportunistic pathogen.
+Which host immune defect primarily predisposed him to this infection?
+Answer Choices:
+ (A) CD4⁺ T-cell deficiency impairing alveolar macrophage activation
+(B) IgG hypogammaglobulinemia reducing opsonization
+(C) NK cell deficiency impairing cytotoxicity
+(D) Complement C3 deficiency reducing pathogen lysis
+(E) Neutrophil chemotaxis defect
+Correct Answer: A
+Explanation:
+ Pneumocystis jirovecii infection occurs in patients with impaired CD4⁺ T-cell-mediated activation of alveolar macrophages, reducing fungal clearance and allowing opportunistic pneumonia.
+                                    * (B) Antibodies are insufficient for clearance
+
+                                    * (C) NK cells less important for extracellular fungal cysts
+
+                                    * (D) Complement is secondary
+
+                                    * (E) Neutrophils are less effective in this infection
+
+________________
+
+
+Question 14
+A 25-year-old man presents with fever, diffuse maculopapular rash, and arthralgia after swimming in freshwater lakes. Serum shows elevated IgM titers against Leptospira interrogans.
+Which immune response is primarily responsible for the resolution of his infection?
+Answer Choices:
+ (A) Humoral immunity with IgM-mediated opsonization and complement activation
+(B) Th1-mediated macrophage activation
+(C) Cytotoxic CD8⁺ T-cell lysis of infected hepatocytes
+(D) NK cell-mediated killing
+(E) Eosinophil degranulation
+Correct Answer: A
+Explanation:
+ Leptospira is an extracellular spirochete; early IgM antibodies opsonize bacteria, activating complement for clearance.
+                                       * (B) Th1 responses are more relevant for intracellular pathogens
+
+                                       * (C) CD8⁺ T-cells target infected cells, not extracellular bacteria
+
+                                       * (D) NK cells have limited role
+
+                                       * (E) Eosinophils are relevant for helminths
+
+________________
+
+
+Question 15
+A 30-year-old woman presents with acute hemolysis after taking sulfonamide antibiotics. She has fever, jaundice, and anemia. Labs reveal Coombs-positive hemolytic anemia.
+Which immunologic mechanism is primarily responsible for her condition?
+Answer Choices:
+ (A) Type II hypersensitivity: antibody-mediated destruction of RBCs
+(B) Type III hypersensitivity: immune complex deposition
+(C) Type I hypersensitivity: IgE-mediated mast cell degranulation
+(D) Type IV hypersensitivity: T-cell-mediated cytotoxicity
+(E) Complement deficiency impairing bacterial clearance
+Correct Answer: A
+Explanation:
+ Drug-induced hemolysis occurs when antibodies (IgG or IgM) bind to drug-coated RBCs, leading to complement-mediated lysis or phagocytosis (Type II hypersensitivity).
+                                          * (B) Immune complex deposition causes vasculitis or nephritis
+
+                                          * (C) IgE responses mediate allergy, not hemolysis
+
+                                          * (D) Type IV is delayed, T-cell-mediated
+
+                                          * (E) Complement deficiency unrelated
+
+________________
+
+
+Question 16
+A 55-year-old man presents with fever, hypotension, and purpura. Blood cultures grow Gram-positive cocci in clusters. He develops DIC. He has no known immunodeficiencies.
+Which bacterial factor most directly initiates his systemic inflammatory response?
+Answer Choices:
+ (A) Superantigen exotoxin activating large numbers of T-cells
+(B) Lipopolysaccharide-mediated macrophage activation
+(C) Teichoic acid activating neutrophils
+(D) Capsule preventing phagocytosis
+(E) Flagella-mediated tissue invasion
+Correct Answer: A
+Explanation:
+ Staphylococcus aureus toxic shock syndrome toxin acts as a superantigen, non-specifically activating T-cells, triggering cytokine storm, hypotension, and coagulopathy.
+                                             * (B) LPS is Gram-negative
+
+                                             * (C) Teichoic acid has minor effects
+
+                                             * (D) Capsule aids immune evasion
+
+                                             * (E) Flagella not relevant
+
+________________
+
+
+Question 17
+A 42-year-old man presents with fever, night sweats, and weight loss. He has generalized lymphadenopathy. Biopsy shows caseating granulomas with acid-fast bacilli.
+Which immune mechanism is primarily responsible for granuloma formation?
+Answer Choices:
+ (A) Th1 CD4⁺ T-cell secretion of IFN-γ activating macrophages
+(B) Antibody-mediated opsonization
+(C) NK cell cytotoxicity
+(D) Th2-mediated eosinophil activation
+(E) Complement-mediated lysis
+Correct Answer: A
+Explanation:
+ Mycobacterium tuberculosis triggers a Th1 response; IFN-γ activates macrophages, forming epithelioid granulomas to contain intracellular bacteria.
+                                                * (B) Antibodies are ineffective intracellularly
+
+                                                * (C) NK cells have minor role
+
+                                                * (D) Th2/eosinophils target parasites
+
+                                                * (E) Complement does not lyse intracellular bacteria
+
+________________
+
+
+Question 18
+A 35-year-old man with chronic granulomatous disease (CGD) presents with fever and multiple abscesses caused by catalase-positive bacteria.
+Which immune defect explains his susceptibility?
+Answer Choices:
+ (A) Impaired NADPH oxidase in phagocytes preventing ROS-mediated killing
+(B) Defective complement C3 impairing opsonization
+(C) IgG deficiency reducing neutralization
+(D) T-cell lymphopenia
+(E) NK cell deficiency
+Correct Answer: A
+Explanation:
+ CGD involves NADPH oxidase deficiency, preventing reactive oxygen species generation and killing of catalase-positive organisms that degrade hydrogen peroxide.
+                                                   * (B) Complement deficiency has broader infections
+
+                                                   * (C) IgG deficiency affects extracellular opsonization
+
+                                                   * (D) T-cell deficiency affects viral/intracellular pathogens
+
+                                                   * (E) NK cells affect viral control
+
+________________
+
+
+Question 19
+A 29-year-old woman presents with fever, headache, and stiff neck. CSF shows 1200 WBC/μL (90% neutrophils), glucose 30 mg/dL, protein 250 mg/dL. Gram stain shows Gram-negative diplococci. She is found to be asplenic.
+Which immune mechanism is primarily responsible for her susceptibility?
+Answer Choices:
+ (A) Impaired clearance of encapsulated bacteria due to absent splenic macrophages
+(B) Reduced complement-mediated lysis of Gram-negative bacteria
+(C) Loss of IgA in mucosa
+(D) Defective neutrophil chemotaxis
+(E) Impaired NK cell cytotoxicity
+Correct Answer: A
+Explanation:
+ Asplenic patients are highly susceptible to encapsulated organisms (e.g., Neisseria meningitidis) due to loss of splenic macrophages that clear opsonized bacteria.
+                                                      * (B) Complement may be normal
+
+                                                      * (C) IgA deficiency affects mucosal pathogens
+
+                                                      * (D) Neutrophil defect not primary here
+
+                                                      * (E) NK cells irrelevant
+
+________________
+
+
+Question 20
+A 28-year-old man presents with fever, oral ulcers, and generalized lymphadenopathy. He is HIV-positive (CD4⁺ 60/μL). Peripheral smear shows atypical lymphocytes. EBV PCR is positive.
+Which immune defect explains his inability to fully control this infection?
+Answer Choices:
+ (A) CD4⁺ T-cell deficiency impairing cytotoxic CD8⁺ T-cell activation
+(B) B-cell hypogammaglobulinemia
+(C) NK cell deficiency
+(D) Complement C5–C9 deficiency
+(E) Neutrophil chemotaxis defect
+Correct Answer: A
+Explanation:
+ EBV-infected B-cells are controlled by cytotoxic CD8⁺ T-cells, which require CD4⁺ T-cell help; HIV-induced CD4⁺ deficiency impairs this mechanism, allowing uncontrolled proliferation.
+                                                         * (B) Antibodies are insufficient alone
+
+                                                         * (C) NK cells contribute but CD8⁺ T-cells are primary
+
+                                                         * (D) Complement deficiency unrelated
+
+                                                         * (E) Neutrophils do not control EBV
+
+Question 21
+A 33-year-old man with poorly controlled HIV (CD4⁺ count 25/μL) presents with progressive dyspnea, nonproductive cough, and low-grade fever. Chest CT shows diffuse bilateral ground-glass opacities. Bronchoalveolar lavage is performed; silver stain demonstrates cystic organisms. Serum β-D-glucan is elevated.
+Which immune defect most directly predisposes him to this infection?
+Answer Choices:
+ (A) CD4⁺ T-cell deficiency impairing alveolar macrophage activation
+(B) B-cell hypogammaglobulinemia reducing opsonization
+(C) Neutrophil chemotaxis defect
+(D) Complement C3 deficiency
+(E) NK cell deficiency
+Correct Answer: A
+Explanation:
+ Pneumocystis jirovecii is an opportunistic extracellular fungus; clearance depends on CD4⁺ T-cell-mediated activation of alveolar macrophages. Profound CD4⁺ deficiency prevents effective immune response, leading to diffuse interstitial pneumonia.
+                                                            * (B) Antibodies alone are insufficient
+
+                                                            * (C) Neutrophils play minor role
+
+                                                            * (D) Complement is secondary
+
+                                                            * (E) NK cells contribute minimally
+
+________________
+
+
+Question 22
+A 28-year-old woman presents with fever, rash, and arthralgia 10 days after starting allopurinol. Laboratory studies reveal eosinophilia and elevated liver enzymes. She is diagnosed with drug reaction with eosinophilia and systemic symptoms (DRESS).
+Which immune mechanism primarily mediates this reaction?
+Answer Choices:
+ (A) Type IV hypersensitivity: T-cell-mediated delayed reaction
+(B) Type I hypersensitivity: IgE-mediated mast cell degranulation
+(C) Type II hypersensitivity: antibody-mediated cytotoxicity
+(D) Type III hypersensitivity: immune complex deposition
+(E) Complement deficiency leading to impaired clearance
+Correct Answer: A
+Explanation:
+ DRESS is mediated by drug-specific cytotoxic T-cells causing delayed hypersensitivity (Type IV), resulting in multi-organ inflammation including liver injury and eosinophilia.
+                                                               * (B) IgE mediates immediate allergy
+
+                                                               * (C) Antibody-mediated cytotoxicity occurs in hemolytic anemia
+
+                                                               * (D) Type III reactions involve immune complex deposition
+
+                                                               * (E) Complement deficiency is unrelated
+
+________________
+
+
+Question 23
+A 42-year-old man presents with fever, malaise, and jaundice. He recently returned from West Africa. Labs show elevated ALT/AST, direct hyperbilirubinemia, and thrombocytopenia. Blood smear shows intraerythrocytic ring forms.
+Which host-pathogen interaction is critical for the parasite’s evasion of splenic clearance?
+Answer Choices:
+ (A) Plasmodium falciparum sequestration via endothelial cytoadherence
+(B) Capsule-mediated inhibition of phagocytosis
+(C) Biofilm formation in hepatic sinusoids
+(D) Exotoxin-mediated hepatocyte necrosis
+(E) Antigenic variation of erythrocyte membrane proteins
+Correct Answer: A
+Explanation:
+ P. falciparum expresses PfEMP1 on RBC surface, mediating cytoadherence to endothelium and preventing clearance by splenic macrophages, leading to high parasitemia and severe malaria.
+                                                                  * (B) Capsule is not relevant to intraerythrocytic parasite
+
+                                                                  * (C) Biofilm formation does not occur
+
+                                                                  * (D) Exotoxin not central
+
+                                                                  * (E) Antigenic variation occurs but sequestration is more directly protective
+
+________________
+
+
+Question 24
+A 56-year-old woman with chronic corticosteroid use presents with fever, cough, and hemoptysis. Chest CT reveals cavitary lesions in the right upper lobe. Sputum culture grows branching septate hyphae with acute-angle branching.
+Which immune defect predisposed her to this infection?
+Answer Choices:
+ (A) Impaired neutrophil oxidative burst and degranulation
+(B) B-cell deficiency
+(C) CD8⁺ T-cell deficiency
+(D) Complement C3 deficiency
+(E) NK cell deficiency
+Correct Answer: A
+Explanation:
+ Invasive aspergillosis occurs in patients with neutropenia or impaired neutrophil function (oxidative burst or degranulation). Neutrophils are critical for killing hyphal forms of Aspergillus.
+                                                                     * (B) B-cells play minor role
+
+                                                                     * (C) CD8⁺ T-cells less relevant for extracellular hyphae
+
+                                                                     * (D) Complement partially contributes
+
+                                                                     * (E) NK cells are not primary
+
+________________
+
+
+Question 25
+A 25-year-old man presents with recurrent sinopulmonary infections, chronic diarrhea, and poor wound healing. Laboratory studies reveal normal total immunoglobulins but poor response to polysaccharide vaccines.
+Which immune defect best explains his susceptibility?
+Answer Choices:
+ (A) Selective antibody deficiency due to impaired class switching
+(B) T-cell lymphopenia
+(C) NK cell deficiency
+(D) Complement deficiency
+(E) Neutrophil chemotaxis defect
+Correct Answer: A
+Explanation:
+ Patients with selective antibody deficiency fail to mount adequate polysaccharide-specific responses, despite normal total Ig levels, resulting in recurrent infections with encapsulated bacteria.
+                                                                        * (B) T-cell counts are normal
+
+                                                                        * (C) NK deficiency affects viral immunity
+
+                                                                        * (D) Complement deficiency predisposes to meningococcal infections
+
+                                                                        * (E) Neutrophil defects cause pyogenic infections
+
+________________
+
+
+Question 26
+A 36-year-old man presents with fever, malaise, and a diffuse maculopapular rash. He returned from South America 2 weeks ago. Laboratory studies reveal thrombocytopenia, elevated liver enzymes, and serology positive for dengue virus IgM.
+Which pathophysiologic mechanism most directly contributes to his capillary leakage and hypotension?
+Answer Choices:
+ (A) Antibody-dependent enhancement of viral entry into monocytes and macrophages
+(B) Direct endothelial cytotoxicity by viral replication
+(C) Complement-mediated lysis of infected endothelial cells
+(D) T-cell-mediated delayed hypersensitivity
+(E) IgE-mediated mast cell degranulation
+Correct Answer: A
+Explanation:
+ Secondary dengue infection can involve pre-existing non-neutralizing antibodies facilitating viral entry into Fc receptor–bearing monocytes (antibody-dependent enhancement), causing massive cytokine release, endothelial dysfunction, capillary leak, and hypotension.
+                                                                           * (B) Endothelial cytotoxicity is minor
+
+                                                                           * (C) Complement not primary
+
+                                                                           * (D) Type IV response less acute
+
+                                                                           * (E) IgE responses irrelevant
+
+________________
+
+
+Question 27
+A 45-year-old man with CGD presents with fever, chest pain, and multiple abscesses. Cultures grow Staphylococcus aureus and Aspergillus fumigatus. Nitroblue tetrazolium (NBT) test is negative.
+Which immune defect explains his susceptibility to catalase-positive organisms?
+Answer Choices:
+ (A) Impaired NADPH oxidase preventing reactive oxygen species generation in phagocytes
+(B) Complement C3 deficiency
+(C) IgG hypogammaglobulinemia
+(D) CD4⁺ T-cell deficiency
+(E) NK cell deficiency
+Correct Answer: A
+Explanation:
+ CGD results from NADPH oxidase deficiency; phagocytes cannot generate ROS to kill catalase-positive bacteria/fungi. Catalase-positive organisms degrade H₂O₂, evading intracellular killing.
+                                                                              * (B) Complement deficiency affects opsonization
+
+                                                                              * (C) IgG deficiency affects extracellular bacteria
+
+                                                                              * (D) CD4⁺ T-cell deficiency affects intracellular pathogens
+
+                                                                              * (E) NK cells are less relevant
+
+________________
+
+
+Question 28
+A 38-year-old woman presents with fever, cough, and hemoptysis. Chest CT shows nodular infiltrates with halo sign. She has been receiving chemotherapy for leukemia. Serum galactomannan is positive.
+Which immune defect most directly predisposes her to invasive pulmonary aspergillosis?
+Answer Choices:
+ (A) Neutropenia reducing fungal killing
+(B) B-cell deficiency impairing opsonization
+(C) CD4⁺ T-cell deficiency
+(D) NK cell deficiency
+(E) Complement deficiency
+Correct Answer: A
+Explanation:
+ Neutrophils are essential for killing hyphal forms of Aspergillus. Chemotherapy-induced neutropenia impairs oxidative killing, leading to invasive pulmonary disease.
+                                                                                 * (B) Antibody deficiency has minor role
+
+                                                                                 * (C) CD4⁺ T-cells less critical in hyphal killing
+
+                                                                                 * (D) NK cells secondary
+
+                                                                                 * (E) Complement partially contributes
+
+________________
+
+
+Question 29
+A 31-year-old man presents with pruritic rash, fever, and mucosal ulcers 10 days after starting penicillin. Laboratory studies reveal eosinophilia and elevated liver enzymes. Skin biopsy shows lymphocytic infiltration and keratinocyte apoptosis.
+Which hypersensitivity type mediates this reaction?
+Answer Choices:
+ (A) Type IV hypersensitivity: T-cell-mediated delayed reaction
+(B) Type I hypersensitivity: IgE-mediated
+(C) Type II hypersensitivity: antibody-mediated
+(D) Type III hypersensitivity: immune complex-mediated
+(E) Complement deficiency–related reaction
+Correct Answer: A
+Explanation:
+ Delayed-type hypersensitivity reactions to drugs (e.g., DRESS, Stevens-Johnson) are mediated by cytotoxic T-cells causing keratinocyte apoptosis and multi-organ involvement (Type IV).
+                                                                                    * (B) IgE causes immediate urticaria/anaphylaxis
+
+                                                                                    * (C) Type II affects RBCs or platelets
+
+                                                                                    * (D) Type III affects glomeruli, vessels
+
+                                                                                    * (E) Complement unrelated
+
+________________
+
+
+Question 30
+A 44-year-old man presents with recurrent Neisseria meningitidis infections. Complement testing shows absence of C8.
+Which immune mechanism is primarily impaired in this patient?
+Answer Choices:
+ (A) Formation of the membrane attack complex (MAC) to lyse Gram-negative bacteria
+(B) Opsonization of encapsulated bacteria
+(C) Antibody-mediated neutralization of toxins
+(D) T-cell-mediated cytotoxicity
+(E) NK cell-mediated cytotoxicity
+Correct Answer: A
+Explanation:
+ Terminal complement component deficiencies (C5–C9) prevent MAC formation, impairing lysis of Gram-negative bacteria like Neisseria, predisposing to recurrent infections.
+                                                                                       * (B) Opsonization involves C3b
+
+                                                                                       * (C) Neutralization is antibody-dependent
+
+                                                                                       * (D) T-cell cytotoxicity is unaffected
+
+                                                                                       * (E) NK cells not involved
+
+Question 31
+A 34-year-old man with advanced HIV (CD4⁺ count 18/μL) presents with fever, weight loss, and odynophagia. Endoscopy reveals white plaques adherent to the esophageal mucosa. Biopsy demonstrates pseudohyphae with branching.
+Which immune defect most directly explains his susceptibility to this infection?
+Answer Choices:
+ (A) CD4⁺ T-cell deficiency impairing Th17-mediated mucosal immunity
+(B) Neutropenia impairing oxidative killing
+(C) B-cell deficiency reducing opsonization
+(D) Complement deficiency impairing lysis of Candida
+(E) NK cell deficiency preventing cytotoxic killing
+Correct Answer: A
+Explanation:
+ Esophageal candidiasis in advanced HIV is due to CD4⁺ T-cell deficiency, especially impaired Th17 responses, which are critical for recruiting neutrophils and maintaining mucosal defense.
+                                                                                          * (B) Neutrophils kill Candida but require Th17 guidance
+
+                                                                                          * (C) B-cells play minor role
+
+                                                                                          * (D) Complement is less critical at mucosal surfaces
+
+                                                                                          * (E) NK cells are less important
+
+________________
+
+
+Question 32
+A 45-year-old woman presents with fever, jaundice, and malaise. She returned from travel to Southeast Asia. Labs reveal elevated AST, ALT, and direct bilirubin. Serology is positive for hepatitis A IgM.
+Which immune mechanism is primarily responsible for hepatocyte injury in this infection?
+Answer Choices:
+ (A) Cytotoxic CD8⁺ T-cell-mediated killing of infected hepatocytes
+(B) Antibody-mediated complement lysis
+(C) NK cell-mediated cytotoxicity
+(D) Type III hypersensitivity immune complex deposition
+(E) Eosinophil-mediated tissue damage
+Correct Answer: A
+Explanation:
+ Hepatitis A virus is non-cytopathic; liver injury is primarily immune-mediated via CD8⁺ T-cells killing infected hepatocytes.
+                                                                                             * (B) Antibody-mediated lysis is minor
+
+                                                                                             * (C) NK cells play supportive role
+
+                                                                                             * (D) Type III reactions are less central
+
+                                                                                             * (E) Eosinophils irrelevant
+
+________________
+
+
+Question 33
+A 32-year-old man presents with fever, rash, and arthralgia 7 days after returning from Africa. Labs reveal thrombocytopenia, elevated liver enzymes, and positive dengue IgM. He develops hypotension and hemoconcentration.
+Which pathophysiologic mechanism is most responsible for his shock?
+Answer Choices:
+ (A) Antibody-dependent enhancement facilitating viral entry and cytokine storm
+(B) Direct endothelial viral cytotoxicity
+(C) Type I IgE-mediated hypersensitivity
+(D) Complement-mediated vascular injury
+(E) CD8⁺ T-cell-mediated cytotoxicity
+Correct Answer: A
+Explanation:
+ Secondary dengue infection involves non-neutralizing antibodies facilitating Fc receptor–mediated viral entry into monocytes/macrophages, leading to cytokine storm and capillary leak syndrome.
+                                                                                                * (B) Endothelial cytotoxicity is minor
+
+                                                                                                * (C) IgE-mediated hypersensitivity is unrelated
+
+                                                                                                * (D) Complement not primary
+
+                                                                                                * (E) CD8⁺ T-cells contribute but not dominant
+
+________________
+
+
+Question 34
+A 50-year-old man with acute myeloid leukemia presents with fever and hemoptysis during prolonged neutropenia. Chest CT reveals multiple nodular lesions with halo signs. Serum galactomannan is elevated.
+Which immune defect predisposes him to this infection?
+Answer Choices:
+ (A) Neutropenia impairing hyphal killing
+(B) B-cell deficiency reducing opsonization
+(C) CD4⁺ T-cell deficiency
+(D) NK cell deficiency
+(E) Complement deficiency
+Correct Answer: A
+Explanation:
+ Invasive pulmonary aspergillosis occurs in neutropenic patients; neutrophils are critical for oxidative killing of hyphal forms of Aspergillus.
+                                                                                                   * (B) Antibodies less important
+
+                                                                                                   * (C) T-cells help but neutrophils are central
+
+                                                                                                   * (D) NK cells less relevant
+
+                                                                                                   * (E) Complement minor
+
+________________
+
+
+Question 35
+A 27-year-old man presents with recurrent sinopulmonary infections, chronic diarrhea, and poor growth. Lab testing shows normal IgG, IgA, IgM, but absent response to polysaccharide vaccines.
+Which immune defect explains his presentation?
+Answer Choices:
+ (A) Selective antibody deficiency due to impaired class switching
+(B) Severe combined immunodeficiency
+(C) Complement C3 deficiency
+(D) Chronic granulomatous disease
+(E) Neutrophil adhesion deficiency
+Correct Answer: A
+Explanation:
+ Selective antibody deficiency causes inability to produce antigen-specific responses (especially polysaccharide antigens), resulting in recurrent infections despite normal total Ig levels.
+                                                                                                      * (B) SCID causes broad T/B deficiency
+
+                                                                                                      * (C) C3 deficiency predisposes to encapsulated bacteria
+
+                                                                                                      * (D) CGD affects catalase-positive infections
+
+                                                                                                      * (E) LAD presents with delayed wound healing and neutrophilia
+
+________________
+
+
+Question 36
+A 31-year-old man presents with fever, lymphadenopathy, and hepatosplenomegaly. Peripheral smear reveals atypical lymphocytes. EBV PCR is positive. He develops hemophagocytic lymphohistiocytosis (HLH).
+Which immune defect is central to HLH development in this patient?
+Answer Choices:
+ (A) Impaired NK and cytotoxic CD8⁺ T-cell function leading to uncontrolled macrophage activation
+(B) B-cell deficiency reducing antibody-mediated viral clearance
+(C) Complement C5–C9 deficiency
+(D) CD4⁺ T-cell lymphopenia
+(E) Neutrophil chemotaxis defect
+Correct Answer: A
+Explanation:
+ HLH occurs when NK cells and cytotoxic CD8⁺ T-cells fail to eliminate activated macrophages, leading to cytokine storm, hemophagocytosis, and multi-organ damage. EBV infection can trigger this in predisposed patients.
+                                                                                                         * (B) B-cells not central
+
+                                                                                                         * (C) Complement unrelated
+
+                                                                                                         * (D) CD4⁺ T-cell deficiency insufficient
+
+                                                                                                         * (E) Neutrophil defect irrelevant
+
+________________
+
+
+Question 37
+A 29-year-old woman develops fever, pruritic rash, and mucosal ulcers 10 days after starting sulfonamide antibiotics. Lab studies reveal eosinophilia and elevated liver enzymes. Skin biopsy shows lymphocytic infiltration and keratinocyte apoptosis.
+Which hypersensitivity type mediates her reaction?
+Answer Choices:
+ (A) Type IV hypersensitivity: T-cell-mediated delayed reaction
+(B) Type I hypersensitivity: IgE-mediated
+(C) Type II hypersensitivity: antibody-mediated
+(D) Type III hypersensitivity: immune complex-mediated
+(E) Complement deficiency–related
+Correct Answer: A
+Explanation:
+ Drug-induced delayed hypersensitivity reactions (e.g., DRESS, Stevens-Johnson) are mediated by cytotoxic T-cells, causing keratinocyte apoptosis and systemic involvement.
+                                                                                                            * (B) IgE causes immediate allergy
+
+                                                                                                            * (C) Type II affects RBCs/platelets
+
+                                                                                                            * (D) Type III affects vessels/glomeruli
+
+                                                                                                            * (E) Complement unrelated
+
+________________
+
+
+Question 38
+A 35-year-old man with CGD presents with fever, multiple abscesses, and pulmonary infiltrates. Cultures grow catalase-positive Staphylococcus aureus and Aspergillus fumigatus. Nitroblue tetrazolium test is negative.
+Which immune defect explains his susceptibility?
+Answer Choices:
+ (A) NADPH oxidase deficiency in phagocytes, preventing reactive oxygen species generation
+(B) Complement C3 deficiency
+(C) IgG deficiency
+(D) CD4⁺ T-cell deficiency
+(E) NK cell deficiency
+Correct Answer: A
+Explanation:
+ CGD is caused by NADPH oxidase deficiency, impairing ROS generation needed to kill catalase-positive organisms, which degrade H₂O₂ and evade killing.
+                                                                                                               * (B) Complement deficiency affects opsonization
+
+                                                                                                               * (C) IgG deficiency affects extracellular infections
+
+                                                                                                               * (D) CD4⁺ T-cells affect intracellular pathogens
+
+                                                                                                               * (E) NK cells less relevant
+
+________________
+
+
+Question 39
+A 42-year-old man presents with fever, cough, and hemoptysis during chemotherapy-induced neutropenia. Chest CT shows nodular infiltrates with halo signs. Serum galactomannan is elevated.
+Which immune defect most directly predisposes him to invasive pulmonary aspergillosis?
+Answer Choices:
+ (A) Neutropenia impairing hyphal killing
+(B) B-cell deficiency
+(C) CD4⁺ T-cell deficiency
+(D) NK cell deficiency
+(E) Complement deficiency
+Correct Answer: A
+Explanation:
+ Neutrophils are critical for oxidative killing of Aspergillus hyphae; chemotherapy-induced neutropenia prevents clearance, resulting in invasive disease.
+                                                                                                                  * (B) Antibodies less important
+
+                                                                                                                  * (C) T-cells supportive, not central
+
+                                                                                                                  * (D) NK cells minor
+
+                                                                                                                  * (E) Complement partial role
+
+________________
+
+
+Question 40
+A 33-year-old man presents with recurrent meningococcal infections. Complement testing reveals C7 deficiency.
+Which immune mechanism is impaired?
+Answer Choices:
+ (A) Membrane attack complex formation to lyse Gram-negative bacteria
+(B) Opsonization of encapsulated bacteria
+(C) Antibody-mediated toxin neutralization
+(D) T-cell-mediated cytotoxicity
+(E) NK cell cytotoxicity
+Correct Answer: A
+Explanation:
+ C7 deficiency impairs MAC formation (C5–C9), preventing lysis of Gram-negative organisms like Neisseria meningitidis, causing recurrent infections.
+                                                                                                                     * (B) Opsonization involves C3b, unaffected
+
+                                                                                                                     * (C) Antibody neutralization unaffected
+
+                                                                                                                     * (D) T-cell cytotoxicity intact
+
+                                                                                                                     * (E) NK cells unaffected
+
+Question 41
+A 46-year-old man with HIV (CD4⁺ count 40/μL) presents with fever, headache, and confusion. MRI shows multiple ring-enhancing lesions in the basal ganglia. CSF PCR is positive for Toxoplasma gondii DNA.
+Which immune defect primarily predisposes him to this infection?
+Answer Choices:
+ (A) CD4⁺ T-cell deficiency impairing IFN-γ-mediated macrophage activation
+(B) B-cell hypogammaglobulinemia
+(C) NK cell deficiency
+(D) Complement C3 deficiency
+(E) Neutrophil chemotaxis defect
+Correct Answer: A
+Explanation:
+ Toxoplasma gondii is an intracellular parasite; clearance requires CD4⁺ T-cell-derived IFN-γ to activate macrophages. Severe CD4⁺ deficiency in AIDS patients permits reactivation of latent infection.
+                                                                                                                        * (B) Antibodies are less critical for intracellular parasites
+
+                                                                                                                        * (C) NK cells contribute early, but insufficient alone
+
+                                                                                                                        * (D) Complement not central
+
+                                                                                                                        * (E) Neutrophils play minor role
+
+________________
+
+
+Question 42
+A 32-year-old woman develops fever, maculopapular rash, and arthralgia two weeks after returning from South America. Labs reveal thrombocytopenia, elevated AST/ALT, and positive dengue IgM. She progresses to shock and hemoconcentration.
+Which pathophysiologic mechanism drives her severe capillary leak?
+Answer Choices:
+ (A) Antibody-dependent enhancement causing excessive cytokine release
+(B) Direct viral cytopathic damage to endothelium
+(C) IgE-mediated mast cell degranulation
+(D) Complement-mediated vascular injury
+(E) CD8⁺ T-cell cytotoxicity
+Correct Answer: A
+Explanation:
+ Secondary dengue infection with non-neutralizing antibodies enhances viral uptake into Fc receptor–bearing monocytes/macrophages, triggering cytokine storm, vascular permeability, and hypotensive shock.
+                                                                                                                           * (B) Endothelial cytotoxicity minor
+
+                                                                                                                           * (C) IgE hypersensitivity unrelated
+
+                                                                                                                           * (D) Complement not primary
+
+                                                                                                                           * (E) CD8⁺ T-cells play supportive role
+
+________________
+
+
+Question 43
+A 38-year-old man receiving chemotherapy presents with fever and hemoptysis. CT shows nodular pulmonary infiltrates with halo signs. Serum galactomannan is elevated.
+Which immune defect most directly predisposes him to this infection?
+Answer Choices:
+ (A) Neutropenia impairing oxidative killing of Aspergillus hyphae
+(B) CD4⁺ T-cell deficiency
+(C) B-cell deficiency
+(D) NK cell deficiency
+(E) Complement deficiency
+Correct Answer: A
+Explanation:
+ Neutrophils are critical for killing hyphal forms of Aspergillus. Chemotherapy-induced neutropenia prevents oxidative killing, allowing invasive pulmonary aspergillosis.
+                                                                                                                              * (B) T-cells contribute less to hyphal clearance
+
+                                                                                                                              * (C) B-cells minor role
+
+                                                                                                                              * (D) NK cells minor
+
+                                                                                                                              * (E) Complement partially contributes
+
+________________
+
+
+Question 44
+A 29-year-old man presents with fever, oral ulcers, and lymphadenopathy. He is HIV-positive (CD4⁺ count 50/μL). EBV PCR is positive. He develops hemophagocytic lymphohistiocytosis (HLH).
+Which immune defect underlies HLH development?
+Answer Choices:
+ (A) Impaired NK and cytotoxic CD8⁺ T-cell function leading to uncontrolled macrophage activation
+(B) B-cell deficiency
+(C) Complement deficiency
+(D) CD4⁺ T-cell lymphopenia
+(E) Neutrophil chemotaxis defect
+Correct Answer: A
+Explanation:
+ HLH results from inability of NK cells and cytotoxic CD8⁺ T-cells to eliminate activated macrophages, leading to cytokine storm, hemophagocytosis, and multi-organ involvement. EBV can trigger HLH.
+                                                                                                                                 * (B) B-cells minor role
+
+                                                                                                                                 * (C) Complement unrelated
+
+                                                                                                                                 * (D) CD4⁺ deficiency insufficient
+
+                                                                                                                                 * (E) Neutrophil defects irrelevant
+
+________________
+
+
+Question 45
+A 42-year-old woman presents with fever, pruritic rash, and mucosal ulcers 12 days after starting allopurinol. Labs show eosinophilia and elevated liver enzymes. Skin biopsy shows lymphocytic infiltration and keratinocyte apoptosis.
+Which hypersensitivity mechanism mediates her condition?
+Answer Choices:
+ (A) Type IV hypersensitivity: T-cell-mediated delayed reaction
+(B) Type I hypersensitivity: IgE-mediated
+(C) Type II hypersensitivity: antibody-mediated cytotoxicity
+(D) Type III hypersensitivity: immune complex-mediated
+(E) Complement deficiency–related
+Correct Answer: A
+Explanation:
+ Drug-induced delayed hypersensitivity reactions (e.g., DRESS, Stevens-Johnson) are mediated by cytotoxic T-cells, causing keratinocyte apoptosis and systemic inflammation.
+                                                                                                                                    * (B) IgE mediates immediate hypersensitivity
+
+                                                                                                                                    * (C) Type II affects RBCs/platelets
+
+                                                                                                                                    * (D) Type III involves vasculitis/glomerulonephritis
+
+                                                                                                                                    * (E) Complement deficiency unrelated
+
+________________
+
+
+Question 46
+A 36-year-old man presents with recurrent pulmonary infections. Cultures grow catalase-positive organisms, including Staphylococcus aureus and Aspergillus fumigatus. Nitroblue tetrazolium test is negative.
+Which immune defect explains his susceptibility?
+Answer Choices:
+ (A) NADPH oxidase deficiency impairing reactive oxygen species generation in phagocytes
+(B) Complement C3 deficiency
+(C) IgG hypogammaglobulinemia
+(D) CD4⁺ T-cell deficiency
+(E) NK cell deficiency
+Correct Answer: A
+Explanation:
+ Chronic granulomatous disease (CGD) results from NADPH oxidase deficiency, impairing ROS generation required to kill catalase-positive organisms, which neutralize H₂O₂ and evade killing.
+                                                                                                                                       * (B) Complement deficiency affects opsonization
+
+                                                                                                                                       * (C) IgG deficiency affects extracellular bacteria
+
+                                                                                                                                       * (D) CD4⁺ deficiency affects intracellular pathogens
+
+                                                                                                                                       * (E) NK cell deficiency less relevant
+
+________________
+
+
+Question 47
+A 41-year-old man presents with fever, cough, and hemoptysis during chemotherapy-induced neutropenia. CT shows nodular pulmonary infiltrates with halo signs. Serum galactomannan is positive.
+Which immune defect predisposes him to invasive pulmonary aspergillosis?
+Answer Choices:
+ (A) Neutropenia impairing hyphal killing
+(B) CD4⁺ T-cell deficiency
+(C) B-cell deficiency
+(D) NK cell deficiency
+(E) Complement deficiency
+Correct Answer: A
+Explanation:
+ Neutrophils are essential for oxidative killing of Aspergillus hyphae. Chemotherapy-induced neutropenia allows uncontrolled fungal proliferation and invasive disease.
+                                                                                                                                          * (B) T-cells support but are not central
+
+                                                                                                                                          * (C) Antibodies minor
+
+                                                                                                                                          * (D) NK cells minor
+
+                                                                                                                                          * (E) Complement partially contributes
+
+________________
+
+
+Question 48
+A 34-year-old man presents with fever, lymphadenopathy, and hepatosplenomegaly. EBV PCR is positive, and peripheral smear shows atypical lymphocytes. He develops hemophagocytic lymphohistiocytosis (HLH).
+Which immune defect underlies HLH?
+Answer Choices:
+ (A) Impaired NK and cytotoxic CD8⁺ T-cell function
+(B) B-cell deficiency
+(C) Complement deficiency
+(D) CD4⁺ T-cell lymphopenia
+(E) Neutrophil chemotaxis defect
+Correct Answer: A
+Explanation:
+ HLH is triggered when NK cells and cytotoxic CD8⁺ T-cells cannot control activated macrophages, leading to cytokine storm and hemophagocytosis, especially in EBV infection.
+                                                                                                                                             * (B) B-cells minor
+
+                                                                                                                                             * (C) Complement irrelevant
+
+                                                                                                                                             * (D) CD4⁺ deficiency insufficient
+
+                                                                                                                                             * (E) Neutrophil defect irrelevant
+
+________________
+
+
+Question 49
+A 28-year-old woman presents with fever, maculopapular rash, and arthralgia 7 days after travel to South America. Labs reveal thrombocytopenia and elevated AST/ALT. Dengue IgM is positive.
+Which pathophysiologic mechanism drives capillary leak and hypotension?
+Answer Choices:
+ (A) Antibody-dependent enhancement leading to cytokine storm
+(B) Direct endothelial viral cytotoxicity
+(C) IgE-mediated mast cell degranulation
+(D) Complement-mediated vascular injury
+(E) CD8⁺ T-cell-mediated cytotoxicity
+Correct Answer: A
+Explanation:
+ Secondary dengue infection involves non-neutralizing antibodies that enhance viral entry into Fc receptor–bearing monocytes/macrophages, causing cytokine-mediated vascular permeability and shock.
+                                                                                                                                                * (B) Endothelial cytotoxicity minor
+
+                                                                                                                                                * (C) IgE not relevant
+
+                                                                                                                                                * (D) Complement minor
+
+                                                                                                                                                * (E) CD8⁺ T-cells supportive, not primary
+
+________________
+
+
+Question 50
+A 33-year-old man presents with recurrent meningococcal infections. Complement testing shows C8 deficiency.
+Which immune mechanism is impaired?
+Answer Choices:
+ (A) Formation of the membrane attack complex (MAC) to lyse Gram-negative bacteria
+(B) Opsonization of encapsulated bacteria
+(C) Antibody-mediated toxin neutralization
+(D) T-cell-mediated cytotoxicity
+(E) NK cell cytotoxicity
+Correct Answer: A
+Explanation:
+ Terminal complement component deficiency (C5–C9) prevents MAC formation, impairing lysis of Gram-negative bacteria such as Neisseria meningitidis, leading to recurrent infections.
+                                                                                                                                                   * (B) Opsonization involves C3b, intact
+
+                                                                                                                                                   * (C) Antibody neutralization intact
+
+                                                                                                                                                   * (D) T-cell cytotoxicity intact
+
+                                                                                                                                                   * (E) NK cells unaffected
+
+Question 51
+A 38-year-old man with advanced HIV (CD4⁺ count 22/μL) presents with progressive dyspnea and nonproductive cough. Chest CT reveals diffuse ground-glass opacities. Bronchoalveolar lavage silver stain shows cystic organisms. Serum β-D-glucan is elevated.
+Which immune defect most directly predisposes him to this infection?
+Answer Choices:
+ (A) CD4⁺ T-cell deficiency impairing alveolar macrophage activation
+(B) B-cell hypogammaglobulinemia
+(C) Neutrophil chemotaxis defect
+(D) Complement C3 deficiency
+(E) NK cell deficiency
+Correct Answer: A
+Explanation:
+ Pneumocystis jirovecii is an opportunistic fungus cleared primarily by alveolar macrophages activated via CD4⁺ T-cell–derived cytokines (IFN-γ). Severe CD4⁺ deficiency allows proliferation in alveoli, causing diffuse interstitial pneumonia.
+                                                                                                                                                      * (B) Antibodies alone insufficient
+
+                                                                                                                                                      * (C) Neutrophils play minor role
+
+                                                                                                                                                      * (D) Complement partially contributes
+
+                                                                                                                                                      * (E) NK cells minimally involved
+
+________________
+
+
+Question 52
+A 32-year-old woman presents with fever, arthralgia, and maculopapular rash 10 days after a sulfonamide antibiotic. Labs show eosinophilia and elevated liver enzymes. Skin biopsy reveals lymphocytic infiltration and keratinocyte apoptosis.
+Which hypersensitivity type mediates this reaction?
+Answer Choices:
+ (A) Type IV hypersensitivity: T-cell-mediated delayed reaction
+(B) Type I hypersensitivity: IgE-mediated
+(C) Type II hypersensitivity: antibody-mediated cytotoxicity
+(D) Type III hypersensitivity: immune complex-mediated
+(E) Complement deficiency–related
+Correct Answer: A
+Explanation:
+ Drug-induced delayed hypersensitivity reactions (e.g., DRESS, Stevens-Johnson) are mediated by cytotoxic T-cells causing keratinocyte apoptosis and systemic organ involvement.
+                                                                                                                                                         * (B) IgE mediates immediate urticaria/anaphylaxis
+
+                                                                                                                                                         * (C) Type II affects RBCs or platelets
+
+                                                                                                                                                         * (D) Type III affects vasculature or glomeruli
+
+                                                                                                                                                         * (E) Complement deficiency unrelated
+
+________________
+
+
+Question 53
+A 45-year-old man presents with fever, cough, and hemoptysis during chemotherapy-induced neutropenia. CT shows multiple nodular infiltrates with halo signs. Serum galactomannan is positive.
+Which immune defect predisposes him to invasive pulmonary aspergillosis?
+Answer Choices:
+ (A) Neutropenia impairing oxidative killing of hyphal forms
+(B) B-cell deficiency
+(C) CD4⁺ T-cell deficiency
+(D) NK cell deficiency
+(E) Complement deficiency
+Correct Answer: A
+Explanation:
+ Neutrophils are essential for killing Aspergillus hyphae. Chemotherapy-induced neutropenia prevents clearance, allowing invasive pulmonary disease.
+                                                                                                                                                            * (B) B-cells minor role
+
+                                                                                                                                                            * (C) T-cells supportive but not central
+
+                                                                                                                                                            * (D) NK cells minor
+
+                                                                                                                                                            * (E) Complement partial
+
+________________
+
+
+Question 54
+A 36-year-old man presents with recurrent sinopulmonary infections and poor response to polysaccharide vaccines. Total immunoglobulins are normal.
+Which immune defect explains his susceptibility?
+Answer Choices:
+ (A) Selective antibody deficiency due to impaired class switching
+(B) Severe combined immunodeficiency
+(C) Complement C3 deficiency
+(D) Chronic granulomatous disease
+(E) Neutrophil adhesion defect
+Correct Answer: A
+Explanation:
+ Selective antibody deficiency prevents adequate polysaccharide-specific responses, causing recurrent infections with encapsulated bacteria despite normal total Ig levels.
+                                                                                                                                                               * (B) SCID causes broad T/B deficiency
+
+                                                                                                                                                               * (C) C3 deficiency predisposes to Neisseria infections
+
+                                                                                                                                                               * (D) CGD affects catalase-positive infections
+
+                                                                                                                                                               * (E) LAD causes delayed wound healing
+
+________________
+
+
+Question 55
+A 41-year-old man presents with fever, lymphadenopathy, and hepatosplenomegaly. EBV PCR is positive; peripheral smear shows atypical lymphocytes. He develops hemophagocytic lymphohistiocytosis (HLH).
+Which immune defect is central to HLH development?
+Answer Choices:
+ (A) Impaired NK and cytotoxic CD8⁺ T-cell function
+(B) B-cell deficiency
+(C) Complement deficiency
+(D) CD4⁺ T-cell lymphopenia
+(E) Neutrophil chemotaxis defect
+Correct Answer: A
+Explanation:
+ HLH occurs when NK cells and cytotoxic CD8⁺ T-cells fail to control activated macrophages, resulting in cytokine storm, hemophagocytosis, and multi-organ involvement.
+                                                                                                                                                                  * (B) B-cells minor role
+
+                                                                                                                                                                  * (C) Complement irrelevant
+
+                                                                                                                                                                  * (D) CD4⁺ deficiency insufficient
+
+                                                                                                                                                                  * (E) Neutrophil defects irrelevant
+
+________________
+
+
+Question 56
+A 33-year-old man presents with recurrent infections with catalase-positive organisms (S. aureus, Aspergillus). Nitroblue tetrazolium test is negative.
+Which immune defect explains his susceptibility?
+Answer Choices:
+ (A) NADPH oxidase deficiency impairing ROS generation in phagocytes
+(B) Complement C3 deficiency
+(C) IgG deficiency
+(D) CD4⁺ T-cell deficiency
+(E) NK cell deficiency
+Correct Answer: A
+Explanation:
+ Chronic granulomatous disease (CGD) is caused by NADPH oxidase deficiency, impairing ROS production. Catalase-positive organisms neutralize H₂O₂, escaping killing.
+                                                                                                                                                                     * (B) Complement affects opsonization
+
+                                                                                                                                                                     * (C) IgG affects extracellular infections
+
+                                                                                                                                                                     * (D) CD4⁺ deficiency affects intracellular pathogens
+
+                                                                                                                                                                     * (E) NK cells less relevant
+
+________________
+
+
+Question 57
+A 29-year-old woman presents with fever, oral ulcers, and lymphadenopathy. She is HIV-positive (CD4⁺ count 45/μL). EBV PCR is positive, and she develops HLH.
+Which immune defect underlies this complication?
+Answer Choices:
+ (A) Impaired NK and cytotoxic CD8⁺ T-cell function
+(B) B-cell deficiency
+(C) Complement deficiency
+(D) CD4⁺ T-cell lymphopenia
+(E) Neutrophil chemotaxis defect
+Correct Answer: A
+Explanation:
+ HLH occurs when NK cells and cytotoxic CD8⁺ T-cells fail to eliminate activated macrophages, causing cytokine storm and hemophagocytosis, often triggered by EBV infection.
+                                                                                                                                                                        * (B) B-cells minor
+
+                                                                                                                                                                        * (C) Complement irrelevant
+
+                                                                                                                                                                        * (D) CD4⁺ deficiency insufficient
+
+                                                                                                                                                                        * (E) Neutrophil defect irrelevant
+
+________________
+
+
+Question 58
+A 31-year-old man presents with fever, rash, and thrombocytopenia after travel to South America. Labs reveal elevated AST/ALT; dengue IgM positive. He develops hemoconcentration and hypotension.
+Which mechanism drives severe dengue?
+Answer Choices:
+ (A) Antibody-dependent enhancement facilitating cytokine storm
+(B) Direct endothelial viral cytotoxicity
+(C) IgE-mediated mast cell degranulation
+(D) Complement-mediated vascular injury
+(E) CD8⁺ T-cell-mediated cytotoxicity
+Correct Answer: A
+Explanation:
+ Secondary dengue infection with non-neutralizing antibodies enhances viral entry into Fc receptor-bearing monocytes, triggering cytokine storm and capillary leak.
+                                                                                                                                                                           * (B) Minor role
+
+                                                                                                                                                                           * (C) IgE irrelevant
+
+                                                                                                                                                                           * (D) Complement minor
+
+                                                                                                                                                                           * (E) CD8⁺ T-cells supportive
+
+________________
+
+
+Question 59
+A 36-year-old man presents with fever, weight loss, and dyspnea. Chest CT shows diffuse ground-glass opacities. Bronchoalveolar lavage demonstrates cystic organisms; serum β-D-glucan elevated. He is HIV-positive (CD4⁺ count 18/μL).
+Which immune defect allows this infection?
+Answer Choices:
+ (A) CD4⁺ T-cell deficiency impairing alveolar macrophage activation
+(B) B-cell deficiency
+(C) Neutrophil chemotaxis defect
+(D) Complement deficiency
+(E) NK cell deficiency
+Correct Answer: A
+Explanation:
+ Pneumocystis jirovecii requires CD4⁺ T-cell-mediated macrophage activation for clearance. Severe CD4⁺ depletion leads to diffuse interstitial pneumonia.
+                                                                                                                                                                              * (B–E) Minor or indirect roles
+
+________________
+
+
+Question 60
+A 33-year-old man presents with recurrent meningococcal infections. Complement testing reveals C7 deficiency.
+Which immune mechanism is impaired?
+Answer Choices:
+ (A) Formation of the membrane attack complex (MAC) to lyse Gram-negative bacteria
+(B) Opsonization of encapsulated bacteria
+(C) Antibody-mediated toxin neutralization
+(D) T-cell cytotoxicity
+(E) NK cell cytotoxicity
+Correct Answer: A
+Explanation:
+ C5–C9 deficiencies prevent MAC formation, impairing lysis of Gram-negative organisms (e.g., Neisseria), causing recurrent infections.
+                                                                                                                                                                                 * (B–E) Functions intact

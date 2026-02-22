@@ -1,0 +1,820 @@
+﻿Question 1
+A 3-year-old boy is brought to the clinic for evaluation of persistent drooling, difficulty swallowing, and hoarseness. Physical examination reveals midline neck swelling that moves with swallowing, and the mass is located anterior to the thyrohyoid membrane. There is a history of recurrent upper respiratory infections.
+Which embryologic structure is most directly implicated in the formation of this lesion?
+A. Second pharyngeal arch
+B. First pharyngeal pouch
+C. Thyroglossal duct
+D. Lateral cervical sinus
+E. Third pharyngeal pouch
+Correct Answer: C
+Explanation:
+ A thyroglossal duct cyst results from incomplete involution of the thyroglossal duct, which is a midline structure connecting the developing thyroid to the foramen cecum. Moves with swallowing due to attachment to hyoid bone. Other pouches/arches lead to branchial cleft cysts or parathyroid/tonsillar anomalies.
+________________
+
+
+Question 2
+A 65-year-old man presents with right-sided facial droop, inability to close his right eye, and loss of taste from the anterior two-thirds of the tongue. MRI shows a lesion at the stylomastoid foramen.
+Which nerve fibers are primarily affected in this patient?
+A. Sensory fibers of trigeminal nerve
+B. Somatic motor fibers of facial nerve
+C. Preganglionic sympathetic fibers
+D. Parasympathetic fibers of glossopharyngeal nerve
+E. Sensory fibers of vagus nerve
+Correct Answer: B
+Explanation:
+ The facial nerve (CN VII) exits via the stylomastoid foramen. Lesion here affects somatic motor fibers to muscles of facial expression. Sensory and parasympathetic components enter the brainstem via other routes.
+________________
+
+
+Question 3
+A 2-month-old infant presents with persistent vomiting and poor feeding. Ultrasound shows hypertrophy of the pyloric sphincter. The mother asks why this occurs predominantly in males.
+Which structure’s embryologic or physiologic development best explains this sex predilection?
+A. Muscularis propria of pylorus
+B. Neural crest-derived myenteric plexus
+C. Gastric mucosa differentiation
+D. Parietal cell acid secretion
+E. Vagal innervation
+Correct Answer: A
+Explanation:
+ Hypertrophic pyloric stenosis arises from thickening of the muscularis propria. Male predominance may relate to hormonal influences on smooth muscle growth, independent of neural crest or mucosal factors.
+________________
+
+
+Question 4
+A 22-year-old man presents with acute confusion, agitation, and hallucinations. History reveals recent ingestion of unknown hallucinogenic substances at a party. MRI is normal. Neurophysiology shows intact cranial nerve function and normal gross motor strength. Cognitive testing demonstrates impaired short-term memory and attention deficits.
+Which brain region is most directly responsible for these acute cognitive deficits?
+A. Amygdala
+B. Hippocampus
+C. Precentral gyrus
+D. Substantia nigra
+E. Cerebellar cortex
+Correct Answer: B
+Explanation:
+ Hippocampus is central to short-term memory consolidation and spatial learning. Hallucinogens and NMDA receptor antagonists can transiently impair hippocampal function, producing amnesia and attention deficits.
+________________
+
+
+Question 5
+A 45-year-old woman presents with inability to abduct her right eye. MRI shows a microvascular lesion in the cavernous sinus. On examination, the right eye is adducted at rest, with diplopia on lateral gaze.
+Which cranial nerve is most likely involved?
+A. CN II
+B. CN III
+C. CN IV
+D. CN VI
+E. CN V1
+Correct Answer: D
+Explanation:
+ Abducens nerve (CN VI) innervates lateral rectus, which abducts the eye. Lesions in the cavernous sinus affect CN VI, causing the eye to remain adducted at rest.
+________________
+
+
+Question 6
+A 6-year-old boy presents with delayed milestones, generalized hypotonia, and macrocephaly. MRI shows agenesis of the corpus callosum. Genetic testing reveals a mutation affecting midline commissural development.
+Which embryologic process is primarily disrupted?
+A. Neurulation of the neural tube
+B. Neural crest cell migration
+C. Axonal guidance across the midline
+D. Ventricular zone neurogenesis
+E. Somite segmentation
+Correct Answer: C
+Explanation:
+ Corpus callosum agenesis arises from disrupted axonal guidance across the midline. Neurulation forms the neural tube; neural crest cells form peripheral structures. Commissural defects affect interhemispheric connectivity.
+________________
+
+
+Question 7
+A 28-year-old woman presents with inability to recognize familiar faces despite intact vision. MRI shows lesions in the fusiform gyrus of the temporal lobe.
+Which cognitive function is primarily impaired?
+A. Language comprehension
+B. Facial recognition (prosopagnosia)
+C. Spatial navigation
+D. Auditory processing
+E. Executive planning
+Correct Answer: B
+Explanation:
+ Lesions of the fusiform face area (ventral temporal lobe) produce prosopagnosia, the inability to recognize familiar faces, while vision, language, and memory remain relatively preserved.
+________________
+
+
+Question 8
+A 3-year-old child presents with difficulty walking and frequent falls. Developmental history reveals delayed motor milestones. Examination shows hypotonia, high-arched palate, and pes planus. Genetic testing confirms Fragile X syndrome.
+Which behavioral characteristic is most commonly associated with this condition?
+A. Aggressive behavior
+B. Social anxiety and avoidance
+C. Obsessive-compulsive tendencies
+D. Hyperphagia
+E. Tactile defensiveness
+Correct Answer: B
+Explanation:
+ Fragile X syndrome often presents with social anxiety, avoidance, and gaze aversion, alongside physical features (macroorchidism later, hypotonia, high-arched palate) and intellectual disability.
+________________
+
+
+Question 9
+A 35-year-old woman is being evaluated for ADHD. She reports difficulty focusing, impulsivity, and poor time management. Which neurotransmitter system is most directly implicated in her symptoms?
+A. Serotonergic projections from raphe nuclei
+B. Dopaminergic projections from the ventral tegmental area to prefrontal cortex
+C. Cholinergic projections from basal forebrain to hippocampus
+D. Noradrenergic projections from locus coeruleus to spinal cord
+E. GABAergic interneurons in cerebellum
+Correct Answer: B
+Explanation:
+ ADHD is primarily associated with dopaminergic (and partially noradrenergic) signaling in the prefrontal cortex, affecting attention, executive function, and impulse control.
+________________
+
+
+Question 10
+A 6-year-old girl presents with bedwetting beyond the expected age for bladder control. She demonstrates normal intellectual function. Parents ask about developmental expectations for continence.
+At what age do most children achieve nighttime bladder control?
+A. 1–2 years
+B. 2–3 years
+C. 4–5 years
+D. 6–7 years
+E. 8–9 years
+Correct Answer: C
+Explanation:
+ Nighttime bladder control is typically achieved by 4–5 years, although daytime control is usually earlier (around 2–3 years). Delays beyond this may suggest developmental or urologic concerns.
+Question 11
+A 5-year-old boy presents with unilateral facial weakness involving the forehead and lower face. Examination reveals loss of lacrimation on the affected side, hyperacusis, and diminished taste on the anterior two-thirds of the tongue. MRI shows a mass near the internal acoustic meatus.
+Which structure is most likely compressed by this lesion?
+A. Vestibulocochlear nerve
+B. Facial nerve
+C. Trigeminal nerve
+D. Glossopharyngeal nerve
+E. Vagus nerve
+Correct Answer: B
+Explanation:
+ The lesion affects CN VII (facial nerve) as it traverses the internal acoustic meatus and facial canal. Involvement of lacrimation (parasympathetic), stapedius (hyperacusis), and anterior tongue taste fibers localizes it precisely.
+________________
+
+
+Question 12
+A 7-year-old girl presents with delayed speech, hyperactivity, and repetitive hand-flapping. She has a history of congenital heart disease and dysmorphic facial features. Genetic testing confirms Rett syndrome.
+Which neurotransmitter system is most directly affected in this disorder?
+A. Dopamine
+B. Glutamate
+C. GABA
+D. Serotonin
+E. Acetylcholine
+Correct Answer: C
+Explanation:
+ Rett syndrome involves mutations in MECP2, leading to decreased GABAergic signaling, which contributes to stereotypic movements, hyperactivity, and cognitive regression.
+________________
+
+
+Question 13
+A 4-year-old boy is brought in for evaluation of persistent vomiting, hypoglycemia, and hepatomegaly. Imaging reveals abnormal posteriorly displaced liver lobes. Further studies suggest failure of normal rotation and fixation of the gut during development.
+Which embryologic process is primarily defective?
+A. Physiologic midgut herniation
+B. Gastroschisis closure
+C. Rotation and fixation of midgut
+D. Cloacal partitioning
+E. Hepatic cord formation
+Correct Answer: C
+Explanation:
+ Malrotation results from abnormal rotation and fixation of the midgut during the 6–10th week. This can cause volvulus, obstruction, and secondary hepatomegaly.
+________________
+
+
+Question 14
+A 32-year-old woman presents with sudden-onset aphasia and right-sided hemiparesis. MRI reveals an infarct localized to the left inferior frontal gyrus. She is otherwise healthy.
+Which type of aphasia is most consistent with her lesion?
+A. Broca’s (expressive)
+B. Wernicke’s (receptive)
+C. Conduction
+D. Global
+E. Anomic
+Correct Answer: A
+Explanation:
+ Broca’s aphasia results from lesions in the inferior frontal gyrus (dominant hemisphere), causing expressive speech deficits with preserved comprehension.
+________________
+
+
+Question 15
+A 28-year-old man is found unconscious after ingesting ethylene glycol. Brain MRI shows bilateral symmetric hyperintensities in the basal ganglia and frontal cortex. Biochemical studies reveal high anion gap metabolic acidosis.
+Which brain structure is most vulnerable to this type of toxic injury?
+A. Caudate and putamen
+B. Hippocampus
+C. Cerebellar vermis
+D. Substantia nigra
+E. Parietal cortex
+Correct Answer: A
+Explanation:
+ Ethylene glycol metabolites cause basal ganglia (caudate, putamen) necrosis due to high metabolic demand and sensitivity to metabolic toxins.
+________________
+
+
+Question 16
+A 10-year-old girl presents with drooping eyelids, generalized hypotonia, and difficulty swallowing. Genetic studies reveal mutation in the CHD7 gene. She also has hypoplastic semicircular canals and heart defects.
+Which syndrome is most consistent with her presentation?
+A. DiGeorge
+B. CHARGE
+C. Williams
+D. Noonan
+E. Turner
+Correct Answer: B
+Explanation:
+ CHARGE syndrome (Coloboma, Heart defects, Atresia choanae, Retardation, Genital anomalies, Ear anomalies) involves neural crest cell migration defects, explaining craniofacial, cardiac, and semicircular canal abnormalities.
+________________
+
+
+Question 17
+A 30-year-old man with a history of head trauma presents with impulsivity, irritability, and impaired judgment. MRI shows lesions in the ventromedial prefrontal cortex. Neuropsychological testing reveals preserved memory and language.
+Which cognitive function is most directly impaired?
+A. Executive planning and decision-making
+B. Short-term memory
+C. Verbal fluency
+D. Visual-spatial reasoning
+E. Motor coordination
+Correct Answer: A
+Explanation:
+ The ventromedial prefrontal cortex is critical for executive function, decision-making, and emotional regulation. Lesions cause poor judgment, impulsivity, and behavioral disinhibition.
+________________
+
+
+Question 18
+A 14-year-old boy is evaluated for repeated aggression at school. Neuropsychological assessment shows impaired empathy and emotional recognition, but normal IQ. Functional imaging reveals hypoactivity in the amygdala.
+Which behavioral syndrome is most consistent with these findings?
+A. Autism spectrum disorder
+B. Conduct disorder with amygdala dysfunction
+C. ADHD
+D. Obsessive-compulsive disorder
+E. Schizophrenia
+Correct Answer: B
+Explanation:
+ Conduct disorder with amygdala dysfunction impairs emotional recognition and fear conditioning, leading to aggressive or antisocial behavior despite normal cognitive function.
+________________
+
+
+Question 19
+A 2-year-old boy is noted to have a cleft palate, ear anomalies, and hypocalcemia. Genetic testing reveals deletion of 22q11.2. The parents ask about risk for behavioral and psychiatric disorders.
+Which neuropsychiatric condition has the highest prevalence in patients with this syndrome?
+A. Schizophrenia spectrum disorder
+B. Bipolar disorder
+C. Major depressive disorder
+D. Obsessive-compulsive disorder
+E. Autism spectrum disorder
+Correct Answer: A
+Explanation:
+ 22q11.2 deletion syndrome (DiGeorge/velocardiofacial syndrome) is associated with a high risk for schizophrenia (up to 25% of affected adults), along with cardiac and craniofacial anomalies.
+________________
+
+
+Question 20
+A 6-year-old girl presents with night terrors, sleepwalking, and difficulty waking up in the morning. EEG shows normal awake activity but slow-wave predominance during sleep. Her parents ask about safety precautions and prognosis.
+Which statement is most accurate regarding her condition?
+A. Behavioral intervention is rarely effective
+B. Night terrors typically persist into adulthood
+C. Condition arises from incomplete arousal during N3 sleep
+D. REM sleep is predominantly involved
+E. Condition indicates seizure disorder
+Correct Answer: C
+Explanation:
+ Night terrors and sleepwalking are disorders of partial arousal from N3 (slow-wave) sleep, most common in children, self-limited, and require safety precautions rather than pharmacologic intervention.
+Question 21
+A 55-year-old man presents with dysphagia, hoarseness, and deviation of the uvula to the left. He recently had a carotid endarterectomy complicated by intraoperative injury. MRI shows focal injury near the jugular foramen.
+Which cranial nerve is most likely affected, and what is the expected finding?
+A. CN IX; loss of gag reflex on the ipsilateral side
+B. CN X; uvula deviates away from the lesion
+C. CN XI; inability to shrug shoulder ipsilaterally
+D. CN XII; tongue deviates toward lesion
+E. CN VII; inability to close eye
+Correct Answer: B
+Explanation:
+ CN X (vagus nerve) injury causes ipsilateral palatal weakness, leading to uvula deviation away from the lesion, dysphagia, and hoarseness. CN IX affects gag reflex; CN XI affects trapezius/SCM; CN XII affects tongue.
+________________
+
+
+Question 22
+A 7-year-old boy presents with frequent falls and difficulty climbing stairs. Physical exam reveals proximal muscle weakness, Gower sign, and pseudohypertrophy of calves. Genetic testing confirms Duchenne muscular dystrophy.
+Which protein deficiency underlies his condition?
+A. Dystrophin
+B. Sarcoglycan
+C. Laminin-2
+D. Collagen VI
+E. Titin
+Correct Answer: A
+Explanation:
+ Duchenne muscular dystrophy results from dystrophin deficiency, leading to instability of the sarcolemma, muscle fiber necrosis, and progressive proximal weakness.
+________________
+
+
+Question 23
+A 3-month-old infant presents with cyanosis and tachypnea. Echocardiography shows truncus arteriosus. Which embryologic process is most likely defective?
+A. Neural crest cell migration
+B. Endocardial cushion formation
+C. Septum primum fusion
+D. Fourth pharyngeal arch development
+E. Sinus venosus incorporation
+Correct Answer: A
+Explanation:
+ Truncus arteriosus results from failed conotruncal septation, which depends on neural crest cell migration. Endocardial cushion defects cause AV septal defects; septum primum defects cause ASDs.
+________________
+
+
+Question 24
+A 60-year-old woman presents with sudden-onset vertigo, nausea, and right-sided facial droop. MRI shows an infarct in the dorsolateral pons. Examination reveals ipsilateral facial weakness, contralateral body pain and temperature loss.
+Which syndrome is most consistent with these findings?
+A. Lateral medullary (Wallenberg)
+B. Medial medullary
+C. Lateral pontine
+D. Medial pontine
+E. Weber
+Correct Answer: C
+Explanation:
+ Lateral pontine syndrome results from AICA occlusion, affecting CN VII and VIII nuclei (ipsilateral facial droop, vertigo) and spinothalamic tract (contralateral pain/temp). Lateral medullary affects CN IX/X.
+________________
+
+
+Question 25
+A 4-year-old girl presents with bilateral cataracts, hepatomegaly, and hypoglycemia following lactose ingestion. Enzyme assay shows absent galactose-1-phosphate uridyltransferase activity.
+Which biochemical pathway is directly affected, and what complication is most likely?
+A. Galactose → UDP-galactose; liver failure
+B. Fructose → DHAP; renal tubular acidosis
+C. Glycogenolysis; cardiomyopathy
+D. Glucose-6-phosphate → glucose; seizures
+E. Lactose → glucose; cataracts
+Correct Answer: A
+Explanation:
+ Classic galactosemia is caused by galactose-1-phosphate uridyltransferase deficiency, leading to accumulation of galactose-1-phosphate, causing hepatotoxicity, cataracts, and hypoglycemia.
+________________
+
+
+Question 26
+A 15-year-old boy presents with wide-based gait and dysmetria. MRI shows cerebellar vermis atrophy. He reports frequent falls since early childhood. Genetic testing confirms Friedreich ataxia.
+Which molecular defect is most likely responsible?
+A. Frataxin deficiency causing mitochondrial iron accumulation
+B. Dystrophin deficiency
+C. Hexosaminidase A deficiency
+D. Alpha-galactosidase deficiency
+E. SMN1 deletion
+Correct Answer: A
+Explanation:
+ Friedreich ataxia is caused by frataxin deficiency, leading to mitochondrial iron accumulation and oxidative damage, primarily affecting spinocerebellar tracts and cerebellar vermis.
+________________
+
+
+Question 27
+A 2-year-old boy presents with craniosynostosis, syndactyly, and midface hypoplasia. Genetic testing reveals a gain-of-function mutation in FGFR2.
+Which embryologic process is directly disrupted?
+A. Premature fusion of cranial sutures
+B. Failure of neural tube closure
+C. Defective branchial arch development
+D. Incomplete endochondral ossification of long bones
+E. Failure of palate fusion
+Correct Answer: A
+Explanation:
+ Apert syndrome is due to FGFR2 gain-of-function, causing premature cranial suture fusion (craniosynostosis) and syndactyly via abnormal mesenchymal differentiation.
+________________
+
+
+Question 28
+A 35-year-old man presents with behavioral disinhibition, hyperorality, and compulsive behaviors. MRI shows bilateral frontal and anterior temporal lobe atrophy.
+Which behavioral syndrome is most consistent with these findings?
+A. Alzheimer disease
+B. Frontotemporal dementia (behavioral variant)
+C. Huntington disease
+D. Parkinson disease
+E. Korsakoff syndrome
+Correct Answer: B
+Explanation:
+ Behavioral variant frontotemporal dementia involves atrophy of orbitofrontal and anterior temporal lobes, causing disinhibition, hyperorality, compulsive behaviors, and relative preservation of memory early.
+________________
+
+
+Question 29
+A 7-year-old girl is noted to have cleft lip, ocular anomalies, and a median forehead mass. Imaging suggests a midline nasal dermoid cyst.
+Which embryologic mechanism best explains this lesion?
+A. Failure of ectodermal and mesenchymal separation during frontonasal prominence fusion
+B. Incomplete closure of first pharyngeal cleft
+C. Persistence of thyroglossal duct
+D. Abnormal rotation of lateral nasal prominences
+E. Failure of neural tube closure
+Correct Answer: A
+Explanation:
+ Nasal dermoid cysts result from incomplete separation of ectoderm from underlying mesenchyme along the frontonasal prominence, explaining midline location and dermoid content.
+________________
+
+
+Question 30
+A 12-year-old boy presents with severe anxiety, repetitive behaviors, and difficulty socializing. IQ is normal. Functional imaging reveals hypoactivity in the orbitofrontal cortex and amygdala.
+Which condition is most consistent with these findings?
+A. Autism spectrum disorder
+B. Obsessive-compulsive disorder
+C. Attention-deficit/hyperactivity disorder
+D. Schizophrenia
+E. Conduct disorder
+Correct Answer: B
+Explanation:
+ OCD involves orbitofrontal cortex hyper- or hypoactivity and amygdala dysregulation, leading to compulsive behaviors and anxiety, distinct from autism which primarily affects social reciprocity.
+Question 31
+A 48-year-old man presents with sudden left-sided facial weakness sparing the forehead. He also reports decreased taste on the anterior tongue and hyperacusis. MRI shows a small infarct in the right internal capsule.
+Which statement best localizes his lesion?
+A. Upper motor neuron lesion of facial nerve
+B. Lower motor neuron lesion of facial nerve
+C. Cortical lesion affecting contralateral facial nucleus
+D. Lesion at the stylomastoid foramen
+E. Lesion of the geniculate ganglion
+Correct Answer: A
+Explanation:
+ UMN lesions of CN VII affect the contralateral lower face, sparing the forehead due to bilateral cortical innervation. LMN lesions affect entire ipsilateral face including forehead.
+________________
+
+
+Question 32
+A 6-year-old girl presents with progressive weakness, hypotonia, and areflexia. EMG shows decreased compound muscle action potentials. Genetic testing confirms spinal muscular atrophy (SMA).
+Which spinal cord structure is primarily affected?
+A. Anterior horn cells
+B. Dorsal root ganglia
+C. Corticospinal tract
+D. Spinocerebellar tract
+E. Posterior columns
+Correct Answer: A
+Explanation:
+ SMA involves degeneration of alpha motor neurons in the anterior horn, leading to symmetric proximal muscle weakness, hypotonia, and hyporeflexia.
+________________
+
+
+Question 33
+A 55-year-old woman presents with bilateral ptosis, diplopia, and difficulty swallowing. Symptoms worsen toward evening. Acetylcholine receptor antibodies are positive.
+Which structure is primarily impaired in this disorder?
+A. Presynaptic calcium channels
+B. Postsynaptic nicotinic acetylcholine receptors
+C. Muscle-specific kinase (MuSK) signaling
+D. Presynaptic vesicular ACh transporter
+E. Voltage-gated potassium channels
+Correct Answer: B
+Explanation:
+ Myasthenia gravis involves autoantibodies against postsynaptic nicotinic ACh receptors, causing fatigable weakness of ocular, bulbar, and limb muscles.
+________________
+
+
+Question 34
+A 4-year-old boy presents with spastic diplegia, hyperreflexia, and scissoring gait. Birth history reveals prematurity. MRI shows periventricular leukomalacia.
+Which tract is primarily responsible for his motor deficits?
+A. Corticospinal tract
+B. Spinothalamic tract
+C. Dorsal column-medial lemniscal pathway
+D. Rubrospinal tract
+E. Vestibulospinal tract
+Correct Answer: A
+Explanation:
+ Periventricular leukomalacia damages corticospinal fibers near lateral ventricles, causing spastic diplegia in premature infants. Sensory tracts are relatively spared.
+________________
+
+
+Question 35
+A 12-year-old girl presents with night blindness and xerophthalmia. Ophthalmologic exam shows Bitot spots. Biochemical studies reveal decreased retinol and retinoic acid levels.
+Which cellular process is most directly impaired?
+A. Rhodopsin regeneration in rods
+B. Cone phototransduction
+C. Retinal ganglion apoptosis
+D. Lens protein crystallization
+E. Corneal collagen synthesis
+Correct Answer: A
+Explanation:
+ Vitamin A deficiency impairs rhodopsin regeneration in rod photoreceptors, causing night blindness and xerophthalmia. Cone function and lens proteins are less affected initially.
+________________
+
+
+Question 36
+A 7-year-old boy presents with recurrent falls and truncal ataxia. MRI reveals hypoplasia of the cerebellar vermis. Developmental history shows delayed motor milestones. Parents ask whether his cognition will be affected.
+Which statement is most accurate?
+A. Cerebellar vermis hypoplasia primarily affects coordination, with relative preservation of cognition
+B. Cognitive impairment is always severe
+C. Hyperactivity is the main manifestation
+D. Language development is unaffected
+E. Lesion indicates global CNS malformation
+Correct Answer: A
+Explanation:
+ Cerebellar vermis hypoplasia (Dandy-Walker malformation spectrum) primarily affects balance and coordination, while cognition can be relatively preserved depending on severity.
+________________
+
+
+Question 37
+A 9-year-old boy presents with behavioral outbursts, repetitive hand movements, and hyperactivity. He has a history of normal early development but intellectual disability is now evident. Genetic testing shows MECP2 mutation.
+Which disorder is most consistent?
+A. Rett syndrome
+B. Fragile X syndrome
+C. Down syndrome
+D. Angelman syndrome
+E. Prader-Willi syndrome
+Correct Answer: A
+Explanation:
+ Rett syndrome is an X-linked dominant disorder caused by MECP2 mutation, characterized by normal early development, followed by regression, stereotypies, and intellectual disability in girls.
+________________
+
+
+Question 38
+A 35-year-old woman is evaluating for ethical guidance regarding her 6-year-old son’s ADHD. She asks whether stimulant therapy affects growth or risk of substance abuse.
+Which is the most accurate statement according to current pediatric guidelines?
+A. Stimulants permanently stunt growth
+B. Stimulants increase long-term risk of substance abuse
+C. Stimulants are safe with monitoring for growth and cardiovascular effects
+D. Stimulants are contraindicated in school-aged children
+E. Stimulants do not require monitoring
+Correct Answer: C
+Explanation:
+ Stimulant therapy is first-line for ADHD, generally safe when monitored for growth, BP, and cardiac status, with minimal long-term impact on substance abuse risk.
+________________
+
+
+Question 39
+A 6-year-old girl presents with bilateral sensorineural hearing loss. She also has pigmentary anomalies in the hair and iris. Genetic testing confirms Waardenburg syndrome.
+Which embryologic process is disrupted?
+A. Neural crest cell migration
+B. Inner ear placode induction
+C. Otic vesicle formation
+D. Spiral ganglion differentiation
+E. Tympanic membrane development
+Correct Answer: A
+Explanation:
+ Waardenburg syndrome involves neural crest migration defects, leading to pigmentary anomalies, sensorineural deafness, and facial features (broad nasal root).
+________________
+
+
+Question 40
+A 4-year-old boy presents with mild intellectual disability, aggressive outbursts, and repetitive self-injurious behaviors. Genetic testing reveals FMR1 CGG trinucleotide expansion.
+Which syndrome is most consistent?
+A. Fragile X syndrome
+B. Rett syndrome
+C. Angelman syndrome
+D. Prader-Willi syndrome
+E. Williams syndrome
+Correct Answer: A
+Explanation:
+ Fragile X syndrome is caused by FMR1 CGG repeat expansion, leading to intellectual disability, behavioral disturbances, and physical features (macroorchidism later, long face, prominent ears).
+Question 41
+A 52-year-old man presents with left-sided ptosis, miosis, and anhidrosis. He also reports difficulty moving his left eye upward. MRI shows a small tumor at the apex of the left lung.
+Which statement best explains the constellation of findings?
+A. Lesion compresses sympathetic fibers and CN III
+B. Lesion compresses parasympathetic fibers and CN III
+C. Lesion affects sympathetic chain and cranial sympathetic fibers, causing Horner syndrome
+D. Lesion involves brachial plexus only
+E. Lesion affects CN VII
+Correct Answer: C
+Explanation:
+ Pancoast tumor at the lung apex can compress the cervical sympathetic chain, causing Horner syndrome (ptosis, miosis, anhidrosis). Eye movement deficits may arise from coexisting cranial nerve involvement but CN III is not directly affected.
+________________
+
+
+Question 42
+A 5-year-old boy presents with delayed motor milestones, hypotonia, and tongue fasciculations. EMG reveals denervation potentials. Genetic testing shows homozygous deletion of the SMN1 gene.
+Which structure is primarily degenerating?
+A. Alpha motor neurons in anterior horn
+B. Upper motor neurons of corticospinal tract
+C. Peripheral sensory neurons
+D. Neuromuscular junction
+E. Cerebellar Purkinje cells
+Correct Answer: A
+Explanation:
+ Spinal muscular atrophy involves degeneration of alpha motor neurons in the anterior horn, causing symmetric proximal weakness, hypotonia, and areflexia.
+________________
+
+
+Question 43
+A 7-year-old girl presents with difficulty running and frequent falls. Physical examination shows scapular winging and Gower sign. Genetic testing confirms Duchenne muscular dystrophy.
+Which protein defect explains her symptoms?
+A. Dystrophin
+B. Laminin
+C. Titin
+D. Sarcoglycan
+E. Myosin heavy chain
+Correct Answer: A
+Explanation:
+ Dystrophin deficiency destabilizes the sarcolemma, leading to progressive proximal muscle weakness, calf pseudohypertrophy, and positive Gower sign.
+________________
+
+
+Question 44
+A 6-year-old boy presents with loss of pain and temperature sensation in the upper extremities (“cape-like distribution”), with preserved vibration and proprioception. MRI shows syrinx formation in the cervical spinal cord.
+Which tract is primarily disrupted?
+A. Spinothalamic tract
+B. Dorsal columns
+C. Corticospinal tract
+D. Rubrospinal tract
+E. Vestibulospinal tract
+Correct Answer: A
+Explanation:
+ Syringomyelia typically affects decussating fibers of the spinothalamic tract in the anterior commissure, producing bilateral loss of pain/temperature in a cape-like distribution.
+________________
+
+
+Question 45
+A 4-year-old girl presents with midline facial cleft, hypertelorism, and a small median nasal mass. Imaging confirms a nasal dermoid cyst with intracranial extension.
+Which embryologic process is most likely disrupted?
+A. Ectodermal-mesenchymal separation during frontonasal prominence fusion
+B. Failure of lateral nasal prominence rotation
+C. First pharyngeal cleft closure
+D. Thyroglossal duct involution
+E. Neural tube closure
+Correct Answer: A
+Explanation:
+ Nasal dermoid cysts result from incomplete separation of ectoderm from mesenchyme during frontonasal prominence fusion, sometimes allowing intracranial extension.
+________________
+
+
+Question 46
+A 35-year-old man presents with progressive weakness of eyelid closure, difficulty swallowing, and fatigable limb weakness. Anti-AChR antibodies are positive.
+Which neuromuscular structure is primarily affected?
+A. Postsynaptic nicotinic acetylcholine receptor
+B. Presynaptic voltage-gated calcium channel
+C. Muscle-specific kinase (MuSK)
+D. Presynaptic vesicular ACh transporter
+E. T-tubule dihydropyridine receptor
+Correct Answer: A
+Explanation:
+ Myasthenia gravis is an autoimmune disorder of postsynaptic nicotinic ACh receptors, leading to fatigable weakness of ocular, bulbar, and limb muscles.
+________________
+
+
+Question 47
+A 12-year-old boy presents with gait instability, dysmetria, and intention tremor. MRI reveals midline cerebellar vermis hypoplasia. Developmental history shows delayed motor milestones.
+Which function is most affected?
+A. Truncal coordination and balance
+B. Fine motor planning
+C. Language comprehension
+D. Auditory processing
+E. Eye movements
+Correct Answer: A
+Explanation:
+ Cerebellar vermis controls truncal balance and gait, whereas lateral hemispheres coordinate distal limb movements. Lesions lead to truncal ataxia and wide-based gait.
+________________
+
+
+Question 48
+A 9-year-old girl presents with repetitive hand-flapping, hyperactivity, and anxiety. Neurodevelopmental testing shows intellectual disability. Genetic testing reveals MECP2 mutation.
+Which syndrome is most consistent?
+A. Rett syndrome
+B. Fragile X syndrome
+C. Angelman syndrome
+D. Prader-Willi syndrome
+E. Williams syndrome
+Correct Answer: A
+Explanation:
+ Rett syndrome is an X-linked dominant neurodevelopmental disorder caused by MECP2 mutation, characterized by normal early development followed by regression, stereotypies, and cognitive impairment.
+________________
+
+
+Question 49
+A 5-year-old boy presents with hyperactivity, inattention, and impulsivity. Parents ask whether stimulant therapy is safe regarding growth and long-term effects.
+Which statement is most accurate?
+A. Stimulants permanently stunt growth
+B. Stimulants significantly increase risk of long-term substance abuse
+C. Stimulants are generally safe with monitoring for growth and cardiovascular effects
+D. Stimulants are contraindicated in school-aged children
+E. Stimulants do not require follow-up
+Correct Answer: C
+Explanation:
+ Stimulant therapy for ADHD is first-line. With appropriate monitoring (height, weight, BP, HR), therapy is safe, and evidence shows no major increase in long-term substance abuse risk.
+________________
+
+
+Question 50
+A 7-year-old girl presents with bilateral sensorineural hearing loss, heterochromia of iris, and white forelock. Genetic testing confirms Waardenburg syndrome.
+Which embryologic process is primarily disrupted?
+A. Neural crest cell migration
+B. Otic placode induction
+C. Otic vesicle formation
+D. Spiral ganglion differentiation
+E. Tympanic membrane development
+Correct Answer: A
+Explanation:
+ Waardenburg syndrome arises from neural crest migration defects, affecting melanocytes, leading to pigmentary anomalies and sensorineural deafness.
+Question 51
+A 60-year-old man presents with progressive weakness in the distal lower extremities, impaired vibration and proprioception, and loss of ankle reflexes. History reveals chronic alcoholism. Laboratory studies show low serum vitamin B12.
+Which spinal cord tracts are primarily affected?
+A. Dorsal columns and lateral corticospinal tract
+B. Spinothalamic tract only
+C. Anterior corticospinal tract only
+D. Rubrospinal tract and dorsal columns
+E. Vestibulospinal tract and spinocerebellar tract
+Correct Answer: A
+Explanation:
+ Subacute combined degeneration from B12 deficiency affects the dorsal columns (vibration/proprioception) and lateral corticospinal tracts (spastic weakness), explaining distal paresthesia and gait instability.
+________________
+
+
+Question 52
+A 45-year-old woman presents with progressive drooping of eyelids, diplopia, and dysphagia that worsen in the evening. Anti-AChR antibodies are positive. EMG shows decremental response on repetitive stimulation.
+Which neuromuscular structure is primarily impaired?
+A. Postsynaptic nicotinic acetylcholine receptors
+B. Presynaptic voltage-gated calcium channels
+C. Muscle-specific kinase (MuSK)
+D. Presynaptic vesicular acetylcholine transporter
+E. T-tubule voltage sensors
+Correct Answer: A
+Explanation:
+ Myasthenia gravis involves autoantibodies targeting postsynaptic nicotinic ACh receptors, leading to fatigable weakness of ocular, bulbar, and limb muscles.
+________________
+
+
+Question 53
+A 10-year-old boy presents with proximal muscle weakness, Gower sign, and calf pseudohypertrophy. Genetic testing reveals a deletion in the DMD gene.
+Which structure is primarily compromised?
+A. Sarcolemma stability due to dystrophin deficiency
+B. Myosin heavy chain function
+C. Laminin integrity
+D. Titin elasticity
+E. Sarcoplasmic reticulum calcium storage
+Correct Answer: A
+Explanation:
+ Duchenne muscular dystrophy arises from dystrophin deficiency, leading to sarcolemma instability, muscle fiber necrosis, and progressive proximal weakness.
+________________
+
+
+Question 54
+A 6-year-old boy presents with bilateral loss of pain and temperature in a “cape-like” distribution. MRI shows a syrinx in the cervical spinal cord.
+Which fibers are most affected first?
+A. Decussating spinothalamic fibers in the anterior commissure
+B. Dorsal column fibers
+C. Corticospinal tract fibers
+D. Rubrospinal tract fibers
+E. Vestibulospinal fibers
+Correct Answer: A
+Explanation:
+ Syringomyelia primarily damages decussating spinothalamic fibers in the anterior commissure, causing bilateral loss of pain/temperature in the upper extremities, while sparing dorsal columns.
+________________
+
+
+Question 55
+A 5-year-old girl presents with a midline nasal mass, hypertelorism, and cleft palate. Imaging confirms a nasal dermoid with intracranial extension.
+Which embryologic process is disrupted?
+A. Incomplete separation of ectoderm and mesenchyme during frontonasal prominence fusion
+B. Failure of branchial cleft closure
+C. Thyroglossal duct persistence
+D. Neural tube closure failure
+E. Lateral nasal prominence rotation
+Correct Answer: A
+Explanation:
+ Nasal dermoid cysts result from failure of ectoderm-mesenchyme separation during frontonasal prominence fusion, sometimes allowing intracranial extension.
+________________
+
+
+Question 56
+A 9-year-old boy presents with delayed milestones, hypotonia, and tongue fasciculations. EMG shows denervation potentials. Genetic testing confirms SMN1 mutation.
+Which structure is degenerating?
+A. Alpha motor neurons in anterior horn
+B. Corticospinal upper motor neurons
+C. Peripheral sensory neurons
+D. Muscle fiber sarcolemma
+E. Cerebellar Purkinje cells
+Correct Answer: A
+Explanation:
+ Spinal muscular atrophy results from alpha motor neuron degeneration in the anterior horn, causing symmetric proximal weakness, hypotonia, and hyporeflexia.
+________________
+
+
+Question 57
+A 12-year-old girl presents with hyperactivity, anxiety, and repetitive hand-flapping. Genetic testing confirms MECP2 mutation. Parents ask about prognosis.
+Which statement is most accurate?
+A. Regression is common after normal early development
+B. Symptoms improve spontaneously without intervention
+C. Intellectual function remains normal
+D. Only motor function is affected
+E. Visual processing is primarily impaired
+Correct Answer: A
+Explanation:
+ Rett syndrome presents with normal early development followed by regression, stereotypies, and cognitive impairment. Prognosis varies; interventions are supportive.
+________________
+
+
+Question 58
+A 7-year-old boy with ADHD is evaluated for stimulant therapy. His parents ask about potential risks for growth suppression and long-term addiction.
+Which is correct?
+A. Stimulants are generally safe with monitoring of growth and cardiovascular parameters
+B. Stimulants cause permanent stunting of growth
+C. Stimulants are contraindicated in children under 12
+D. Stimulants universally increase risk of substance abuse
+E. Stimulants do not require any follow-up
+Correct Answer: A
+Explanation:
+ Stimulants are safe when monitored for height, weight, BP, and HR. Evidence shows no significant long-term increase in substance abuse. Regular follow-up is recommended.
+________________
+
+
+Question 59
+A 6-year-old girl presents with bilateral sensorineural hearing loss, heterochromia, and a white forelock. Genetic testing confirms Waardenburg syndrome.
+Which embryologic process is disrupted?
+A. Neural crest cell migration
+B. Otic vesicle formation
+C. Spiral ganglion differentiation
+D. Tympanic membrane development
+E. Lateral nasal prominence fusion
+Correct Answer: A
+Explanation:
+ Waardenburg syndrome arises from neural crest migration defects, causing pigmentary anomalies and sensorineural deafness.
+________________
+
+
+Question 60
+A 4-year-old boy presents with intellectual disability, repetitive self-injurious behaviors, and aggression. Genetic testing shows FMR1 CGG trinucleotide expansion.
+Which syndrome is most consistent?
+A. Fragile X syndrome
+B. Rett syndrome
+C. Angelman syndrome
+D. Prader-Willi syndrome
+E. Williams syndrome
+Correct Answer: A
+Explanation:
+ Fragile X syndrome is caused by FMR1 CGG repeat expansion, leading to intellectual disability, behavioral disturbances, and characteristic physical features (long face, large ears, macroorchidism later).

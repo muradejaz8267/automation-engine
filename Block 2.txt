@@ -1,0 +1,893 @@
+﻿Question 1
+A 54-year-old man presents with 3 months of progressive fatigue, pruritus, and dark urine. He drinks alcohol socially and takes no medications. Examination shows scleral icterus and mild hepatomegaly. Labs reveal:
+* ALP markedly elevated
+* AST/ALT mildly elevated
+* Total bilirubin 6.2 mg/dL (direct predominant)
+* Anti-mitochondrial antibodies positive
+Which additional finding is most likely present?
+Answer Choices:
+(A) Iron deposition in hepatocytes
+(B) Interface hepatitis on biopsy
+(C) Destruction of intrahepatic bile ducts
+(D) Portal hypertension with ascites
+(E) Mallory bodies
+Correct Answer: C
+Explanation:
+This is primary biliary cholangitis—cholestatic labs, pruritus, AMA positivity—caused by immune-mediated destruction of intrahepatic bile ducts, leading to cholestasis.
+________________
+
+
+Question 2
+A 67-year-old woman presents with sudden-onset epigastric pain radiating to the back, nausea, and vomiting. She drinks wine daily. Lipase is 1,800 U/L. CT shows pancreatic edema without necrosis. After 24 hours of aggressive IV fluids, she develops increasing oxygen requirements and hypotension.
+Which mechanism best explains her clinical deterioration?
+Answer Choices:
+(A) Pancreatic duct obstruction
+(B) Bacterial translocation
+(C) Systemic inflammatory cytokine release
+(D) Hypocalcemia-induced arrhythmia
+(E) Autoimmune pancreatitis
+Correct Answer: C
+Explanation:
+Severe acute pancreatitis can trigger SIRS via cytokines (TNF‑α, IL‑1), leading to ARDS and shock even without necrosis.
+________________
+
+
+Question 3
+A 45-year-old man with Crohn disease presents with progressive fatigue and dyspnea. Labs show macrocytic anemia, low reticulocyte count, and normal folate levels. He underwent terminal ileal resection 2 years ago.
+Which abnormality most likely explains his anemia?
+Answer Choices:
+(A) Iron malabsorption
+(B) Decreased intrinsic factor
+(C) Impaired vitamin B₁₂ absorption
+(D) Chronic inflammation
+(E) Hemolysis
+Correct Answer: C
+Explanation:
+Vitamin B₁₂ is absorbed in the terminal ileum. Resection causes megaloblastic anemia with neurologic risk.
+________________
+
+
+Question 4
+A 59-year-old man with cirrhosis presents with confusion and asterixis. Labs show elevated ammonia. He is treated with lactulose.
+What is the primary mechanism by which lactulose improves his condition?
+Answer Choices:
+(A) Increased ammonia renal excretion
+(B) Acidification of colonic contents
+(C) Reduced protein absorption
+(D) Enhanced hepatic metabolism
+(E) Increased intestinal motility only
+Correct Answer: B
+Explanation:
+Lactulose acidifies the colon, converting NH₃ → NH₄⁺, trapping ammonia in the gut and reducing absorption.
+________________
+
+
+Question 5
+A 63-year-old woman presents with progressive dysphagia to solids and liquids. Barium swallow shows a “bird’s beak” appearance. Manometry demonstrates incomplete LES relaxation.
+Which additional finding is most likely present?
+Answer Choices:
+(A) Increased gastric acid secretion
+(B) Absence of ganglion cells in the esophagus
+(C) Hiatal hernia
+(D) Esophageal eosinophilia
+(E) Barrett metaplasia
+Correct Answer: B
+Explanation:
+This is achalasia, caused by loss of inhibitory neurons (NO, VIP) in the myenteric plexus → impaired LES relaxation.
+________________
+
+
+Question 6
+A 72-year-old hospitalized patient receiving tube feeds develops profuse watery diarrhea, abdominal distension, and leukocytosis. Stool toxin assay is positive.
+Which medication most likely predisposed this patient to his condition?
+Answer Choices:
+(A) Metformin
+(B) Omeprazole
+(C) Ceftriaxone
+(D) Loperamide
+(E) Mesalamine
+Correct Answer: C
+Explanation:
+Broad-spectrum antibiotics (e.g., cephalosporins) predispose to Clostridioides difficile infection by disrupting gut flora.
+________________
+
+
+Question 7
+A 60-year-old man presents with painless jaundice, weight loss, and pale stools. CT scan shows a mass in the head of the pancreas.
+Which additional finding is most likely?
+Answer Choices:
+(A) Elevated AFP
+(B) Courvoisier sign
+(C) Hypercalcemia
+(D) Recurrent hypoglycemia
+(E) Portal vein thrombosis
+Correct Answer: B
+Explanation:
+Pancreatic head cancer causes painless obstructive jaundice and palpable, non-tender gallbladder (Courvoisier sign).
+________________
+
+
+Question 8
+A 48-year-old woman presents with chronic diarrhea and weight loss. Stool studies show increased fecal fat. Anti‑tissue transglutaminase antibodies are positive.
+Which complication is she at highest risk of developing?
+Answer Choices:
+(A) Colon cancer
+(B) Gastric adenocarcinoma
+(C) Enteropathy-associated T‑cell lymphoma
+(D) Pancreatic adenocarcinoma
+(E) Zollinger–Ellison syndrome
+Correct Answer: C
+Explanation:
+Celiac disease increases risk of enteropathy‑associated T‑cell lymphoma, especially if untreated.
+________________
+
+
+Question 9
+A 55-year-old man with alcoholic cirrhosis develops ascites. Paracentesis shows SAAG >1.1 g/dL.
+What is the primary mechanism driving fluid accumulation?
+Answer Choices:
+(A) Hypoalbuminemia
+(B) Portal hypertension
+(C) Renal tubular injury
+(D) Increased lymphatic permeability
+(E) Cardiac dysfunction
+Correct Answer: B
+Explanation:
+A high SAAG indicates portal hypertension, which increases hydrostatic pressure and drives ascites formation.
+________________
+
+
+Question 10
+A critically ill patient receiving prolonged parenteral nutrition develops cholestasis and elevated liver enzymes.
+Which deficiency most likely contributed?
+Answer Choices:
+(A) Vitamin A
+(B) Vitamin D
+(C) Choline
+(D) Zinc
+(E) Selenium
+Correct Answer: C
+Explanation:
+Choline deficiency during TPN impairs VLDL synthesis → fatty liver and cholestasis.
+Question 11
+A 62-year-old man with known cirrhosis secondary to hepatitis C presents with hematemesis and melena. Blood pressure is 86/52 mm Hg, heart rate 118/min. He is confused and actively vomiting blood. Labs show hemoglobin 7.4 g/dL and INR 2.1.
+After securing the airway and initiating IV fluids, which intervention should be started immediately before endoscopy?
+Answer Choices:
+(A) IV proton pump inhibitor
+(B) IV octreotide
+(C) Oral propranolol
+(D) Balloon tamponade
+(E) IV vitamin K
+Correct Answer: B
+Explanation:
+This is suspected variceal bleeding. After ABCs, octreotide must be started immediately to reduce portal pressure before endoscopy. PPIs are adjuncts; balloon tamponade is rescue therapy only.
+________________
+
+
+Question 12
+A 58-year-old woman presents with progressive fatigue, pruritus, and jaundice. Labs show:
+* ALP markedly elevated
+* AST/ALT mildly elevated
+* Negative anti‑mitochondrial antibodies
+* Positive anti–smooth muscle antibodies
+Liver biopsy reveals interface hepatitis.
+What is the most appropriate initial treatment?
+Answer Choices:
+(A) Ursodeoxycholic acid
+(B) Azathioprine alone
+(C) Prednisone
+(D) Cholestyramine
+(E) Liver transplantation
+Correct Answer: C
+Explanation:
+This is autoimmune hepatitis (interface hepatitis, anti–smooth muscle antibodies). Corticosteroids are first‑line; azathioprine is added for maintenance.
+________________
+
+
+Question 13
+A 70-year-old man presents with acute onset abdominal pain out of proportion to physical exam. He has atrial fibrillation and is not anticoagulated. Lactate is elevated.
+Which imaging modality is most appropriate to confirm the diagnosis?
+Answer Choices:
+(A) Abdominal ultrasound
+(B) CT abdomen without contrast
+(C) CT angiography
+(D) MRI abdomen
+(E) Colonoscopy
+Correct Answer: C
+Explanation:
+This presentation suggests acute mesenteric ischemia. CT angiography is the diagnostic test of choice to identify arterial occlusion.
+________________
+
+
+Question 14
+A 46-year-old woman presents with chronic epigastric pain, steatorrhea, and weight loss. She has a history of long-standing alcohol use. CT shows pancreatic calcifications.
+Which additional complication is she at highest risk of developing?
+Answer Choices:
+(A) Hypoglycemia
+(B) Pancreatic adenocarcinoma
+(C) Acute pseudocyst rupture
+(D) Zollinger–Ellison syndrome
+(E) Autoimmune pancreatitis
+Correct Answer: B
+Explanation:
+Chronic pancreatitis, especially alcohol-related, significantly increases the risk of pancreatic adenocarcinoma.
+________________
+
+
+Question 15
+A hospitalized patient develops massive diarrhea and hypotension. Stool studies confirm Clostridioides difficile. Despite oral vancomycin, symptoms worsen and abdominal distension develops. CT shows toxic megacolon.
+What is the next best step?
+Answer Choices:
+(A) Add fidaxomicin
+(B) Add IV metronidazole
+(C) Increase vancomycin dose
+(D) Colonoscopy with decompression
+(E) Subtotal colectomy
+Correct Answer: E
+Explanation:
+Toxic megacolon with systemic instability is an indication for urgent surgical intervention (subtotal colectomy).
+________________
+
+
+Question 16
+A 65-year-old man presents with iron‑deficiency anemia and occult blood in stool. Colonoscopy reveals a right‑sided colon mass.
+Which additional finding is most likely?
+Answer Choices:
+(A) Obstructive symptoms
+(B) Pencil‑thin stools
+(C) Weight loss without obstruction
+(D) Early bowel obstruction
+(E) Left‑sided abdominal pain
+Correct Answer: C
+Explanation:
+Right‑sided colon cancer presents with occult bleeding and anemia, often without obstruction due to larger lumen diameter.
+________________
+
+
+Question 17
+A 52-year-old woman presents with dysphagia and chest pain. Endoscopy shows concentric rings and linear furrows in the esophagus. Biopsy reveals eosinophilic infiltration.
+What is the most appropriate initial treatment?
+Answer Choices:
+(A) Proton pump inhibitor
+(B) Oral corticosteroids
+(C) Endoscopic dilation
+(D) Elimination diet
+(E) H2 blocker
+Correct Answer: A
+Explanation:
+Eosinophilic esophagitis is initially treated with a PPI. Steroids or elimination diets are second‑line if symptoms persist.
+________________
+
+
+Question 18
+A patient with chronic liver disease presents with increasing abdominal girth and dyspnea. Paracentesis reveals cloudy fluid with neutrophil count of 450 cells/mm³.
+What is the most appropriate treatment?
+Answer Choices:
+(A) Albumin infusion only
+(B) IV ceftriaxone
+(C) Oral ciprofloxacin
+(D) Therapeutic paracentesis only
+(E) Emergent TIPS
+Correct Answer: B
+Explanation:
+This is spontaneous bacterial peritonitis (SBP). Treat immediately with third‑generation cephalosporins. Albumin is added in select cases but antibiotics are primary.
+________________
+
+
+Question 19
+A 49-year-old man presents with severe peptic ulcer disease refractory to PPIs. Fasting gastrin level is markedly elevated and does not suppress with secretin.
+Which associated condition is most likely?
+Answer Choices:
+(A) MEN1
+(B) MEN2
+(C) Carcinoid syndrome
+(D) GIST tumor
+(E) Pancreatic adenocarcinoma
+Correct Answer: A
+Explanation:
+This is Zollinger–Ellison syndrome, commonly associated with MEN1 (parathyroid, pituitary, pancreatic tumors).
+________________
+
+
+Question 20
+A patient receiving long-term total parenteral nutrition develops metabolic bone disease.
+Which nutrient deficiency is most directly responsible?
+Answer Choices:
+(A) Vitamin A
+(B) Vitamin C
+(C) Vitamin D
+(D) Zinc
+(E) Copper
+Correct Answer: C
+Explanation:
+Vitamin D deficiency during prolonged TPN leads to impaired calcium absorption and osteomalacia/metabolic bone disease.
+Question 21
+A 64-year-old man with cirrhosis due to alcohol use presents with progressive abdominal distension and shortness of breath. He undergoes large-volume paracentesis with removal of 7 liters of ascitic fluid. Six hours later, he develops hypotension, tachycardia, and worsening renal function.
+Which intervention would have most effectively prevented this complication?
+Answer Choices:
+(A) IV furosemide prior to paracentesis
+(B) IV normal saline after paracentesis
+(C) IV albumin during or after paracentesis
+(D) Vasopressin infusion
+(E) Prophylactic antibiotics
+Correct Answer: C
+Explanation:
+Large‑volume paracentesis (>5 L) can cause paracentesis‑induced circulatory dysfunction. IV albumin prevents intravascular volume depletion and renal failure.
+________________
+
+
+Question 22
+A 58-year-old woman presents with chronic bloody diarrhea, abdominal pain, and weight loss. Colonoscopy shows continuous mucosal inflammation starting at the rectum and extending proximally. Biopsy reveals crypt abscesses.
+Which extraintestinal manifestation is she at highest risk of developing?
+Answer Choices:
+(A) Nephrolithiasis
+(B) Cholangiocarcinoma
+(C) Primary sclerosing cholangitis
+(D) Small bowel obstruction
+(E) Erythema nodosum only
+Correct Answer: C
+Explanation:
+Ulcerative colitis is strongly associated with primary sclerosing cholangitis, which increases risk of cholangiocarcinoma.
+________________
+
+
+Question 23
+A 71-year-old man with long-standing atrial fibrillation presents with sudden onset severe abdominal pain. Physical exam is benign. Labs show metabolic acidosis and elevated lactate.
+Which finding would most strongly support the diagnosis?
+Answer Choices:
+(A) Dilated loops of bowel on x‑ray
+(B) Pneumatosis intestinalis on CT
+(C) Thickened bowel wall
+(D) Elevated amylase
+(E) Positive fecal occult blood
+Correct Answer: B
+Explanation:
+Acute mesenteric ischemia presents with pain out of proportion to exam. Pneumatosis intestinalis indicates bowel wall ischemia and necrosis.
+________________
+
+
+Question 24
+A 52-year-old woman presents with progressive dysphagia to solids, early satiety, and weight loss. Endoscopy shows an irregular ulcerated mass in the distal stomach. Biopsy confirms gastric adenocarcinoma.
+Which risk factor most likely contributed to her disease?
+Answer Choices:
+(A) Barrett esophagus
+(B) Achalasia
+(C) Chronic Helicobacter pylori infection
+(D) Alcohol use
+(E) Crohn disease
+Correct Answer: C
+Explanation:
+Chronic H. pylori infection causes intestinal metaplasia → dysplasia → gastric adenocarcinoma.
+________________
+
+
+Question 25
+A patient with Crohn disease presents with crampy abdominal pain and vomiting. CT scan shows dilated loops of small bowel with a transition point.
+Which underlying mechanism most likely caused this complication?
+Answer Choices:
+(A) Autoimmune destruction of enteric neurons
+(B) Transmural inflammation leading to fibrosis
+(C) Mucosal ulceration only
+(D) Immune complex deposition
+(E) Colonic pseudopolyps
+Correct Answer: B
+Explanation:
+Crohn disease causes transmural inflammation, leading to fibrosis and strictures, resulting in small bowel obstruction.
+________________
+
+
+Question 26
+A 60-year-old man presents with upper GI bleeding. Endoscopy reveals large gastric varices. He has no esophageal varices. CT shows splenic vein thrombosis.
+What is the most likely underlying cause?
+Answer Choices:
+(A) Alcoholic cirrhosis
+(B) Portal vein thrombosis
+(C) Chronic pancreatitis
+(D) Hepatocellular carcinoma
+(E) Budd–Chiari syndrome
+Correct Answer: C
+Explanation:
+Splenic vein thrombosis, often due to chronic pancreatitis, causes isolated gastric varices without esophageal involvement.
+________________
+
+
+Question 27
+A critically ill patient develops stress-related mucosal bleeding in the ICU.
+Which intervention is most effective for prevention?
+Answer Choices:
+(A) Sucralfate
+(B) H2 blocker
+(C) Proton pump inhibitor
+(D) Enteral feeding
+(E) Antacids
+Correct Answer: D
+Explanation:
+Early enteral nutrition is the most effective strategy to prevent stress ulcers by maintaining mucosal integrity.
+________________
+
+
+Question 28
+A 56-year-old man with cirrhosis presents with progressive renal failure, low urine sodium, and bland urine sediment. Renal ultrasound is normal.
+Which therapy is most appropriate?
+Answer Choices:
+(A) IV fluids alone
+(B) Loop diuretics
+(C) Norepinephrine plus albumin
+(D) Hemodialysis immediately
+(E) Renal biopsy
+Correct Answer: C
+Explanation:
+This is hepatorenal syndrome, treated with vasoconstrictors (e.g., norepinephrine, terlipressin) plus albumin.
+________________
+
+
+Question 29
+A 44-year-old woman presents with chronic diarrhea, weight loss, and dermatitis herpetiformis. Labs show iron deficiency anemia.
+Which intestinal abnormality is most likely present?
+Answer Choices:
+(A) Crypt hyperplasia and villous atrophy
+(B) Thickened submucosa
+(C) Transmural granulomas
+(D) Loss of haustrations
+(E) Pseudopolyps
+Correct Answer: A
+Explanation:
+This is celiac disease, characterized by villous atrophy and crypt hyperplasia, causing malabsorption.
+________________
+
+
+Question 30
+A patient with acute upper GI bleeding undergoes endoscopy showing a clean-based duodenal ulcer.
+What is the most appropriate next step?
+Answer Choices:
+(A) Emergent surgery
+(B) Endoscopic clipping
+(C) IV octreotide
+(D) Proton pump inhibitor therapy
+(E) Repeat endoscopy in 6 hours
+Correct Answer: D
+Explanation:
+Clean-based ulcers have low rebleeding risk. Treat with PPI therapy alone; no endoscopic intervention required.
+
+
+Question 31
+A 60-year-old man with long-standing alcoholic cirrhosis presents with massive hematemesis. He is intubated for airway protection. Initial endoscopy reveals large esophageal varices with active bleeding that is temporarily controlled with band ligation. Despite optimal medical therapy (octreotide, antibiotics), he rebleeds within 48 hours.
+Which intervention offers the greatest reduction in recurrent bleeding and mortality?
+Answer Choices:
+(A) Repeat endoscopic band ligation
+(B) Nonselective beta-blocker therapy alone
+(C) Transjugular intrahepatic portosystemic shunt (TIPS)
+(D) Balloon tamponade as definitive therapy
+(E) Orthotopic liver transplantation
+Correct Answer: C
+Explanation:
+In refractory or recurrent variceal bleeding, early TIPS significantly reduces rebleeding and improves survival by decompressing portal hypertension. Balloon tamponade is only a temporary bridge.
+________________
+
+
+Question 32
+A 72-year-old woman presents with acute onset left lower quadrant pain, fever, and leukocytosis. CT scan shows colonic wall thickening with pericolic fat stranding and small abscess formation.
+What is the most appropriate management?
+Answer Choices:
+(A) Emergent surgical resection
+(B) Oral antibiotics only
+(C) IV antibiotics with percutaneous abscess drainage
+(D) Colonoscopy for decompression
+(E) Supportive care alone
+Correct Answer: C
+Explanation:
+This is complicated diverticulitis with abscess. Management includes IV antibiotics and percutaneous drainage. Surgery is reserved for perforation or failure of conservative therapy.
+________________
+
+
+Question 33
+A 55-year-old man presents with chronic watery diarrhea, hypokalemia, and metabolic acidosis. CT scan reveals a pancreatic mass. Serum VIP levels are markedly elevated.
+Which additional finding is most likely?
+Answer Choices:
+(A) Hypoglycemia
+(B) Achlorhydria
+(C) Hypercalcemia
+(D) Steatorrhea with fat-soluble vitamin deficiency
+(E) Elevated gastrin levels
+Correct Answer: B
+Explanation:
+This is a VIPoma, causing watery diarrhea, hypokalemia, and achlorhydria (WDHA syndrome) due to inhibition of gastric acid secretion.
+________________
+
+
+Question 34
+A 48-year-old man with ulcerative colitis presents for routine follow-up. He has had disease for 12 years with extensive colonic involvement but is currently asymptomatic.
+What is the most appropriate next step in management?
+Answer Choices:
+(A) Continue current therapy without further evaluation
+(B) Begin prophylactic colectomy
+(C) Colonoscopy with random biopsies
+(D) CT colonography
+(E) Fecal calprotectin testing only
+Correct Answer: C
+Explanation:
+Patients with ulcerative colitis >8–10 years require regular surveillance colonoscopy with random biopsies due to increased colorectal cancer risk.
+________________
+
+
+Question 35
+A 66-year-old man with chronic pancreatitis presents with worsening epigastric pain and early satiety. CT shows a 7‑cm pancreatic pseudocyst persisting for 8 weeks.
+Which is the most appropriate management?
+Answer Choices:
+(A) Observation only
+(B) Percutaneous drainage
+(C) Endoscopic or surgical drainage
+(D) Broad-spectrum antibiotics
+(E) Pancreatic resection
+Correct Answer: C
+Explanation:
+Symptomatic or persistent pseudocysts (>6 weeks) require endoscopic or surgical drainage due to risk of infection, rupture, or obstruction.
+________________
+
+
+Question 36
+A 70-year-old ICU patient develops abdominal distension, pain, and hematochezia. He is hypotensive and on vasopressors. CT shows segmental colonic wall thickening in watershed areas.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Ulcerative colitis flare
+(B) Infectious colitis
+(C) Ischemic colitis
+(D) Mesenteric venous thrombosis
+(E) Toxic megacolon
+Correct Answer: C
+Explanation:
+Ischemic colitis occurs in low-flow states and affects watershed areas (splenic flexure, rectosigmoid junction), often presenting with abdominal pain and bloody diarrhea.
+________________
+
+
+Question 37
+A 57-year-old woman presents with fatigue and iron deficiency anemia. Endoscopy shows atrophic gastritis. Labs reveal elevated gastrin levels and low vitamin B₁₂.
+Which mechanism best explains her condition?
+Answer Choices:
+(A) Increased acid production
+(B) Autoimmune destruction of parietal cells
+(C) H. pylori–induced hyperplasia
+(D) Zollinger–Ellison syndrome
+(E) Dietary vitamin B₁₂ deficiency
+Correct Answer: B
+Explanation:
+This describes autoimmune (pernicious) gastritis, caused by immune-mediated destruction of parietal cells, leading to achlorhydria, hypergastrinemia, and B₁₂ deficiency.
+________________
+
+
+Question 38
+A 61-year-old man with cirrhosis presents with worsening confusion. He is compliant with lactulose but continues to have recurrent episodes of encephalopathy.
+Which additional therapy is most appropriate?
+Answer Choices:
+(A) Increase dietary protein restriction
+(B) Add rifaximin
+(C) Start benzodiazepines
+(D) Perform emergent TIPS
+(E) Initiate corticosteroids
+Correct Answer: B
+Explanation:
+Rifaximin, a nonabsorbable antibiotic, reduces ammonia-producing gut bacteria and is added for recurrent hepatic encephalopathy despite lactulose.
+________________
+
+
+Question 39
+A 50-year-old man presents with progressive dysphagia and regurgitation of undigested food. Endoscopy shows retained food and a dilated esophagus without mucosal lesions.
+Which diagnostic test confirms the diagnosis?
+Answer Choices:
+(A) Barium swallow
+(B) Upper endoscopy
+(C) Esophageal manometry
+(D) CT chest
+(E) pH monitoring
+Correct Answer: C
+Explanation:
+Esophageal manometry is the gold standard for diagnosing achalasia, demonstrating impaired LES relaxation and aperistalsis.
+________________
+
+
+Question 40
+A malnourished alcoholic patient is started on enteral nutrition and develops hypophosphatemia, edema, and cardiac arrhythmias within 48 hours.
+Which mechanism best explains this complication?
+Answer Choices:
+(A) Increased insulin resistance
+(B) Decreased aldosterone
+(C) Intracellular shift of electrolytes
+(D) Protein malabsorption
+(E) Hepatic failure
+Correct Answer: C
+Explanation:
+This is refeeding syndrome, caused by insulin-mediated intracellular shift of phosphate, potassium, and magnesium, leading to life‑threatening complications.
+Question 41
+A 58-year-old man with decompensated cirrhosis due to NASH presents with recurrent ascites despite maximal diuretic therapy. He has required large-volume paracentesis every 10–14 days. Labs show creatinine 1.4 mg/dL, total bilirubin 2.8 mg/dL, INR 1.6, and sodium 128 mEq/L. He has no active infection or encephalopathy.
+Which intervention is most appropriate to reduce ascites recurrence?
+Answer Choices:
+(A) Increase spironolactone dose
+(B) Serial paracentesis only
+(C) TIPS placement
+(D) Albumin infusions weekly
+(E) Immediate liver transplantation
+Correct Answer: C
+Explanation:
+This patient has refractory ascites, an indication for TIPS, which reduces portal pressure and ascites recurrence in appropriate candidates without severe hepatic failure.
+________________
+
+
+Question 42
+A 64-year-old woman presents with episodic flushing, watery diarrhea, and wheezing. CT reveals a mass in the distal ileum with liver metastases. Urinary 5‑HIAA is markedly elevated.
+Which cardiac abnormality is she most likely to develop?
+Answer Choices:
+(A) Mitral regurgitation
+(B) Aortic stenosis
+(C) Tricuspid regurgitation
+(D) Left ventricular hypertrophy
+(E) Dilated cardiomyopathy
+Correct Answer: C
+Explanation:
+Carcinoid syndrome causes right‑sided valvular fibrosis, most commonly tricuspid regurgitation, due to serotonin metabolism in the lungs.
+________________
+
+
+Question 43
+A 70-year-old man presents with painless jaundice, weight loss, and new-onset diabetes. Imaging reveals a pancreatic head mass with dilation of both the common bile duct and pancreatic duct.
+Which molecular abnormality is most commonly associated with this malignancy?
+Answer Choices:
+(A) APC mutation
+(B) BRAF mutation
+(C) KRAS mutation
+(D) TP53 deletion only
+(E) MEN1 mutation
+Correct Answer: C
+Explanation:
+Pancreatic ductal adenocarcinoma is strongly associated with KRAS mutations, along with p16 and TP53 abnormalities.
+________________
+
+
+Question 44
+A critically ill trauma patient has been NPO for 10 days. Enteral feeding is initiated via nasogastric tube. Within 24 hours, he develops abdominal distension, high gastric residuals, and vomiting.
+What is the most appropriate next step?
+Answer Choices:
+(A) Switch to parenteral nutrition
+(B) Decrease caloric intake only
+(C) Place post‑pyloric feeding tube
+(D) Add prokinetic agents and continue feeding
+(E) Stop feeding permanently
+Correct Answer: C
+Explanation:
+In critically ill patients with poor gastric emptying, post‑pyloric feeding reduces aspiration risk and improves nutrient delivery.
+________________
+
+
+Question 45
+A 61-year-old man presents with chronic diarrhea and weight loss. Endoscopy reveals thickened gastric folds. Gastric pH is elevated. Biopsy shows foveolar hyperplasia.
+Which diagnosis best explains these findings?
+Answer Choices:
+(A) Zollinger–Ellison syndrome
+(B) Ménétrier disease
+(C) Gastric lymphoma
+(D) H. pylori gastritis
+(E) Autoimmune gastritis
+Correct Answer: B
+Explanation:
+Ménétrier disease causes protein-losing hypertrophic gastropathy, thickened folds, hypochlorhydria, and weight loss.
+________________
+
+
+Question 46
+A patient with ulcerative colitis presents with acute abdominal distension, fever, tachycardia, and hypotension. Abdominal x‑ray shows transverse colon dilation of 7 cm.
+Which is the most appropriate next step?
+Answer Choices:
+(A) High-dose loperamide
+(B) Emergent colonoscopy
+(C) IV corticosteroids and broad-spectrum antibiotics
+(D) Oral mesalamine
+(E) Elective colectomy after stabilization
+Correct Answer: C
+Explanation:
+This is toxic megacolon. Initial management is bowel rest, IV steroids, and antibiotics. Surgery is reserved for perforation or refractory cases.
+________________
+
+
+Question 47
+A 55-year-old man with cirrhosis develops progressive dyspnea. Pulse oximetry shows oxygen saturation of 88% that improves when lying flat. Contrast echocardiography shows delayed bubble appearance in the left atrium.
+What is the underlying mechanism?
+Answer Choices:
+(A) Pulmonary embolism
+(B) Portopulmonary hypertension
+(C) Hepatopulmonary syndrome
+(D) Left heart failure
+(E) Pleural effusion
+Correct Answer: C
+Explanation:
+Hepatopulmonary syndrome causes intrapulmonary vasodilation, leading to hypoxemia that improves with recumbency (orthodeoxia).
+________________
+
+
+Question 48
+A 49-year-old woman presents with chronic abdominal pain, bloating, and alternating diarrhea and constipation. Colonoscopy and labs are normal.
+Which management strategy has the strongest evidence for symptom improvement?
+Answer Choices:
+(A) Long-term antibiotics
+(B) High-dose steroids
+(C) Low FODMAP diet
+(D) Chronic opioid therapy
+(E) Gluten-free diet universally
+Correct Answer: C
+Explanation:
+For irritable bowel syndrome, a low FODMAP diet has strong evidence for reducing bloating and abdominal pain.
+________________
+
+
+Question 49
+A malnourished patient with chronic alcoholism presents with confusion, ataxia, and ophthalmoplegia. He is started on IV glucose.
+Which complication is he now at highest risk of developing?
+Answer Choices:
+(A) Hepatic encephalopathy
+(B) Refeeding syndrome
+(C) Worsening Wernicke encephalopathy
+(D) Acute pancreatitis
+(E) Lactic acidosis
+Correct Answer: C
+Explanation:
+Thiamine must be given before glucose. Glucose administration worsens Wernicke encephalopathy by increasing thiamine demand.
+________________
+
+
+Question 50
+A 68-year-old man with chronic GERD undergoes endoscopy revealing intestinal metaplasia without dysplasia in the distal esophagus.
+What is the most appropriate management?
+Answer Choices:
+(A) Esophagectomy
+(B) Endoscopic ablation
+(C) High-dose PPI and surveillance
+(D) Add H2 blocker only
+(E) Stop acid suppression
+Correct Answer: C
+Explanation:
+Barrett esophagus without dysplasia is managed with PPI therapy and periodic surveillance endoscopy, not ablation or surgery.
+Question 51
+A 59-year-old man with cirrhosis secondary to hepatitis C presents for transplant evaluation. He has recurrent ascites, one episode of variceal bleeding, and mild hepatic encephalopathy controlled with lactulose. Labs show: bilirubin 3.1 mg/dL, INR 1.9, creatinine 1.6 mg/dL, sodium 130 mEq/L.
+Which factor most strongly determines his priority on the liver transplant waiting list?
+Answer Choices:
+(A) Number of decompensation events
+(B) Presence of hepatocellular carcinoma
+(C) Child–Pugh classification
+(D) MELD score
+(E) Duration of cirrhosis
+Correct Answer: D
+Explanation:
+MELD score (bilirubin, INR, creatinine, sodium) is used to prioritize liver transplant allocation based on short‑term mortality risk.
+________________
+
+
+Question 52
+A 63-year-old man presents with painless jaundice and pruritus. Imaging shows a pancreatic head mass encasing the superior mesenteric artery. No distant metastases are identified.
+What is the most appropriate management?
+Answer Choices:
+(A) Immediate Whipple procedure
+(B) Neoadjuvant chemotherapy followed by surgery
+(C) Palliative biliary stenting and chemotherapy
+(D) Radiation therapy alone
+(E) Liver transplantation
+Correct Answer: C
+Explanation:
+Vascular encasement makes the tumor unresectable. Management is palliation with biliary decompression and systemic therapy.
+________________
+
+
+Question 53
+A 47-year-old woman presents with episodic confusion relieved by eating. Labs during symptoms show glucose 42 mg/dL with inappropriately elevated insulin and C‑peptide levels.
+Which imaging study is most appropriate to localize the lesion?
+Answer Choices:
+(A) CT abdomen with contrast
+(B) MRI brain
+(C) Endoscopic ultrasound
+(D) PET scan
+(E) Abdominal x‑ray
+Correct Answer: C
+Explanation:
+This is an insulinoma. Endoscopic ultrasound is highly sensitive for detecting small pancreatic neuroendocrine tumors.
+________________
+
+
+Question 54
+A patient with Crohn disease undergoes ileal resection. Months later, he develops chronic watery diarrhea without blood.
+Which mechanism best explains his symptoms?
+Answer Choices:
+(A) Loss of brush border enzymes
+(B) Bacterial overgrowth
+(C) Bile acid malabsorption
+(D) Pancreatic insufficiency
+(E) Lactase deficiency
+Correct Answer: C
+Explanation:
+Resection of the terminal ileum causes bile acid malabsorption, leading to secretory diarrhea.
+________________
+
+
+Question 55
+A 71-year-old ICU patient develops abdominal distension, absent bowel sounds, and no mechanical obstruction on imaging. He is receiving opioids and is critically ill.
+What is the most appropriate management?
+Answer Choices:
+(A) Emergent laparotomy
+(B) Colonoscopic decompression
+(C) Neostigmine administration
+(D) High-dose laxatives
+(E) Immediate TPN
+Correct Answer: C
+Explanation:
+This is acute colonic pseudo-obstruction (Ogilvie syndrome). Neostigmine is first‑line therapy if conservative measures fail.
+________________
+
+
+Question 56
+A patient with cirrhosis presents with acute kidney injury after a GI bleed. Urine sodium is low, and renal function does not improve with volume resuscitation. He is started on vasoconstrictors and albumin.
+Which finding confirms the diagnosis?
+Answer Choices:
+(A) Proteinuria
+(B) Hematuria
+(C) Normal renal ultrasound
+(D) Granular casts
+(E) Elevated creatine kinase
+Correct Answer: C
+Explanation:
+Hepatorenal syndrome is a diagnosis of exclusion with structurally normal kidneys and bland urine sediment.
+________________
+
+
+Question 57
+A 66-year-old man presents with progressive dysphagia to solids and liquids. Barium swallow shows a bird‑beak appearance. He is not a surgical candidate.
+Which therapy provides the best symptomatic relief?
+Answer Choices:
+(A) Proton pump inhibitors
+(B) Botulinum toxin injection
+(C) Esophageal stenting
+(D) Oral nitrates only
+(E) Esophagectomy
+Correct Answer: B
+Explanation:
+In nonsurgical candidates with achalasia, botulinum toxin injection into the LES provides temporary symptom relief.
+________________
+
+
+Question 58
+A patient with severe acute pancreatitis develops hypotension, hypoxemia, and rising creatinine. CT shows pancreatic necrosis without gas formation.
+What is the most appropriate management?
+Answer Choices:
+(A) Prophylactic antibiotics
+(B) Immediate surgical debridement
+(C) Aggressive supportive care only
+(D) Total pancreatectomy
+(E) Percutaneous drainage immediately
+Correct Answer: C
+Explanation:
+Sterile pancreatic necrosis is managed with supportive care. Antibiotics and intervention are reserved for infected necrosis.
+________________
+
+
+Question 59
+A malnourished ICU patient receiving TPN develops cholestasis and elevated alkaline phosphatase.
+Which intervention reduces this risk?
+Answer Choices:
+(A) Increase lipid content
+(B) Cycle TPN infusion
+(C) Add iron supplementation
+(D) Switch to glucose-only solution
+(E) Add corticosteroids
+Correct Answer: B
+Explanation:
+TPN‑associated cholestasis risk is reduced by cycling TPN and promoting enteral feeding when possible.
+________________
+
+
+Question 60
+A 54-year-old man with long-standing ulcerative colitis is found to have low-grade dysplasia on surveillance colonoscopy.
+What is the most appropriate management?
+Answer Choices:
+(A) Increase mesalamine dose
+(B) Repeat colonoscopy in 1 year
+(C) Endoscopic mucosal resection only
+(D) Total proctocolectomy
+(E) Start biologic therapy
+Correct Answer: D
+Explanation:
+In ulcerative colitis, any confirmed dysplasia is an indication for total proctocolectomy due to high colorectal cancer risk.

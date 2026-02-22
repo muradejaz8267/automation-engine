@@ -1,0 +1,740 @@
+﻿Question 1
+A 68-year-old man presents with sudden onset right-sided weakness and aphasia. CT head without contrast shows no hemorrhage. Last known well was 90 minutes ago. Blood pressure is 170/95 mmHg, glucose is normal, and he takes no anticoagulants.
+What is the most appropriate next step?
+Answer Choices:
+(A) Aspirin immediately
+(B) CT angiography first
+(C) IV alteplase (tPA)
+(D) Mechanical thrombectomy only
+(E) Observe and repeat CT in 24 hours
+Correct Answer: C
+Explanation:
+This patient has an acute ischemic stroke within the 4.5‑hour window with no contraindications → IV tPA is indicated.
+________________
+
+
+Question 2
+A 55-year-old woman presents with progressive unilateral hearing loss, tinnitus, and imbalance. MRI shows a cerebellopontine angle mass.
+Which additional finding is most likely?
+Answer Choices:
+(A) Ipsilateral facial paralysis
+(B) Loss of pain and temperature on contralateral body
+(C) Ipsilateral loss of corneal reflex
+(D) Vertical diplopia
+(E) Trismus
+Correct Answer: C
+Explanation:
+This is vestibular schwannoma (acoustic neuroma) → compression of CN V causes loss of corneal reflex.
+________________
+
+
+Question 3
+A 72-year-old man with Parkinson disease develops vivid visual hallucinations and fluctuating cognition. He becomes agitated in the hospital.
+Which medication is most appropriate?
+Answer Choices:
+(A) Haloperidol
+(B) Risperidone
+(C) Quetiapine
+(D) Metoclopramide
+(E) Olanzapine
+Correct Answer: C
+Explanation:
+In Parkinson disease, dopamine‑blocking antipsychotics worsen symptoms. Quetiapine or clozapine are preferred.
+________________
+
+
+Question 4
+A 34-year-old woman presents with double vision and weakness that worsens throughout the day. Exam shows ptosis and fatigable muscle weakness. Reflexes are normal.
+Which diagnostic test confirms the diagnosis?
+Answer Choices:
+(A) MRI brain
+(B) Edrophonium test
+(C) Anti–acetylcholine receptor antibodies
+(D) Lumbar puncture
+(E) EMG of lower extremities
+Correct Answer: C
+Explanation:
+This is myasthenia gravis. Anti‑ACh receptor antibodies confirm the diagnosis.
+________________
+
+
+Question 5
+A 60-year-old man presents with resting tremor, rigidity, bradykinesia, and postural instability. He also has depression and constipation.
+Which pathologic finding is most likely present?
+Answer Choices:
+(A) Demyelination of corticospinal tracts
+(B) Lewy bodies in substantia nigra
+(C) Amyloid plaques in cortex
+(D) Neurofibrillary tangles
+(E) Loss of Purkinje cells
+Correct Answer: B
+Explanation:
+Parkinson disease is characterized by α‑synuclein Lewy bodies in the substantia nigra.
+________________
+
+
+Question 6
+A 45-year-old woman presents with recurrent episodes of unilateral throbbing headache, photophobia, and nausea. Neurologic exam is normal.
+Which medication is best for acute treatment?
+Answer Choices:
+(A) Propranolol
+(B) Amitriptyline
+(C) Sumatriptan
+(D) Topiramate
+(E) Valproate
+Correct Answer: C
+Explanation:
+Triptans are first‑line for acute migraine attacks. Others are for prophylaxis.
+________________
+
+
+Question 7
+A patient develops confusion, ataxia, and ophthalmoplegia after prolonged alcohol use.
+Which treatment should be given immediately?
+Answer Choices:
+(A) IV glucose
+(B) IV thiamine
+(C) Folic acid
+(D) Vitamin B12
+(E) Magnesium
+Correct Answer: B
+Explanation:
+This is Wernicke encephalopathy → give thiamine before glucose to prevent worsening neurologic injury.
+________________
+
+
+Question 8
+A 29-year-old man presents after a generalized tonic–clonic seizure. He is confused and sleepy but improving. CT head is normal.
+What is the most appropriate next step?
+Answer Choices:
+(A) Start antiepileptic therapy immediately
+(B) Discharge home without follow-up
+(C) Obtain EEG
+(D) Repeat CT with contrast
+(E) Perform lumbar puncture
+Correct Answer: C
+Explanation:
+After a first unprovoked seizure, EEG helps assess recurrence risk and classify seizure type.
+________________
+
+
+Question 9
+A 40-year-old woman presents with ascending weakness after a viral illness. Reflexes are absent. CSF shows elevated protein with normal cell count.
+What is the most appropriate treatment?
+Answer Choices:
+(A) High-dose steroids
+(B) Plasmapheresis or IVIG
+(C) Acetylcholinesterase inhibitors
+(D) Interferon‑beta
+(E) Antibiotics
+Correct Answer: B
+Explanation:
+This is Guillain–Barré syndrome → treat with IVIG or plasmapheresis, not steroids.
+________________
+
+
+Question 10
+A 19-year-old college student presents with insomnia, pressured speech, grandiosity, and risky behavior for 5 days. He has no prior psychiatric history.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Major depressive disorder
+(B) Cyclothymic disorder
+(C) Bipolar I disorder
+(D) Schizoaffective disorder
+(E) Substance-induced mood disorder
+Correct Answer: C
+Explanation:
+A single manic episode is sufficient to diagnose bipolar I disorder.
+
+
+Question 21
+A 63-year-old man is brought to the ED after being found unresponsive. On exam, he does not respond to pain. Pupils are pinpoint and reactive. Respirations are slow and shallow. Blood pressure is normal. CT head is unremarkable.
+Which is the most likely cause of his condition?
+Answer Choices:
+(A) Pontine hemorrhage
+(B) Opioid overdose
+(C) Uncal herniation
+(D) Carbon monoxide poisoning
+(E) Locked‑in syndrome
+Correct Answer: B
+Explanation:
+Pinpoint but reactive pupils + respiratory depression strongly suggest opioid overdose. Pontine hemorrhage causes pinpoint pupils but usually severe hypertension and abnormal CT.
+________________
+
+
+Question 22
+A 54-year-old woman presents with acute onset dysphagia, hoarseness, ipsilateral facial pain loss, contralateral body pain loss, and vertigo.
+Which additional finding is most likely?
+Answer Choices:
+(A) Ipsilateral tongue deviation
+(B) Ipsilateral Horner syndrome
+(C) Contralateral facial paralysis
+(D) Bilateral leg weakness
+(E) Loss of proprioception
+Correct Answer: B
+Explanation:
+This is lateral medullary (Wallenberg) syndrome → PICA infarct, commonly associated with ipsilateral Horner syndrome.
+________________
+
+
+Question 23
+A patient in the ICU develops sudden coma. Pupils are unequal; the right pupil is dilated and nonreactive. There is contralateral hemiparesis.
+What is the most likely mechanism?
+Answer Choices:
+(A) Central transtentorial herniation
+(B) Subfalcine herniation
+(C) Tonsillar herniation
+(D) Diffuse axonal injury
+(E) Metabolic encephalopathy
+Correct Answer: A
+Explanation:
+Uncal (central) herniation compresses CN III, causing a blown pupil, and the cerebral peduncle, causing contralateral weakness.
+________________
+
+
+Question 24
+A 41-year-old man presents with progressive weakness, areflexia, and sensory loss over 2 weeks. CSF shows elevated protein with normal cell count. Nerve conduction studies show demyelination.
+Which antecedent event is most commonly associated?
+Answer Choices:
+(A) Influenza vaccination
+(B) Epstein–Barr virus infection
+(C) Campylobacter jejuni diarrhea
+(D) HIV seroconversion
+(E) HSV encephalitis
+Correct Answer: C
+Explanation:
+Guillain–Barré syndrome is classically preceded by Campylobacter jejuni infection.
+________________
+
+
+Question 25
+A 58-year-old man with cirrhosis becomes confused and somnolent. He has asterixis. Ammonia level is elevated.
+Which EEG finding is most likely?
+Answer Choices:
+(A) Temporal sharp waves
+(B) Burst suppression
+(C) Triphasic waves
+(D) Hypsarrhythmia
+(E) 3‑Hz spike‑and‑wave
+Correct Answer: C
+Explanation:
+Hepatic encephalopathy is associated with triphasic waves on EEG.
+________________
+
+
+Question 26
+A patient presents with fever, headache, confusion, and focal seizures. MRI shows hyperintensity in the temporal lobes.
+Which CSF finding is most expected?
+Answer Choices:
+(A) Neutrophilic pleocytosis with low glucose
+(B) Lymphocytic pleocytosis with elevated RBCs
+(C) Elevated protein only
+(D) Normal CSF
+(E) Oligoclonal bands
+Correct Answer: B
+Explanation:
+This is HSV encephalitis, which causes hemorrhagic temporal lobe involvement → RBCs in CSF.
+________________
+
+
+Question 27
+A 36-year-old woman develops diplopia, ataxia, and confusion. She recently underwent bariatric surgery. Exam shows ophthalmoplegia.
+What is the most appropriate immediate treatment?
+Answer Choices:
+(A) IV glucose
+(B) IV vitamin B12
+(C) IV thiamine
+(D) IV folate
+(E) High-dose steroids
+Correct Answer: C
+Explanation:
+This is Wernicke encephalopathy. Thiamine must be given immediately, especially in malnourished states.
+________________
+
+
+Question 28
+A 47-year-old man presents with episodic déjà vu, fear, and automatisms. EEG confirms focal seizures. He continues to have seizures despite two antiseizure medications.
+What is the next best step?
+Answer Choices:
+(A) Add a third medication
+(B) Vagus nerve stimulation immediately
+(C) Epilepsy surgery evaluation
+(D) Ketogenic diet
+(E) Observation only
+Correct Answer: C
+Explanation:
+Medically refractory focal epilepsy → evaluate for epilepsy surgery, especially temporal lobe epilepsy.
+________________
+
+
+Question 29
+A hospitalized patient with schizophrenia becomes febrile, rigid, confused, and hypertensive after starting a new medication. CK is markedly elevated.
+Which medication most likely triggered this condition?
+Answer Choices:
+(A) Sertraline
+(B) Lithium
+(C) Haloperidol
+(D) Clozapine
+(E) Valproate
+Correct Answer: C
+Explanation:
+Neuroleptic malignant syndrome is caused by dopamine antagonists, especially high‑potency typical antipsychotics like haloperidol.
+________________
+
+
+Question 30
+A patient with advanced ALS is ventilator‑dependent and requests withdrawal of life support. He is fully conscious and has decision‑making capacity.
+What is the most appropriate physician response?
+Answer Choices:
+(A) Decline due to ethical obligations
+(B) Seek court approval
+(C) Withdraw ventilatory support with palliative care
+(D) Administer neuromuscular blockers
+(E) Transfer care immediately
+Correct Answer: C
+Explanation:
+A competent patient has the right to refuse or withdraw life‑sustaining treatment. This is ethical and legal, with focus on comfort.
+
+
+Question 31
+A 66-year-old man presents with sudden onset bilateral leg weakness after an episode of severe hypotension during surgery. Exam shows loss of pain and temperature below the umbilicus with preserved vibration and proprioception.
+Which spinal cord syndrome is most likely?
+Answer Choices:
+(A) Brown‑Séquard syndrome
+(B) Central cord syndrome
+(C) Anterior cord syndrome
+(D) Posterior cord syndrome
+(E) Cauda equina syndrome
+Correct Answer: C
+Explanation:
+Anterior spinal artery infarction → loss of motor + pain/temperature, preservation of dorsal columns.
+________________
+
+
+Question 32
+A 42-year-old woman presents with fluctuating proximal muscle weakness. Reflexes are decreased. Strength improves after brief exercise. Autonomic symptoms are present.
+Which underlying mechanism explains this condition?
+Answer Choices:
+(A) Autoantibodies against postsynaptic ACh receptors
+(B) Presynaptic calcium channel antibodies
+(C) Demyelination of peripheral nerves
+(D) Motor neuron degeneration
+(E) Acetylcholinesterase deficiency
+Correct Answer: B
+Explanation:
+This is Lambert‑Eaton myasthenic syndrome → presynaptic Ca²⁺ channel antibodies, often paraneoplastic.
+________________
+
+
+Question 33
+A 70-year-old man presents with progressive memory loss, visual hallucinations, fluctuating cognition, and parkinsonism. MRI shows mild cortical atrophy.
+Which diagnosis is most likely?
+Answer Choices:
+(A) Alzheimer disease
+(B) Frontotemporal dementia
+(C) Dementia with Lewy bodies
+(D) Vascular dementia
+(E) Normal pressure hydrocephalus
+Correct Answer: C
+Explanation:
+Lewy body dementia → hallucinations + cognitive fluctuations + parkinsonism.
+________________
+
+
+Question 34
+A 28-year-old man presents with acute urinary retention, saddle anesthesia, and bilateral leg weakness after lifting a heavy object.
+What is the most appropriate next step?
+Answer Choices:
+(A) Oral steroids
+(B) CT lumbar spine
+(C) MRI lumbosacral spine
+(D) Lumbar puncture
+(E) Conservative management
+Correct Answer: C
+Explanation:
+This is cauda equina syndrome → emergent MRI to evaluate for compressive pathology.
+________________
+
+
+Question 35
+A hospitalized patient treated with metoclopramide develops sustained upward deviation of the eyes and painful neck muscle contractions.
+What is the most appropriate treatment?
+Answer Choices:
+(A) Benztropine
+(B) Propranolol
+(C) Diazepam
+(D) Haloperidol
+(E) Valproate
+Correct Answer: A
+Explanation:
+This is acute dystonia → treat with anticholinergics (benztropine or diphenhydramine).
+________________
+
+
+Question 36
+A 61-year-old woman presents with personality changes, disinhibition, and compulsive behavior. Memory is relatively preserved early.
+Which brain region is primarily affected?
+Answer Choices:
+(A) Hippocampus
+(B) Parietal cortex
+(C) Occipital cortex
+(D) Frontal lobe
+(E) Thalamus
+Correct Answer: D
+Explanation:
+This is frontotemporal dementia → early behavioral changes, frontal lobe involvement.
+________________
+
+
+Question 37
+A patient with myasthenia gravis develops worsening weakness after starting a new antibiotic.
+Which medication most likely precipitated this?
+Answer Choices:
+(A) Amoxicillin
+(B) Azithromycin
+(C) Ciprofloxacin
+(D) Ceftriaxone
+(E) Doxycycline
+Correct Answer: C
+Explanation:
+Fluoroquinolones worsen neuromuscular transmission → exacerbate myasthenia gravis.
+________________
+
+
+Question 38
+A 48-year-old man presents with back pain, progressive leg weakness, hyperreflexia, and a sensory level at T8. MRI shows an epidural mass.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Transverse myelitis
+(B) Epidural abscess
+(C) Multiple sclerosis
+(D) ALS
+(E) Guillain–Barré syndrome
+Correct Answer: B
+Explanation:
+Progressive spinal cord compression with pain → epidural abscess or malignancy. This is an emergency.
+________________
+
+
+Question 39
+A patient with advanced dementia develops aspiration pneumonia. Family insists on PEG tube placement, but evidence shows no survival or quality‑of‑life benefit.
+What is the most appropriate physician response?
+Answer Choices:
+(A) Comply with family wishes
+(B) Refuse without discussion
+(C) Provide recommendation against PEG with explanation
+(D) Seek court order
+(E) Transfer care immediately
+Correct Answer: C
+Explanation:
+Physicians should recommend evidence‑based care, explain risks/benefits, and engage in shared decision‑making.
+________________
+
+
+Question 40
+A 35-year-old woman presents with episodic weakness, ptosis, and diplopia. Ice pack test improves symptoms. CT chest shows an anterior mediastinal mass.
+What is the definitive management?
+Answer Choices:
+(A) Pyridostigmine only
+(B) IVIG indefinitely
+(C) Thymectomy
+(D) Steroids alone
+(E) Observation
+Correct Answer: C
+Explanation:
+Myasthenia gravis with thymoma → thymectomy improves long‑term outcomes.
+Question 41
+A 58-year-old man with long-standing diabetes presents with burning pain and numbness in both feet that worsens at night. Exam shows decreased pinprick and temperature sensation in a stocking distribution, with preserved strength.
+Which pathophysiologic process best explains his condition?
+Answer Choices:
+(A) Immune-mediated demyelination
+(B) Ischemia of dorsal columns
+(C) Axonal degeneration of small fibers
+(D) Compression of spinal nerve roots
+(E) Motor neuron degeneration
+Correct Answer: C
+Explanation:
+Diabetic peripheral neuropathy is due to length‑dependent axonal degeneration, especially affecting small pain fibers first.
+________________
+
+
+Question 42
+A 63-year-old woman with Parkinson disease develops hallucinations and agitation. Her motor symptoms worsen with multiple prior antipsychotics.
+Which medication is most appropriate?
+Answer Choices:
+(A) Haloperidol
+(B) Risperidone
+(C) Olanzapine
+(D) Quetiapine
+(E) Metoclopramide
+Correct Answer: D
+Explanation:
+In Parkinson disease, quetiapine (or clozapine) is preferred because it has minimal dopamine blockade.
+________________
+
+
+Question 43
+A 45-year-old man presents with progressive distal muscle weakness and foot drop. Family history reveals similar symptoms. Exam shows pes cavus and hammer toes.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Amyotrophic lateral sclerosis
+(B) Chronic inflammatory demyelinating polyneuropathy
+(C) Charcot–Marie–Tooth disease
+(D) Diabetic neuropathy
+(E) Myasthenia gravis
+Correct Answer: C
+Explanation:
+Charcot–Marie–Tooth disease is a hereditary peripheral neuropathy causing distal weakness, sensory loss, and foot deformities.
+________________
+
+
+Question 44
+A comatose patient has an EEG showing generalized suppression with periods of electrical silence alternating with bursts of activity.
+Which condition is most associated with this EEG pattern?
+Answer Choices:
+(A) Absence epilepsy
+(B) Hepatic encephalopathy
+(C) Post–cardiac arrest hypoxic injury
+(D) HSV encephalitis
+(E) Delirium tremens
+Correct Answer: C
+Explanation:
+Burst‑suppression EEG is seen in severe anoxic brain injury and deep anesthesia.
+________________
+
+
+Question 45
+A 52-year-old man presents with resting tremor, rigidity, and bradykinesia. He develops dyskinesias after several years of therapy.
+Which medication is most likely responsible?
+Answer Choices:
+(A) Amantadine
+(B) Selegiline
+(C) Levodopa–carbidopa
+(D) Propranolol
+(E) Trihexyphenidyl
+Correct Answer: C
+Explanation:
+Levodopa-induced dyskinesias occur with long-term use due to fluctuating dopamine levels.
+________________
+
+
+Question 46
+A 39-year-old woman presents with bilateral facial weakness, distal paresthesias, and areflexia. Symptoms progressed over 3 weeks. CSF shows elevated protein.
+Which diagnosis best fits the time course?
+Answer Choices:
+(A) Acute inflammatory demyelinating polyneuropathy
+(B) Chronic inflammatory demyelinating polyneuropathy
+(C) Myasthenia gravis
+(D) ALS
+(E) Spinal cord infarction
+Correct Answer: B
+Explanation:
+Progression >8 weeks suggests CIDP, a chronic demyelinating neuropathy.
+________________
+
+
+Question 47
+A patient in a persistent vegetative state for 6 months shows sleep–wake cycles but no evidence of awareness. Family requests “everything possible” be continued.
+Which statement is most accurate?
+Answer Choices:
+(A) Prognosis for meaningful recovery is high
+(B) Patient retains decision-making capacity
+(C) Artificial nutrition is ethically mandatory
+(D) Condition involves intact brainstem with cortical injury
+(E) This is equivalent to locked‑in syndrome
+Correct Answer: D
+Explanation:
+Persistent vegetative state → preserved brainstem autonomic function, absent cortical awareness.
+________________
+
+
+Question 48
+A 55-year-old man presents with asymmetric limb rigidity, apraxia, and alien limb phenomenon.
+Which diagnosis is most likely?
+Answer Choices:
+(A) Parkinson disease
+(B) Multiple system atrophy
+(C) Progressive supranuclear palsy
+(D) Corticobasal degeneration
+(E) Lewy body dementia
+Correct Answer: D
+Explanation:
+Corticobasal degeneration causes asymmetric rigidity, apraxia, and alien limb.
+________________
+
+
+Question 49
+A hospitalized patient develops acute confusion, agitation, and visual hallucinations at night that improve during the day.
+Which intervention is most effective?
+Answer Choices:
+(A) Benzodiazepines
+(B) Antipsychotics as first-line
+(C) Physical restraints
+(D) Reorientation, sleep hygiene, treat underlying cause
+(E) Immediate neuroimaging
+Correct Answer: D
+Explanation:
+This is delirium → manage with nonpharmacologic measures and treatment of the underlying cause.
+________________
+
+
+Question 50
+A patient with end-stage neurodegenerative disease lacks decision-making capacity. An advance directive clearly refuses artificial nutrition.
+Family now requests PEG tube placement.
+What is the most appropriate action?
+Answer Choices:
+(A) Honor family request
+(B) Seek court intervention
+(C) Follow the advance directive
+(D) Ignore both and continue current care
+(E) Transfer care
+Correct Answer: C
+Explanation:
+A valid advance directive takes precedence over family wishes when the patient lacks capacity.
+Question 51
+A 62-year-old man is admitted to the ICU after cardiac arrest with return of spontaneous circulation after 18 minutes. He remains comatose 72 hours later. EEG shows burst‑suppression. Pupils are sluggish but reactive. MRI shows diffuse cortical diffusion restriction.
+Which statement regarding prognosis is most accurate?
+Answer Choices:
+(A) Meaningful neurologic recovery is likely
+(B) Prognosis cannot be assessed until 6 months
+(C) Findings suggest severe hypoxic‑ischemic brain injury
+(D) EEG findings are reversible with treatment
+(E) Brain death criteria are already met
+Correct Answer: C
+Explanation:
+Prolonged arrest + burst‑suppression EEG + diffusion restriction indicate severe hypoxic‑ischemic injury with poor prognosis, though not brain death.
+________________
+
+
+Question 52
+A 45-year-old woman presents with rapidly progressive dementia, myoclonus, and ataxia over weeks. EEG shows periodic sharp wave complexes. CSF protein is mildly elevated.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Alzheimer disease
+(B) Lewy body dementia
+(C) Autoimmune encephalitis
+(D) Creutzfeldt–Jakob disease
+(E) HSV encephalitis
+Correct Answer: D
+Explanation:
+Rapid dementia + myoclonus + periodic sharp waves → prion disease (CJD).
+________________
+
+
+Question 53
+A patient with refractory status epilepticus is placed on continuous IV anesthetic therapy. EEG is used to guide treatment depth.
+What EEG pattern is the treatment goal?
+Answer Choices:
+(A) Alpha rhythm
+(B) Triphasic waves
+(C) Burst‑suppression
+(D) Continuous spike‑and‑wave
+(E) Normal background
+Correct Answer: C
+Explanation:
+In refractory status epilepticus, anesthetics are titrated to burst‑suppression to suppress cortical activity.
+________________
+
+
+Question 54
+A 34-year-old woman presents with psychosis, seizures, dyskinesias, and autonomic instability. CSF shows lymphocytic pleocytosis. Ovarian teratoma is found on imaging.
+Which antibody is most likely present?
+Answer Choices:
+(A) Anti‑Hu
+(B) Anti‑Yo
+(C) Anti‑NMDA receptor
+(D) Anti‑GAD
+(E) Anti‑AQP4
+Correct Answer: C
+Explanation:
+Anti‑NMDA receptor encephalitis → young women, psychiatric symptoms, seizures, autonomic instability, ovarian teratoma.
+________________
+
+
+Question 55
+A 69-year-old man with advanced Parkinson disease develops sudden high fever, rigidity, confusion, and autonomic instability after abrupt cessation of dopaminergic therapy.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Serotonin syndrome
+(B) Malignant hyperthermia
+(C) Neuroleptic malignant syndrome
+(D) Parkinsonism‑hyperpyrexia syndrome
+(E) Acute dystonia
+Correct Answer: D
+Explanation:
+Abrupt withdrawal of dopaminergic therapy causes parkinsonism‑hyperpyrexia syndrome, clinically similar to NMS.
+________________
+
+
+Question 56
+A ventilated patient meets all criteria for brain death except for apnea testing, which cannot be safely performed due to severe hypoxia.
+What is the most appropriate next step?
+Answer Choices:
+(A) Delay brain death determination indefinitely
+(B) Declare brain death without further testing
+(C) Perform ancillary testing (e.g., cerebral blood flow study)
+(D) Withdraw care without declaration
+(E) Sedate and repeat exam later
+Correct Answer: C
+Explanation:
+When apnea testing is unsafe, ancillary tests (e.g., cerebral perfusion studies) are used to confirm brain death.
+________________
+
+
+Question 57
+A patient with locked‑in syndrome is fully conscious but quadriplegic, communicating only via vertical eye movements.
+Which lesion location best explains this condition?
+Answer Choices:
+(A) Bilateral thalami
+(B) Midbrain tegmentum
+(C) Ventral pons
+(D) Medulla oblongata
+(E) Internal capsule
+Correct Answer: C
+Explanation:
+Locked‑in syndrome results from ventral pontine lesions affecting corticospinal tracts while sparing consciousness.
+________________
+
+
+Question 58
+A 59-year-old woman with metastatic cancer develops progressive weakness, sensory loss, and bowel/bladder dysfunction. MRI shows intramedullary spinal cord lesion.
+What is the most appropriate immediate management?
+Answer Choices:
+(A) Observation
+(B) High‑dose IV corticosteroids
+(C) Lumbar puncture
+(D) Physical therapy
+(E) Antibiotics
+Correct Answer: B
+Explanation:
+Suspected malignant spinal cord compression → immediate high‑dose steroids to reduce edema and preserve function.
+________________
+
+
+Question 59
+A comatose ICU patient has absent corneal reflexes but preserved oculocephalic reflexes.
+Where is the lesion most likely located?
+Answer Choices:
+(A) Cerebral cortex
+(B) Midbrain
+(C) Pons
+(D) Medulla
+(E) Cervical spinal cord
+Correct Answer: C
+Explanation:
+Corneal reflex involves pons (CN V & VII). Loss suggests pontine dysfunction, while preserved oculocephalic reflex indicates intact brainstem integration above.
+________________
+
+
+Question 60
+A patient with end‑stage ALS requests physician‑assisted death. The practice is illegal in the physician’s jurisdiction.
+What is the most appropriate response?
+Answer Choices:
+(A) Provide lethal medication covertly
+(B) Decline and abandon care
+(C) Explain legal limits and optimize palliative care
+(D) Seek emergency ethics approval
+(E) Transfer patient immediately
+Correct Answer: C
+Explanation:
+Physicians must respect the law, while continuing symptom control, palliation, and emotional support.

@@ -1,0 +1,894 @@
+﻿Question 1
+A 67-year-old man with hypertension, diabetes, and chronic kidney disease presents with acute onset chest pain radiating to the back. Blood pressure is 190/105 mm Hg in the right arm and 160/90 mm Hg in the left arm. A new diastolic murmur is heard. Chest X‑ray shows a widened mediastinum.
+What is the most appropriate next step?
+Answer Choices:
+(A) Aspirin and heparin
+(B) CT angiography of the chest
+(C) Thrombolytic therapy
+(D) Stress echocardiography
+(E) Coronary angiography
+Correct Answer: B
+Explanation:
+This is acute aortic dissection. CT angiography is the diagnostic test of choice in a stable patient.
+________________
+
+
+Question 2
+A 58-year-old woman presents with progressive dyspnea and fatigue. Exam reveals elevated JVP, hepatomegaly, ascites, and peripheral edema. Echocardiogram shows normal LV ejection fraction but impaired ventricular filling.
+Which condition most likely explains these findings?
+Answer Choices:
+(A) Dilated cardiomyopathy
+(B) Restrictive cardiomyopathy
+(C) Constrictive pericarditis
+(D) Acute mitral regurgitation
+(E) Hypertrophic cardiomyopathy
+Correct Answer: B
+Explanation:
+Restrictive cardiomyopathy → diastolic dysfunction, preserved EF, and signs of right‑sided failure.
+________________
+
+
+Question 3
+A 72-year-old man with COPD presents with worsening dyspnea and productive cough. ABG shows pH 7.30, PaCO₂ 60 mm Hg, PaO₂ 55 mm Hg.
+What is the most appropriate initial management?
+Answer Choices:
+(A) Intubation and mechanical ventilation
+(B) Supplemental oxygen only
+(C) Noninvasive positive pressure ventilation
+(D) IV corticosteroids only
+(E) Antibiotics only
+Correct Answer: C
+Explanation:
+COPD exacerbation with respiratory acidosis → BiPAP/NIPPV improves ventilation and reduces mortality.
+________________
+
+
+Question 4
+A 45-year-old man presents with edema, frothy urine, and hyperlipidemia. Urinalysis shows 4+ protein, no hematuria. Renal biopsy reveals effacement of podocyte foot processes.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Focal segmental glomerulosclerosis
+(B) Minimal change disease
+(C) Membranous nephropathy
+(D) IgA nephropathy
+(E) Diabetic nephropathy
+Correct Answer: B
+Explanation:
+Minimal change disease → nephrotic syndrome, podocyte effacement, common cause in adults and children.
+________________
+
+
+Question 5
+A 60-year-old woman presents with epigastric pain relieved by eating. Endoscopy shows a duodenal ulcer.
+Which factor most strongly contributes to this condition?
+Answer Choices:
+(A) Autoimmune gastritis
+(B) NSAID use
+(C) Helicobacter pylori infection
+(D) Zollinger–Ellison syndrome
+(E) Gastric adenocarcinoma
+Correct Answer: C
+Explanation:
+Duodenal ulcers are most commonly caused by H. pylori, which increases acid secretion.
+________________
+
+
+Question 6
+A hospitalized patient develops sudden hypotension, tachycardia, and hypoxia. ECG shows sinus tachycardia. D‑dimer is elevated.
+What is the most appropriate next diagnostic step?
+Answer Choices:
+(A) Lower extremity Doppler ultrasound
+(B) V/Q scan
+(C) CT pulmonary angiography
+(D) Echocardiography
+(E) Arterial blood gas
+Correct Answer: C
+Explanation:
+In suspected pulmonary embolism, CT pulmonary angiography is first‑line if renal function allows.
+________________
+
+
+Question 7
+A 55-year-old man with cirrhosis presents with confusion and asterixis. Ammonia level is elevated.
+What is the best initial treatment?
+Answer Choices:
+(A) Rifaximin
+(B) Lactulose
+(C) Neomycin
+(D) Protein restriction only
+(E) Benzodiazepines
+Correct Answer: B
+Explanation:
+Hepatic encephalopathy → treat with lactulose to reduce ammonia absorption.
+________________
+
+
+Question 8
+A 68-year-old woman presents with acute onset shortness of breath. Exam shows crackles and pink frothy sputum. BP is 210/120 mm Hg.
+What is the most appropriate immediate management?
+Answer Choices:
+(A) IV fluids
+(B) Oral antihypertensives
+(C) IV nitroglycerin and diuretics
+(D) Broad‑spectrum antibiotics
+(E) Beta blockers
+Correct Answer: C
+Explanation:
+This is acute pulmonary edema from hypertensive emergency → treat with IV nitrates + diuretics.
+________________
+
+
+Question 9
+A 50-year-old man presents with chronic heartburn and dysphagia. Endoscopy shows Barrett esophagus.
+Which complication is he most at risk for?
+Answer Choices:
+(A) Squamous cell carcinoma
+(B) Esophageal adenocarcinoma
+(C) Gastric lymphoma
+(D) Achalasia
+(E) Esophageal varices
+Correct Answer: B
+Explanation:
+Barrett esophagus → increased risk of esophageal adenocarcinoma.
+________________
+
+
+Question 10
+A 64-year-old woman with atrial fibrillation is started on warfarin. She develops skin necrosis within 3 days.
+What is the mechanism?
+Answer Choices:
+(A) Excessive inhibition of factor II
+(B) Protein C depletion
+(C) Heparin contamination
+(D) Platelet activation
+(E) Vitamin K overdose
+Correct Answer: B
+Explanation:
+Early warfarin therapy decreases protein C, causing a transient hypercoagulable state → skin necrosis.
+________________
+
+
+
+
+Question 11
+A 70-year-old man with a history of heart failure (EF 30%) presents with worsening dyspnea and orthopnea. He is taking lisinopril, metoprolol, and furosemide. BP is 92/60 mm Hg, HR 58/min. Lungs have bibasilar crackles. Creatinine has increased from 1.2 to 2.0 mg/dL.
+What is the most appropriate next step in management?
+Answer Choices:
+(A) Increase furosemide dose
+(B) Discontinue ACE inhibitor
+(C) Add spironolactone
+(D) Start IV fluids
+(E) Continue current regimen and monitor
+Correct Answer: B
+Explanation:
+In acute decompensated heart failure with hypotension and rising creatinine, ACE inhibitors should be held temporarily.
+________________
+
+
+Question 12
+A 55-year-old woman presents with exertional dyspnea and syncope. Exam shows loud P2 and a parasternal heave. Echocardiogram shows RV hypertrophy. Right heart catheterization reveals mean pulmonary artery pressure of 40 mm Hg with normal wedge pressure.
+Which therapy is most appropriate?
+Answer Choices:
+(A) Loop diuretics only
+(B) Beta blockers
+(C) Endothelin receptor antagonists
+(D) ACE inhibitors
+(E) High‑dose corticosteroids
+Correct Answer: C
+Explanation:
+This is pulmonary arterial hypertension → treat with endothelin receptor antagonists, PDE‑5 inhibitors, or prostacyclins.
+________________
+
+
+Question 13
+A 40-year-old man presents with confusion and rapid breathing. ABG shows:
+pH 7.25, PaCO₂ 25 mm Hg, HCO₃⁻ 12 mEq/L.
+What is the primary acid–base disorder?
+Answer Choices:
+(A) Respiratory alkalosis
+(B) Metabolic acidosis with respiratory compensation
+(C) Metabolic alkalosis
+(D) Mixed respiratory and metabolic acidosis
+(E) Mixed metabolic acidosis and alkalosis
+Correct Answer: B
+Explanation:
+Low pH + low HCO₃⁻ = metabolic acidosis, with appropriate respiratory compensation (low CO₂).
+________________
+
+
+Question 14
+A patient with chronic kidney disease presents with weakness. ECG shows peaked T waves. Serum potassium is 6.8 mEq/L.
+What is the most immediate intervention?
+Answer Choices:
+(A) Sodium polystyrene sulfonate
+(B) IV insulin with glucose
+(C) IV furosemide
+(D) Oral bicarbonate
+(E) Hemodialysis tomorrow
+Correct Answer: B
+Explanation:
+Severe hyperkalemia with ECG changes → IV calcium (not listed) and insulin + glucose to shift K⁺ intracellularly.
+________________
+
+
+Question 15
+A 62-year-old man presents with melena and hypotension. Endoscopy shows a bleeding gastric ulcer.
+What is the most important initial management step?
+Answer Choices:
+(A) Immediate surgery
+(B) IV proton pump inhibitor
+(C) Oral H2 blocker
+(D) Test for H. pylori
+(E) Start octreotide
+Correct Answer: B
+Explanation:
+Upper GI bleed → IV PPI to stabilize clot and reduce rebleeding before definitive therapy.
+________________
+
+
+Question 16
+A 68-year-old woman with long-standing hypertension presents with flash pulmonary edema. BP is 230/130 mm Hg.
+Which diagnosis best explains this presentation?
+Answer Choices:
+(A) Acute coronary syndrome
+(B) Renal artery stenosis
+(C) Aortic stenosis
+(D) Mitral valve prolapse
+(E) Dilated cardiomyopathy
+Correct Answer: B
+Explanation:
+Renal artery stenosis → severe hypertension → flash pulmonary edema.
+________________
+
+
+Question 17
+A 45-year-old man with chronic alcohol use presents with confusion and abdominal distension. Paracentesis shows PMN count of 400 cells/mm³.
+What is the best next step?
+Answer Choices:
+(A) Observation only
+(B) Repeat paracentesis
+(C) Start IV cefotaxime
+(D) Start diuretics
+(E) Lactulose only
+Correct Answer: C
+Explanation:
+PMN ≥250 in ascitic fluid = spontaneous bacterial peritonitis → treat with IV third‑generation cephalosporin.
+________________
+
+
+Question 18
+A patient with COPD presents with worsening dyspnea. ABG shows chronic respiratory acidosis with metabolic compensation.
+Which renal process explains the compensation?
+Answer Choices:
+(A) Increased bicarbonate excretion
+(B) Increased hydrogen ion secretion
+(C) Decreased ammonium production
+(D) Decreased phosphate buffering
+(E) Reduced bicarbonate reabsorption
+Correct Answer: B
+Explanation:
+Chronic respiratory acidosis → kidneys increase H⁺ secretion and HCO₃⁻ reabsorption.
+________________
+
+
+Question 19
+A 59-year-old man with diabetes presents with progressive lower extremity edema. Urinalysis shows proteinuria. Biopsy shows nodular glomerulosclerosis.
+What is the underlying mechanism?
+Answer Choices:
+(A) Immune complex deposition
+(B) Podocyte foot process effacement
+(C) Mesangial expansion from glycosylation
+(D) Anti‑PLA2R antibodies
+(E) Basement membrane thinning
+Correct Answer: C
+Explanation:
+Diabetic nephropathy → nonenzymatic glycosylation → mesangial expansion (Kimmelstiel–Wilson nodules).
+________________
+
+
+Question 20
+A 66-year-old man presents with progressive dysphagia to solids and liquids. Barium swallow shows a “bird‑beak” appearance.
+What is the underlying pathology?
+Answer Choices:
+(A) Loss of inhibitory neurons in the esophagus
+(B) Esophageal smooth muscle hypertrophy
+(C) Lower esophageal sphincter hypotension
+(D) Vagal nerve hyperactivity
+(E) Esophageal web formation
+Correct Answer: A
+Explanation:
+Achalasia → loss of NO‑producing inhibitory neurons → failure of LES relaxation.
+
+
+Question 21
+A 68-year-old man is admitted to the ICU with fever, hypotension, and altered mental status. BP is 82/46 mm Hg despite 3 L of IV crystalloids. Lactate is 5.2 mmol/L. Central venous pressure is adequate.
+What is the most appropriate next step?
+Answer Choices:
+(A) Dobutamine infusion
+(B) Norepinephrine infusion
+(C) Phenylephrine infusion
+(D) Dopamine infusion
+(E) Hydrocortisone only
+Correct Answer: B
+Explanation:
+This is septic shock refractory to fluids. Norepinephrine is first‑line vasopressor to restore MAP ≥65 mm Hg.
+________________
+
+
+Question 22
+A 72-year-old woman with a history of atrial fibrillation presents with sudden left-sided weakness. CT head shows no hemorrhage. She arrived 1 hour after symptom onset.
+What is the most appropriate management?
+Answer Choices:
+(A) Aspirin therapy only
+(B) Heparin infusion
+(C) IV thrombolysis
+(D) Mechanical thrombectomy only
+(E) Warfarin initiation
+Correct Answer: C
+Explanation:
+Acute ischemic stroke within 4.5 hours → IV alteplase if no contraindications.
+________________
+
+
+Question 23
+A 60-year-old man presents with severe chest pain and hypotension. ECG shows ST elevations in leads II, III, and aVF. JVP is elevated; lungs are clear.
+What is the most appropriate immediate intervention?
+Answer Choices:
+(A) IV nitroglycerin
+(B) IV morphine
+(C) IV fluids
+(D) Loop diuretics
+(E) Beta blockers
+Correct Answer: C
+Explanation:
+Inferior MI with right ventricular involvement → preload dependent → IV fluids, avoid nitrates.
+________________
+
+
+Question 24
+A 50-year-old woman with lupus presents with dyspnea and hemoptysis. Labs show anemia and elevated creatinine. Urinalysis reveals RBC casts.
+Which diagnosis best explains this presentation?
+Answer Choices:
+(A) Minimal change disease
+(B) Membranous nephropathy
+(C) Goodpasture syndrome
+(D) Diffuse proliferative glomerulonephritis
+(E) Amyloidosis
+Correct Answer: D
+Explanation:
+SLE commonly causes diffuse proliferative GN, leading to nephritic syndrome and pulmonary hemorrhage.
+________________
+
+
+Question 25
+A 45-year-old man presents with severe abdominal pain out of proportion to exam. He has atrial fibrillation. Lactate is elevated.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Acute pancreatitis
+(B) Mesenteric ischemia
+(C) Small bowel obstruction
+(D) Peptic ulcer perforation
+(E) Appendicitis
+Correct Answer: B
+Explanation:
+Atrial fibrillation → embolic mesenteric ischemia, classic for pain out of proportion.
+________________
+
+
+Question 26
+A patient in the ICU has the following ABG:
+pH 7.52, PaCO₂ 48 mm Hg, HCO₃⁻ 38 mEq/L.
+What is the acid–base disorder?
+Answer Choices:
+(A) Respiratory alkalosis
+(B) Metabolic alkalosis with respiratory compensation
+(C) Respiratory acidosis
+(D) Mixed metabolic alkalosis and respiratory acidosis
+(E) Mixed respiratory alkalosis and metabolic acidosis
+Correct Answer: B
+Explanation:
+High pH + high HCO₃⁻ = metabolic alkalosis with compensatory hypoventilation.
+________________
+
+
+Question 27
+A 65-year-old man with cirrhosis presents with massive hematemesis. He is hypotensive.
+What is the most appropriate initial therapy?
+Answer Choices:
+(A) IV proton pump inhibitor
+(B) IV octreotide
+(C) Endoscopic band ligation
+(D) IV ceftriaxone
+(E) Transjugular intrahepatic portosystemic shunt
+Correct Answer: B
+Explanation:
+Suspected esophageal variceal bleed → octreotide first to reduce portal pressure.
+________________
+
+
+Question 28
+A 70-year-old woman develops acute kidney injury after starting an ACE inhibitor. She has a history of severe hypertension and flash pulmonary edema.
+What is the most likely underlying cause?
+Answer Choices:
+(A) Acute tubular necrosis
+(B) Renal vein thrombosis
+(C) Bilateral renal artery stenosis
+(D) Diabetic nephropathy
+(E) Postrenal obstruction
+Correct Answer: C
+Explanation:
+ACE inhibitors reduce efferent arteriolar tone → AKI in bilateral renal artery stenosis.
+________________
+
+
+Question 29
+A hospitalized patient develops fever and diarrhea after antibiotic use. Stool toxin assay is positive.
+What is the first-line treatment?
+Answer Choices:
+(A) IV metronidazole
+(B) Oral vancomycin
+(C) Fidaxomicin IV
+(D) Discontinue antibiotics only
+(E) Probiotics
+Correct Answer: B
+Explanation:
+Clostridioides difficile infection → oral vancomycin is first‑line.
+________________
+
+
+Question 30
+A 58-year-old man with long-standing GERD presents with weight loss and progressive dysphagia. Endoscopy shows an ulcerated distal esophageal mass.
+What is the most likely histology?
+Answer Choices:
+(A) Squamous cell carcinoma
+(B) Adenocarcinoma
+(C) Leiomyoma
+(D) Lymphoma
+(E) Neuroendocrine tumor
+Correct Answer: B
+Explanation:
+Chronic GERD → Barrett esophagus → adenocarcinoma of the distal esophagus.
+Question 31
+A 64-year-old man with a history of coronary artery disease presents with fever, hypotension, and confusion. BP is 78/40 mm Hg, HR 118/min. Skin is warm and flushed. Lactate is 4.8 mmol/L. Cardiac output is elevated; SVR is low.
+Which additional finding is most likely present?
+Answer Choices:
+(A) Narrow pulse pressure
+(B) Cool, clammy extremities
+(C) Elevated mixed venous oxygen saturation
+(D) Low cardiac index
+(E) Pulmonary capillary wedge pressure of 25 mm Hg
+Correct Answer: C
+Explanation:
+This is distributive (septic) shock → high CO, low SVR, high SvO₂ due to impaired oxygen extraction.
+________________
+
+
+Question 32
+A 71-year-old woman with chronic atrial fibrillation presents with acute dyspnea. ECG shows AF with RVR at 160/min. BP is 82/50 mm Hg. She is diaphoretic and confused.
+What is the most appropriate immediate management?
+Answer Choices:
+(A) IV diltiazem
+(B) IV amiodarone
+(C) IV metoprolol
+(D) Immediate synchronized cardioversion
+(E) IV digoxin
+Correct Answer: D
+Explanation:
+Unstable tachyarrhythmia → immediate synchronized cardioversion, regardless of rhythm duration.
+________________
+
+
+Question 33
+A 58-year-old man in the ICU develops oliguria. Labs show:
+BUN 60 mg/dL, creatinine 3.2 mg/dL. Urine sodium is 8 mEq/L, FeNa 0.5%.
+Which finding is most consistent with the diagnosis?
+Answer Choices:
+(A) Muddy brown casts
+(B) Renal tubular epithelial cell casts
+(C) Normal renal histology
+(D) WBC casts
+(E) RBC casts
+Correct Answer: C
+Explanation:
+Low FeNa and urine sodium → prerenal azotemia, where renal parenchyma is initially structurally normal.
+________________
+
+
+Question 34
+A hospitalized patient with prolonged immobility develops sudden dyspnea and pleuritic chest pain. BP is 86/54 mm Hg. ECG shows sinus tachycardia.
+What is the most appropriate next diagnostic step?
+Answer Choices:
+(A) D‑dimer
+(B) CT pulmonary angiography
+(C) Ventilation–perfusion scan
+(D) Lower extremity Doppler ultrasound
+(E) Transthoracic echocardiography
+Correct Answer: E
+Explanation:
+Hemodynamically unstable suspected PE → bedside echo to assess for RV strain; do not delay for CT.
+________________
+
+
+Question 35
+A 46-year-old man with HIV presents with headache, fever, and neck stiffness. CD4 count is 40 cells/µL. CSF shows elevated opening pressure and encapsulated yeast on India ink stain.
+What is the most appropriate initial therapy?
+Answer Choices:
+(A) Fluconazole alone
+(B) Amphotericin B + flucytosine
+(C) Acyclovir
+(D) TMP‑SMX
+(E) Ceftriaxone + vancomycin
+Correct Answer: B
+Explanation:
+Cryptococcal meningitis → induction therapy with amphotericin B + flucytosine.
+________________
+
+
+Question 36
+A 75-year-old man with severe COPD presents with worsening dyspnea. ABG shows pH 7.30, PaCO₂ 68 mm Hg, HCO₃⁻ 32 mEq/L.
+What is the most appropriate ventilatory strategy?
+Answer Choices:
+(A) Immediate intubation and hyperventilation
+(B) Noninvasive positive pressure ventilation
+(C) High‑flow nasal cannula only
+(D) Oxygen via non‑rebreather mask
+(E) Respiratory stimulant therapy
+Correct Answer: B
+Explanation:
+Acute on chronic hypercapnic respiratory failure → BiPAP/NIPPV reduces mortality and need for intubation.
+________________
+
+
+Question 37
+A 62-year-old woman with diabetes presents with nausea and vomiting. Labs show glucose 680 mg/dL, pH 7.08, positive serum ketones.
+What is the most important first step in management?
+Answer Choices:
+(A) IV insulin infusion
+(B) IV sodium bicarbonate
+(C) IV isotonic fluids
+(D) Potassium replacement
+(E) Subcutaneous insulin
+Correct Answer: C
+Explanation:
+DKA → volume resuscitation first, then insulin and electrolyte correction.
+________________
+
+
+Question 38
+A 69-year-old man with cirrhosis develops confusion and asterixis. Ammonia level is elevated.
+Which medication directly targets the underlying mechanism?
+Answer Choices:
+(A) Rifaximin
+(B) Lactulose
+(C) Neomycin
+(D) Metronidazole
+(E) Spironolactone
+Correct Answer: B
+Explanation:
+Lactulose acidifies the gut, converting NH₃ to NH₄⁺, reducing ammonia absorption.
+________________
+
+
+Question 39
+A 55-year-old woman develops acute renal failure after receiving contrast for coronary angiography. Urinalysis shows granular casts.
+Which mechanism best explains this condition?
+Answer Choices:
+(A) Immune complex deposition
+(B) Renal vasoconstriction and tubular toxicity
+(C) Papillary necrosis
+(D) Interstitial inflammation
+(E) Obstructive uropathy
+Correct Answer: B
+Explanation:
+Contrast‑induced nephropathy → afferent vasoconstriction + direct tubular injury → ATN.
+________________
+
+
+Question 40
+A 78-year-old man with metastatic cancer is intubated in the ICU. He has multiorgan failure and no chance of recovery. Family requests “everything be done,” but patient previously documented DNR/DNI.
+What is the most appropriate action?
+Answer Choices:
+(A) Continue full aggressive care
+(B) Seek court order
+(C) Follow family wishes
+(D) Honor patient’s advance directive
+(E) Withdraw care without discussion
+Correct Answer: D
+Explanation:
+Patient autonomy → legally binding advance directives override family requests.
+Question 41
+A 34-year-old woman presents with fever, hypotension, diffuse rash, vomiting, and diarrhea. She recently used tampons during menstruation. Exam shows conjunctival injection and desquamation of the palms.
+What is the most appropriate immediate management?
+Answer Choices:
+(A) IV vancomycin only
+(B) IV clindamycin and vancomycin
+(C) IV ceftriaxone
+(D) Oral doxycycline
+(E) Supportive care only
+Correct Answer: B
+Explanation:
+This is toxic shock syndrome. Treatment requires broad-spectrum antibiotics + clindamycin to suppress toxin production.
+________________
+
+
+Question 42
+A 68-year-old man with small cell lung cancer presents with confusion and seizures. Labs show Na⁺ 118 mEq/L, serum osmolality low, urine osmolality high.
+What is the best initial treatment?
+Answer Choices:
+(A) Fluid restriction
+(B) Hypertonic saline
+(C) Demeclocycline
+(D) Loop diuretics
+(E) Oral sodium tablets
+Correct Answer: B
+Explanation:
+Severe symptomatic hyponatremia due to SIADH → 3% hypertonic saline.
+________________
+
+
+Question 43
+A 55-year-old man with acute leukemia develops fever, hypotension, and hypoxia shortly after starting chemotherapy. Labs show elevated uric acid, potassium, and phosphate, with low calcium.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Sepsis
+(B) Anaphylaxis
+(C) Tumor lysis syndrome
+(D) Disseminated intravascular coagulation
+(E) Acute adrenal crisis
+Correct Answer: C
+Explanation:
+Tumor lysis syndrome → hyperuricemia, hyperkalemia, hyperphosphatemia, hypocalcemia after chemotherapy.
+________________
+
+
+Question 44
+A patient with tumor lysis syndrome has worsening kidney function despite IV fluids.
+Which medication most directly treats the underlying cause?
+Answer Choices:
+(A) Allopurinol
+(B) Rasburicase
+(C) Furosemide
+(D) Sodium bicarbonate
+(E) Calcium gluconate
+Correct Answer: B
+Explanation:
+Rasburicase rapidly degrades uric acid and is preferred in established TLS.
+________________
+
+
+Question 45
+A 29-year-old woman presents with fatigue, joint pain, photosensitive rash, and oral ulcers. Labs show low complement levels and anti-dsDNA antibodies.
+Which organ involvement most strongly correlates with disease activity?
+Answer Choices:
+(A) CNS
+(B) Skin
+(C) Joints
+(D) Kidneys
+(E) Lungs
+Correct Answer: D
+Explanation:
+In SLE, renal involvement (lupus nephritis) correlates most closely with disease activity and prognosis.
+________________
+
+
+Question 46
+A 61-year-old man presents with weight loss, tremor, heat intolerance, and atrial fibrillation. Labs show suppressed TSH and elevated free T4.
+What is the most appropriate initial therapy?
+Answer Choices:
+(A) Radioactive iodine
+(B) Methimazole
+(C) Propranolol
+(D) Thyroidectomy
+(E) Lugol iodine
+Correct Answer: C
+Explanation:
+In thyrotoxicosis, beta-blockers are started immediately for symptom control and arrhythmia prevention.
+________________
+
+
+Question 47
+A 48-year-old woman with long-standing rheumatoid arthritis presents with splenomegaly and neutropenia.
+Which diagnosis best explains this triad?
+Answer Choices:
+(A) Adult-onset Still disease
+(B) Reactive arthritis
+(C) Felty syndrome
+(D) Amyloidosis
+(E) Large granular lymphocyte leukemia
+Correct Answer: C
+Explanation:
+Felty syndrome = RA + splenomegaly + neutropenia.
+________________
+
+
+Question 48
+A 56-year-old man presents with episodic headaches, diaphoresis, and palpitations. BP is 210/115 mm Hg.
+Which test should be ordered first?
+Answer Choices:
+(A) Plasma free metanephrines
+(B) CT abdomen with contrast
+(C) Urinary VMA only
+(D) Renal artery Doppler
+(E) Aldosterone-renin ratio
+Correct Answer: A
+Explanation:
+Suspected pheochromocytoma → screen with plasma free metanephrines.
+________________
+
+
+Question 49
+A hospitalized patient on high-dose opioids becomes somnolent with pinpoint pupils and hypoventilation.
+What is the most appropriate immediate intervention?
+Answer Choices:
+(A) Flumazenil
+(B) Naloxone
+(C) Intubation only
+(D) Activated charcoal
+(E) Observation
+Correct Answer: B
+Explanation:
+Opioid overdose → naloxone, an opioid antagonist, is life-saving.
+________________
+
+
+Question 50
+A patient with metastatic cancer and severe pain requests increasing doses of opioids despite known risk of respiratory depression.
+Which ethical principle justifies this treatment?
+Answer Choices:
+(A) Autonomy
+(B) Justice
+(C) Beneficence
+(D) Nonmaleficence
+(E) Doctrine of double effect
+Correct Answer: E
+Explanation:
+The doctrine of double effect allows treatment intended to relieve suffering even if it foreseeably hastens death.
+
+
+Question 51
+A 44-year-old woman presents with fever, hypotension, abdominal pain, and vomiting. She has a history of autoimmune thyroid disease. Labs show Na⁺ 122 mEq/L, K⁺ 5.9 mEq/L, glucose 58 mg/dL. Skin appears hyperpigmented.
+What is the most appropriate immediate treatment?
+Answer Choices:
+(A) IV insulin and glucose
+(B) IV hydrocortisone
+(C) IV levothyroxine
+(D) IV fludrocortisone only
+(E) Fluid restriction
+Correct Answer: B
+Explanation:
+This is acute adrenal crisis (Addisonian crisis) → treat immediately with IV hydrocortisone and fluids.
+________________
+
+
+Question 52
+A 61-year-old man with type 1 diabetes is found confused and hypothermic. Labs show glucose 38 mg/dL. He recently started propranolol.
+Which symptom of hypoglycemia was most likely masked?
+Answer Choices:
+(A) Sweating
+(B) Confusion
+(C) Seizures
+(D) Palpitations
+(E) Loss of consciousness
+Correct Answer: D
+Explanation:
+Beta blockers mask adrenergic symptoms of hypoglycemia (e.g., palpitations, tremor).
+________________
+
+
+Question 53
+A 72-year-old kidney transplant recipient presents with fever and rising creatinine. Biopsy shows interstitial lymphocytic infiltration and tubulitis.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Acute antibody-mediated rejection
+(B) Chronic rejection
+(C) Calcineurin inhibitor toxicity
+(D) Acute cellular rejection
+(E) Recurrent primary disease
+Correct Answer: D
+Explanation:
+Acute cellular rejection → T‑cell–mediated, lymphocytic infiltration, responds to steroids.
+________________
+
+
+Question 54
+A 55-year-old man presents with hemoptysis, sinusitis, renal failure, and purpuric rash. Labs show positive c‑ANCA.
+Which pathology is most likely seen on biopsy?
+Answer Choices:
+(A) Linear IgG deposition
+(B) Granulomatous inflammation
+(C) Amyloid deposition
+(D) Immune complex deposition
+(E) Eosinophilic infiltration
+Correct Answer: B
+Explanation:
+This is granulomatosis with polyangiitis (Wegener) → necrotizing granulomas, c‑ANCA positive.
+________________
+
+
+Question 55
+A patient treated for methanol poisoning develops severe metabolic acidosis and visual disturbances.
+Which therapy directly prevents toxic metabolite formation?
+Answer Choices:
+(A) Sodium bicarbonate
+(B) Activated charcoal
+(C) Ethanol or fomepizole
+(D) Hemodialysis
+(E) Thiamine
+Correct Answer: C
+Explanation:
+Fomepizole or ethanol inhibit alcohol dehydrogenase, preventing formic acid production.
+________________
+
+
+Question 56
+A 60-year-old woman presents with sudden severe headache, vomiting, ophthalmoplegia, and hypotension. She has known pituitary adenoma.
+What is the most likely diagnosis?
+Answer Choices:
+(A) Subarachnoid hemorrhage
+(B) Cavernous sinus thrombosis
+(C) Pituitary apoplexy
+(D) Acute ischemic stroke
+(E) Meningitis
+Correct Answer: C
+Explanation:
+Pituitary apoplexy → hemorrhage into pituitary tumor → acute headache, ophthalmoplegia, adrenal insufficiency.
+________________
+
+
+Question 57
+A 49-year-old man presents with progressive dyspnea and syncope. CT shows chronic thromboembolic pulmonary hypertension.
+What is the definitive treatment?
+Answer Choices:
+(A) Long-term anticoagulation only
+(B) Pulmonary endarterectomy
+(C) Lung transplantation only
+(D) Diuretics and oxygen
+(E) Sildenafil
+Correct Answer: B
+Explanation:
+Chronic thromboembolic pulmonary hypertension → treat with pulmonary endarterectomy if operable.
+________________
+
+
+Question 58
+A hospitalized patient develops high fever, muscle rigidity, autonomic instability, and elevated CK after haloperidol initiation.
+What is the most appropriate treatment?
+Answer Choices:
+(A) Cyproheptadine
+(B) Bromocriptine and dantrolene
+(C) Naloxone
+(D) Benztropine
+(E) Propranolol
+Correct Answer: B
+Explanation:
+This is neuroleptic malignant syndrome → treat with dantrolene and dopamine agonists.
+________________
+
+
+Question 59
+A 67-year-old man with ESRD refuses dialysis despite progressive uremia. He is alert and demonstrates full understanding of consequences.
+What is the most appropriate physician action?
+Answer Choices:
+(A) Override refusal due to life‑threatening risk
+(B) Seek court order
+(C) Honor refusal and provide palliative care
+(D) Transfer care immediately
+(E) Treat under implied consent
+Correct Answer: C
+Explanation:
+A patient with decision‑making capacity has the right to refuse life‑sustaining treatment.
+________________
+
+
+Question 60
+A critically ill patient develops lactic acidosis, hypoglycemia, and hepatic failure after acetaminophen overdose.
+Which laboratory abnormality best predicts prognosis?
+Answer Choices:
+(A) ALT level
+(B) AST level
+(C) Serum acetaminophen level
+(D) Arterial lactate level
+(E) INR
+Correct Answer: E
+Explanation:
+In acute liver failure, INR best reflects synthetic function and predicts prognosis.
