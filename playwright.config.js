@@ -11,7 +11,10 @@ const { defineConfig, devices } = require('@playwright/test');
  * @see https://playwright.dev/docs/test-configuration
  */
 module.exports = defineConfig({
-  testDir: './tests',
+  testDir: '.',
+  /* Include tests/ folder and root-level createCourse.negative.spec.js */
+  testMatch: ['tests/**/*.spec.js', 'createCourse.negative.spec.js', 'createTestFlow.spec.js', 'createTestFlow.negative.spec.js', 'homePageFlow.spec.js'],
+  testIgnore: ['**/node_modules/**', '**/test-results/**', '**/playwright-report/**', '**/.git/**', '**/test-panel/**'],
   /* Run tests in files in parallel */
   fullyParallel: true,
   /* Fail the build on CI if you accidentally left test.only in the source code. */

@@ -142,7 +142,7 @@ app.post('/api/run-attempt-course', async (req, res) => {
   });
 });
 
-// Run createCorsV3.spec.js (with screenshot streaming)
+// Run createCors.spec.js
 app.post('/api/run-create-course', async (req, res) => {
   req.setTimeout(660000);
   res.setTimeout(660000);
@@ -153,18 +153,23 @@ app.post('/api/run-create-course', async (req, res) => {
 
   latestScreenshot = null;
 
-  const runnerPath = path.join(__dirname, 'scripts', 'run-create-course-with-screenshots.js');
-  if (!fs.existsSync(runnerPath)) {
-    return res.status(500).json({ status: 'failed', message: `Runner not found: ${runnerPath}` });
+  const specPath = path.join(__dirname, 'tests', 'instructor', 'createCors.spec.js');
+  if (!fs.existsSync(specPath)) {
+    return res.status(500).json({ status: 'failed', message: `Test not found: ${specPath}` });
   }
 
+  const specArg = 'tests/instructor/createCors.spec.js';
+  const reportDir = path.join(__dirname, 'playwright-report', 'create-course');
+  if (!fs.existsSync(reportDir)) fs.mkdirSync(reportDir, { recursive: true });
+  // Use absolute path so HTML reporter writes to the right folder (cross-platform)
+  const reportDirAbs = path.resolve(reportDir);
   let playwright;
   try {
-    playwright = spawn('node', [runnerPath], {
+    playwright = spawn('npx', ['playwright', 'test', specArg, '--project=chromium', '--headed', '--reporter=html'], {
       cwd: __dirname,
       shell: true,
       stdio: ['ignore', 'pipe', 'pipe'],
-      env: { ...process.env, SCREENSHOT_API_URL: 'http://127.0.0.1:3001' }
+      env: { ...process.env, SCREENSHOT_API_URL: 'http://127.0.0.1:3001', PLAYWRIGHT_HTML_OPEN: 'never', PLAYWRIGHT_HTML_OUTPUT_DIR: reportDirAbs }
     });
   } catch (err) {
     return res.status(500).json({ status: 'failed', message: `Failed to start test: ${err.message}` });
@@ -212,7 +217,7 @@ app.post('/api/run-create-course', async (req, res) => {
   });
 });
 
-// Run createCourseNegativeTestCases.spec.js
+// Run createCourse.negative.spec.js (root-level file)
 app.post('/api/run-create-course-negative', async (req, res) => {
   req.setTimeout(300000);
   res.setTimeout(300000);
@@ -223,21 +228,22 @@ app.post('/api/run-create-course-negative', async (req, res) => {
 
   latestScreenshot = null;
 
-  const specPath = path.join(__dirname, 'tests', 'instructor', 'createCourseNegativeTestCases.spec.js');
+  const specPath = path.join(__dirname, 'createCourse.negative.spec.js');
   if (!fs.existsSync(specPath)) {
     return res.status(500).json({ status: 'failed', message: `Test not found: ${specPath}` });
   }
 
-  const specArg = 'tests/instructor/createCourseNegativeTestCases.spec.js';
+  const specArg = './createCourse.negative.spec.js';
   const reportDir = path.join(__dirname, 'playwright-report', 'create-course-negative');
-  if (!fs.existsSync(path.dirname(reportDir))) fs.mkdirSync(path.dirname(reportDir), { recursive: true });
+  if (!fs.existsSync(reportDir)) fs.mkdirSync(reportDir, { recursive: true });
+  const reportDirAbs = path.resolve(reportDir);
   let playwright;
   try {
     playwright = spawn('npx', ['playwright', 'test', specArg, '--project=chromium', '--headed', '--reporter=html'], {
       cwd: __dirname,
       shell: true,
       stdio: ['ignore', 'pipe', 'pipe'],
-      env: { ...process.env, SCREENSHOT_API_URL: 'http://127.0.0.1:3001', PLAYWRIGHT_HTML_OUTPUT_DIR: reportDir, PLAYWRIGHT_HTML_OPEN: 'never' }
+      env: { ...process.env, SCREENSHOT_API_URL: 'http://127.0.0.1:3001', PLAYWRIGHT_HTML_OPEN: 'never', PLAYWRIGHT_HTML_OUTPUT_DIR: reportDirAbs }
     });
   } catch (err) {
     return res.status(500).json({ status: 'failed', message: `Failed to start test: ${err.message}` });
@@ -271,7 +277,7 @@ app.post('/api/run-create-course-negative', async (req, res) => {
     if (buffer.trim()) sendLine(buffer);
     if (!res.writableEnded) {
       const success = code === 0;
-      res.write(JSON.stringify({ type: 'complete', status: success ? 'passed' : 'failed', message: success ? 'Create Course Negative test completed successfully!' : 'Test failed. Check server logs for details.', exitCode: code }) + '\n');
+      res.write(JSON.stringify({ type: 'complete', status: success ? 'passed' : 'failed', message: success ? 'Create Course Negative test completed successfully!' : 'Test failed. Check report or server logs for details.', exitCode: code }) + '\n');
       res.end();
     }
   });
@@ -279,13 +285,13 @@ app.post('/api/run-create-course-negative', async (req, res) => {
   playwright.on('error', (err) => {
     currentTestProcess = null;
     if (!res.writableEnded) {
-      res.write(JSON.stringify({ type: 'complete', status: 'failed', message: err.message, exitCode: 1 }) + '\n');
+      res.write(JSON.stringify({ type: 'complete', status: 'failed', message: err.message || 'Test process error', exitCode: 1 }) + '\n');
       res.end();
     }
   });
 });
 
-// Run createTest.spec.js
+// Run createTestFlow.spec.js (root-level file)
 app.post('/api/run-create-test', async (req, res) => {
   req.setTimeout(300000);
   res.setTimeout(300000);
@@ -296,21 +302,22 @@ app.post('/api/run-create-test', async (req, res) => {
 
   latestScreenshot = null;
 
-  const specPath = path.join(__dirname, 'tests', 'instructor', 'createTest.spec.js');
+  const specPath = path.join(__dirname, 'createTestFlow.spec.js');
   if (!fs.existsSync(specPath)) {
     return res.status(500).json({ status: 'failed', message: `Test not found: ${specPath}` });
   }
 
-  const specArg = 'tests/instructor/createTest.spec.js';
+  const specArg = './createTestFlow.spec.js';
   const reportDir = path.join(__dirname, 'playwright-report', 'create-test');
-  if (!fs.existsSync(path.dirname(reportDir))) fs.mkdirSync(path.dirname(reportDir), { recursive: true });
+  if (!fs.existsSync(reportDir)) fs.mkdirSync(reportDir, { recursive: true });
+  const reportDirAbs = path.resolve(reportDir);
   let playwright;
   try {
     playwright = spawn('npx', ['playwright', 'test', specArg, '--project=chromium', '--headed', '--reporter=html'], {
       cwd: __dirname,
       shell: true,
       stdio: ['ignore', 'pipe', 'pipe'],
-      env: { ...process.env, SCREENSHOT_API_URL: 'http://127.0.0.1:3001', PLAYWRIGHT_HTML_OUTPUT_DIR: reportDir, PLAYWRIGHT_HTML_OPEN: 'never' }
+      env: { ...process.env, SCREENSHOT_API_URL: 'http://127.0.0.1:3001', PLAYWRIGHT_HTML_OPEN: 'never', PLAYWRIGHT_HTML_OUTPUT_DIR: reportDirAbs }
     });
   } catch (err) {
     return res.status(500).json({ status: 'failed', message: `Failed to start test: ${err.message}` });
@@ -344,7 +351,7 @@ app.post('/api/run-create-test', async (req, res) => {
     if (buffer.trim()) sendLine(buffer);
     if (!res.writableEnded) {
       const success = code === 0;
-      res.write(JSON.stringify({ type: 'complete', status: success ? 'passed' : 'failed', message: success ? 'Create Test completed successfully!' : 'Test failed. Check server logs for details.', exitCode: code }) + '\n');
+      res.write(JSON.stringify({ type: 'complete', status: success ? 'passed' : 'failed', message: success ? 'Create Test completed successfully!' : 'Test failed. Check report or server logs for details.', exitCode: code }) + '\n');
       res.end();
     }
   });
@@ -352,13 +359,13 @@ app.post('/api/run-create-test', async (req, res) => {
   playwright.on('error', (err) => {
     currentTestProcess = null;
     if (!res.writableEnded) {
-      res.write(JSON.stringify({ type: 'complete', status: 'failed', message: err.message, exitCode: 1 }) + '\n');
+      res.write(JSON.stringify({ type: 'complete', status: 'failed', message: err.message || 'Test process error', exitCode: 1 }) + '\n');
       res.end();
     }
   });
 });
 
-// Run createTestNegativeTestCases.spec.js
+// Run createTestFlow.negative.spec.js (root-level file)
 app.post('/api/run-create-test-negative', async (req, res) => {
   req.setTimeout(300000);
   res.setTimeout(300000);
@@ -369,21 +376,22 @@ app.post('/api/run-create-test-negative', async (req, res) => {
 
   latestScreenshot = null;
 
-  const specPath = path.join(__dirname, 'tests', 'instructor', 'createTestNegativeTestCases.spec.js');
+  const specPath = path.join(__dirname, 'createTestFlow.negative.spec.js');
   if (!fs.existsSync(specPath)) {
     return res.status(500).json({ status: 'failed', message: `Test not found: ${specPath}` });
   }
 
-  const specArg = 'tests/instructor/createTestNegativeTestCases.spec.js';
+  const specArg = './createTestFlow.negative.spec.js';
   const reportDir = path.join(__dirname, 'playwright-report', 'create-test-negative');
-  if (!fs.existsSync(path.dirname(reportDir))) fs.mkdirSync(path.dirname(reportDir), { recursive: true });
+  if (!fs.existsSync(reportDir)) fs.mkdirSync(reportDir, { recursive: true });
+  const reportDirAbs = path.resolve(reportDir);
   let playwright;
   try {
     playwright = spawn('npx', ['playwright', 'test', specArg, '--project=chromium', '--headed', '--reporter=html'], {
       cwd: __dirname,
       shell: true,
       stdio: ['ignore', 'pipe', 'pipe'],
-      env: { ...process.env, SCREENSHOT_API_URL: 'http://127.0.0.1:3001', PLAYWRIGHT_HTML_OUTPUT_DIR: reportDir, PLAYWRIGHT_HTML_OPEN: 'never' }
+      env: { ...process.env, SCREENSHOT_API_URL: 'http://127.0.0.1:3001', PLAYWRIGHT_HTML_OPEN: 'never', PLAYWRIGHT_HTML_OUTPUT_DIR: reportDirAbs }
     });
   } catch (err) {
     return res.status(500).json({ status: 'failed', message: `Failed to start test: ${err.message}` });
@@ -417,7 +425,7 @@ app.post('/api/run-create-test-negative', async (req, res) => {
     if (buffer.trim()) sendLine(buffer);
     if (!res.writableEnded) {
       const success = code === 0;
-      res.write(JSON.stringify({ type: 'complete', status: success ? 'passed' : 'failed', message: success ? 'Create Test Negative test completed successfully!' : 'Test failed. Check server logs for details.', exitCode: code }) + '\n');
+      res.write(JSON.stringify({ type: 'complete', status: success ? 'passed' : 'failed', message: success ? 'Create Test Negative test completed successfully!' : 'Test failed. Check report or server logs for details.', exitCode: code }) + '\n');
       res.end();
     }
   });
@@ -425,7 +433,81 @@ app.post('/api/run-create-test-negative', async (req, res) => {
   playwright.on('error', (err) => {
     currentTestProcess = null;
     if (!res.writableEnded) {
-      res.write(JSON.stringify({ type: 'complete', status: 'failed', message: err.message, exitCode: 1 }) + '\n');
+      res.write(JSON.stringify({ type: 'complete', status: 'failed', message: err.message || 'Test process error', exitCode: 1 }) + '\n');
+      res.end();
+    }
+  });
+});
+
+// Run homePageFlow.spec.js (root-level file)
+app.post('/api/run-home-page-flow', async (req, res) => {
+  req.setTimeout(300000);
+  res.setTimeout(300000);
+
+  if (currentTestProcess) {
+    return res.status(409).json({ status: 'failed', message: 'A test is already running.', output: '' });
+  }
+
+  latestScreenshot = null;
+
+  const specPath = path.join(__dirname, 'homePageFlow.spec.js');
+  if (!fs.existsSync(specPath)) {
+    return res.status(500).json({ status: 'failed', message: `Test not found: ${specPath}` });
+  }
+
+  const specArg = './homePageFlow.spec.js';
+  const reportDir = path.join(__dirname, 'playwright-report', 'home-page-flow');
+  if (!fs.existsSync(reportDir)) fs.mkdirSync(reportDir, { recursive: true });
+  const reportDirAbs = path.resolve(reportDir);
+  let playwright;
+  try {
+    playwright = spawn('npx', ['playwright', 'test', specArg, '--project=chromium', '--headed', '--reporter=html'], {
+      cwd: __dirname,
+      shell: true,
+      stdio: ['ignore', 'pipe', 'pipe'],
+      env: { ...process.env, SCREENSHOT_API_URL: 'http://127.0.0.1:3001', PLAYWRIGHT_HTML_OPEN: 'never', PLAYWRIGHT_HTML_OUTPUT_DIR: reportDirAbs }
+    });
+  } catch (err) {
+    return res.status(500).json({ status: 'failed', message: `Failed to start test: ${err.message}` });
+  }
+
+  currentTestProcess = playwright;
+
+  res.setHeader('Content-Type', 'application/x-ndjson');
+  res.setHeader('Cache-Control', 'no-cache');
+  res.setHeader('Connection', 'keep-alive');
+  if (res.flushHeaders) res.flushHeaders();
+
+  let buffer = '';
+  const stripAnsi = (s) => s.replace(/\x1b\[[0-9;]*m/g, '').replace(/\x1b\[[0-9;]*[a-zA-Z]/g, '');
+  const sendLine = (line) => {
+    const trimmed = stripAnsi(line.trim()).replace(/[\x00-\x1f\x7f]/g, '');
+    if (trimmed.length > 1) res.write(JSON.stringify({ type: 'output', line: trimmed }) + '\n');
+  };
+  const onData = (data) => {
+    buffer += data.toString();
+    const lines = buffer.split('\n');
+    buffer = lines.pop();
+    lines.forEach(sendLine);
+  };
+
+  playwright.stdout.on('data', (d) => { onData(d); console.log(d.toString()); });
+  playwright.stderr.on('data', (d) => { onData(d); console.error(d.toString()); });
+
+  playwright.on('close', (code) => {
+    currentTestProcess = null;
+    if (buffer.trim()) sendLine(buffer);
+    if (!res.writableEnded) {
+      const success = code === 0;
+      res.write(JSON.stringify({ type: 'complete', status: success ? 'passed' : 'failed', message: success ? 'Home Page Flow completed successfully!' : 'Test failed. Check report or server logs for details.', exitCode: code }) + '\n');
+      res.end();
+    }
+  });
+
+  playwright.on('error', (err) => {
+    currentTestProcess = null;
+    if (!res.writableEnded) {
+      res.write(JSON.stringify({ type: 'complete', status: 'failed', message: err.message || 'Test process error', exitCode: 1 }) + '\n');
       res.end();
     }
   });
@@ -1233,6 +1315,39 @@ app.post('/api/run-social-signup', async (req, res) => {
 
 // Serve Playwright HTML reports
 const reportBase = path.join(__dirname, 'playwright-report');
+// create-course: serve report or placeholder if not generated yet
+const createCourseReportDir = path.join(reportBase, 'create-course');
+app.get('/reports/create-course', (req, res, next) => {
+  const indexPath = path.join(createCourseReportDir, 'index.html');
+  if (fs.existsSync(indexPath)) {
+    res.sendFile(indexPath);
+  } else {
+    res.type('html').status(200).send(`
+      <!DOCTYPE html><html><head><meta charset="utf-8"><title>Create Course Report</title></head>
+      <body style="font-family:sans-serif;padding:2rem;max-width:600px;">
+        <h1>Create Course report</h1>
+        <p>No report yet. Run the <strong>Create Course</strong> test from the test panel, then refresh this page.</p>
+        <p><a href="/">Back to test panel</a></p>
+      </body></html>
+    `);
+  }
+});
+app.get('/reports/create-course/', (req, res, next) => {
+  const indexPath = path.join(createCourseReportDir, 'index.html');
+  if (fs.existsSync(indexPath)) {
+    res.sendFile(indexPath);
+  } else {
+    res.type('html').status(200).send(`
+      <!DOCTYPE html><html><head><meta charset="utf-8"><title>Create Course Report</title></head>
+      <body style="font-family:sans-serif;padding:2rem;max-width:600px;">
+        <h1>Create Course report</h1>
+        <p>No report yet. Run the <strong>Create Course</strong> test from the test panel, then refresh this page.</p>
+        <p><a href="/">Back to test panel</a></p>
+      </body></html>
+    `);
+  }
+});
+app.use('/reports/create-course', express.static(createCourseReportDir));
 app.use('/reports/auth-login', express.static(path.join(reportBase, 'auth-login')));
 app.use('/reports/auth-login-negative', express.static(path.join(reportBase, 'auth-login-negative')));
 app.use('/reports/auth-signup', express.static(path.join(reportBase, 'auth-signup')));
@@ -1240,9 +1355,142 @@ app.use('/reports/auth-signup-negative', express.static(path.join(reportBase, 'a
 app.use('/reports/auth-ask-ai', express.static(path.join(reportBase, 'auth-ask-ai')));
 app.use('/reports/auth-ask-ai-prompt-cases', express.static(path.join(reportBase, 'auth-ask-ai-prompt-cases')));
 app.use('/reports/elasticsearch', express.static(path.join(reportBase, 'elasticsearch')));
+<<<<<<< HEAD
 app.use('/reports/create-course-negative', express.static(path.join(reportBase, 'create-course-negative')));
 app.use('/reports/create-test', express.static(path.join(reportBase, 'create-test')));
 app.use('/reports/create-test-negative', express.static(path.join(reportBase, 'create-test-negative')));
+app.use('/reports/add-to-favorite', express.static(path.join(reportBase, 'add-to-favorite')));
+app.use('/reports/share-course', express.static(path.join(reportBase, 'share-course')));
+app.use('/reports/mycoursenavbar', express.static(path.join(reportBase, 'mycoursenavbar')));
+=======
+const createCourseNegativeReportDir = path.join(reportBase, 'create-course-negative');
+app.get('/reports/create-course-negative', (req, res) => {
+  const indexPath = path.join(createCourseNegativeReportDir, 'index.html');
+  if (fs.existsSync(indexPath)) {
+    res.sendFile(indexPath);
+  } else {
+    res.type('html').status(200).send(`
+      <!DOCTYPE html><html><head><meta charset="utf-8"><title>Create Course Negative Report</title></head>
+      <body style="font-family:sans-serif;padding:2rem;">
+        <h1>Create Course Negative report</h1>
+        <p>No report yet. Run <strong>Create Course Negative Test Cases</strong> from the test panel, then refresh.</p>
+        <p><a href="/">Back to test panel</a></p>
+      </body></html>
+    `);
+  }
+});
+app.get('/reports/create-course-negative/', (req, res) => {
+  const indexPath = path.join(createCourseNegativeReportDir, 'index.html');
+  if (fs.existsSync(indexPath)) {
+    res.sendFile(indexPath);
+  } else {
+    res.type('html').status(200).send(`
+      <!DOCTYPE html><html><head><meta charset="utf-8"><title>Create Course Negative Report</title></head>
+      <body style="font-family:sans-serif;padding:2rem;">
+        <h1>Create Course Negative report</h1>
+        <p>No report yet. Run <strong>Create Course Negative Test Cases</strong> from the test panel, then refresh.</p>
+        <p><a href="/">Back to test panel</a></p>
+      </body></html>
+    `);
+  }
+});
+app.use('/reports/create-course-negative', express.static(createCourseNegativeReportDir));
+const createTestReportDir = path.join(reportBase, 'create-test');
+app.get('/reports/create-test', (req, res) => {
+  const indexPath = path.join(createTestReportDir, 'index.html');
+  if (fs.existsSync(indexPath)) {
+    res.sendFile(indexPath);
+  } else {
+    res.type('html').status(200).send(`
+      <!DOCTYPE html><html><head><meta charset="utf-8"><title>Create Test Report</title></head>
+      <body style="font-family:sans-serif;padding:2rem;">
+        <h1>Create Test report</h1>
+        <p>No report yet. Run <strong>Create Test</strong> from the test panel, then refresh.</p>
+        <p><a href="/">Back to test panel</a></p>
+      </body></html>
+    `);
+  }
+});
+app.get('/reports/create-test/', (req, res) => {
+  const indexPath = path.join(createTestReportDir, 'index.html');
+  if (fs.existsSync(indexPath)) {
+    res.sendFile(indexPath);
+  } else {
+    res.type('html').status(200).send(`
+      <!DOCTYPE html><html><head><meta charset="utf-8"><title>Create Test Report</title></head>
+      <body style="font-family:sans-serif;padding:2rem;">
+        <h1>Create Test report</h1>
+        <p>No report yet. Run <strong>Create Test</strong> from the test panel, then refresh.</p>
+        <p><a href="/">Back to test panel</a></p>
+      </body></html>
+    `);
+  }
+});
+app.use('/reports/create-test', express.static(createTestReportDir));
+const createTestNegativeReportDir = path.join(reportBase, 'create-test-negative');
+app.get('/reports/create-test-negative', (req, res) => {
+  const indexPath = path.join(createTestNegativeReportDir, 'index.html');
+  if (fs.existsSync(indexPath)) {
+    res.sendFile(indexPath);
+  } else {
+    res.type('html').status(200).send(`
+      <!DOCTYPE html><html><head><meta charset="utf-8"><title>Create Test Negative Report</title></head>
+      <body style="font-family:sans-serif;padding:2rem;">
+        <h1>Create Test Negative report</h1>
+        <p>No report yet. Run <strong>Create Test Negative Test Cases</strong> from the test panel, then refresh.</p>
+        <p><a href="/">Back to test panel</a></p>
+      </body></html>
+    `);
+  }
+});
+app.get('/reports/create-test-negative/', (req, res) => {
+  const indexPath = path.join(createTestNegativeReportDir, 'index.html');
+  if (fs.existsSync(indexPath)) {
+    res.sendFile(indexPath);
+  } else {
+    res.type('html').status(200).send(`
+      <!DOCTYPE html><html><head><meta charset="utf-8"><title>Create Test Negative Report</title></head>
+      <body style="font-family:sans-serif;padding:2rem;">
+        <h1>Create Test Negative report</h1>
+        <p>No report yet. Run <strong>Create Test Negative Test Cases</strong> from the test panel, then refresh.</p>
+        <p><a href="/">Back to test panel</a></p>
+      </body></html>
+    `);
+  }
+});
+app.use('/reports/create-test-negative', express.static(createTestNegativeReportDir));
+const homePageFlowReportDir = path.join(reportBase, 'home-page-flow');
+app.get('/reports/home-page-flow', (req, res) => {
+  const indexPath = path.join(homePageFlowReportDir, 'index.html');
+  if (fs.existsSync(indexPath)) {
+    res.sendFile(indexPath);
+  } else {
+    res.type('html').status(200).send(`
+      <!DOCTYPE html><html><head><meta charset="utf-8"><title>Home Page Flow Report</title></head>
+      <body style="font-family:sans-serif;padding:2rem;">
+        <h1>Home Page Flow report</h1>
+        <p>No report yet. Run <strong>HomePageFlow</strong> from the test panel, then refresh.</p>
+        <p><a href="/">Back to test panel</a></p>
+      </body></html>
+    `);
+  }
+});
+app.get('/reports/home-page-flow/', (req, res) => {
+  const indexPath = path.join(homePageFlowReportDir, 'index.html');
+  if (fs.existsSync(indexPath)) {
+    res.sendFile(indexPath);
+  } else {
+    res.type('html').status(200).send(`
+      <!DOCTYPE html><html><head><meta charset="utf-8"><title>Home Page Flow Report</title></head>
+      <body style="font-family:sans-serif;padding:2rem;">
+        <h1>Home Page Flow report</h1>
+        <p>No report yet. Run <strong>HomePageFlow</strong> from the test panel, then refresh.</p>
+        <p><a href="/">Back to test panel</a></p>
+      </body></html>
+    `);
+  }
+});
+app.use('/reports/home-page-flow', express.static(homePageFlowReportDir));
 app.use('/reports/add-to-favorite', express.static(path.join(reportBase, 'add-to-favorite')));
 app.use('/reports/share-course', express.static(path.join(reportBase, 'share-course')));
 app.use('/reports/mycoursenavbar', express.static(path.join(reportBase, 'mycoursenavbar')));

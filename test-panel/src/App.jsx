@@ -104,7 +104,8 @@ function App() {
   const [askAIResult, setAskAIResult] = useState(initialResult())
   const [askAIPromptCasesResult, setAskAIPromptCasesResult] = useState(initialResult())
   const [elasticSearchResult, setElasticSearchResult] = useState(initialResult())
-  const [activeTest, setActiveTest] = useState(null) // 'attempt' | 'create' | 'socialSignup' | 'login' | 'loginNegative' | 'signup' | 'signupNegative' | 'askAI' | 'askAIPromptCases' | 'elasticSearch'
+  const [homePageFlowResult, setHomePageFlowResult] = useState(initialResult())
+  const [activeTest, setActiveTest] = useState(null) // 'attempt' | 'create' | ... | 'homePageFlow'
   const [browserScreenshot, setBrowserScreenshot] = useState(null)
   const abortControllerRef = useRef(null)
   const attemptStepsRef = useRef(null)
@@ -123,6 +124,7 @@ function App() {
   const askAIStepsRef = useRef(null)
   const askAIPromptCasesStepsRef = useRef(null)
   const elasticSearchStepsRef = useRef(null)
+  const homePageFlowStepsRef = useRef(null)
   const screenshotEventSourceRef = useRef(null)
   const loginReportRef = useRef(null)
   const loginNegativeReportRef = useRef(null)
@@ -140,6 +142,7 @@ function App() {
   const addToFavoriteReportRef = useRef(null)
   const shareCourseReportRef = useRef(null)
   const mycoursenavbarReportRef = useRef(null)
+  const homePageFlowReportRef = useRef(null)
   const prevActiveTestRef = useRef(null)
 
   const isRunning = activeTest !== null
@@ -154,6 +157,7 @@ function App() {
   const showAskAIBrowserSection = activeTest === 'askAI'
   const showAskAIPromptCasesBrowserSection = activeTest === 'askAIPromptCases'
   const showElasticSearchBrowserSection = activeTest === 'elasticSearch'
+  const showHomePageFlowBrowserSection = activeTest === 'homePageFlow'
 
   const getSetResult = (testName) => {
     if (testName === 'attempt') return setAttemptResult
@@ -171,28 +175,30 @@ function App() {
     if (testName === 'addToFavorite') return setAddToFavoriteResult
     if (testName === 'shareCourse') return setShareCourseResult
     if (testName === 'mycoursenavbar') return setMycoursenavbarResult
+    if (testName === 'homePageFlow') return setHomePageFlowResult
     return setCreateResult
   }
 
+  // Do not scroll to log while a test is running (keep browser view in view)
   useEffect(() => {
-    attemptStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
-  }, [attemptResult.steps])
+    if (activeTest === null) attemptStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [attemptResult.steps, activeTest])
 
   useEffect(() => {
-    createStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
-  }, [createResult.steps])
+    if (activeTest === null) createStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [createResult.steps, activeTest])
 
   useEffect(() => {
-    createCourseNegativeStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
-  }, [createCourseNegativeResult.steps])
+    if (activeTest === null) createCourseNegativeStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [createCourseNegativeResult.steps, activeTest])
 
   useEffect(() => {
-    createTestStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
-  }, [createTestResult.steps])
+    if (activeTest === null) createTestStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [createTestResult.steps, activeTest])
 
   useEffect(() => {
-    createTestNegativeStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
-  }, [createTestNegativeResult.steps])
+    if (activeTest === null) createTestNegativeStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [createTestNegativeResult.steps, activeTest])
 
   useEffect(() => {
     addToFavoriteStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
@@ -207,36 +213,40 @@ function App() {
   }, [mycoursenavbarResult.steps])
 
   useEffect(() => {
-    socialSignupStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
-  }, [socialSignupResult.steps])
+    if (activeTest === null) homePageFlowStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [homePageFlowResult.steps, activeTest])
 
   useEffect(() => {
-    loginStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
-  }, [loginResult.steps])
+    if (activeTest === null) socialSignupStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [socialSignupResult.steps, activeTest])
 
   useEffect(() => {
-    loginNegativeStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
-  }, [loginNegativeResult.steps])
+    if (activeTest === null) loginStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [loginResult.steps, activeTest])
 
   useEffect(() => {
-    signupStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
-  }, [signupResult.steps])
+    if (activeTest === null) loginNegativeStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [loginNegativeResult.steps, activeTest])
 
   useEffect(() => {
-    signupNegativeStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
-  }, [signupNegativeResult.steps])
+    if (activeTest === null) signupStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [signupResult.steps, activeTest])
 
   useEffect(() => {
-    askAIStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
-  }, [askAIResult.steps])
+    if (activeTest === null) signupNegativeStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [signupNegativeResult.steps, activeTest])
 
   useEffect(() => {
-    askAIPromptCasesStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
-  }, [askAIPromptCasesResult.steps])
+    if (activeTest === null) askAIStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [askAIResult.steps, activeTest])
 
   useEffect(() => {
-    elasticSearchStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
-  }, [elasticSearchResult.steps])
+    if (activeTest === null) askAIPromptCasesStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [askAIPromptCasesResult.steps, activeTest])
+
+  useEffect(() => {
+    if (activeTest === null) elasticSearchStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [elasticSearchResult.steps, activeTest])
 
   const reportRefsMap = {
     login: loginReportRef,
@@ -254,7 +264,8 @@ function App() {
     createTestNegative: createTestNegativeReportRef,
     addToFavorite: addToFavoriteReportRef,
     shareCourse: shareCourseReportRef,
-    mycoursenavbar: mycoursenavbarReportRef
+    mycoursenavbar: mycoursenavbarReportRef,
+    homePageFlow: homePageFlowReportRef
   }
   useEffect(() => {
     if (prevActiveTestRef.current !== null && activeTest === null) {
@@ -268,7 +279,7 @@ function App() {
     const setResult = getSetResult(testName)
     setActiveTest(testName)
     setResult({ status: 'running', message: 'Test running...', steps: [] })
-    if (testName === 'attempt' || testName === 'create' || testName === 'createCourseNegative' || testName === 'createTest' || testName === 'createTestNegative' || testName === 'addToFavorite' || testName === 'shareCourse' || testName === 'mycoursenavbar' || testName === 'socialSignup' || testName === 'login' || testName === 'loginNegative' || testName === 'signup' || testName === 'signupNegative' || testName === 'askAI' || testName === 'askAIPromptCases' || testName === 'elasticSearch') {
+    if (testName === 'attempt' || testName === 'create' || testName === 'createCourseNegative' || testName === 'createTest' || testName === 'createTestNegative' || testName === 'addToFavorite' || testName === 'shareCourse' || testName === 'mycoursenavbar' || testName === 'socialSignup' || testName === 'login' || testName === 'loginNegative' || testName === 'signup' || testName === 'signupNegative' || testName === 'askAI' || testName === 'askAIPromptCases' || testName === 'elasticSearch' || testName === 'homePageFlow') {
       setBrowserScreenshot(null)
       try {
         screenshotEventSourceRef.current?.close()
@@ -300,7 +311,10 @@ function App() {
         const text = await response.text()
         let data = {}
         try { data = text ? JSON.parse(text) : {}; } catch {}
-        const msg = data.message || (response.status === 502 ? 'Backend server not running. Start it with: npm run server' : `Request failed (${response.status})`)
+        const msg = data.message ||
+          (response.status === 502 || response.status === 500
+            ? 'Backend error. Start the server: npm run server (in automation-engine folder)'
+            : `Request failed (${response.status})`)
         throw new Error(msg)
       }
 
@@ -353,7 +367,11 @@ function App() {
       if (err.name === 'AbortError') {
         setResult(prev => ({ ...prev, status: 'stopped', message: 'Test stopped by user.' }))
       } else {
-        setResult(prev => ({ ...prev, status: 'failed', message: err.message }))
+        const isNetworkError = err.message?.includes('fetch') || err.message?.includes('NetworkError') || err.message?.includes('Failed to fetch')
+        const message = isNetworkError
+          ? 'Backend not reachable. Start the server: npm run server (in automation-engine folder)'
+          : err.message
+        setResult(prev => ({ ...prev, status: 'failed', message }))
       }
     }
   }
@@ -437,6 +455,11 @@ function App() {
     e?.preventDefault?.()
     e?.stopPropagation?.()
     runTest('/api/run-elasticsearch', 'elasticSearch')
+  }
+  const runHomePageFlow = (e) => {
+    e?.preventDefault?.()
+    e?.stopPropagation?.()
+    runTest('/api/run-home-page-flow', 'homePageFlow')
   }
 
   const stopTest = async () => {
@@ -588,6 +611,55 @@ function App() {
           <TestReportSection ref={signupReportRef} result={signupResult} reportUrl={(signupResult.status === 'passed' || signupResult.status === 'failed' || signupResult.status === 'stopped') ? '/reports/auth-signup/' : null} stepsEndRef={signupStepsRef} testCaseName="Signup Test" />
           <TestReportSection ref={signupNegativeReportRef} result={signupNegativeResult} reportUrl={(signupNegativeResult.status === 'passed' || signupNegativeResult.status === 'failed' || signupNegativeResult.status === 'stopped') ? '/reports/auth-signup-negative/' : null} stepsEndRef={signupNegativeStepsRef} testCaseName="Signup Negative Test Cases" />
           <TestReportSection ref={socialSignupReportRef} result={socialSignupResult} stepsEndRef={socialSignupStepsRef} testCaseName="Social Signup" />
+        </section>
+
+        <section className="card card-with-log">
+          <h2>Home page test</h2>
+          <p>Run Home Page Flow: login → dashboard → check each button and link.</p>
+          <div className="button-group">
+            <button
+              type="button"
+              className="attempt-btn"
+              onClick={runHomePageFlow}
+              disabled={isRunning}
+            >
+              {isRunning && activeTest === 'homePageFlow' ? (
+                <>
+                  <span className="spinner" />
+                  Running...
+                </>
+              ) : (
+                'HomePageFlow'
+              )}
+            </button>
+            {isRunning && activeTest === 'homePageFlow' && (
+              <button className="stop-btn" onClick={stopTest}>
+                Stop Test
+              </button>
+            )}
+          </div>
+          {showHomePageFlowBrowserSection && (
+            <section className="browser-section">
+              <h3>Browser View</h3>
+              <p className="browser-hint">Automation live run hota hua yahan dikhega</p>
+              <div className="browser-frame">
+                {browserScreenshot ? (
+                  <img
+                    src={`data:image/jpeg;base64,${browserScreenshot}`}
+                    alt="Live test view"
+                    className="browser-screenshot"
+                  />
+                ) : (
+                  <div className="browser-placeholder">
+                    <span className="browser-placeholder-spinner" />
+                    <p>Waiting for browser...</p>
+                  </div>
+                )}
+              </div>
+            </section>
+          )}
+          <LogPanel result={homePageFlowResult} stepsEndRef={homePageFlowStepsRef} />
+          <TestReportSection ref={homePageFlowReportRef} result={homePageFlowResult} reportUrl={(homePageFlowResult.status === 'passed' || homePageFlowResult.status === 'failed' || homePageFlowResult.status === 'stopped') ? '/reports/home-page-flow/' : null} stepsEndRef={homePageFlowStepsRef} testCaseName="Home Page Flow" />
         </section>
 
         <section className="copilot-test-section card card-with-log">
@@ -911,7 +983,7 @@ function App() {
           <LogPanel result={addToFavoriteResult} stepsEndRef={addToFavoriteStepsRef} />
           <LogPanel result={shareCourseResult} stepsEndRef={shareCourseStepsRef} />
           <LogPanel result={mycoursenavbarResult} stepsEndRef={mycoursenavbarStepsRef} />
-          <TestReportSection ref={createReportRef} result={createResult} stepsEndRef={createStepsRef} testCaseName="Create Course" />
+          <TestReportSection ref={createReportRef} result={createResult} reportUrl={(createResult.status === 'passed' || createResult.status === 'failed' || createResult.status === 'stopped') ? '/reports/create-course/' : null} stepsEndRef={createStepsRef} testCaseName="Create Course" />
           <TestReportSection ref={createCourseNegativeReportRef} result={createCourseNegativeResult} reportUrl={(createCourseNegativeResult.status === 'passed' || createCourseNegativeResult.status === 'failed' || createCourseNegativeResult.status === 'stopped') ? '/reports/create-course-negative/' : null} stepsEndRef={createCourseNegativeStepsRef} testCaseName="Create Course Negative" />
           <TestReportSection ref={createTestReportRef} result={createTestResult} reportUrl={(createTestResult.status === 'passed' || createTestResult.status === 'failed' || createTestResult.status === 'stopped') ? '/reports/create-test/' : null} stepsEndRef={createTestStepsRef} testCaseName="Create Test" />
           <TestReportSection ref={createTestNegativeReportRef} result={createTestNegativeResult} reportUrl={(createTestNegativeResult.status === 'passed' || createTestNegativeResult.status === 'failed' || createTestNegativeResult.status === 'stopped') ? '/reports/create-test-negative/' : null} stepsEndRef={createTestNegativeStepsRef} testCaseName="Create Test Negative" />
