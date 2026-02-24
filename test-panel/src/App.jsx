@@ -93,6 +93,9 @@ function App() {
   const [createCourseNegativeResult, setCreateCourseNegativeResult] = useState(initialResult())
   const [createTestResult, setCreateTestResult] = useState(initialResult())
   const [createTestNegativeResult, setCreateTestNegativeResult] = useState(initialResult())
+  const [addToFavoriteResult, setAddToFavoriteResult] = useState(initialResult())
+  const [shareCourseResult, setShareCourseResult] = useState(initialResult())
+  const [mycoursenavbarResult, setMycoursenavbarResult] = useState(initialResult())
   const [socialSignupResult, setSocialSignupResult] = useState(initialResult())
   const [loginResult, setLoginResult] = useState(initialResult())
   const [loginNegativeResult, setLoginNegativeResult] = useState(initialResult())
@@ -109,6 +112,9 @@ function App() {
   const createCourseNegativeStepsRef = useRef(null)
   const createTestStepsRef = useRef(null)
   const createTestNegativeStepsRef = useRef(null)
+  const addToFavoriteStepsRef = useRef(null)
+  const shareCourseStepsRef = useRef(null)
+  const mycoursenavbarStepsRef = useRef(null)
   const socialSignupStepsRef = useRef(null)
   const loginStepsRef = useRef(null)
   const loginNegativeStepsRef = useRef(null)
@@ -131,13 +137,16 @@ function App() {
   const createCourseNegativeReportRef = useRef(null)
   const createTestReportRef = useRef(null)
   const createTestNegativeReportRef = useRef(null)
+  const addToFavoriteReportRef = useRef(null)
+  const shareCourseReportRef = useRef(null)
+  const mycoursenavbarReportRef = useRef(null)
   const prevActiveTestRef = useRef(null)
 
   const isRunning = activeTest !== null
   // Browser View sirf usi section me dikhe jab uska test run ho raha ho
   const showAttemptBrowserSection = activeTest === 'attempt'
   const showSocialSignupBrowserSection = activeTest === 'socialSignup'
-  const showCreateBrowserSection = activeTest === 'create' || activeTest === 'createCourseNegative' || activeTest === 'createTest' || activeTest === 'createTestNegative'
+  const showCreateBrowserSection = activeTest === 'create' || activeTest === 'createCourseNegative' || activeTest === 'createTest' || activeTest === 'createTestNegative' || activeTest === 'addToFavorite' || activeTest === 'shareCourse' || activeTest === 'mycoursenavbar'
   const showLoginBrowserSection = activeTest === 'login'
   const showLoginNegativeBrowserSection = activeTest === 'loginNegative'
   const showSignupBrowserSection = activeTest === 'signup'
@@ -159,6 +168,9 @@ function App() {
     if (testName === 'createCourseNegative') return setCreateCourseNegativeResult
     if (testName === 'createTest') return setCreateTestResult
     if (testName === 'createTestNegative') return setCreateTestNegativeResult
+    if (testName === 'addToFavorite') return setAddToFavoriteResult
+    if (testName === 'shareCourse') return setShareCourseResult
+    if (testName === 'mycoursenavbar') return setMycoursenavbarResult
     return setCreateResult
   }
 
@@ -181,6 +193,18 @@ function App() {
   useEffect(() => {
     createTestNegativeStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
   }, [createTestNegativeResult.steps])
+
+  useEffect(() => {
+    addToFavoriteStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [addToFavoriteResult.steps])
+
+  useEffect(() => {
+    shareCourseStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [shareCourseResult.steps])
+
+  useEffect(() => {
+    mycoursenavbarStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [mycoursenavbarResult.steps])
 
   useEffect(() => {
     socialSignupStepsRef.current?.scrollIntoView({ behavior: 'smooth' })
@@ -227,7 +251,10 @@ function App() {
     create: createReportRef,
     createCourseNegative: createCourseNegativeReportRef,
     createTest: createTestReportRef,
-    createTestNegative: createTestNegativeReportRef
+    createTestNegative: createTestNegativeReportRef,
+    addToFavorite: addToFavoriteReportRef,
+    shareCourse: shareCourseReportRef,
+    mycoursenavbar: mycoursenavbarReportRef
   }
   useEffect(() => {
     if (prevActiveTestRef.current !== null && activeTest === null) {
@@ -241,7 +268,7 @@ function App() {
     const setResult = getSetResult(testName)
     setActiveTest(testName)
     setResult({ status: 'running', message: 'Test running...', steps: [] })
-    if (testName === 'attempt' || testName === 'create' || testName === 'createCourseNegative' || testName === 'createTest' || testName === 'createTestNegative' || testName === 'socialSignup' || testName === 'login' || testName === 'loginNegative' || testName === 'signup' || testName === 'signupNegative' || testName === 'askAI' || testName === 'askAIPromptCases' || testName === 'elasticSearch') {
+    if (testName === 'attempt' || testName === 'create' || testName === 'createCourseNegative' || testName === 'createTest' || testName === 'createTestNegative' || testName === 'addToFavorite' || testName === 'shareCourse' || testName === 'mycoursenavbar' || testName === 'socialSignup' || testName === 'login' || testName === 'loginNegative' || testName === 'signup' || testName === 'signupNegative' || testName === 'askAI' || testName === 'askAIPromptCases' || testName === 'elasticSearch') {
       setBrowserScreenshot(null)
       try {
         screenshotEventSourceRef.current?.close()
@@ -355,6 +382,21 @@ function App() {
     e?.preventDefault?.()
     e?.stopPropagation?.()
     runTest('/api/run-create-test-negative', 'createTestNegative')
+  }
+  const runAddToFavoriteTest = (e) => {
+    e?.preventDefault?.()
+    e?.stopPropagation?.()
+    runTest('/api/run-add-to-favorite', 'addToFavorite')
+  }
+  const runShareCourseTest = (e) => {
+    e?.preventDefault?.()
+    e?.stopPropagation?.()
+    runTest('/api/run-share-course', 'shareCourse')
+  }
+  const runMycoursenavbarTest = (e) => {
+    e?.preventDefault?.()
+    e?.stopPropagation?.()
+    runTest('/api/run-mycoursenavbar', 'mycoursenavbar')
   }
   const runSocialSignup = (e) => {
     e?.preventDefault?.()
@@ -788,7 +830,52 @@ function App() {
                 'Create Test Negative Test Cases'
               )}
             </button>
-            {(isRunning && (activeTest === 'create' || activeTest === 'createCourseNegative' || activeTest === 'createTest' || activeTest === 'createTestNegative')) && (
+            <button
+              type="button"
+              className="attempt-btn"
+              onClick={runAddToFavoriteTest}
+              disabled={isRunning}
+            >
+              {isRunning && activeTest === 'addToFavorite' ? (
+                <>
+                  <span className="spinner" />
+                  Running...
+                </>
+              ) : (
+                'Add to Favorite'
+              )}
+            </button>
+            <button
+              type="button"
+              className="attempt-btn"
+              onClick={runShareCourseTest}
+              disabled={isRunning}
+            >
+              {isRunning && activeTest === 'shareCourse' ? (
+                <>
+                  <span className="spinner" />
+                  Running...
+                </>
+              ) : (
+                'Share Course'
+              )}
+            </button>
+            <button
+              type="button"
+              className="attempt-btn"
+              onClick={runMycoursenavbarTest}
+              disabled={isRunning}
+            >
+              {isRunning && activeTest === 'mycoursenavbar' ? (
+                <>
+                  <span className="spinner" />
+                  Running...
+                </>
+              ) : (
+                'Mycoursenavbar'
+              )}
+            </button>
+            {(isRunning && (activeTest === 'create' || activeTest === 'createCourseNegative' || activeTest === 'createTest' || activeTest === 'createTestNegative' || activeTest === 'addToFavorite' || activeTest === 'shareCourse' || activeTest === 'mycoursenavbar')) && (
               <button
                 className="stop-btn"
                 onClick={stopTest}
@@ -821,10 +908,16 @@ function App() {
           <LogPanel result={createCourseNegativeResult} stepsEndRef={createCourseNegativeStepsRef} />
           <LogPanel result={createTestResult} stepsEndRef={createTestStepsRef} />
           <LogPanel result={createTestNegativeResult} stepsEndRef={createTestNegativeStepsRef} />
+          <LogPanel result={addToFavoriteResult} stepsEndRef={addToFavoriteStepsRef} />
+          <LogPanel result={shareCourseResult} stepsEndRef={shareCourseStepsRef} />
+          <LogPanel result={mycoursenavbarResult} stepsEndRef={mycoursenavbarStepsRef} />
           <TestReportSection ref={createReportRef} result={createResult} stepsEndRef={createStepsRef} testCaseName="Create Course" />
           <TestReportSection ref={createCourseNegativeReportRef} result={createCourseNegativeResult} reportUrl={(createCourseNegativeResult.status === 'passed' || createCourseNegativeResult.status === 'failed' || createCourseNegativeResult.status === 'stopped') ? '/reports/create-course-negative/' : null} stepsEndRef={createCourseNegativeStepsRef} testCaseName="Create Course Negative" />
           <TestReportSection ref={createTestReportRef} result={createTestResult} reportUrl={(createTestResult.status === 'passed' || createTestResult.status === 'failed' || createTestResult.status === 'stopped') ? '/reports/create-test/' : null} stepsEndRef={createTestStepsRef} testCaseName="Create Test" />
           <TestReportSection ref={createTestNegativeReportRef} result={createTestNegativeResult} reportUrl={(createTestNegativeResult.status === 'passed' || createTestNegativeResult.status === 'failed' || createTestNegativeResult.status === 'stopped') ? '/reports/create-test-negative/' : null} stepsEndRef={createTestNegativeStepsRef} testCaseName="Create Test Negative" />
+          <TestReportSection ref={addToFavoriteReportRef} result={addToFavoriteResult} reportUrl={(addToFavoriteResult.status === 'passed' || addToFavoriteResult.status === 'failed' || addToFavoriteResult.status === 'stopped') ? '/reports/add-to-favorite/' : null} stepsEndRef={addToFavoriteStepsRef} testCaseName="Add to Favorite" />
+          <TestReportSection ref={shareCourseReportRef} result={shareCourseResult} reportUrl={(shareCourseResult.status === 'passed' || shareCourseResult.status === 'failed' || shareCourseResult.status === 'stopped') ? '/reports/share-course/' : null} stepsEndRef={shareCourseStepsRef} testCaseName="Share Course" />
+          <TestReportSection ref={mycoursenavbarReportRef} result={mycoursenavbarResult} reportUrl={(mycoursenavbarResult.status === 'passed' || mycoursenavbarResult.status === 'failed' || mycoursenavbarResult.status === 'stopped') ? '/reports/mycoursenavbar/' : null} stepsEndRef={mycoursenavbarStepsRef} testCaseName="Mycoursenavbar" />
         </section>
       </main>
     </div>

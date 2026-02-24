@@ -431,6 +431,225 @@ app.post('/api/run-create-test-negative', async (req, res) => {
   });
 });
 
+// Run addToFavoriteCourse.spec.js
+app.post('/api/run-add-to-favorite', async (req, res) => {
+  req.setTimeout(120000);
+  res.setTimeout(120000);
+
+  if (currentTestProcess) {
+    return res.status(409).json({ status: 'failed', message: 'A test is already running.', output: '' });
+  }
+
+  latestScreenshot = null;
+
+  const specPath = path.join(__dirname, 'tests', 'student', 'addToFavoriteCourse.spec.js');
+  if (!fs.existsSync(specPath)) {
+    return res.status(500).json({ status: 'failed', message: `Test not found: ${specPath}` });
+  }
+
+  const specArg = 'tests/student/addToFavoriteCourse.spec.js';
+  const reportDir = path.join(__dirname, 'playwright-report', 'add-to-favorite');
+  if (!fs.existsSync(path.dirname(reportDir))) fs.mkdirSync(path.dirname(reportDir), { recursive: true });
+  let playwright;
+  try {
+    playwright = spawn('npx', ['playwright', 'test', specArg, '--project=chromium', '--headed', '--reporter=html'], {
+      cwd: __dirname,
+      shell: true,
+      stdio: ['ignore', 'pipe', 'pipe'],
+      env: { ...process.env, SCREENSHOT_API_URL: 'http://127.0.0.1:3001', PLAYWRIGHT_HTML_OUTPUT_DIR: reportDir, PLAYWRIGHT_HTML_OPEN: 'never' }
+    });
+  } catch (err) {
+    return res.status(500).json({ status: 'failed', message: `Failed to start test: ${err.message}` });
+  }
+
+  currentTestProcess = playwright;
+
+  res.setHeader('Content-Type', 'application/x-ndjson');
+  res.setHeader('Cache-Control', 'no-cache');
+  res.setHeader('Connection', 'keep-alive');
+  if (res.flushHeaders) res.flushHeaders();
+
+  let buffer = '';
+  const stripAnsi = (s) => s.replace(/\x1b\[[0-9;]*m/g, '').replace(/\x1b\[[0-9;]*[a-zA-Z]/g, '');
+  const sendLine = (line) => {
+    const trimmed = stripAnsi(line.trim()).replace(/[\x00-\x1f\x7f]/g, '');
+    if (trimmed.length > 1) res.write(JSON.stringify({ type: 'output', line: trimmed }) + '\n');
+  };
+  const onData = (data) => {
+    buffer += data.toString();
+    const lines = buffer.split('\n');
+    buffer = lines.pop();
+    lines.forEach(sendLine);
+  };
+
+  playwright.stdout.on('data', (d) => { onData(d); console.log(d.toString()); });
+  playwright.stderr.on('data', (d) => { onData(d); console.error(d.toString()); });
+
+  playwright.on('close', (code) => {
+    currentTestProcess = null;
+    if (buffer.trim()) sendLine(buffer);
+    if (!res.writableEnded) {
+      const success = code === 0;
+      res.write(JSON.stringify({ type: 'complete', status: success ? 'passed' : 'failed', message: success ? 'Add to Favorite test completed successfully!' : 'Test failed. Check server logs for details.', exitCode: code }) + '\n');
+      res.end();
+    }
+  });
+
+  playwright.on('error', (err) => {
+    currentTestProcess = null;
+    if (!res.writableEnded) {
+      res.write(JSON.stringify({ type: 'complete', status: 'failed', message: err.message, exitCode: 1 }) + '\n');
+      res.end();
+    }
+  });
+});
+
+// Run Mycoursenavbar.spec.js
+app.post('/api/run-mycoursenavbar', async (req, res) => {
+  req.setTimeout(120000);
+  res.setTimeout(120000);
+
+  if (currentTestProcess) {
+    return res.status(409).json({ status: 'failed', message: 'A test is already running.', output: '' });
+  }
+
+  latestScreenshot = null;
+
+  const specPath = path.join(__dirname, 'tests', 'student', 'Mycoursenavbar.spec.js');
+  if (!fs.existsSync(specPath)) {
+    return res.status(500).json({ status: 'failed', message: `Test not found: ${specPath}` });
+  }
+
+  const specArg = 'tests/student/Mycoursenavbar.spec.js';
+  const reportDir = path.join(__dirname, 'playwright-report', 'mycoursenavbar');
+  if (!fs.existsSync(path.dirname(reportDir))) fs.mkdirSync(path.dirname(reportDir), { recursive: true });
+  let playwright;
+  try {
+    playwright = spawn('npx', ['playwright', 'test', specArg, '--project=chromium', '--headed', '--reporter=html'], {
+      cwd: __dirname,
+      shell: true,
+      stdio: ['ignore', 'pipe', 'pipe'],
+      env: { ...process.env, SCREENSHOT_API_URL: 'http://127.0.0.1:3001', PLAYWRIGHT_HTML_OUTPUT_DIR: reportDir, PLAYWRIGHT_HTML_OPEN: 'never' }
+    });
+  } catch (err) {
+    return res.status(500).json({ status: 'failed', message: `Failed to start test: ${err.message}` });
+  }
+
+  currentTestProcess = playwright;
+
+  res.setHeader('Content-Type', 'application/x-ndjson');
+  res.setHeader('Cache-Control', 'no-cache');
+  res.setHeader('Connection', 'keep-alive');
+  if (res.flushHeaders) res.flushHeaders();
+
+  let buffer = '';
+  const stripAnsi = (s) => s.replace(/\x1b\[[0-9;]*m/g, '').replace(/\x1b\[[0-9;]*[a-zA-Z]/g, '');
+  const sendLine = (line) => {
+    const trimmed = stripAnsi(line.trim()).replace(/[\x00-\x1f\x7f]/g, '');
+    if (trimmed.length > 1) res.write(JSON.stringify({ type: 'output', line: trimmed }) + '\n');
+  };
+  const onData = (data) => {
+    buffer += data.toString();
+    const lines = buffer.split('\n');
+    buffer = lines.pop();
+    lines.forEach(sendLine);
+  };
+
+  playwright.stdout.on('data', (d) => { onData(d); console.log(d.toString()); });
+  playwright.stderr.on('data', (d) => { onData(d); console.error(d.toString()); });
+
+  playwright.on('close', (code) => {
+    currentTestProcess = null;
+    if (buffer.trim()) sendLine(buffer);
+    if (!res.writableEnded) {
+      const success = code === 0;
+      res.write(JSON.stringify({ type: 'complete', status: success ? 'passed' : 'failed', message: success ? 'Mycoursenavbar test completed successfully!' : 'Test failed. Check server logs for details.', exitCode: code }) + '\n');
+      res.end();
+    }
+  });
+
+  playwright.on('error', (err) => {
+    currentTestProcess = null;
+    if (!res.writableEnded) {
+      res.write(JSON.stringify({ type: 'complete', status: 'failed', message: err.message, exitCode: 1 }) + '\n');
+      res.end();
+    }
+  });
+});
+
+// Run shareButton.spec.js
+app.post('/api/run-share-course', async (req, res) => {
+  req.setTimeout(120000);
+  res.setTimeout(120000);
+
+  if (currentTestProcess) {
+    return res.status(409).json({ status: 'failed', message: 'A test is already running.', output: '' });
+  }
+
+  latestScreenshot = null;
+
+  const specPath = path.join(__dirname, 'tests', 'student', 'shareButton.spec.js');
+  if (!fs.existsSync(specPath)) {
+    return res.status(500).json({ status: 'failed', message: `Test not found: ${specPath}` });
+  }
+
+  const specArg = 'tests/student/shareButton.spec.js';
+  const reportDir = path.join(__dirname, 'playwright-report', 'share-course');
+  if (!fs.existsSync(path.dirname(reportDir))) fs.mkdirSync(path.dirname(reportDir), { recursive: true });
+  let playwright;
+  try {
+    playwright = spawn('npx', ['playwright', 'test', specArg, '--project=chromium', '--headed', '--reporter=html'], {
+      cwd: __dirname,
+      shell: true,
+      stdio: ['ignore', 'pipe', 'pipe'],
+      env: { ...process.env, SCREENSHOT_API_URL: 'http://127.0.0.1:3001', PLAYWRIGHT_HTML_OUTPUT_DIR: reportDir, PLAYWRIGHT_HTML_OPEN: 'never' }
+    });
+  } catch (err) {
+    return res.status(500).json({ status: 'failed', message: `Failed to start test: ${err.message}` });
+  }
+
+  currentTestProcess = playwright;
+
+  res.setHeader('Content-Type', 'application/x-ndjson');
+  res.setHeader('Cache-Control', 'no-cache');
+  res.setHeader('Connection', 'keep-alive');
+  if (res.flushHeaders) res.flushHeaders();
+
+  let buffer = '';
+  const stripAnsi = (s) => s.replace(/\x1b\[[0-9;]*m/g, '').replace(/\x1b\[[0-9;]*[a-zA-Z]/g, '');
+  const sendLine = (line) => {
+    const trimmed = stripAnsi(line.trim()).replace(/[\x00-\x1f\x7f]/g, '');
+    if (trimmed.length > 1) res.write(JSON.stringify({ type: 'output', line: trimmed }) + '\n');
+  };
+  const onData = (data) => {
+    buffer += data.toString();
+    const lines = buffer.split('\n');
+    buffer = lines.pop();
+    lines.forEach(sendLine);
+  };
+
+  playwright.stdout.on('data', (d) => { onData(d); console.log(d.toString()); });
+  playwright.stderr.on('data', (d) => { onData(d); console.error(d.toString()); });
+
+  playwright.on('close', (code) => {
+    currentTestProcess = null;
+    if (buffer.trim()) sendLine(buffer);
+    if (!res.writableEnded) {
+      const success = code === 0;
+      res.write(JSON.stringify({ type: 'complete', status: success ? 'passed' : 'failed', message: success ? 'Share Course test completed successfully!' : 'Test failed. Check server logs for details.', exitCode: code }) + '\n');
+      res.end();
+    }
+  });
+
+  playwright.on('error', (err) => {
+    currentTestProcess = null;
+    if (!res.writableEnded) {
+      res.write(JSON.stringify({ type: 'complete', status: 'failed', message: err.message, exitCode: 1 }) + '\n');
+      res.end();
+    }
+  });
+});
+
 // Run login.spec.js
 app.post('/api/run-login', async (req, res) => {
   req.setTimeout(120000);
@@ -1024,6 +1243,9 @@ app.use('/reports/elasticsearch', express.static(path.join(reportBase, 'elastics
 app.use('/reports/create-course-negative', express.static(path.join(reportBase, 'create-course-negative')));
 app.use('/reports/create-test', express.static(path.join(reportBase, 'create-test')));
 app.use('/reports/create-test-negative', express.static(path.join(reportBase, 'create-test-negative')));
+app.use('/reports/add-to-favorite', express.static(path.join(reportBase, 'add-to-favorite')));
+app.use('/reports/share-course', express.static(path.join(reportBase, 'share-course')));
+app.use('/reports/mycoursenavbar', express.static(path.join(reportBase, 'mycoursenavbar')));
 
 // Health check
 app.get('/api/health', (req, res) => {
