@@ -1,25 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap');
+
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  --jarvis-bg: #0a0e17;
+  --jarvis-surface: rgba(15, 23, 42, 0.7);
+  --jarvis-glass: rgba(30, 41, 59, 0.4);
+  --jarvis-accent: #06b6d4;
+  --jarvis-accent-dim: rgba(6, 182, 212, 0.3);
+  --jarvis-glow: 0 0 20px rgba(6, 182, 212, 0.15);
+  --jarvis-border: rgba(6, 182, 212, 0.2);
+  --jarvis-text: #e2e8f0;
+  --jarvis-muted: #94a3b8;
+  --jarvis-success: #22c55e;
+  --jarvis-error: #ef4444;
+  --jarvis-warn: #f59e0b;
+  font-family: 'Inter', system-ui, sans-serif;
   line-height: 1.5;
   font-weight: 400;
-
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
+  color-scheme: dark;
+  color: var(--jarvis-text);
+  background-color: var(--jarvis-bg);
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
-}
-a:hover {
-  color: #535bf2;
 }
 
 body {
@@ -28,41 +31,10 @@ body {
   min-height: 100vh;
   overflow-x: hidden;
   width: 100%;
+  background-color: var(--jarvis-bg);
 }
 
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
-}
-
-button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  background-color: #1a1a1a;
-  cursor: pointer;
-  transition: border-color 0.25s;
-}
-button:hover {
-  border-color: #646cff;
-}
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
-}
-
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+#root {
+  min-height: 100vh;
+  background-color: var(--jarvis-bg);
 }

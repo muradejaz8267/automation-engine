@@ -51,4 +51,9 @@ const test = base.extend({
   }
 });
 
+// Wait 5 seconds before closing browser after test completes
+test.afterEach(async () => {
+  await new Promise((r) => setTimeout(r, 5000));
+});
+
 module.exports = { test, expect };

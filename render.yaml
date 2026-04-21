@@ -1,0 +1,12 @@
+# Render Blueprint - FastLearner Automation
+# https://render.com/docs/blueprint-spec
+services:
+  - type: web
+    name: fastlearner-automation
+    runtime: node
+    buildCommand: npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production

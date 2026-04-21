@@ -3,11 +3,16 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <title>test-panel</title>
   </head>
-  <body>
-    <div id="root"></div>
+  <body style="margin:0;background:#0a0e17;color:#e2e8f0;font-family:system-ui;min-height:100vh">
+    <div id="root">
+      <div style="padding:2rem;text-align:center;min-height:100vh;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:0.5rem">
+        <div>Loading Test Panel...</div>
+        <div style="font-size:0.85rem;color:#94a3b8">If this stays visible, check the browser console (F12) for errors.</div>
+      </div>
+    </div>
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>

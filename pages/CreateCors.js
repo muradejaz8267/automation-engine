@@ -2827,8 +2827,9 @@ Do not just list answers; explain each answer concisely so learners understand t
     }
 
     // Step 2: Find and fill the question text input
-    const questionInput = this.page.getByPlaceholder('Let\'s ask a question').last();
-    await questionInput.waitFor({ state: 'visible', timeout: 10000 });
+    await this.page.waitForTimeout(800);
+    const questionInput = this.page.getByPlaceholder(/ask a question/i).last();
+    await questionInput.waitFor({ state: 'visible', timeout: 20000 });
     await questionInput.scrollIntoViewIfNeeded();
     await questionInput.fill(question.questionText);
     await this.page.waitForTimeout(500);
