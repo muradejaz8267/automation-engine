@@ -1355,14 +1355,12 @@ app.use('/reports/auth-signup-negative', express.static(path.join(reportBase, 'a
 app.use('/reports/auth-ask-ai', express.static(path.join(reportBase, 'auth-ask-ai')));
 app.use('/reports/auth-ask-ai-prompt-cases', express.static(path.join(reportBase, 'auth-ask-ai-prompt-cases')));
 app.use('/reports/elasticsearch', express.static(path.join(reportBase, 'elasticsearch')));
-<<<<<<< HEAD
 app.use('/reports/create-course-negative', express.static(path.join(reportBase, 'create-course-negative')));
 app.use('/reports/create-test', express.static(path.join(reportBase, 'create-test')));
 app.use('/reports/create-test-negative', express.static(path.join(reportBase, 'create-test-negative')));
 app.use('/reports/add-to-favorite', express.static(path.join(reportBase, 'add-to-favorite')));
 app.use('/reports/share-course', express.static(path.join(reportBase, 'share-course')));
 app.use('/reports/mycoursenavbar', express.static(path.join(reportBase, 'mycoursenavbar')));
-=======
 const createCourseNegativeReportDir = path.join(reportBase, 'create-course-negative');
 app.get('/reports/create-course-negative', (req, res) => {
   const indexPath = path.join(createCourseNegativeReportDir, 'index.html');
